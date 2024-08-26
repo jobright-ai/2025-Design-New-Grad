@@ -6,16 +6,16 @@
 **This job repository is your go-to resource for discovering and sharing the latest internships opportunities in:** Design, User Experience (UX), Photographer and Spatial Design.
 
 
-✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign=Creatives and Design&utm_source=1103). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
+✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign=Creatives%20and%20Design&utm_source=1103). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
 
 ---
 
 <div align="center">
 <p>
-    <a href="https://jobright.ai/?utm_campaign=Creatives and Design&utm_source=1103"><b>👇 Land your dream jobs with a seasoned AI career co-pilot 👇</b></a>
+    <a href="https://jobright.ai/?utm_campaign=Creatives%20and%20Design&utm_source=1103"><b>👇 Land your dream jobs with a seasoned AI career co-pilot 👇</b></a>
     <br>
     <br>
-    <a href="https://jobright.ai/?utm_campaign=Creatives and Design&utm_source=1103">
+    <a href="https://jobright.ai/?utm_campaign=Creatives%20and%20Design&utm_source=1103">
         <img src="./static/img/jrbtn.svg" alt="jobright.ai">
     </a>
     <br>
@@ -44,7 +44,7 @@ Only jobs posted in the last <span style="color: red; font-weight: bold; font-si
 <br>
 For a complete list, click the following sortable link below:
 </h4>
-<a href="https://newgrad-jobs.com/?selectedKey=🎨%20Creatives%20and%20Design&utm_source=1103&utm_campaign=Creatives and Design">
+<a href="https://newgrad-jobs.com/?selectedKey=🎨%20Creatives%20and%20Design&utm_source=1103&utm_campaign=Creatives%20and%20Design">
     <img src="./static/img/airtable.png" alt="excel_icon", style="width: 40%; height: 40%;">
 </a>
 </div>
@@ -127,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Harley-Davidson](http://www.harley-davidson.com)** | **[Motorcycle Designer - Colors, Materials, Finishes, Graphics](https://jobright-internal.com/jobs/info/66ac010597fbc5846ccadacb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wauwatosa, WI | On Site | Aug 23 |
 | **[fit-flavors](http://fit-flavors.com)** | **[Cross-Functional Packaging Associate](https://jobright-internal.com/jobs/info/66cac377f084d7ebc6fec32f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chesterfield, MO | On Site | Aug 22 |
 | **[Bethel University](http://bethel.edu)** | **[Videographer/Photographer](https://jobright-internal.com/jobs/info/66c819192ac001fcf41ac580?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Paul, MN | On Site | Aug 22 |
-| **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Associate Technical Editor](https://jobright-internal.com/jobs/info/66c80a1ff1dfa977fef89233?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greater Phoenix Area | On Site | Aug 22 |
-| ↳ | **[Associate Technical Editor](https://jobright-internal.com/jobs/info/66c80a1ff1dfa977fef89301?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greater Wilmington Area | On Site | Aug 22 |
+| **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Associate Technical Editor](https://jobright-internal.com/jobs/info/66c80a1ff1dfa977fef89301?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greater Wilmington Area | On Site | Aug 22 |
+| ↳ | **[Associate Technical Editor](https://jobright-internal.com/jobs/info/66c80a1ff1dfa977fef89233?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greater Phoenix Area | On Site | Aug 22 |
 | ↳ | **[Associate Technical Editor](https://jobright-internal.com/jobs/info/66c80a1ff1dfa977fef89302?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pueblo-Cañon City Area | On Site | Aug 22 |
 | ↳ | **[Associate Technical Editor](https://jobright-internal.com/jobs/info/66c80a1ff1dfa977fef89303?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Utah, United States | On Site | Aug 22 |
 | **[APD Engineering & Architecture, PLLC.](http://apd.com)** | **[Project Designer](https://jobright-internal.com/jobs/info/66c7f74fba4e86671b519472?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Victor, NY | Hybrid | Aug 22 |
