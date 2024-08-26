@@ -1,5 +1,5 @@
 
-# Daily Intern Jobs in Creatives%20and%20Design by Jobright.ai
+# Daily Intern Jobs in Creatives and Design by Jobright.ai
 
 
 
