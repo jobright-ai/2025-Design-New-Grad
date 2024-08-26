@@ -1,12 +1,12 @@
 
-# Daily Intern Jobs in Creatives and Design by Jobright.ai
+# Daily New Grad Jobs in Creatives and Design by Jobright.ai
 
 
 
-**This job repository is your go-to resource for discovering and sharing the latest internships opportunities in:** Design, User Experience (UX), Photographer and Spatial Design.
+**This job repository is your go-to resource for discovering and sharing the latest new grad opportunities in:** Design, User Experience (UX), Photographer and Spatial Design.
 
 
-✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign=Creatives%20and%20Design&utm_source=1103). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
+✔️ While this repository includes a fraction of available new grad positions, for a comprehensive list of new grad jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign=Creatives%20and%20Design&utm_source=1103). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
 
 ---
 
@@ -224,7 +224,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Preschool Photographer](https://jobright-internal.com/jobs/info/66c576ede62830241f3f4997?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montgomery, AL | On Site | Aug 20 |
 | **[NORR](https://norr.com)** | **[Designer, Residential](https://jobright-internal.com/jobs/info/66c57713e62830241f3f49a9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Aug 20 |
 | **[Etsy](https://ritahazan.id/job/?Kw=spg188)** | **[Product Designer, Design Systems](https://jobright-internal.com/jobs/info/66c545caf576f4363d0fff69?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | On Site | Aug 20 |
-| **[West Elm](https://www.westelm.com/)** | **[Design Studio Specialist](https://jobright-internal.com/jobs/info/66c6760d5b8354e1af8002e7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Costa Mesa, CA | On Site | Aug 20 |
+| **[West Elm](https://www.westelm.com/)** | **[Design Studio Specialist](https://jobright-internal.com/jobs/info/66c67b79067b3566e0864884?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Costa Mesa, CA | On Site | Aug 20 |
 | **[Microsoft](https://www.microsoft.com)** | **[UX Writer 2](https://jobright-internal.com/jobs/info/66c5464ab8ec8eecf4817683?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Redmond, WA | Hybrid | Aug 20 |
 | **[Minuteman Press](https://www.minutemanpress.com/)** | **[Graphic Designer/Production Artist](https://jobright-internal.com/jobs/info/66c561c660544c52d762d43c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Clawson, MI | On Site | Aug 20 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Architectural Designer - Commercial](https://jobright-internal.com/jobs/info/66c5246e93950544f36d8f56?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, NY | On Site | Aug 20 |
@@ -255,7 +255,4 @@ For a complete list, click the following sortable link below:
 | **[Shutterfly](http://www.shutterflyinc.com)** | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66c47d918b315005a3455b43?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | East Brunswick, NJ | On Site | Aug 20 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate](https://jobright-internal.com/jobs/info/66c6dadbe5541ac03efa2ba9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Huntington, NY | On Site | Aug 19 |
 | **[West Elm](https://www.westelm.com/)** | **[Design Studio Specialist/Home Stylist](https://jobright-internal.com/jobs/info/66c426489489feae9c8bae01?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baltimore, MD | On Site | Aug 19 |
-| **[ICF Next](https://www.icf.com/next)** | **[Reprographics Specialist](https://jobright-internal.com/jobs/info/66c4ef35b53a217cd0d7eb40?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Martinsville, VA | On Site | Aug 19 |
-| **[Snail Games](https://snail.com)** | **[Associate Technical Artist](https://jobright-internal.com/jobs/info/66c4e4804ce35c2d4e49cc7e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Aug 19 |
-| **[AddOn Networks](https://addonnetworks.com/)** | **[Digital Assets Specialist](https://jobright-internal.com/jobs/info/66c3e043edd00d129aa0749e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tustin, CA | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
