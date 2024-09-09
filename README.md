@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright-internal.com/jobs/info/66de2fb560821b30d0d10c3a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Sep 08 |
+| ↳ | **[Landscape Architecture Analyst](https://jobright-internal.com/jobs/info/66de2fb560821b30d0d10bf4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Sep 08 |
+| ↳ | **[Landscape Architecture Analyst](https://jobright-internal.com/jobs/info/66de2fb560821b30d0d10c39?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orange, CA | On Site | Sep 08 |
 | **[Savage X Fenty](https://www.savagex.com/)** | **[Assistant Graphic Designer (Apparel)](https://jobright-internal.com/jobs/info/66c117c457b8b51648fd16e0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | El Segundo, CA | Hybrid | Sep 08 |
 | **[RS&H](http://www.rsandh.com/)** | **[Interior Design Associate I](https://jobright-internal.com/jobs/info/66a4398de9bda74e61af1217?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Sep 08 |
 | **[Designcraft](http://designcraft.com)** | **[Model Maker / Finisher](https://jobright-internal.com/jobs/info/66dd781f6e05be5a54dbcec5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lake Zurich, IL | On Site | Sep 08 |
@@ -88,16 +91,16 @@ For a complete list, click the following sortable link below:
 | **[Lifetouch](http://lifetouch.com/)** | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66dbd1bb98ab58970fcd9f1f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Metairie, LA | On Site | Sep 06 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66dbbb2dd5f69ee015bc0563?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cypress, TX | On Site | Sep 06 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Design Studio Specialist](https://jobright-internal.com/jobs/info/66dbafb5c0f4058ca6ee38b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Littleton, CO | On Site | Sep 06 |
-| **[Pottery Barn Kids](http://potterybarnkids.com/)** | **[Design Studio Specialist](https://jobright-internal.com/jobs/info/66dbabda5063fd6dac886c82?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Corte Madera, CA | On Site | Sep 06 |
+| **[Pottery Barn Kids](http://potterybarnkids.com/)** | **[Design Studio Specialist](https://jobright-internal.com/jobs/info/66dbb5f28bad950f09c994ee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Corte Madera, CA | On Site | Sep 06 |
 | **[Perplexity AI](https://www.perplexity.ai)** | **[Brand Designer](https://jobright-internal.com/jobs/info/66ab0b5b6d0826a127224959?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco Bay Area | Hybrid | Sep 06 |
 | **[TMZ](http://www.tmz.com/)** | **[Photo Associate Producer](https://jobright-internal.com/jobs/info/66db96ed5657cd88b4a0afe7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Sep 06 |
 | **[Minuteman Press](https://www.minutemanpress.com/)** | **[Graphic Designer / Print Specialist](https://jobright-internal.com/jobs/info/66db99d6de240390cb8f55f4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Saint Paul, MN | On Site | Sep 06 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright-internal.com/jobs/info/66db86926f8b7f0196e6927d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austell, GA | On Site | Sep 06 |
-| **[Lifetouch](http://lifetouch.com/)** | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66db79798fee39637970b1d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Phoenix, AZ | On Site | Sep 06 |
-| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66db79798fee39637970b1d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sandy, UT | On Site | Sep 06 |
-| ↳ | **[Preschool Photographer](https://jobright-internal.com/jobs/info/66db79798fee39637970b1da?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baltimore, MD | On Site | Sep 06 |
+| **[Lifetouch](http://lifetouch.com/)** | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66db79798fee39637970b1d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sandy, UT | On Site | Sep 06 |
+| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66db79798fee39637970b1d8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Phoenix, AZ | On Site | Sep 06 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66db79798fee39637970b1db?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mesa, AZ | On Site | Sep 06 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66db79798fee39637970b1d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chattanooga, TN | On Site | Sep 06 |
+| ↳ | **[Preschool Photographer](https://jobright-internal.com/jobs/info/66db79798fee39637970b1da?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baltimore, MD | On Site | Sep 06 |
 | ↳ | **[Preschool Photographer](https://jobright-internal.com/jobs/info/66db79798fee39637970b1dc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Frederick, MD | On Site | Sep 06 |
 | **[Media.Monks](https://media.monks.com/)** | **[Production Designer (Retoucher)](https://jobright-internal.com/jobs/info/66db67166b3d972bca42b359?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Remote | Sep 06 |
 | **[Oddball](https://oddball.io/)** | **[UX Designer](https://jobright-internal.com/jobs/info/66db5cbc6925cb4da094623e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Sep 06 |
@@ -130,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[fit-flavors](http://fit-flavors.com)** | **[Cross-Functional Packaging Associate](https://jobright-internal.com/jobs/info/66dd24bf663f22d62f4bb8f6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chesterfield, MO | On Site | Sep 05 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright-internal.com/jobs/info/66da702f91acad53b1321a52?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, NY | On Site | Sep 05 |
 | **[UPLIFT Desk](http://www.upliftdesk.com/)** | **[Workplace Designer](https://jobright-internal.com/jobs/info/66da953f28141f6549295447?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | On Site | Sep 05 |
-| **[Lifetouch](http://lifetouch.com/)** | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66da7e33921971bce51c70ae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Spokane, WA | On Site | Sep 05 |
-| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66da7e33921971bce51c70ad?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hiram, GA | On Site | Sep 05 |
+| **[Lifetouch](http://lifetouch.com/)** | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66da7e33921971bce51c70ad?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hiram, GA | On Site | Sep 05 |
+| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66da7e33921971bce51c70ae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Spokane, WA | On Site | Sep 05 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66da7e33921971bce51c70af?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Moreno Valley, CA | On Site | Sep 05 |
 | **[Facebook Careers](https://www.metacareers.com/)** | **[Creative Designer](https://jobright-internal.com/jobs/info/66da5ef7d160bd2f4e83b692?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 05 |
 | **[Adobe](http://www.adobe.com)** | **[Associate Experience Designer](https://jobright-internal.com/jobs/info/66da508286bb610a60c3d4c2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 05 |
@@ -180,32 +183,32 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Seasonal Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab3d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Virginia Beach, VA | On Site | Sep 05 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab3f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Niles, OH | On Site | Sep 05 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab3e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montclair, CA | On Site | Sep 05 |
-| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab40?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Arlington, TX | On Site | Sep 05 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab41?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rancho Cucamonga, CA | On Site | Sep 05 |
+| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab40?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Arlington, TX | On Site | Sep 05 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab42?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Springfield, VA | On Site | Sep 05 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab43?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Redlands, CA | On Site | Sep 05 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab44?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fayetteville, AR | On Site | Sep 05 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab45?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rockwall, TX | On Site | Sep 05 |
-| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab47?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Knoxville, TN | On Site | Sep 05 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab46?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ross, PA | On Site | Sep 05 |
+| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab47?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Knoxville, TN | On Site | Sep 05 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab48?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Memphis, TN | On Site | Sep 05 |
-| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab49?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Victor, NY | On Site | Sep 05 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab4b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lubbock, TX | On Site | Sep 05 |
+| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab49?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Victor, NY | On Site | Sep 05 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab4a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | White Marsh Station, MD | On Site | Sep 05 |
-| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab50?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Edinburg, TX | On Site | Sep 05 |
-| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab4c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, NY | On Site | Sep 05 |
-| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab4d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Strongsville, OH | On Site | Sep 05 |
+| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab4e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | On Site | Sep 05 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab4f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fairview, TX | On Site | Sep 05 |
-| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab51?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | On Site | Sep 05 |
-| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab57?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Clarita, CA | On Site | Sep 05 |
-| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab54?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Alpharetta, GA | On Site | Sep 05 |
+| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab4d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Strongsville, OH | On Site | Sep 05 |
+| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab4c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, NY | On Site | Sep 05 |
+| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab50?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Edinburg, TX | On Site | Sep 05 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab53?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montebello, CA | On Site | Sep 05 |
-| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab56?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Flower Mound, TX | On Site | Sep 05 |
+| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab57?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Clarita, CA | On Site | Sep 05 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab55?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Katy, TX | On Site | Sep 05 |
-| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab58?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mentor, OH | On Site | Sep 05 |
-| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab5b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Round Rock, TX | On Site | Sep 05 |
-| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab59?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Visalia, CA | On Site | Sep 05 |
+| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab56?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Flower Mound, TX | On Site | Sep 05 |
+| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab54?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Alpharetta, GA | On Site | Sep 05 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab5a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Akron, OH | On Site | Sep 05 |
+| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab5b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Round Rock, TX | On Site | Sep 05 |
+| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab58?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mentor, OH | On Site | Sep 05 |
+| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d980028b5560305f31ab59?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Visalia, CA | On Site | Sep 05 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d99c1a0512c3dca6578cab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Conroe, TX | On Site | Sep 05 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d97021c00cf60cb593bb56?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Monaca, PA | On Site | Sep 05 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d97021c00cf60cb593bb57?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pasadena, TX | On Site | Sep 05 |
@@ -260,17 +263,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d810a1589c19db0e04c0f0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mesquite, TX | On Site | Sep 03 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d810a1589c19db0e04c0f2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mishawaka, IN | On Site | Sep 03 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d810a1589c19db0e04c0f1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portage, MI | On Site | Sep 03 |
-| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d810a1589c19db0e04c0f3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Maumee, OH | On Site | Sep 03 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d810a1589c19db0e04c0f4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Clackamas, OR | On Site | Sep 03 |
-| ↳ | **[Preschool Photographer](https://jobright-internal.com/jobs/info/66d8107d589c19db0e04b914?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newark, DE | On Site | Sep 03 |
+| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d810a1589c19db0e04c0f3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Maumee, OH | On Site | Sep 03 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d810a1589c19db0e04c0f5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Barboursville, WV | On Site | Sep 03 |
 | ↳ | **[Preschool Photographer](https://jobright-internal.com/jobs/info/66d810a1589c19db0e04c2f3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Georgetown, DE | On Site | Sep 03 |
+| ↳ | **[Preschool Photographer](https://jobright-internal.com/jobs/info/66d8107d589c19db0e04b914?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newark, DE | On Site | Sep 03 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d810a1589c19db0e04c0f6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toledo, OH | On Site | Sep 03 |
 | **[Western Carolina University](http://www.wcu.edu/)** | **[SAS Production Designer](https://jobright-internal.com/jobs/info/66d7e2e0b2c8a753d90982dd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cullowhee, NC | On Site | Sep 03 |
 | **[New York City School Construction Authority](http://nycsca.org/)** | **[Associate Architect A/B](https://jobright-internal.com/jobs/info/66d7cb5e7198ad9f21b0fe55?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Queens, NY | On Site | Sep 03 |
 | **[West Elm](https://www.westelm.com/)** | **[Design Studio Specialist](https://jobright-internal.com/jobs/info/66d85bd6bb6b3ff3c6680bbf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Solana Beach, CA | On Site | Sep 03 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright-internal.com/jobs/info/66d7ba3ed931d1dad82c9947?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Albuquerque, NM | On Site | Sep 03 |
-| ↳ | **[Designer](https://jobright-internal.com/jobs/info/66d7ba3ed931d1dad82c992e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Parsippany, NJ | On Site | Sep 03 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright-internal.com/jobs/info/66d7ba3ed931d1dad82c992e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Parsippany, NJ | On Site | Sep 03 |
+| ↳ | **[Designer](https://jobright-internal.com/jobs/info/66d7ba3ed931d1dad82c9947?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Albuquerque, NM | On Site | Sep 03 |
 | ↳ | **[Designer](https://jobright-internal.com/jobs/info/66d7ba3ed931d1dad82c9935?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | East Brunswick, NJ | On Site | Sep 03 |
 | **[West Elm](https://www.westelm.com/)** | **[Design Studio Specialist](https://jobright-internal.com/jobs/info/66d7ba43e59e25fd874fee84?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Emeryville, CA | On Site | Sep 03 |
 | **[Populous](https://populous.com/)** | **[Graphic Designer I](https://jobright-internal.com/jobs/info/66d7c25e85629fd90aa2bf75?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Sep 03 |
@@ -290,10 +293,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d76862bffec3fd860493c8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Holyoke, MA | On Site | Sep 03 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d76862bffec3fd860493c9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Merrillville, IN | On Site | Sep 03 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d76862bffec3fd860493ca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ann Arbor, MI | On Site | Sep 03 |
-| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d76862bffec3fd860493cd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Flint, MI | On Site | Sep 03 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d76862bffec3fd860493cb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | McDonough, GA | On Site | Sep 03 |
-| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d76862bffec3fd860493cc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Novi, MI | On Site | Sep 03 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d76862bffec3fd860493ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Saginaw, MI | On Site | Sep 03 |
+| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d76862bffec3fd860493cc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Novi, MI | On Site | Sep 03 |
+| ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d76862bffec3fd860493cd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Flint, MI | On Site | Sep 03 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66d76862bffec3fd860493cf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kentwood, MI | On Site | Sep 03 |
 | **[Jostens](http://jostens.com)** | **[School Photographer](https://jobright-internal.com/jobs/info/66d762fd7d0a82100743e5f1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Davenport, IA | On Site | Sep 03 |
 | ↳ | **[School Photographer](https://jobright-internal.com/jobs/info/66d75f1eff36ef28f6161d1c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Clinton, IA | On Site | Sep 03 |
