@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crate & Barrel](http://crateandbarrel.com)** | **[Designer](https://jobright-internal.com/jobs/info/66e5ea92ccdc17d4d12bc766?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | White Plains, NY | On Site | Sep 14 |
 | **[GSK Solutions](https://www.gsksolutions.com)** | **[AEM Designer](https://jobright-internal.com/jobs/info/66e5bc388ba9fc9e5c965518?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nashville, TN | Remote | Sep 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Jr. Print Designer](https://jobright-internal.com/jobs/info/66e58b5a87b4c7d9ee26cf05?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Sep 14 |
+| **[Activision Blizzard](https://activisionblizzard.com)** | **[Technical Artist](https://jobright-internal.com/jobs/info/66c8fa3624ed1b24d1f66b1c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Sep 14 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright-internal.com/jobs/info/66e5696315dcc28ef48b3edc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Sep 14 |
 | ↳ | **[Style Advisor](https://jobright-internal.com/jobs/info/66c90dfaa690e3a712e6a790?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Hybrid | Sep 14 |
 | **[Torrid](http://www.torrid.com/)** | **[Assistant Designer - Apparel](https://jobright-internal.com/jobs/info/66ac46aa703146d425d17f06?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | City of Industry, CA | On Site | Sep 14 |
@@ -236,9 +238,8 @@ For a complete list, click the following sortable link below:
 | **[adMarketplace](http://www.admarketplace.com)** | **[Junior Graphic Designer](https://jobright-internal.com/jobs/info/66df3ee0eb830449453ec7e3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York, United States | On Site | Sep 08 |
 | **[Newsweek](http://www.newsweek.com)** | **[Multimedia Producer](https://jobright-internal.com/jobs/info/66df026dcd062becab1cc9af?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote, United States | On Site | Sep 08 |
 | **[Target](https://www.target.com)** | **[Associate Designer, Kids](https://jobright-internal.com/jobs/info/66df97e709da35f657ad42a8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | On Site | Sep 08 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright-internal.com/jobs/info/66de2fb560821b30d0d10bf4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Sep 08 |
-| ↳ | **[Landscape Architecture Analyst](https://jobright-internal.com/jobs/info/66de2fb560821b30d0d10c39?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orange, CA | On Site | Sep 08 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright-internal.com/jobs/info/66de2fb560821b30d0d10c39?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orange, CA | On Site | Sep 08 |
 | ↳ | **[Landscape Architecture Analyst](https://jobright-internal.com/jobs/info/66de2fb560821b30d0d10c3a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Sep 08 |
+| ↳ | **[Landscape Architecture Analyst](https://jobright-internal.com/jobs/info/66de2fb560821b30d0d10bf4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Sep 08 |
 | **[Savage X Fenty](https://www.savagex.com/)** | **[Assistant Graphic Designer (Apparel)](https://jobright-internal.com/jobs/info/66c117c457b8b51648fd16e0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | El Segundo, CA | Hybrid | Sep 08 |
-| **[The TJX Companies](http://www.tjx.com/)** | **[Retail Full Time Frontend Supervisor](https://jobright-internal.com/jobs/info/66deac36c23d8468c4fe0bf7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Findlay, OH | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
