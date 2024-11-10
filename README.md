@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright-internal.com/jobs/info/6675dcd5d40a616e23782a2a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hilliard, OH | On Site | Nov 10 |
+| ↳ | **[Designer](https://jobright-internal.com/jobs/info/6675a363a05c85bb25afa7fe?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kennesaw, GA | On Site | Nov 10 |
+| **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Exterior Designer](https://jobright-internal.com/jobs/info/673092884755da9ce1b2c6b9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | Hybrid | Nov 10 |
 | **[Lands' End Japan](http://www.landsend.co.jp)** | **[Associate Graphic Designer](https://jobright-internal.com/jobs/info/67303379e19aa1831fc1bebe?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dodgeville, WI | On Site | Nov 09 |
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright-internal.com/jobs/info/672ff70bad0d12896577d53c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Norwalk, CT | Hybrid | Nov 09 |
 | **[ALOHA Collection](https://aloha-collection.com)** | **[Graphic Designer](https://jobright-internal.com/jobs/info/672fbffafbe05f4552c6f4d8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Encinitas, CA | On Site | Nov 09 |
@@ -106,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Coach](https://uk.coach.com)** | **[Design Assistant, Cut & Sew](https://jobright-internal.com/jobs/info/672d07be5853c2ac9183a209?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Nov 07 |
 | **[kate spade new york](https://www.katespade.com/)** | **[Assistant Designer (Small Leathergoods)](https://jobright-internal.com/jobs/info/672d074142dc64a338859753?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Nov 07 |
 | **[CSArch](http://csarchpc.com)** | **[Interior Designer I](https://jobright-internal.com/jobs/info/672d18bef7bbd59729cab8b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Albany, NY | On Site | Nov 07 |
-| **[Google](https://www.google.com)** | **[Visual Designer, 2D/3D Maps Systems](https://jobright-internal.com/jobs/info/672ced4eee78d9a4edc9a2a0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA, USA | On Site | Nov 07 |
-| ↳ | **[Visual Designer, 2D/3D Maps Systems](https://jobright-internal.com/jobs/info/672ced4eee78d9a4edc9a2d3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA, USA | On Site | Nov 07 |
+| **[Google](https://www.google.com)** | **[Visual Designer, 2D/3D Maps Systems](https://jobright-internal.com/jobs/info/672ced4eee78d9a4edc9a2d3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA, USA | On Site | Nov 07 |
+| ↳ | **[Visual Designer, 2D/3D Maps Systems](https://jobright-internal.com/jobs/info/672ced4eee78d9a4edc9a2a0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA, USA | On Site | Nov 07 |
 | **[Skyward](https://skywarditsolutions.com)** | **[Graphic Designer](https://jobright-internal.com/jobs/info/672cfa9f1ab0a96ac07cc6a8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rockville, MD | Hybrid | Nov 07 |
 | **[R2Net Inc - JamesAllen.com](http://www.jamesallen.com/)** | **[Jewelry Photographer](https://jobright-internal.com/jobs/info/672ce9318ae4b35ddfc799ef?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Nov 07 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Design Studio Spc/Home Stylist, Full-TIme, Vernon Hills - Pottery Barn](https://jobright-internal.com/jobs/info/66d76862bffec3fd860490fb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Scarsdale, NY | On Site | Nov 07 |
@@ -218,6 +221,4 @@ For a complete list, click the following sortable link below:
 | **[West Elm](https://www.westelm.com/)** | **[Design Studio Spc/Home Stylist, Part Time Flex, Bishop Ranch- West Elm](https://jobright-internal.com/jobs/info/66c179ca0ba6b5ee59d3a236?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Ramon, CA | On Site | Nov 03 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Design Studio Spc/Home Stylist, Full Time, Temecula- Pottery Barn](https://jobright-internal.com/jobs/info/66d87029b4dcd6279586fe14?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Temecula, CA | On Site | Nov 03 |
 | **[Lifetouch](http://lifetouch.com/)** | **[Seasonal Studio Photographer](https://jobright-internal.com/jobs/info/66c55a2f06c9231327cd8009?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Modesto, CA | On Site | Nov 03 |
-| **[West Elm](https://www.westelm.com/)** | **[Design Studio Spc/Home Stylist, Part Time Flex, New York City- West Elm](https://jobright-internal.com/jobs/info/66d83fcb1d2f59854114cdb6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Nov 03 |
-| **[Lifetouch](http://lifetouch.com/)** | **[School Photographer](https://jobright-internal.com/jobs/info/66f026147113cd8c579ae229?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Fernando, CA | On Site | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
