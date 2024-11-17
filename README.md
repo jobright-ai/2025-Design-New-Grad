@@ -84,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Lifetouch](http://lifetouch.com/)** | **[Seasonal Studio Photographer](https://jobright.ai/jobs/info/6736fd2aec8bd03d9e996246?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | On Site | Nov 14 |
 | **[Virginia Tech](http://www.vt.edu)** | **[Visual Content Creator](https://jobright.ai/jobs/info/6736d2e04056999c0a979ca9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Blacksburg, VA | On Site | Nov 14 |
 | **[Alkami Technology](http://www.alkami.com/)** | **[Jr. Digital Designer](https://jobright.ai/jobs/info/6736ca05d2657140d5569941?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Plano, TX | Remote | Nov 14 |
-| **[NICOLEHOLLIS](https://nicolehollis.com/)** | **[NICOLEHOLLIS is hiring: Design Assistant in San Francisco](https://jobright.ai/jobs/info/6737079e845739827f101314?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Nov 14 |
 | **[Gensler](http://www.gensler.com)** | **[Brand & Environmental Graphic Designer - Junior](https://jobright.ai/jobs/info/6736ba7bdcbea1a07eb37d06?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Nov 14 |
 | **[Alkami Technology](http://www.alkami.com/)** | **[Jr. Digital Designer](https://jobright.ai/jobs/info/6736b9a7099d2e41fdf84c1a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Plano, TX | Remote | Nov 14 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Custom Art Framer-2](https://jobright.ai/jobs/info/6736a882b82fd7945eb4f202?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | La Habra-1500 W Imperial Hwy | On Site | Nov 14 |
@@ -141,20 +140,20 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Creative Producer – Global Demand Center](https://jobright.ai/jobs/info/6734319395ed5e560210318a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Dakota, United States | Remote | Nov 12 |
 | ↳ | **[Creative Producer – Global Demand Center](https://jobright.ai/jobs/info/6734319395ed5e560210318b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pennsylvania, United States | Remote | Nov 12 |
 | ↳ | **[Creative Producer – Global Demand Center](https://jobright.ai/jobs/info/6734319395ed5e560210318c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Missouri, United States | Remote | Nov 12 |
-| ↳ | **[Creative Producer – Global Demand Center](https://jobright.ai/jobs/info/6734319395ed5e560210318f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oklahoma, United States | Remote | Nov 12 |
 | ↳ | **[Creative Producer – Global Demand Center](https://jobright.ai/jobs/info/6734319395ed5e5602103190?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West Virginia, United States | Remote | Nov 12 |
+| ↳ | **[Creative Producer – Global Demand Center](https://jobright.ai/jobs/info/6734319395ed5e560210318f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oklahoma, United States | Remote | Nov 12 |
 | ↳ | **[Creative Producer – Global Demand Center](https://jobright.ai/jobs/info/6734319395ed5e5602103192?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hawaii, United States | Remote | Nov 12 |
 | ↳ | **[Creative Producer – Global Demand Center](https://jobright.ai/jobs/info/6734319395ed5e5602103194?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Louisiana, United States | Remote | Nov 12 |
 | ↳ | **[Creative Producer – Global Demand Center](https://jobright.ai/jobs/info/6734319395ed5e5602103193?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Georgia, United States | Remote | Nov 12 |
 | ↳ | **[Creative Producer – Global Demand Center](https://jobright.ai/jobs/info/6734319395ed5e5602103196?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wyoming, United States | Remote | Nov 12 |
 | ↳ | **[Creative Producer – Global Demand Center](https://jobright.ai/jobs/info/6734319395ed5e5602103197?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oregon, United States | Remote | Nov 12 |
 | ↳ | **[Creative Producer – Global Demand Center](https://jobright.ai/jobs/info/6734319395ed5e5602103199?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kentucky, United States | Remote | Nov 12 |
-| ↳ | **[Creative Producer – Global Demand Center](https://jobright.ai/jobs/info/6734319395ed5e560210319d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Maine, United States | Remote | Nov 12 |
 | ↳ | **[Creative Producer – Global Demand Center](https://jobright.ai/jobs/info/6734319395ed5e560210319e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indiana, United States | Remote | Nov 12 |
+| ↳ | **[Creative Producer – Global Demand Center](https://jobright.ai/jobs/info/6734319395ed5e560210319d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Maine, United States | Remote | Nov 12 |
 | ↳ | **[Creative Producer – Global Demand Center](https://jobright.ai/jobs/info/6734319395ed5e560210319f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Remote | Nov 12 |
 | ↳ | **[Creative Producer – Global Demand Center](https://jobright.ai/jobs/info/6734319395ed5e56021031a2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Delaware, United States | Remote | Nov 12 |
-| ↳ | **[Creative Producer – Global Demand Center](https://jobright.ai/jobs/info/6734319395ed5e56021031a7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Carolina, United States | Remote | Nov 12 |
 | ↳ | **[Creative Producer – Global Demand Center](https://jobright.ai/jobs/info/6734319395ed5e56021031a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nevada, United States | Remote | Nov 12 |
+| ↳ | **[Creative Producer – Global Demand Center](https://jobright.ai/jobs/info/6734319395ed5e56021031a7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Carolina, United States | Remote | Nov 12 |
 | ↳ | **[Creative Producer – Global Demand Center](https://jobright.ai/jobs/info/6734319395ed5e56021031a9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Idaho, United States | Remote | Nov 12 |
 | ↳ | **[Creative Producer – Global Demand Center](https://jobright.ai/jobs/info/6734319395ed5e56021031a8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minnesota, United States | Remote | Nov 12 |
 | ↳ | **[Creative Producer – Global Demand Center](https://jobright.ai/jobs/info/6734319395ed5e56021031ae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Massachusetts, United States | Remote | Nov 12 |
@@ -176,8 +175,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Creative Producer – Global Demand Center](https://jobright.ai/jobs/info/67342155622f520e717b3f22?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Hampshire, United States | Remote | Nov 12 |
 | ↳ | **[Creative Producer – Global Demand Center](https://jobright.ai/jobs/info/67342155622f520e717b3f24?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Connecticut, United States | Remote | Nov 12 |
 | ↳ | **[Creative Producer – Global Demand Center](https://jobright.ai/jobs/info/67342155622f520e717b3f27?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | Remote | Nov 12 |
-| ↳ | **[Creative Producer – Global Demand Center](https://jobright.ai/jobs/info/67342155622f520e717b3f28?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vermont, United States | Remote | Nov 12 |
 | ↳ | **[Creative Producer – Global Demand Center](https://jobright.ai/jobs/info/67342155622f520e717b3f29?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rhode Island, United States | Remote | Nov 12 |
+| ↳ | **[Creative Producer – Global Demand Center](https://jobright.ai/jobs/info/67342155622f520e717b3f28?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vermont, United States | Remote | Nov 12 |
 | ↳ | **[Creative Producer – Global Demand Center](https://jobright.ai/jobs/info/67342155622f520e717b3f2a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Michigan, United States | Remote | Nov 12 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Designer, Motion Design (Temporary)](https://jobright.ai/jobs/info/67342155622f520e717b3de9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | On Site | Nov 12 |
 | ↳ | **[Designer, Motion Design (Temporary)](https://jobright.ai/jobs/info/67342ed9a2956c14949515ee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Nov 12 |
@@ -199,22 +198,22 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Seasonal Retail Photographer](https://jobright.ai/jobs/info/6733fcfd05c78e9eeb44ebe5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Bedford, MA | On Site | Nov 12 |
 | ↳ | **[Seasonal Retail Photographer](https://jobright.ai/jobs/info/6733c43350d7c3cb4587adcb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Dartmouth, MA | On Site | Nov 12 |
 | ↳ | **[School Photographer](https://jobright.ai/jobs/info/6733c43350d7c3cb4587adc8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Anaheim, CA | On Site | Nov 12 |
-| ↳ | **[Preschool Photographer](https://jobright.ai/jobs/info/6733c43350d7c3cb4587adc9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port St Lucie, FL | On Site | Nov 12 |
 | ↳ | **[School Photographer](https://jobright.ai/jobs/info/6733c43350d7c3cb4587adcd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Madison, WI | On Site | Nov 12 |
+| ↳ | **[Preschool Photographer](https://jobright.ai/jobs/info/6733c43350d7c3cb4587adc9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port St Lucie, FL | On Site | Nov 12 |
 | ↳ | **[School Photographer](https://jobright.ai/jobs/info/6733c43350d7c3cb4587ade3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jacksonville, FL | On Site | Nov 12 |
 | ↳ | **[Preschool Photographer](https://jobright.ai/jobs/info/6733c43350d7c3cb4587af3c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baltimore, MD | On Site | Nov 12 |
 | ↳ | **[Seasonal Retail Photographer](https://jobright.ai/jobs/info/6733c43350d7c3cb4587af81?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenville, SC | On Site | Nov 12 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright.ai/jobs/info/6733c43350d7c3cb4587af83?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hiram, GA | On Site | Nov 12 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright.ai/jobs/info/6733c43350d7c3cb4587ae06?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Knoxville, TN | On Site | Nov 12 |
-| ↳ | **[School Photographer](https://jobright.ai/jobs/info/6733c43350d7c3cb4587ae13?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Roanoke, TX | On Site | Nov 12 |
 | ↳ | **[School Photographer](https://jobright.ai/jobs/info/6733c43350d7c3cb4587ae0c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Asheville, NC | On Site | Nov 12 |
-| ↳ | **[Seasonal Studio Photographer](https://jobright.ai/jobs/info/6733c43350d7c3cb4587af8f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Antonio, TX | On Site | Nov 12 |
+| ↳ | **[School Photographer](https://jobright.ai/jobs/info/6733c43350d7c3cb4587ae13?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Roanoke, TX | On Site | Nov 12 |
+| ↳ | **[Seasonal Studio Photographer](https://jobright.ai/jobs/info/6733c43350d7c3cb4587ae11?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Antonio, TX | On Site | Nov 12 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright.ai/jobs/info/6733c43350d7c3cb4587ae19?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lexington, KY | On Site | Nov 12 |
 | ↳ | **[Preschool Photographer](https://jobright.ai/jobs/info/6733c43350d7c3cb4587af4c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Largo, MD | On Site | Nov 12 |
 | ↳ | **[Preschool Photographer](https://jobright.ai/jobs/info/6733c43350d7c3cb4587af9b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hayward, CA | On Site | Nov 12 |
 | ↳ | **[School Photographer](https://jobright.ai/jobs/info/6733c43350d7c3cb4587af9c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Keller, TX | On Site | Nov 12 |
-| ↳ | **[Seasonal Studio Photographer](https://jobright.ai/jobs/info/6733c43350d7c3cb4587ae70?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Nov 12 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright.ai/jobs/info/6733c43350d7c3cb4587ae5e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Corpus Christi, TX | On Site | Nov 12 |
+| ↳ | **[Seasonal Studio Photographer](https://jobright.ai/jobs/info/6733c43350d7c3cb4587ae70?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Nov 12 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright.ai/jobs/info/6733c43350d7c3cb4587af9f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newnan, GA | On Site | Nov 12 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright.ai/jobs/info/6733c43350d7c3cb4587afa3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lithonia, GA | On Site | Nov 12 |
 | ↳ | **[Seasonal Studio Photographer](https://jobright.ai/jobs/info/6733c43350d7c3cb4587ae7f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vernon Hills, IL | On Site | Nov 12 |
@@ -256,5 +255,4 @@ For a complete list, click the following sortable link below:
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Design Assistant, Little, Brown Books for Young Readers](https://jobright.ai/jobs/info/6733f424dbdd89bfd4dfe0db?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York, United States | On Site | Nov 10 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Design Studio Spc/Home Stylist, Part Time Flex, Park Meadows](https://jobright.ai/jobs/info/66dbafb5c0f4058ca6ee38b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Littleton, CO | On Site | Nov 10 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Flex Male Model - Culver City Photo Studio](https://jobright.ai/jobs/info/6718cd6d5e94349538dff0cc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Culver City, CA | On Site | Nov 10 |
-| **[Nordstrom](http://www.nordstrom.com)** | **[Flex Female Plus Model - Culver City Photo Studio](https://jobright.ai/jobs/info/6719bc3cf72af510bfc6d52f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Culver City, CA | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
