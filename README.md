@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aéropostale](http://aeropostale.com)** | **[Assistant Designer, Denim, Guys, Aeropostale](https://jobright.ai/jobs/info/674136a9e7e1fe7b748933ef?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lyndhurst, NJ | Hybrid | Nov 22 |
+| **[Sunny Sky Products](https://sunnyskyproducts.com)** | **[Packaging Associate, 3rd shift](https://jobright.ai/jobs/info/67413ae1f28c48a2df7b27d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Nov 22 |
+| ↳ | **[Packaging Associate Crew B](https://jobright.ai/jobs/info/67413ae1f28c48a2df7b27d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Douglassville, PA | On Site | Nov 22 |
+| **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Photo Coordinator](https://jobright.ai/jobs/info/67413540e9ba17af1b16f9c3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA | Remote | Nov 22 |
+| **[Insidesource](https://www.insidesource.com/)** | **[Interior Design Associate](https://jobright.ai/jobs/info/67411be91c04d32a69f99c2d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Nov 22 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[R&D Associate, Trim](https://jobright.ai/jobs/info/674104c6e5ac7b4d9f12f1d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Nov 22 |
 | **[Coalition Technologies](https://coalitiontechnologies.com/)** | **[Web Designer](https://jobright.ai/jobs/info/67410d3b53e188fba31d0694?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Nov 22 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Part Time Retail Picture Framer](https://jobright.ai/jobs/info/6740facc437f61ae8122f79f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ft. Collins-4330 S College Ave | On Site | Nov 22 |
@@ -131,7 +136,8 @@ For a complete list, click the following sortable link below:
 | **[SparkHouse LLC](http://www.sparkhousepeople.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/673e069e1e597fb4504bd091?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver Metropolitan Area | Hybrid | Nov 20 |
 | **[Pendo.io](http://www.pendo.io)** | **[Brand Designer](https://jobright.ai/jobs/info/673e069e1e597fb4504bd00c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Raleigh, NC | On Site | Nov 20 |
 | **[APackaging Group](https://apackaginggroup.com)** | **[Marketing Coordinator / Graphic Designer](https://jobright.ai/jobs/info/673cf77c5286654a6f5b82c6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Azusa, CA | On Site | Nov 20 |
-| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/673dd7fb8ceeff445d1f0121?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Nov 20 |
+| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/672172160e3360cd69f9c8f8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Nov 20 |
+| ↳ | **[Style Advisor](https://jobright.ai/jobs/info/673dd7fb8ceeff445d1f0121?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Nov 20 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/673dd7fb8ceeff445d1f012b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Nov 20 |
 | **[WillowTree](http://www.willowtreeapps.com)** | **[Presentation Designer](https://jobright.ai/jobs/info/673dd7fb8ceeff445d1f02d0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | On Site | Nov 20 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/673dd7fb8ceeff445d1f02dd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | King of Prussia, PA | Hybrid | Nov 20 |
@@ -139,7 +145,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/673dd234ef77ec4af6d149f3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Garden City, NY | Hybrid | Nov 20 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/673dd234ef77ec4af6d149f9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | McLean, VA | Hybrid | Nov 20 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/673dd234ef77ec4af6d14a00?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | Hybrid | Nov 20 |
-| ↳ | **[Style Advisor](https://jobright.ai/jobs/info/672172160e3360cd69f9c799?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Nov 20 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/673dd234ef77ec4af6d14a02?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Miami, FL | Hybrid | Nov 20 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/673dd234ef77ec4af6d14a01?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Las Vegas, NV | Hybrid | Nov 20 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/673dd234ef77ec4af6d14a04?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | Hybrid | Nov 20 |
@@ -183,7 +188,6 @@ For a complete list, click the following sortable link below:
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/672025577f3c674a3fde5c03?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Peters, MO | Hybrid | Nov 19 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Design Studio Spc/Home Stylist, Part Time Flex, Stuyvesant Plaza- Pottery Barn](https://jobright.ai/jobs/info/6704454dfa947157ca8195f9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Albany, NY | On Site | Nov 19 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/674035bb1b064fc65181f180?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Miami, FL | On Site | Nov 18 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/674035bb1b064fc65181f182?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Huntsville, AL | On Site | Nov 18 |
 | **[Zillow](http://www.zillow.com)** | **[Photographer, Showingtime+ (Ocala, FL)](https://jobright.ai/jobs/info/673c05939a92c88c41f0b9d3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote-FL | Remote | Nov 18 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Assistant Print Designer (Hybrid, WA)](https://jobright.ai/jobs/info/673be901fa80bd0ef71ba299?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Nov 18 |
 | **[Angel Of The Winds Casino Resort](http://www.AngelOfTheWinds.com)** | **[Production Assistant](https://jobright.ai/jobs/info/673c5c2ca42d9b59e31a029d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Arlington, WA | On Site | Nov 18 |
@@ -205,7 +209,4 @@ For a complete list, click the following sortable link below:
 | **[Living Spaces Furniture](https://www.livingspaces.com/)** | **[Retail Visual Stylist (part-time/full-time)](https://jobright.ai/jobs/info/66ab0b5b6d0826a127224940?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fremont, CA | On Site | Nov 17 |
 | **[Gensler](http://www.gensler.com)** | **[Brand Designer](https://jobright.ai/jobs/info/671e16186a0fb88880c97acd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | On Site | Nov 16 |
 | **[Crocs](http://www.crocs.com)** | **[Associate Designer, CMG](https://jobright.ai/jobs/info/670091b82b0c00d71bc19cb2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Broomfield, CO | On Site | Nov 16 |
-| **[Empire Office](https://www.empireoffice.com)** | **[Associate Creative Specialist](https://jobright.ai/jobs/info/671be1d0ae9e42961f0ed968?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Nov 16 |
-| **[NV5](http://www.nv5.com)** | **[Assistant Landscape Architect](https://jobright.ai/jobs/info/66909fd3bb6223b93a70a372?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Melville, NY | On Site | Nov 16 |
-| **[American Express](http://www.americanexpress.com)** | **[Art Director, OnBrand](https://jobright.ai/jobs/info/67387d061d13aeed9d67fc33?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | Hybrid | Nov 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
