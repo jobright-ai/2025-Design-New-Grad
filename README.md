@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/67538fb858d9b0cf50b4ed10?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pleasanton, CA | Hybrid | Dec 06 |
+| **[Target](https://www.target.com)** | **[Associate Product Designer, Soft Goods](https://jobright.ai/jobs/info/67537e22228f358c5f2001c7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, MN | On Site | Dec 06 |
+| **[Custom Brands Group](https://www.vistaproducts.com)** | **[Product Designer - All Levels](https://jobright.ai/jobs/info/6753726a05d6f23c7ab202b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Memphis, TN | On Site | Dec 06 |
 | **[Legacy Restoration](https://www.legacyrestorationllc.com)** | **[Exterior Design Consultant](https://jobright.ai/jobs/info/675346a06fdffbed47857270?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orlando, FL | On Site | Dec 06 |
 | **[Coach](https://uk.coach.com)** | **[Design Print Assistant, Retail & Outlet](https://jobright.ai/jobs/info/67533ed0b2cc287548804358?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 06 |
 | **[Target](https://www.target.com)** | **[Associate Product Designer, Soft Goods](https://jobright.ai/jobs/info/67533a37663ee2f01753406b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | On Site | Dec 06 |
 | **[AutoVitals](https://www.autovitals.com)** | **[Website Implementation Specialist](https://jobright.ai/jobs/info/6753490f82c9003f19bfe8d3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 06 |
 | **[FranklinCovey](http://www.franklincovey.com)** | **[Junior Production Artist](https://jobright.ai/jobs/info/675242f750e7121ef19332c6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 06 |
+| **[Brooksource](http://www.brooksource.com)** | **[UX Operations Associate](https://jobright.ai/jobs/info/675380d21db810aa99739bd8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, IN | On Site | Dec 06 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6752fc4785ba71ad4af7f9d1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Myers, FL | On Site | Dec 06 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/6752fc4785ba71ad4af7f9d2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lewis Center, OH | On Site | Dec 06 |
 | **[Gerber Childrenswear LLC](http://www.gerberchildrenswear.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/6752b75d4965f007b8a9cd8f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 05 |
@@ -104,11 +108,10 @@ For a complete list, click the following sortable link below:
 | **[Richmond American Homes](http://ir.richmondamerican.com)** | **[Design Specialist](https://jobright.ai/jobs/info/6750ed16b9738d8a2b968b67?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Dec 04 |
 | **[Basic Resources, Inc.](http://basicresources.com)** | **[Assistant Designer - Socks](https://jobright.ai/jobs/info/6750e74839bafa1d9e36d0de?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 04 |
 | **[Ticketmaster](https://www.ticketmaster.com)** | **[Graphic Designer, Sales Enablement](https://jobright.ai/jobs/info/6750d1d714b64f38e3b6418b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nashville, TN | On Site | Dec 04 |
-| ↳ | **[Graphic Designer, Sales Enablement](https://jobright.ai/jobs/info/6750d1d714b64f38e3b6418c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orlando, FL | On Site | Dec 04 |
 | **[Minuteman Press](https://www.minutemanpress.com/)** | **[Print Graphic Designer](https://jobright.ai/jobs/info/6750bb84eb126c53ce4ad435?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Monroe, NC | On Site | Dec 04 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Graphic Designer, Sales Enablement](https://jobright.ai/jobs/info/6750c6b56d6cf2a9207a9b30?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX, USA | On Site | Dec 04 |
-| ↳ | **[Graphic Designer, Sales Enablement](https://jobright.ai/jobs/info/6750c3be6d6cf2a9207a8a76?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orlando, FL, USA | On Site | Dec 04 |
-| ↳ | **[Graphic Designer, Sales Enablement](https://jobright.ai/jobs/info/6750c6b56d6cf2a9207a9b32?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nashville, TN, USA | On Site | Dec 04 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Graphic Designer, Sales Enablement](https://jobright.ai/jobs/info/6750c3be6d6cf2a9207a8a76?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orlando, FL, USA | On Site | Dec 04 |
+| ↳ | **[Graphic Designer, Sales Enablement](https://jobright.ai/jobs/info/6750c6b56d6cf2a9207a9b2e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nashville, TN, USA | On Site | Dec 04 |
+| ↳ | **[Graphic Designer, Sales Enablement](https://jobright.ai/jobs/info/6750c6b56d6cf2a9207a9b30?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX, USA | On Site | Dec 04 |
 | **[Octane Marketing](https://octanemarketing.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/675096f8339e6dff7841fb6c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 04 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Associate Product Designer](https://jobright.ai/jobs/info/67508cd592f694aabdfbeda2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York | On Site | Dec 04 |
 | ↳ | **[Associate Product Designer](https://jobright.ai/jobs/info/67508e5792f694aabdfbf758?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | On Site | Dec 04 |
@@ -191,7 +194,4 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/67517f4d6fc072742ff7ea72?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Glen Burnie, MD | On Site | Nov 30 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/6751790bce3c697290c20bde?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sanford, FL | On Site | Nov 30 |
 | **[Living Spaces Furniture](https://www.livingspaces.com/)** | **[Visual Stylist (full-time)](https://jobright.ai/jobs/info/672d43fc880efda237b5621d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Frisco, TX | On Site | Nov 30 |
-| **[Crate and Barrel](http://crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/67353afc388cd9b23b439e0d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Torrance, CA | On Site | Nov 30 |
-| **[IKEA](http://www.ikea.com/)** | **[Visual Merchandising Specialist](https://jobright.ai/jobs/info/674ab99281c2a563c3cc5984?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bloomington, MN | On Site | Nov 29 |
-| **[Western Carolina University](http://www.wcu.edu/)** | **[Western Carolina University is hiring: SAS Production Designer in Cullowhee](https://jobright.ai/jobs/info/674aa2431b1015e47c1d3774?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cullowhee, NC | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
