@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CGI Digital](https://cgidigital.com)** | **[CGI Digital / Web Designer / rochester, ny](https://jobright.ai/jobs/info/6755c78fadc0f65b07c11a4d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, NY | On Site | Dec 08 |
 | **[PAIGE](http://www.paige.com/)** | **[Junior Web Designer](https://jobright.ai/jobs/info/67551958b26fcc5d009eba2b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Culver City, CA | On Site | Dec 07 |
 | **[Crate and Barrel](http://crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/6754dc158a3c385dd998f183?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lone Tree, CO | On Site | Dec 07 |
-| **[Prelim](https://useoriginal.com)** | **[Designer, Product](https://jobright.ai/jobs/info/675570ec2969c02d84554cd5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco | Hybrid | Dec 07 |
-| **[Larson Systems Inc](https://www.larsonsystems.com/)** | **[Associate Content Producer](https://jobright.ai/jobs/info/67555ac4bd4797960a8c57c5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Olmsted, OH | On Site | Dec 07 |
-| ↳ | **[Associate Content Producer](https://jobright.ai/jobs/info/67555ba6bd4797960a8c61a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Maumee, OH | On Site | Dec 07 |
+| **[Larson Systems Inc](https://www.larsonsystems.com/)** | **[Associate Content Producer](https://jobright.ai/jobs/info/67555ac4bd4797960a8c57a1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Maumee, OH | On Site | Dec 07 |
+| ↳ | **[Associate Content Producer](https://jobright.ai/jobs/info/67555ac4bd4797960a8c57c5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Olmsted, OH | On Site | Dec 07 |
 | **[BEDGEAR](http://bedgear.com)** | **[Digital Graphic Designer - FREELANCE](https://jobright.ai/jobs/info/6754553ff5b68069037a89ad?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Farmingdale, NY | On Site | Dec 07 |
 | **[West Elm](https://www.westelm.com/)** | **[Design Studio Spc/Home Stylist, Full Time, New York City - West Elm](https://jobright.ai/jobs/info/67365d90f1547d21a6f71251?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 06 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6753a1ccf9f7affa28bd4db5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Virginia Beach, VA | On Site | Dec 06 |
@@ -170,7 +170,4 @@ For a complete list, click the following sortable link below:
 | **[Red River Commodities Inc](https://redriv.com)** | **[Packaging Associate](https://jobright.ai/jobs/info/674e21af0eebee95207110ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Horace, ND | On Site | Dec 02 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6751655fbce97eca70aba3aa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Petersburg, FL | On Site | Dec 02 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6752a9f20ae601acc42a85e3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hendersonville, TN | On Site | Dec 01 |
-| **[Macmillan](http://macmillan.com)** | **[Junior Designer, Flatiron](https://jobright.ai/jobs/info/674619d3089791e6908fceeb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 01 |
-| **[Natori](http://natori.com)** | **[Assistant Fashion Designer](https://jobright.ai/jobs/info/674cf7036ebc57c913cdb8dd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 01 |
-| **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Design Studio Spc/Home Stylist, Part Time Flex, Park Meadows](https://jobright.ai/jobs/info/66dbafb5c0f4058ca6ee38b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Littleton, CO | On Site | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
