@@ -58,7 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Crate and Barrel](http://crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/6754dc158a3c385dd998f183?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lone Tree, CO | On Site | Dec 07 |
-| **[Prelim](https://prelim.com/)** | **[Designer, Product](https://jobright.ai/jobs/info/6754cc4b0337cd5957a10d43?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco | Hybrid | Dec 07 |
+| **[Prelim](https://prelim.com/)** | **[Designer, Product](https://jobright.ai/jobs/info/675500f8ea8488f46b8c1a82?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco | Hybrid | Dec 07 |
 | **[BEDGEAR](http://bedgear.com)** | **[Digital Graphic Designer - FREELANCE](https://jobright.ai/jobs/info/6754553ff5b68069037a89ad?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Farmingdale, NY | On Site | Dec 07 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6753a1ccf9f7affa28bd4db5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Virginia Beach, VA | On Site | Dec 06 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/6753a1ccf9f7affa28bd4d95?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tualatin, OR | On Site | Dec 06 |
@@ -172,8 +172,4 @@ For a complete list, click the following sortable link below:
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Design Studio Spc/Home Stylist, Part Time Flex, Park Meadows](https://jobright.ai/jobs/info/66dbafb5c0f4058ca6ee38b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Littleton, CO | On Site | Dec 01 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Flex Male Model - Culver City Photo Studio](https://jobright.ai/jobs/info/6718cd6d5e94349538dff0cc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Culver City, CA | On Site | Dec 01 |
 | **[SparkHouse LLC](http://www.sparkhousepeople.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/674ca85bb024ab7f19140f7b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver Metropolitan Area | Hybrid | Dec 01 |
-| **[Evolve](http://evolve.com)** | **[Freelance real estate photographer](https://jobright.ai/jobs/info/674aa2e5aa29fc9336cf2850?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Peck, MT | On Site | Dec 01 |
-| **[Neiman Marcus Group](https://www.neimanmarcusgroup.com)** | **[Visual Stylist, Visual Merchandising- Fashion Island](https://jobright.ai/jobs/info/66f7574f16223968c5308872?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newport Beach, CA | On Site | Dec 01 |
-| **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/672ff70bad0d12896577d53c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Norwalk, CT | Hybrid | Dec 01 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6752ccfc81e5e0c234f5aa31?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Coral Springs, FL | On Site | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
