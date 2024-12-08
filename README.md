@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crate and Barrel](http://crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/6754dc158a3c385dd998f183?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lone Tree, CO | On Site | Dec 07 |
+| **[Prelim](https://prelim.com/)** | **[Designer, Product](https://jobright.ai/jobs/info/6754cc4b0337cd5957a10d43?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco | Hybrid | Dec 07 |
 | **[BEDGEAR](http://bedgear.com)** | **[Digital Graphic Designer - FREELANCE](https://jobright.ai/jobs/info/6754553ff5b68069037a89ad?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Farmingdale, NY | On Site | Dec 07 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6753a1ccf9f7affa28bd4db5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Virginia Beach, VA | On Site | Dec 06 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/6753a1ccf9f7affa28bd4d95?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tualatin, OR | On Site | Dec 06 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/6753a1ccf9f7affa28bd4da3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port Chester, NY | On Site | Dec 06 |
-| **[Crate and Barrel](http://crateandbarrel.com)** | **[Design Coordinator](https://jobright.ai/jobs/info/6753a45499bec8a92ebc9cd8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lone Tree, CO | On Site | Dec 06 |
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/67538fb858d9b0cf50b4ed10?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pleasanton, CA | Hybrid | Dec 06 |
 | **[Target](https://www.target.com)** | **[Associate Product Designer, Soft Goods](https://jobright.ai/jobs/info/67537e22228f358c5f2001c7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, MN | On Site | Dec 06 |
+| **[CarData, Inc. - Car Dealer Photographers](https://www.cardata.us)** | **[Assistant Automotive photographer](https://jobright.ai/jobs/info/6754b585c766be822841ebbf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Detroit, MI | On Site | Dec 06 |
 | **[Custom Brands Group](https://www.vistaproducts.com)** | **[Product Designer - All Levels](https://jobright.ai/jobs/info/6753726a05d6f23c7ab202b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Memphis, TN | On Site | Dec 06 |
 | **[Legacy Restoration](https://www.legacyrestorationllc.com)** | **[Exterior Design Consultant](https://jobright.ai/jobs/info/675346a06fdffbed47857270?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orlando, FL | On Site | Dec 06 |
 | **[Coach](https://uk.coach.com)** | **[Design Print Assistant, Retail & Outlet](https://jobright.ai/jobs/info/67533ed0b2cc287548804358?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 06 |
@@ -111,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Richmond American Homes](http://ir.richmondamerican.com)** | **[Design Specialist](https://jobright.ai/jobs/info/6750ed16b9738d8a2b968b67?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Dec 04 |
 | **[Basic Resources, Inc.](http://basicresources.com)** | **[Assistant Designer - Socks](https://jobright.ai/jobs/info/6750e74839bafa1d9e36d0de?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 04 |
 | **[Minuteman Press](https://www.minutemanpress.com/)** | **[Print Graphic Designer](https://jobright.ai/jobs/info/6750bb84eb126c53ce4ad435?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Monroe, NC | On Site | Dec 04 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Graphic Designer, Sales Enablement](https://jobright.ai/jobs/info/6750c6b56d6cf2a9207a9b31?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orlando, FL, USA | On Site | Dec 04 |
 | **[Octane Marketing](https://octanemarketing.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/675096f8339e6dff7841fb6c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 04 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Associate Product Designer](https://jobright.ai/jobs/info/67508cd592f694aabdfbeda2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York | On Site | Dec 04 |
 | ↳ | **[Associate Product Designer](https://jobright.ai/jobs/info/67508e5792f694aabdfbf758?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | On Site | Dec 04 |
@@ -175,7 +176,4 @@ For a complete list, click the following sortable link below:
 | **[Neiman Marcus Group](https://www.neimanmarcusgroup.com)** | **[Visual Stylist, Visual Merchandising- Fashion Island](https://jobright.ai/jobs/info/66f7574f16223968c5308872?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newport Beach, CA | On Site | Dec 01 |
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/672ff70bad0d12896577d53c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Norwalk, CT | Hybrid | Dec 01 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6752ccfc81e5e0c234f5aa31?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Coral Springs, FL | On Site | Dec 01 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/6751655fbce97eca70aba3c7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Glendale, AZ | On Site | Dec 01 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6752a3611136b4377e7cc455?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sanford, FL | On Site | Nov 30 |
-| **[Pursuit Collection](https://www.pursuitcollection.com)** | **[Landscaper (Windsong Lodge)](https://jobright.ai/jobs/info/674cbafc9e2a9cba914dd9d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 31772 Herman Leirer Road, Seward, AK, US | On Site | Nov 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
