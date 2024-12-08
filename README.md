@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PAIGE](http://www.paige.com/)** | **[Junior Web Designer](https://jobright.ai/jobs/info/67551958b26fcc5d009eba2b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Culver City, CA | On Site | Dec 07 |
 | **[Crate and Barrel](http://crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/6754dc158a3c385dd998f183?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lone Tree, CO | On Site | Dec 07 |
-| **[Prelim](https://prelim.com/)** | **[Designer, Product](https://jobright.ai/jobs/info/675500f8ea8488f46b8c1a82?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco | Hybrid | Dec 07 |
+| **[Larson Systems Inc](https://www.larsonsystems.com/)** | **[Associate Content Producer](https://jobright.ai/jobs/info/67555ac4bd4797960a8c57c5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Olmsted, OH | On Site | Dec 07 |
+| ↳ | **[Associate Content Producer](https://jobright.ai/jobs/info/67555ba6bd4797960a8c61a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Maumee, OH | On Site | Dec 07 |
 | **[BEDGEAR](http://bedgear.com)** | **[Digital Graphic Designer - FREELANCE](https://jobright.ai/jobs/info/6754553ff5b68069037a89ad?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Farmingdale, NY | On Site | Dec 07 |
+| **[West Elm](https://www.westelm.com/)** | **[Design Studio Spc/Home Stylist, Full Time, New York City - West Elm](https://jobright.ai/jobs/info/67365d90f1547d21a6f71251?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 06 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6753a1ccf9f7affa28bd4db5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Virginia Beach, VA | On Site | Dec 06 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/6753a1ccf9f7affa28bd4d95?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tualatin, OR | On Site | Dec 06 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/6753a1ccf9f7affa28bd4da3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port Chester, NY | On Site | Dec 06 |
@@ -76,10 +79,10 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6752fc4785ba71ad4af7f9d1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Myers, FL | On Site | Dec 06 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/6752fc4785ba71ad4af7f9d2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lewis Center, OH | On Site | Dec 06 |
 | **[West Elm](https://www.westelm.com/)** | **[Design Studio Spc/Home Stylist, Part Time, New York City - West Elm](https://jobright.ai/jobs/info/67365d90f1547d21a6f7123f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 06 |
-| **[Gerber Childrenswear LLC](http://www.gerberchildrenswear.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/6752b75d4965f007b8a9cd8f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 05 |
-| **[FranklinCovey](http://www.franklincovey.com)** | **[Junior Production Artist](https://jobright.ai/jobs/info/6752639aa34201362b97a3d2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 05 |
+| **[Gerber Childrenswear LLC](http://www.gerberchildrenswear.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/67529e27b370c532700d55e7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 05 |
 | **[FedEx Dataworks](https://www.fedex.com/en-us/dataworks.html)** | **[Product Designer - All Levels](https://jobright.ai/jobs/info/67527c4832296ad4c303e7e5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 05 |
 | ↳ | **[Product Designer - All Levels](https://jobright.ai/jobs/info/6752764211364e1b8c79502c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Memphis, TN | On Site | Dec 05 |
+| **[FranklinCovey](http://www.franklincovey.com)** | **[Production Artist](https://jobright.ai/jobs/info/6752639aa34201362b97a3d2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 05 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/67525fc6ba6f0664db7cec03?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Midlothian, VA | On Site | Dec 05 |
 | **[OLIVER Agency](https://www.oliver.agency/)** | **[Junior Art Director](https://jobright.ai/jobs/info/67524ac6a37ed175a1202c21?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Dec 05 |
 | **[Crate and Barrel](http://crateandbarrel.com)** | **[Design Coordinator](https://jobright.ai/jobs/info/67525450aa97982b0d1d88d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lone Tree, CO | On Site | Dec 05 |
@@ -108,7 +111,7 @@ For a complete list, click the following sortable link below:
 | **[EOS Fitness](http://eosfitness.com/location/las-vegas-northwest/)** | **[EōS Fitness / Graphic Designer / dallas, tx](https://jobright.ai/jobs/info/675131540b08f615c75aa97e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | On Site | Dec 04 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6752639aa34201362b97a4a8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Summerfield, FL | On Site | Dec 04 |
 | **[SHEIN Distribution Corporation](https://sheingroup.com/)** | **[Ecommerce Stylist](https://jobright.ai/jobs/info/672e6286ba7c400b12a4504d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Dec 04 |
-| **[Danone](https://www.danone.com/)** | **[Production Coordinator/Junior Graphic Designer](https://jobright.ai/jobs/info/675112a67d08800822a8679d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | White Plains, NY | Hybrid | Dec 04 |
+| **[Danone](https://www.danone.com/)** | **[Production Coordinator/Junior Graphic Designer](https://jobright.ai/jobs/info/67510b2784136c9ace9ef733?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | White Plains, NY | Hybrid | Dec 04 |
 | **[International Paper](http://www.internationalpaper.com/)** | **[Packaging Design Associate](https://jobright.ai/jobs/info/6750e79f72412a83e9de3114?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Paul, MN | On Site | Dec 04 |
 | **[Richmond American Homes](http://ir.richmondamerican.com)** | **[Design Specialist](https://jobright.ai/jobs/info/6750ed16b9738d8a2b968b67?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Dec 04 |
 | **[Basic Resources, Inc.](http://basicresources.com)** | **[Assistant Designer - Socks](https://jobright.ai/jobs/info/6750e74839bafa1d9e36d0de?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 04 |
@@ -171,5 +174,4 @@ For a complete list, click the following sortable link below:
 | **[Natori](http://natori.com)** | **[Assistant Fashion Designer](https://jobright.ai/jobs/info/674cf7036ebc57c913cdb8dd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 01 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Design Studio Spc/Home Stylist, Part Time Flex, Park Meadows](https://jobright.ai/jobs/info/66dbafb5c0f4058ca6ee38b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Littleton, CO | On Site | Dec 01 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Flex Male Model - Culver City Photo Studio](https://jobright.ai/jobs/info/6718cd6d5e94349538dff0cc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Culver City, CA | On Site | Dec 01 |
-| **[SparkHouse LLC](http://www.sparkhousepeople.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/674ca85bb024ab7f19140f7b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver Metropolitan Area | Hybrid | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
