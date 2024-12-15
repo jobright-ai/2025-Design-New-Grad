@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Evolve](http://evolve.com)** | **[Freelance real estate photographer](https://jobright.ai/jobs/info/674aec973de94cb332cd7fb2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Amarillo, TX | On Site | Dec 15 |
 | **[Premier Brands Group Holdings](https://www.linkedin.com/company/80318658)** | **[Design Assistant, Wholesale Apparel](https://jobright.ai/jobs/info/675e59d26ecda6a3ee3b6b89?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 14 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Assistant Director of Graphic Design - Marketing & Branding](https://jobright.ai/jobs/info/675de7f464cb939c56c3ee36?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Laramie, WY | On Site | Dec 14 |
 | **[Drexel University](http://drexel.edu)** | **[Designer](https://jobright.ai/jobs/info/675db2bc9de3c5c28c969e31?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pennsylvania, United States | Hybrid | Dec 14 |
@@ -151,11 +152,10 @@ For a complete list, click the following sortable link below:
 | **[ReaderLink](http://www.readerlink.net/)** | **[Media Specialist](https://jobright.ai/jobs/info/66cd040e61254d856a2dfd34?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Dec 11 |
 | **[That's No Moon](http://www.thatsnomoon.com/)** | **[Environment Artist, World Builder (Project Hire)](https://jobright.ai/jobs/info/675a8f1c8bc1abb223881427?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Dec 11 |
 | **[Naughty Dog](http://www.naughtydog.com)** | **[Associate Technical Designer (Contingent)](https://jobright.ai/jobs/info/675a79068c83cfcf436860ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Dec 11 |
-| **[US Government Accountability Office](http://gao.gov)** | **[IT Specialist (ENTARCH)](https://jobright.ai/jobs/info/675a7384e5431e8e43e37161?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Dec 11 |
-| **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Entry Level Interior Designer](https://jobright.ai/jobs/info/675a5effdd36453a149cc968?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | Hybrid | Dec 11 |
+| **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Entry Level Architectural Designer](https://jobright.ai/jobs/info/675a5effdd36453a149cc96a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | Hybrid | Dec 11 |
+| ↳ | **[Entry Level Interior Designer](https://jobright.ai/jobs/info/675a5effdd36453a149cc968?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | Hybrid | Dec 11 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Oral B Graphic Designer](https://jobright.ai/jobs/info/675a5be086a886787ac211da?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mason, OH | On Site | Dec 11 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Online Graphics Designer](https://jobright.ai/jobs/info/66037bb99970234a181c5a75?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Harrisburg, PA | On Site | Dec 11 |
-| **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Entry Level Architectural Designer](https://jobright.ai/jobs/info/675a40c879e6ee62bd0553dc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | Hybrid | Dec 11 |
 | **[Ariat International](http://www.ariat.com)** | **[Associate Designer, Women's Denim](https://jobright.ai/jobs/info/675a173d95726f060cb101db?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Leandro, CA | Hybrid | Dec 11 |
 | ↳ | **[Associate Designer - Men's & Women's Workwear Bottoms (Denim & Non-Denim)](https://jobright.ai/jobs/info/675a3375199ecf4b1bb0ab60?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Leandro, CA | Hybrid | Dec 11 |
 | **[Chickasaw Nation Industries, Inc.](http://www.chickasaw.com/)** | **[Technical Editor (for IFIT)](https://jobright.ai/jobs/info/675a0ee83990bc365b6f7c40?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | On Site | Dec 11 |
