@@ -93,8 +93,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0d4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dublin, OH | Hybrid | Dec 21 |
 | ↳ | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rosemont, IL | Hybrid | Dec 21 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Framing Team Member](https://jobright.ai/jobs/info/676748ac0aa22d27f1ae91ed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Massapequa-5500 Sunrise Hwy | On Site | Dec 21 |
-| **[Brand Momentum](http://brandmomentum.ca/)** | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0ca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Trumbull, CT | Hybrid | Dec 21 |
-| ↳ | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0cf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Farmington, CT | Hybrid | Dec 21 |
+| **[Brand Momentum](http://brandmomentum.ca/)** | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0cf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Farmington, CT | Hybrid | Dec 21 |
+| ↳ | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0ca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Trumbull, CT | Hybrid | Dec 21 |
 | ↳ | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0dd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Waterford, CT | Hybrid | Dec 21 |
 | ↳ | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0cb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | Hybrid | Dec 21 |
 | ↳ | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Valley Stream, NY | Hybrid | Dec 21 |
