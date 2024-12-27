@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MP: Wired for HR](https://www.mp-hr.com)** | **[Landscape Architect](https://jobright.ai/jobs/info/676e1ccd4647566b7d0f93aa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, IN | On Site | Dec 26 |
+| **[Huntsman Architectural Group](http://huntsmanag.com)** | **[Interior Designer](https://jobright.ai/jobs/info/676df48a1c3841172cb658b8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco Bay Area | Hybrid | Dec 26 |
 | **[Coalition, Inc.](https://www.coalitioninc.com/)** | **[WEB DESIGNER](https://jobright.ai/jobs/info/676de3b24ebb4f8136f34c46?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA | On Site | Dec 26 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Framer and Designer Bonus Opportunity](https://jobright.ai/jobs/info/676dc2b8758b49ade3f6a3b4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Littleton-5382 S Wadsworth Blvd | On Site | Dec 26 |
 | **[La-Z-Boy Incorporated](http://www.la-z-boy.com)** | **[Home Interior Designer & Sales](https://jobright.ai/jobs/info/676db2cace86a76b03e7b778?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Broomfield, CO | On Site | Dec 26 |
@@ -97,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[VISUAL INFORMATION SPECIALIST](https://jobright.ai/jobs/info/6768f92a9ca663ec3c86d78a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 22 |
 | **[INTEGRO](http://www.integroteam.com)** | **[Vehicle Photographer](https://jobright.ai/jobs/info/6768c65b2e490ff9fb04601e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Leesburg, FL | On Site | Dec 22 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6751790bce3c697290c20bde?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sanford, FL | On Site | Dec 22 |
-| **[Brand Momentum](http://brandmomentum.ca/)** | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0d4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dublin, OH | Hybrid | Dec 21 |
-| ↳ | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0d0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Riverhead, NY | Hybrid | Dec 21 |
+| **[Brand Momentum](http://brandmomentum.ca/)** | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0d0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Riverhead, NY | Hybrid | Dec 21 |
+| ↳ | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0d4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dublin, OH | Hybrid | Dec 21 |
 | ↳ | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rosemont, IL | Hybrid | Dec 21 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Framing Team Member](https://jobright.ai/jobs/info/676748ac0aa22d27f1ae91ed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Massapequa-5500 Sunrise Hwy | On Site | Dec 21 |
 | **[Brand Momentum](http://brandmomentum.ca/)** | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0cf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Farmington, CT | Hybrid | Dec 21 |
@@ -129,12 +131,9 @@ For a complete list, click the following sortable link below:
 | **[Greenlight](https://greenlight.com/)** | **[Brand Designer](https://jobright.ai/jobs/info/6765c9fbced9849f88f5afe0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 20 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6765c378bd64c72f98b4d59d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Dec 20 |
 | **[Macy's](http://www.macysjobs.com)** | **[Technical Design Assistant](https://jobright.ai/jobs/info/6765bf009c097dd2e369f3d2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 151 West 34th Street, New York, NY, 10001, US | On Site | Dec 20 |
-| **[3D Systems Corporation](http://www.3dsystems.com)** | **[Entry BioMedical Designer](https://jobright.ai/jobs/info/67659eb769a36b8a824242e8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA-CO-Littleton | On Site | Dec 20 |
-| ↳ | **[Entry BioMedical Designer](https://jobright.ai/jobs/info/67659eb769a36b8a82424201?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-CO-Littleton | On Site | Dec 20 |
+| **[3D Systems Corporation](http://www.3dsystems.com)** | **[Entry BioMedical Designer](https://jobright.ai/jobs/info/67659eb769a36b8a82424201?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-CO-Littleton | On Site | Dec 20 |
+| ↳ | **[Entry BioMedical Designer](https://jobright.ai/jobs/info/67659eb769a36b8a824242e8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA-CO-Littleton | On Site | Dec 20 |
 | **[Fresno Pacific University](http://www.fresno.edu/)** | **[Graphic Designer](https://jobright.ai/jobs/info/67659d3fff0b26e679a7fa71?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fresno, CA | On Site | Dec 20 |
 | **[Macy's](http://www.macysjobs.com)** | **[Assistant Designer, Style + Co](https://jobright.ai/jobs/info/6765877c8dd969908c708599?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 151 West 34th Street, New York, NY, 10001, US | On Site | Dec 20 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Junior Designer - Architecture](https://jobright.ai/jobs/info/67247d63c7cf5acc17d6f363?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Dec 20 |
-| **[Cox Automotive Inc.](http://www.coxautoinc.com)** | **[Vehicle Photographer I (Manheim)](https://jobright.ai/jobs/info/676587d260d9be1023fe25aa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Flat Rock, MI | On Site | Dec 20 |
-| **[Trigent Software Inc](http://www.trigent.com/)** | **[Graphic Designer- 26482-1](https://jobright.ai/jobs/info/6766b04c06ede25c5bb7e5cc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Elkhart County, IN | On Site | Dec 20 |
-| ↳ | **[Graphic Designer- 26486-1/25608-1](https://jobright.ai/jobs/info/6766aac540ac02af776338da?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Elkhart County, IN | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
