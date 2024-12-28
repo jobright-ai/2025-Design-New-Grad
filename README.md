@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TAWANI Enterprises, Inc.](https://www.tawanienterprises.com/)** | **[Book Layout Designer](https://jobright.ai/jobs/info/676f7ac6a280ddda606fb434?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Dec 27 |
 | **[HHB Systems](http://www.thehhg.com)** | **[Interior Designer & Project Coordinator](https://jobright.ai/jobs/info/676f59cec27d6fe8a34c9184?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ithaca, NY | On Site | Dec 27 |
 | **[Aritzia](https://www.aritzia.com/)** | **[Associate, Technical Design](https://jobright.ai/jobs/info/676f463cc8deb60410d61db4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Support Office (Vancouver) | On Site | Dec 27 |
 | **[Minuteman Press](https://www.minutemanpress.com/)** | **[Graphic Designer/Print Production](https://jobright.ai/jobs/info/676f21511fff2fd54cd428f2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Peachtree Corners, GA | On Site | Dec 27 |
@@ -112,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[VISUAL INFORMATION SPECIALIST](https://jobright.ai/jobs/info/6768f92a9ca663ec3c86d78a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 22 |
 | **[INTEGRO](http://www.integroteam.com)** | **[Vehicle Photographer](https://jobright.ai/jobs/info/6768c65b2e490ff9fb04601e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Leesburg, FL | On Site | Dec 22 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6751790bce3c697290c20bde?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sanford, FL | On Site | Dec 22 |
-| **[Brand Momentum](http://brandmomentum.ca/)** | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0d4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dublin, OH | Hybrid | Dec 21 |
-| ↳ | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0d0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Riverhead, NY | Hybrid | Dec 21 |
+| **[Brand Momentum](http://brandmomentum.ca/)** | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0d0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Riverhead, NY | Hybrid | Dec 21 |
+| ↳ | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0d4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dublin, OH | Hybrid | Dec 21 |
 | ↳ | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rosemont, IL | Hybrid | Dec 21 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Framing Team Member](https://jobright.ai/jobs/info/676748ac0aa22d27f1ae91ed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Massapequa-5500 Sunrise Hwy | On Site | Dec 21 |
 | **[Brand Momentum](http://brandmomentum.ca/)** | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0ca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Trumbull, CT | Hybrid | Dec 21 |
@@ -124,5 +125,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0df?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Paramus, NJ | Hybrid | Dec 21 |
 | ↳ | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lawrenceville, NJ | Hybrid | Dec 21 |
 | **[Situation Group](https://situationinc.com)** | **[Junior Designer](https://jobright.ai/jobs/info/67672a5aab2a36cec8faedd5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 21 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6752ccfc81e5e0c234f5aa31?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Coral Springs, FL | On Site | Dec 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
