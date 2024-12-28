@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Minuteman Press](https://www.minutemanpress.com/)** | **[Graphic Designer/Print Production](https://jobright.ai/jobs/info/676f21511fff2fd54cd428f2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Peachtree Corners, GA | On Site | Dec 27 |
+| **[Pottery Barn](http://www.potterybarn.com)** | **[Design Studio Spc/Home Stylist, Full Time, Walt Whitman - Pottery Barn](https://jobright.ai/jobs/info/676f0d33cd4dffc47d311ccc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Huntington, NY | On Site | Dec 27 |
+| ↳ | **[Visual Associate, Part Time Flex, UTC San Diego- Pottery Barn](https://jobright.ai/jobs/info/66dfa5128be9eed0078bf028?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | Hybrid | Dec 27 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Design Studio Spc/Home Stylist, Full Time, Walt Whitman - Pottery Barn](https://jobright.ai/jobs/info/676eeec0103b497d0cee0157?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 160 Walt Whitman Road, Huntington Station, NY, 11746-4130, US | On Site | Dec 27 |
 | **[S&ME](https://www.smeinc.com)** | **[Architectural Historian](https://jobright.ai/jobs/info/676ef17076fd369c16e9ab2e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Charleston, SC | Hybrid | Dec 27 |
-| **[Parallel](https://www.useparallel.com/)** | **[Marketing Designer](https://jobright.ai/jobs/info/676e55832c63ea4c00c8fc1d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 26 |
 | **[MP: Wired for HR](https://www.mp-hr.com)** | **[Landscape Architect](https://jobright.ai/jobs/info/676e1ccd4647566b7d0f93aa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, IN | On Site | Dec 26 |
+| **[IKEA](http://www.ikea.com/)** | **[Visual Merchandising Specialist](https://jobright.ai/jobs/info/676f3123969db1fda088d0b8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fishers, IN | On Site | Dec 26 |
 | **[Huntsman Architectural Group](http://huntsmanag.com)** | **[Interior Designer](https://jobright.ai/jobs/info/676df48a1c3841172cb658b8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco Bay Area | Hybrid | Dec 26 |
 | **[Coalition, Inc.](https://www.coalitioninc.com/)** | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/676e24b7cf9953e7d8039736?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Dec 26 |
 | ↳ | **[WEB DESIGNER](https://jobright.ai/jobs/info/676de3b24ebb4f8136f34c46?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA | On Site | Dec 26 |
@@ -95,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Cuhaci Peterson®](http://c-p.com)** | **[Architectural Designer (On-Site)](https://jobright.ai/jobs/info/6769e0a5b216aafa8031e27a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orlando, FL | On Site | Dec 23 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Creative Services Producer](https://jobright.ai/jobs/info/6769d2a2648f6b58fd42685c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, NY | On Site | Dec 23 |
 | **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Entry Level Interior Designer](https://jobright.ai/jobs/info/675a5effdd36453a149cc968?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | Hybrid | Dec 23 |
-| **[Guidehouse](https://guidehouse.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/6769db01fb66ca28739281bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bethesda, MD | On Site | Dec 23 |
 | **[Ethan Allen Global, Inc.](http://ethanallen.com)** | **[700 - Designers - RE-Design Consultant - Exempt](https://jobright.ai/jobs/info/6769d7ab4bc9082f52f91b7d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hyannis, MA | Remote | Dec 23 |
 | **[Axle](https://axleinfo.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/6769ca42a4b4331ff0ba95f3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bethesda, MD | On Site | Dec 23 |
 | **[Genesis10](http://www.genesis10.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/6769d314065fbe2ef5f5d593?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Milwaukee, WI | Remote | Dec 23 |
@@ -117,12 +119,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0dd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Waterford, CT | Hybrid | Dec 21 |
 | ↳ | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0cb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | Hybrid | Dec 21 |
 | ↳ | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Valley Stream, NY | Hybrid | Dec 21 |
-| ↳ | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0df?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Paramus, NJ | Hybrid | Dec 21 |
 | ↳ | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lawrenceville, NJ | Hybrid | Dec 21 |
+| ↳ | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0df?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Paramus, NJ | Hybrid | Dec 21 |
 | **[Situation Group](https://situationinc.com)** | **[Junior Designer](https://jobright.ai/jobs/info/67672a5aab2a36cec8faedd5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 21 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6752ccfc81e5e0c234f5aa31?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Coral Springs, FL | On Site | Dec 21 |
 | **[Armstrong World Industries](https://www.armstrongceilings.com)** | **[Architectural Designer Job](https://jobright.ai/jobs/info/66f338880781054364dcf287?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Dec 21 |
 | **[West Elm](https://www.westelm.com/)** | **[Design Studio Spc/Home , Part Time Flex, Emeryville- West Elm](https://jobright.ai/jobs/info/66d7ba43e59e25fd874fee84?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Emeryville, CA | On Site | Dec 21 |
-| **[Mars United Commerce](http://www.themarsagency.com)** | **[Associate Art Director](https://jobright.ai/jobs/info/676e5c46ac3f86c2da837bc1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 20 |
-| **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Display Artist - Part-Time Temporary](https://jobright.ai/jobs/info/67666a9b24f59257632f37cd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bloomington, MN | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
