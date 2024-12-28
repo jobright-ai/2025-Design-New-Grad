@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HHB Systems](http://www.thehhg.com)** | **[Interior Designer & Project Coordinator](https://jobright.ai/jobs/info/676f59cec27d6fe8a34c9184?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ithaca, NY | On Site | Dec 27 |
+| **[Aritzia](https://www.aritzia.com/)** | **[Associate, Technical Design](https://jobright.ai/jobs/info/676f463cc8deb60410d61db4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Support Office (Vancouver) | On Site | Dec 27 |
 | **[Minuteman Press](https://www.minutemanpress.com/)** | **[Graphic Designer/Print Production](https://jobright.ai/jobs/info/676f21511fff2fd54cd428f2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Peachtree Corners, GA | On Site | Dec 27 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Design Studio Spc/Home Stylist, Full Time, Walt Whitman - Pottery Barn](https://jobright.ai/jobs/info/676f0d33cd4dffc47d311ccc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Huntington, NY | On Site | Dec 27 |
 | ↳ | **[Visual Associate, Part Time Flex, UTC San Diego- Pottery Barn](https://jobright.ai/jobs/info/66dfa5128be9eed0078bf028?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | Hybrid | Dec 27 |
@@ -119,10 +121,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0dd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Waterford, CT | Hybrid | Dec 21 |
 | ↳ | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0cb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | Hybrid | Dec 21 |
 | ↳ | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Valley Stream, NY | Hybrid | Dec 21 |
-| ↳ | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lawrenceville, NJ | Hybrid | Dec 21 |
 | ↳ | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0df?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Paramus, NJ | Hybrid | Dec 21 |
+| ↳ | **[Jewelry Merchandising Specialist](https://jobright.ai/jobs/info/67679bf614809a29259ce0d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lawrenceville, NJ | Hybrid | Dec 21 |
 | **[Situation Group](https://situationinc.com)** | **[Junior Designer](https://jobright.ai/jobs/info/67672a5aab2a36cec8faedd5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 21 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6752ccfc81e5e0c234f5aa31?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Coral Springs, FL | On Site | Dec 21 |
-| **[Armstrong World Industries](https://www.armstrongceilings.com)** | **[Architectural Designer Job](https://jobright.ai/jobs/info/66f338880781054364dcf287?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Dec 21 |
-| **[West Elm](https://www.westelm.com/)** | **[Design Studio Spc/Home , Part Time Flex, Emeryville- West Elm](https://jobright.ai/jobs/info/66d7ba43e59e25fd874fee84?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Emeryville, CA | On Site | Dec 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
