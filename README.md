@@ -112,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[Macy's](http://www.macysjobs.com)** | **[Visual Support Captain, Mall of New Hampshire - Full Time](https://jobright.ai/jobs/info/676943537b8128d55237e1ae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 1500 South Willow Street - Space S200, Manchester, NH, 03103, US | On Site | Dec 23 |
 | ↳ | **[Visual Support Captain, White Oaks - Full Time](https://jobright.ai/jobs/info/676943537b8128d55237e1c2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 104 White Oaks Mall, Springfield, IL, 62704, US | On Site | Dec 23 |
 | **[U.S. Customs and Border Protection](http://www.cbp.gov)** | **[VISUAL INFORMATION SPECIALIST](https://jobright.ai/jobs/info/6768f92a9ca663ec3c86d78a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 22 |
-| **[INTEGRO](http://www.integroteam.com)** | **[Vehicle Photographer](https://jobright.ai/jobs/info/6768c65b2e490ff9fb04601e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Leesburg, FL | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
