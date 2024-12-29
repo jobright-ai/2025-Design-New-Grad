@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bloomingdale's](http://www.bloomingdales.com)** | **[Visual Support Associate, Full Time - Lenox Square](https://jobright.ai/jobs/info/677124cfe4d8653f8a18dbe5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 3393 Peachtree Road NE, Atlanta, GA, 30326, US | On Site | Dec 29 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Web Design Project Coordinator](https://jobright.ai/jobs/info/650346f7cf1212e32d79e96e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Harrisburg, PA | On Site | Dec 28 |
 | **[TAWANI Enterprises, Inc.](https://www.tawanienterprises.com/)** | **[Book Layout Designer](https://jobright.ai/jobs/info/676f7ac6a280ddda606fb434?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Dec 27 |
 | **[HHB Systems](http://www.thehhg.com)** | **[Interior Designer & Project Coordinator](https://jobright.ai/jobs/info/676f59cec27d6fe8a34c9184?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ithaca, NY | On Site | Dec 27 |
