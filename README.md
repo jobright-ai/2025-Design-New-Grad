@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Restaurant365](https://www.restaurant365.com)** | **[Associate Video and Motion Graphics Designer](https://jobright.ai/jobs/info/6772d0dc925d8b95632effd2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Akron, OH | Remote | Dec 30 |
+| **[Atlas](https://www.oneatlas.com)** | **[Asset Tagging Specialist (Digital Support Specialist)](https://jobright.ai/jobs/info/6772cf312625f33f08f5df11?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 30 |
+| **[Macy's](http://www.macysjobs.com)** | **[Design Production Assistant](https://jobright.ai/jobs/info/6772b4b9ddc7758d286b555c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Hybrid | Dec 30 |
 | **[NV5](http://www.nv5.com)** | **[Assistant Landscape Architect](https://jobright.ai/jobs/info/66909fd3bb6223b93a70a372?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Melville, NY | On Site | Dec 29 |
 | **[Bloomingdale's](http://www.bloomingdales.com)** | **[Visual Support Associate, Full Time - Lenox Square](https://jobright.ai/jobs/info/677124cfe4d8653f8a18dbe5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 3393 Peachtree Road NE, Atlanta, GA, 30326, US | On Site | Dec 29 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Web Design Project Coordinator](https://jobright.ai/jobs/info/650346f7cf1212e32d79e96e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Harrisburg, PA | On Site | Dec 28 |
@@ -96,9 +99,4 @@ For a complete list, click the following sortable link below:
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Design Studio Spc/Home Stylist, Full Time, South Coast Plaza- Pottery Barn](https://jobright.ai/jobs/info/66d90ce33f9a9804662cce13?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Costa Mesa, CA | Hybrid | Dec 24 |
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/676a4cd2f49b97f5793b33c1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Missoula, MT | Hybrid | Dec 23 |
 | **[1stDibs](http://www.1stdibs.com)** | **[Art + Design Research Team Coordinator](https://jobright.ai/jobs/info/676ce7c3ba443c96b22bac8b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 23 |
-| **[SHEIN Distribution Corporation](https://sheingroup.com/)** | **[Styling Assistant,Creative Content Production](https://jobright.ai/jobs/info/676a0aa7a4167ab74136c1ed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Dec 23 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/676a0b3c85c07af8bb87c9c5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Highlands Ranch, CO | On Site | Dec 23 |
-| **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/672ff70bad0d12896577d53c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Norwalk, CT | Hybrid | Dec 23 |
-| **[Fisher Investments](https://www.fisherinvestments.com/en-us)** | **[US Content Associate](https://jobright.ai/jobs/info/6760c9a9a86abb290e394961?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Camas, WA | On Site | Dec 23 |
-| **[Axle](https://axleinfo.com/)** | **[Graphic Designer ](https://jobright.ai/jobs/info/6769e0a5b216aafa8031e268?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bethesda, MD | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
