@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NV5](http://www.nv5.com)** | **[Assistant Landscape Architect](https://jobright.ai/jobs/info/66909fd3bb6223b93a70a372?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Melville, NY | On Site | Dec 29 |
 | **[Bloomingdale's](http://www.bloomingdales.com)** | **[Visual Support Associate, Full Time - Lenox Square](https://jobright.ai/jobs/info/677124cfe4d8653f8a18dbe5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 3393 Peachtree Road NE, Atlanta, GA, 30326, US | On Site | Dec 29 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Web Design Project Coordinator](https://jobright.ai/jobs/info/650346f7cf1212e32d79e96e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Harrisburg, PA | On Site | Dec 28 |
 | **[TAWANI Enterprises, Inc.](https://www.tawanienterprises.com/)** | **[Book Layout Designer](https://jobright.ai/jobs/info/676f7ac6a280ddda606fb434?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Dec 27 |
@@ -108,7 +109,4 @@ For a complete list, click the following sortable link below:
 | **[Genesis10](http://www.genesis10.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/6769d314065fbe2ef5f5d593?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Milwaukee, WI | Remote | Dec 23 |
 | ↳ | **[UI/UX Designer](https://jobright.ai/jobs/info/6769d314065fbe2ef5f5d5b8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 23 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6769b6c499b96e9da8036ade?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Highlands Ranch, CO | On Site | Dec 23 |
-| **[ICP DAS USA, Inc.](https://www.icpdas-usa.com/)** | **[Part Time Web Developer / Graphic Designer](https://jobright.ai/jobs/info/6769595287a707eb0ad2cbb4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Dec 23 |
-| **[Macy's](http://www.macysjobs.com)** | **[Visual Support Captain, Mall of New Hampshire - Full Time](https://jobright.ai/jobs/info/676943537b8128d55237e1ae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 1500 South Willow Street - Space S200, Manchester, NH, 03103, US | On Site | Dec 23 |
-| ↳ | **[Visual Support Captain, White Oaks - Full Time](https://jobright.ai/jobs/info/676943537b8128d55237e1c2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 104 White Oaks Mall, Springfield, IL, 62704, US | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
