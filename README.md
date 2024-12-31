@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Supergoop!](http://www.supergoop.com/)** | **[Coordinator, Production Artist](https://jobright.ai/jobs/info/67734dda5d4789873e7acdc8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 30 |
+| **[Restaurant365](https://www.restaurant365.com)** | **[Associate Video and Motion Graphics Designer](https://jobright.ai/jobs/info/677354e15886aece8d3eca78?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Akron, OH | On Site | Dec 30 |
+| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Full-Time Frontend Supervisor](https://jobright.ai/jobs/info/67734d7764c176b9c43d0e37?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Findlay, OH | On Site | Dec 30 |
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Entry Level Lighting Designer](https://jobright.ai/jobs/info/677327289db38b96a8da12b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Detroit, MI | Hybrid | Dec 30 |
 | **[Canon Solutions America](https://csa.canon.com)** | **[Presentation Graphic Design Rep.](https://jobright.ai/jobs/info/677325aba5c7f83e81072fa9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 30 |
 | **[bet365](http://www.bet365.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/67731c30e647b348c3f1d436?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Dec 30 |
@@ -101,5 +104,4 @@ For a complete list, click the following sortable link below:
 | **[High Life LLC](http://highlifellc.com)** | **[Assistant Designer - Women's Activewear](https://jobright.ai/jobs/info/66f5b993bca33ea7379ac8ef?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 24 |
 | **[Cox Automotive Inc.](http://www.coxautoinc.com)** | **[Vehicle Photographer I (Manheim)](https://jobright.ai/jobs/info/676b05a1517b91c27f24be3a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Aurora, CO | On Site | Dec 24 |
 | **[Crate and Barrel](http://crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/6747b4d2c4b3a59cc09e1195?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 24 |
-| **[Pottery Barn](http://www.potterybarn.com)** | **[Design Studio Spc/Home Stylist, Full Time, South Coast Plaza- Pottery Barn](https://jobright.ai/jobs/info/66d90ce33f9a9804662cce13?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Costa Mesa, CA | Hybrid | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
