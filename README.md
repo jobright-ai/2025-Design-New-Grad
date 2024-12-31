@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pride Mobility Products Corporation](http://www.pridemobility.com)** | **[Technical Writer & Illustration Designer](https://jobright.ai/jobs/info/677387a0cb5ebb8d6d24bbcd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Duryea, PA | On Site | Dec 30 |
 | **[Supergoop!](http://www.supergoop.com/)** | **[Coordinator, Production Artist](https://jobright.ai/jobs/info/67734dda5d4789873e7acdc8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 30 |
 | **[Restaurant365](https://www.restaurant365.com)** | **[Associate Video and Motion Graphics Designer](https://jobright.ai/jobs/info/677354e15886aece8d3eca78?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Akron, OH | On Site | Dec 30 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Full-Time Frontend Supervisor](https://jobright.ai/jobs/info/67734d7764c176b9c43d0e37?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Findlay, OH | On Site | Dec 30 |
@@ -102,6 +103,4 @@ For a complete list, click the following sortable link below:
 | **[CGI Digital](https://cgidigital.com)** | **[Web Designer](https://jobright.ai/jobs/info/676b80842c5d84a75d076d6b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, NY | On Site | Dec 24 |
 | **[Bloomingdale's](http://www.bloomingdales.com)** | **[Visual Support Associate, Full Time - Sherman Oaks](https://jobright.ai/jobs/info/676b5242678638a11d44f894?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 14060 Riverside Drive, Sherman Oaks, CA, 91423, US | On Site | Dec 24 |
 | **[High Life LLC](http://highlifellc.com)** | **[Assistant Designer - Women's Activewear](https://jobright.ai/jobs/info/66f5b993bca33ea7379ac8ef?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 24 |
-| **[Cox Automotive Inc.](http://www.coxautoinc.com)** | **[Vehicle Photographer I (Manheim)](https://jobright.ai/jobs/info/676b05a1517b91c27f24be3a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Aurora, CO | On Site | Dec 24 |
-| **[Crate and Barrel](http://crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/6747b4d2c4b3a59cc09e1195?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
