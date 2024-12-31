@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[West Elm](https://www.westelm.com/)** | **[Design Studio Spc/Home Stylist, Full Time, Cherry Creek - West Elm](https://jobright.ai/jobs/info/66e477a484f6dd4cba6dc77e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Dec 31 |
 | **[Pride Mobility Products Corporation](http://www.pridemobility.com)** | **[Technical Writer & Illustration Designer](https://jobright.ai/jobs/info/677387a0cb5ebb8d6d24bbcd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Duryea, PA | On Site | Dec 30 |
 | **[Supergoop!](http://www.supergoop.com/)** | **[Coordinator, Production Artist](https://jobright.ai/jobs/info/67734dda5d4789873e7acdc8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 30 |
 | **[Restaurant365](https://www.restaurant365.com)** | **[Associate Video and Motion Graphics Designer](https://jobright.ai/jobs/info/677354e15886aece8d3eca78?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Akron, OH | On Site | Dec 30 |
@@ -102,5 +103,4 @@ For a complete list, click the following sortable link below:
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Design Studio Spc/Home Stylist, Full-TIme, Vernon Hills - Pottery Barn](https://jobright.ai/jobs/info/66d76862bffec3fd860490fb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Scarsdale, NY | On Site | Dec 24 |
 | **[CGI Digital](https://cgidigital.com)** | **[Web Designer](https://jobright.ai/jobs/info/676b80842c5d84a75d076d6b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, NY | On Site | Dec 24 |
 | **[Bloomingdale's](http://www.bloomingdales.com)** | **[Visual Support Associate, Full Time - Sherman Oaks](https://jobright.ai/jobs/info/676b5242678638a11d44f894?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 14060 Riverside Drive, Sherman Oaks, CA, 91423, US | On Site | Dec 24 |
-| **[High Life LLC](http://highlifellc.com)** | **[Assistant Designer - Women's Activewear](https://jobright.ai/jobs/info/66f5b993bca33ea7379ac8ef?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
