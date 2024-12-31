@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Free People](http://www.freepeople.com)** | **[Free People Assistant Visual Manager](https://jobright.ai/jobs/info/67742c1b52896187eb6ed535?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Rosa Beach, FL | On Site | Dec 31 |
+| **[Macy's](http://www.macysjobs.com)** | **[Seasonal Concept Artist](https://jobright.ai/jobs/info/677423a9fbabcda106820758?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 140 State Street, Moonachie, NJ, 07074, US | On Site | Dec 31 |
+| ↳ | **[Concept Artist](https://jobright.ai/jobs/info/67741a9e78d26bd964956c06?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Hybrid | Dec 31 |
 | **[West Elm](https://www.westelm.com/)** | **[Design Studio Spc/Home Stylist, Full Time, Cherry Creek - West Elm](https://jobright.ai/jobs/info/66e477a484f6dd4cba6dc77e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Dec 31 |
+| **[Living Spaces Furniture](https://www.livingspaces.com/)** | **[Retail Visual Stylist (part-time/full-time)](https://jobright.ai/jobs/info/66ab0b5b6d0826a127224940?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fremont, CA | On Site | Dec 31 |
 | **[Pride Mobility Products Corporation](http://www.pridemobility.com)** | **[Technical Writer & Illustration Designer](https://jobright.ai/jobs/info/677387a0cb5ebb8d6d24bbcd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Duryea, PA | On Site | Dec 30 |
 | **[Supergoop!](http://www.supergoop.com/)** | **[Coordinator, Production Artist](https://jobright.ai/jobs/info/67734dda5d4789873e7acdc8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 30 |
 | **[Restaurant365](https://www.restaurant365.com)** | **[Associate Video and Motion Graphics Designer](https://jobright.ai/jobs/info/677354e15886aece8d3eca78?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Akron, OH | On Site | Dec 30 |
@@ -101,6 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/675184aee4db8bcf1a9dbbc0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, ME | On Site | Dec 25 |
 | **[Living Spaces Furniture](https://www.livingspaces.com/)** | **[Retail Visual Stylist (full-time)](https://jobright.ai/jobs/info/67464f4681cc97c8a07969a7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Friendswood, TX | On Site | Dec 25 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Design Studio Spc/Home Stylist, Full-TIme, Vernon Hills - Pottery Barn](https://jobright.ai/jobs/info/66d76862bffec3fd860490fb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Scarsdale, NY | On Site | Dec 24 |
-| **[CGI Digital](https://cgidigital.com)** | **[Web Designer](https://jobright.ai/jobs/info/676b80842c5d84a75d076d6b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, NY | On Site | Dec 24 |
-| **[Bloomingdale's](http://www.bloomingdales.com)** | **[Visual Support Associate, Full Time - Sherman Oaks](https://jobright.ai/jobs/info/676b5242678638a11d44f894?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 14060 Riverside Drive, Sherman Oaks, CA, 91423, US | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
