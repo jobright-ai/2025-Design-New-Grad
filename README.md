@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SmithGroup](https://www.smithgroup.com/)** | **[Entry Level Lighting Designer](https://jobright.ai/jobs/info/677327289db38b96a8da12b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Detroit, MI | Hybrid | Dec 30 |
+| **[Canon Solutions America](https://csa.canon.com)** | **[Presentation Graphic Design Rep.](https://jobright.ai/jobs/info/677325aba5c7f83e81072fa9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 30 |
+| **[bet365](http://www.bet365.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/67731c30e647b348c3f1d436?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Dec 30 |
+| **[Pride Mobility Products Corporation](http://www.pridemobility.com)** | **[Technical Writer & Illustration Designer](https://jobright.ai/jobs/info/677321e163be56730f283412?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Duryea, PA | Hybrid | Dec 30 |
+| **[Red River Commodities Inc](https://redriv.com)** | **[Packaging Associate](https://jobright.ai/jobs/info/6772f3ce322d07292e18b7d8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Horace, ND | On Site | Dec 30 |
 | **[Restaurant365](https://www.restaurant365.com)** | **[Associate Video and Motion Graphics Designer](https://jobright.ai/jobs/info/6772d0dc925d8b95632effd2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Akron, OH | Remote | Dec 30 |
 | **[Atlas](https://www.oneatlas.com)** | **[Asset Tagging Specialist (Digital Support Specialist)](https://jobright.ai/jobs/info/6772cf312625f33f08f5df11?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 30 |
 | **[Macy's](http://www.macysjobs.com)** | **[Design Production Assistant](https://jobright.ai/jobs/info/6772b4b9ddc7758d286b555c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Hybrid | Dec 30 |
@@ -97,6 +102,4 @@ For a complete list, click the following sortable link below:
 | **[Cox Automotive Inc.](http://www.coxautoinc.com)** | **[Vehicle Photographer I (Manheim)](https://jobright.ai/jobs/info/676b05a1517b91c27f24be3a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Aurora, CO | On Site | Dec 24 |
 | **[Crate and Barrel](http://crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/6747b4d2c4b3a59cc09e1195?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 24 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Design Studio Spc/Home Stylist, Full Time, South Coast Plaza- Pottery Barn](https://jobright.ai/jobs/info/66d90ce33f9a9804662cce13?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Costa Mesa, CA | Hybrid | Dec 24 |
-| **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/676a4cd2f49b97f5793b33c1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Missoula, MT | Hybrid | Dec 23 |
-| **[1stDibs](http://www.1stdibs.com)** | **[Art + Design Research Team Coordinator](https://jobright.ai/jobs/info/676ce7c3ba443c96b22bac8b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
