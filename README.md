@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Free People](http://www.freepeople.com)** | **[Free People Assistant Visual Manager](https://jobright.ai/jobs/info/67748038b6368cde0bb4805e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Spokane, WA | On Site | Dec 31 |
+| **[The ODP Corporation](https://news.theodpcorp.com/newsroom)** | **[Retail Print Manager](https://jobright.ai/jobs/info/6774831fcb79f73ae8fa8e86?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Orleans, LA | On Site | Dec 31 |
 | **[Free People](http://www.freepeople.com)** | **[Free People Assistant Visual Manager](https://jobright.ai/jobs/info/67742c1b52896187eb6ed535?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Rosa Beach, FL | On Site | Dec 31 |
 | **[Macy's](http://www.macysjobs.com)** | **[Seasonal Concept Artist](https://jobright.ai/jobs/info/677423a9fbabcda106820758?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 140 State Street, Moonachie, NJ, 07074, US | On Site | Dec 31 |
 | ↳ | **[Concept Artist](https://jobright.ai/jobs/info/67741a9e78d26bd964956c06?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Hybrid | Dec 31 |
@@ -103,6 +105,4 @@ For a complete list, click the following sortable link below:
 | **[West Elm](https://www.westelm.com/)** | **[Design Studio Spc/Home Stylist, Part Time Flex, Roseville - West Elm](https://jobright.ai/jobs/info/67170dd166f4c4e7b6a85e9b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Roseville, CA | On Site | Dec 25 |
 | **[Liaison Group](https://liaisongroup.com)** | **[Window Treatment Designer - Hybrid Role](https://jobright.ai/jobs/info/676bf8c0c917f3e4f8781019?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Naples, FL | Hybrid | Dec 25 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/675184aee4db8bcf1a9dbbc0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, ME | On Site | Dec 25 |
-| **[Living Spaces Furniture](https://www.livingspaces.com/)** | **[Retail Visual Stylist (full-time)](https://jobright.ai/jobs/info/67464f4681cc97c8a07969a7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Friendswood, TX | On Site | Dec 25 |
-| **[Pottery Barn](http://www.potterybarn.com)** | **[Design Studio Spc/Home Stylist, Full-TIme, Vernon Hills - Pottery Barn](https://jobright.ai/jobs/info/66d76862bffec3fd860490fb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Scarsdale, NY | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
