@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red River Commodities Inc](https://redriv.com)** | **[Packaging Associate](https://jobright.ai/jobs/info/6774e5c0830c36943c42e89e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Horace, ND | On Site | Dec 31 |
 | **[Halff](https://www.halff.com/)** | **[Landscape Designer/Landscape Architect](https://jobright.ai/jobs/info/67749ed56658b85a073bb18a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Antonio, TX | On Site | Dec 31 |
 | **[Crate and Barrel](http://crateandbarrel.com)** | **[Design Coordinator](https://jobright.ai/jobs/info/6774a3230e20d1618cfa5b0c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beverly Hills, CA | On Site | Dec 31 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/67300c2b730adaa8320996e2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oak Brook, IL | On Site | Dec 31 |
 | **[Free People](http://www.freepeople.com)** | **[Free People Assistant Visual Manager](https://jobright.ai/jobs/info/67748038b6368cde0bb4805e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Spokane, WA | On Site | Dec 31 |
+| **[City of Lancaster](https://www.cityoflancasterca.org)** | **[Media Assistant- Graphic Design](https://jobright.ai/jobs/info/6774e5c0830c36943c42e79d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lancaster, CA | On Site | Dec 31 |
 | **[PAR Western Line Contractors, LLC](http://www.parwlc.com)** | **[CAD Designer](https://jobright.ai/jobs/info/6774b0790f1156321bba892d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Upland, CA | On Site | Dec 31 |
 | **[Pete & Gerry's Organics, LLC](http://peteandgerrys.com/)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/67631b9ee65139b20108fe10?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Massachusetts, United States | Remote | Dec 31 |
 | **[The ODP Corporation](https://news.theodpcorp.com/newsroom)** | **[Retail Print Manager](https://jobright.ai/jobs/info/6774831fcb79f73ae8fa8e86?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Orleans, LA | On Site | Dec 31 |
