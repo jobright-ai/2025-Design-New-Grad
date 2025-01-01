@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Halff](https://www.halff.com/)** | **[Landscape Designer/Landscape Architect](https://jobright.ai/jobs/info/67749ed56658b85a073bb18a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Antonio, TX | On Site | Dec 31 |
+| **[Crate and Barrel](http://crateandbarrel.com)** | **[Design Coordinator](https://jobright.ai/jobs/info/6774a3230e20d1618cfa5b0c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beverly Hills, CA | On Site | Dec 31 |
 | **[Free People](http://www.freepeople.com)** | **[Free People Assistant Visual Manager](https://jobright.ai/jobs/info/67748038b6368cde0bb4805e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Spokane, WA | On Site | Dec 31 |
+| **[PAR Western Line Contractors, LLC](http://www.parwlc.com)** | **[CAD Designer](https://jobright.ai/jobs/info/6774b0790f1156321bba892d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Upland, CA | On Site | Dec 31 |
+| **[Pete & Gerry's Organics, LLC](http://peteandgerrys.com/)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/67631b9ee65139b20108fe10?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Massachusetts, United States | Remote | Dec 31 |
 | **[The ODP Corporation](https://news.theodpcorp.com/newsroom)** | **[Retail Print Manager](https://jobright.ai/jobs/info/6774831fcb79f73ae8fa8e86?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Orleans, LA | On Site | Dec 31 |
 | **[Free People](http://www.freepeople.com)** | **[Free People Assistant Visual Manager](https://jobright.ai/jobs/info/67742c1b52896187eb6ed535?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Rosa Beach, FL | On Site | Dec 31 |
 | **[Macy's](http://www.macysjobs.com)** | **[Seasonal Concept Artist](https://jobright.ai/jobs/info/677423a9fbabcda106820758?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 140 State Street, Moonachie, NJ, 07074, US | On Site | Dec 31 |
@@ -100,9 +104,4 @@ For a complete list, click the following sortable link below:
 | **[Free People](http://www.freepeople.com)** | **[FP Movement Assistant Visual Manager](https://jobright.ai/jobs/info/672e54abfef80d45c0dfce74?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burlington, VT | On Site | Dec 26 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Design Studio Spc/Home Stylist, Seasonal/Flex Only, Annapolis- Pottery Barn](https://jobright.ai/jobs/info/67340f1066520aa2a129eded?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Annapolis, MD | On Site | Dec 26 |
 | **[Free People](http://www.freepeople.com)** | **[Free People Assistant Visual Manager](https://jobright.ai/jobs/info/6716a023adcdf95756a5611e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Germantown, TN | On Site | Dec 25 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6751538ddd395250885d64be?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Draper, UT | On Site | Dec 25 |
-| **[Vast](https://www.vast.space)** | **[Junior Brand Designer](https://jobright.ai/jobs/info/674fed97801dcb3cd5436e12?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Long Beach, CA | On Site | Dec 25 |
-| **[West Elm](https://www.westelm.com/)** | **[Design Studio Spc/Home Stylist, Part Time Flex, Roseville - West Elm](https://jobright.ai/jobs/info/67170dd166f4c4e7b6a85e9b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Roseville, CA | On Site | Dec 25 |
-| **[Liaison Group](https://liaisongroup.com)** | **[Window Treatment Designer - Hybrid Role](https://jobright.ai/jobs/info/676bf8c0c917f3e4f8781019?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Naples, FL | Hybrid | Dec 25 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/675184aee4db8bcf1a9dbbc0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, ME | On Site | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
