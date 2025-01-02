@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Full Time Frontend Supervisor](https://jobright.ai/jobs/info/6775f684c65f958efa7c16ba?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lima, OH | On Site | Jan 01 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[Design Consultant](https://jobright.ai/jobs/info/67756bbce82cd6081d6406e5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Reno, NV | On Site | Jan 01 |
 | **[Acosta](https://www.acosta.com)** | **[Merchandising Layout Designer](https://jobright.ai/jobs/info/670a2a3a043eb7a4ae74f248?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nashville, TN | Hybrid | Jan 01 |
+| ↳ | **[Merchandising Layout Designer](https://jobright.ai/jobs/info/670a2a3a043eb7a4ae74f315?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Goodlettsville, TN | Hybrid | Jan 01 |
 | **[Red River Commodities Inc](https://redriv.com)** | **[Packaging Associate](https://jobright.ai/jobs/info/6774e5c0830c36943c42e89e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Horace, ND | On Site | Dec 31 |
 | **[Halff](https://www.halff.com/)** | **[Landscape Designer/Landscape Architect](https://jobright.ai/jobs/info/67749ed56658b85a073bb18a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Antonio, TX | On Site | Dec 31 |
 | **[Crate and Barrel](http://crateandbarrel.com)** | **[Design Coordinator](https://jobright.ai/jobs/info/6774a3230e20d1618cfa5b0c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beverly Hills, CA | On Site | Dec 31 |
@@ -107,6 +109,4 @@ For a complete list, click the following sortable link below:
 | **[Michaels Stores](https://teachitpro.com)** | **[Framer and Designer Bonus Opportunity](https://jobright.ai/jobs/info/676dc2b8758b49ade3f6a3b4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Littleton-5382 S Wadsworth Blvd | On Site | Dec 26 |
 | **[La-Z-Boy Incorporated](http://www.la-z-boy.com)** | **[Home Interior Designer & Sales](https://jobright.ai/jobs/info/676db2cace86a76b03e7b778?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Broomfield, CO | On Site | Dec 26 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6752f1282b8c004f6cf3c7c9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bailey's Crossroads, VA | On Site | Dec 26 |
-| **[Free People](http://www.freepeople.com)** | **[FP Movement Assistant Visual Manager](https://jobright.ai/jobs/info/672e54abfef80d45c0dfce74?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burlington, VT | On Site | Dec 26 |
-| **[Pottery Barn](http://www.potterybarn.com)** | **[Design Studio Spc/Home Stylist, Seasonal/Flex Only, Annapolis- Pottery Barn](https://jobright.ai/jobs/info/67340f1066520aa2a129eded?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Annapolis, MD | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
