@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/673d319d8be7c227581a27cd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Jersey, United States | Hybrid | Jan 02 |
+| ↳ | **[Style Advisor](https://jobright.ai/jobs/info/673dd234ef77ec4af6d14a19?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Hybrid | Jan 02 |
+| **[TEGNA](http://www.tegna.com)** | **[CG Graphics Designer](https://jobright.ai/jobs/info/675881450ffcaa9a08d2d19e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Jan 02 |
+| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/672c15ca2b4b5de1922df4a3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newport Beach, CA | Hybrid | Jan 02 |
+| ↳ | **[Style Advisor](https://jobright.ai/jobs/info/673dd7fb8ceeff445d1f012b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 02 |
+| **[Scholastic](http://www.scholastic.com)** | **[Digital Asset Coordinator](https://jobright.ai/jobs/info/6776903655255bf7e9747873?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Miami-FTL Area | Remote | Jan 02 |
+| **[Pottery Barn](http://www.potterybarn.com)** | **[Design Studio Spc/Home Stylist, Full Time, Stuyvesant Plaza- Pottery Barn](https://jobright.ai/jobs/info/670463b91cff4cacbb3a1022?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Albany, NY | On Site | Jan 02 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Graphic Designer (part-time)](https://jobright.ai/jobs/info/677636628a6e64071b3b2621?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | UT MAIN CAMPUS | On Site | Jan 01 |
 | **[Virtuance](http://www.virtuance.com/residential.aspx)** | **[Virtuance Photographer Partner](https://jobright.ai/jobs/info/67763daf4efbcfb5b1b9ce43?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orlando, FL | On Site | Jan 01 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Full Time Frontend Supervisor](https://jobright.ai/jobs/info/6775f684c65f958efa7c16ba?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lima, OH | On Site | Jan 01 |
@@ -103,10 +110,4 @@ For a complete list, click the following sortable link below:
 | **[MP: Wired for HR](https://www.mp-hr.com)** | **[Landscape Architect](https://jobright.ai/jobs/info/676e1ccd4647566b7d0f93aa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, IN | On Site | Dec 26 |
 | **[IKEA](http://www.ikea.com/)** | **[Visual Merchandising Specialist](https://jobright.ai/jobs/info/676f3123969db1fda088d0b8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fishers, IN | On Site | Dec 26 |
 | **[Huntsman Architectural Group](http://huntsmanag.com)** | **[Interior Designer](https://jobright.ai/jobs/info/676df48a1c3841172cb658b8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco Bay Area | Hybrid | Dec 26 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6751655fbce97eca70aba3aa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Petersburg, FL | On Site | Dec 26 |
-| **[Coalition, Inc.](https://www.coalitioninc.com/)** | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/676e24b7cf9953e7d8039736?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Dec 26 |
-| ↳ | **[WEB DESIGNER](https://jobright.ai/jobs/info/676de3b24ebb4f8136f34c46?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA | On Site | Dec 26 |
-| ↳ | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/676e7295b21286dcff6f82d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Dec 26 |
-| **[Michaels Stores](https://teachitpro.com)** | **[Framer and Designer Bonus Opportunity](https://jobright.ai/jobs/info/676dc2b8758b49ade3f6a3b4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Littleton-5382 S Wadsworth Blvd | On Site | Dec 26 |
-| **[La-Z-Boy Incorporated](http://www.la-z-boy.com)** | **[Home Interior Designer & Sales](https://jobright.ai/jobs/info/676db2cace86a76b03e7b778?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Broomfield, CO | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
