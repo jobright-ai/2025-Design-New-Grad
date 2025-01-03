@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coalition, Inc.](https://www.coalitioninc.com/)** | **[WEB DESIGNER](https://jobright.ai/jobs/info/67770d5d81d9e42b2efc7dbf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA | On Site | Jan 02 |
+| ↳ | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/677719ed4bd6e79f7f292b84?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Jan 02 |
+| ↳ | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/67770d5d81d9e42b2efc7dc3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Jan 02 |
+| **[SBH Fashion](http://staffingbyhall.com)** | **[Women's Assistant Designer](https://jobright.ai/jobs/info/6776ff7c476c5d679125532a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 02 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6776f75aaee6d8937778839b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Richmond, VA | On Site | Jan 02 |
+| **[UNIQLO](https://www.uniqlo.com/jp/ja/)** | **[Freelance GU Content Creator (temporary)](https://jobright.ai/jobs/info/67605008443c8dabb3a94509?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 02 |
 | **[PVH Corp.](https://www.pvh.com)** | **[Designer I, Swim - Calvin Klein](https://jobright.ai/jobs/info/6776d88d021f0652f3513457?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 02 |
-| **[Liberty Personnel Services, Inc.](http://libertyjobs.com)** | **[CAD Designer](https://jobright.ai/jobs/info/6776c2c593f77e8ade1fa22e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Phoenix, AZ | Hybrid | Jan 02 |
 | **[TMT](https://www.technologymarketingtoolkit.com)** | **[Web Designer](https://jobright.ai/jobs/info/6776bd7e8baea6a38c81c245?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brentwood, TN | On Site | Jan 02 |
 | **[Atlas](https://www.oneatlas.com)** | **[Asset Tagging Specialist (Digital Support Specialist)](https://jobright.ai/jobs/info/6776d1877e242ab141188de5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bethpage, NY | On Site | Jan 02 |
 | **[Salesloft](http://salesloft.com)** | **[Associate Product Designer](https://jobright.ai/jobs/info/6776e1047cda6cce1d6c6d43?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | Remote | Jan 02 |
-| ↳ | **[Associate Product Designer](https://jobright.ai/jobs/info/6776b09fc088f2a15ac4021a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | On Site | Jan 02 |
+| **[4 Corner Resources](https://www.4cornerresources.com)** | **[Print Shop Associate](https://jobright.ai/jobs/info/67772242a5beea808ee124bb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sanford, FL | On Site | Jan 02 |
+| **[Salesloft](http://salesloft.com)** | **[Associate Product Designer](https://jobright.ai/jobs/info/6776b09fc088f2a15ac4021a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | On Site | Jan 02 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/673d319d8be7c227581a27cd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Jersey, United States | Hybrid | Jan 02 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/673dd234ef77ec4af6d14a19?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Hybrid | Jan 02 |
 | **[TEGNA](http://www.tegna.com)** | **[CG Graphics Designer](https://jobright.ai/jobs/info/675881450ffcaa9a08d2d19e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Jan 02 |
@@ -72,7 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6752711d44be0e45cc61af09?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Apple Valley, MN | On Site | Jan 02 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/672c15ca2b4b5de1922df4a3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newport Beach, CA | Hybrid | Jan 02 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/673dd7fb8ceeff445d1f012b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 02 |
-| **[Scholastic](http://www.scholastic.com)** | **[Digital Asset Coordinator](https://jobright.ai/jobs/info/6776903655255bf7e9747873?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Miami-FTL Area | Remote | Jan 02 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/67517fd461930b804be36286?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Antioch, TN | On Site | Jan 02 |
+| **[Perkins&Will](http://perkinswill.com)** | **[Designer I](https://jobright.ai/jobs/info/6757983871dfe981eca49931?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bainbridge Island, WA | On Site | Jan 02 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Design Studio Spc/Home Stylist, Full Time, Stuyvesant Plaza- Pottery Barn](https://jobright.ai/jobs/info/670463b91cff4cacbb3a1022?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Albany, NY | On Site | Jan 02 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Graphic Designer (part-time)](https://jobright.ai/jobs/info/677636628a6e64071b3b2621?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | UT MAIN CAMPUS | On Site | Jan 01 |
 | **[Virtuance](http://www.virtuance.com/residential.aspx)** | **[Virtuance Photographer Partner](https://jobright.ai/jobs/info/67763daf4efbcfb5b1b9ce43?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orlando, FL | On Site | Jan 01 |
