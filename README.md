@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Holman](http://www.holmanauto.com)** | **[Photographer/Lot Porter- Porsche San Diego](https://jobright.ai/jobs/info/6778acb347c8e2e31a462038?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Jan 03 |
+| **[Ethan Allen Global, Inc.](http://ethanallen.com)** | **[700 - Designers - RE-Design Consultant - (NE)](https://jobright.ai/jobs/info/6778af34f5af341966d790c7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Jan 03 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Merchandise Coordinator, Creative Services](https://jobright.ai/jobs/info/67789bc07a863a9e00c7268b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Jan 03 |
-| **[KeyBank](https://www.key.com)** | **[Associate Product Designer - Key Bank Enterprise Design Studio](https://jobright.ai/jobs/info/67789bc07a863a9e00c72849?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jan 03 |
-| ↳ | **[Associate Product Designer - Key Bank Enterprise Design Studio](https://jobright.ai/jobs/info/67789bc07a863a9e00c7273f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, OH | Remote | Jan 03 |
+| **[KeyBank](https://www.key.com)** | **[Associate Product Designer - Key Bank Enterprise Design Studio](https://jobright.ai/jobs/info/67789bc07a863a9e00c7273f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, OH | Remote | Jan 03 |
+| ↳ | **[Associate Product Designer - Key Bank Enterprise Design Studio](https://jobright.ai/jobs/info/67789bc07a863a9e00c72849?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jan 03 |
+| **[Sunny Sky Products](https://sunnyskyproducts.com)** | **[Packaging Associate, 3rd shift](https://jobright.ai/jobs/info/6778a70a1348604ae24f4837?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Jan 03 |
 | **[Lifetouch](http://lifetouch.com/)** | **[School Photographer](https://jobright.ai/jobs/info/677892e27ff864d44eb02c78?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Amarillo, TX | On Site | Jan 03 |
 | **[Ethan Allen Global, Inc.](http://ethanallen.com)** | **[700 - Designers - RE-Design Consultant - (NE)](https://jobright.ai/jobs/info/67788b0f4ba20ba73e76395f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA, USA | On Site | Jan 03 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Visual Associate, Full Time, Bellevue- Pottery Barn](https://jobright.ai/jobs/info/67787e4816cbfcaab79326d1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 212 Bellevue Square, Bellevue, WA, 98004, US | On Site | Jan 03 |
@@ -94,9 +97,12 @@ For a complete list, click the following sortable link below:
 | **[GALLO](https://www.gallo.com)** | **[Designer](https://jobright.ai/jobs/info/672a7ddd2d60e535f4ad1eb1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Modesto, CA | On Site | Jan 03 |
 | **[Lifetouch](http://lifetouch.com/)** | **[School Photographer](https://jobright.ai/jobs/info/6777a04c73e82ed5ceae1790?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bossier City, LA | On Site | Jan 02 |
 | ↳ | **[School Photographer](https://jobright.ai/jobs/info/6777d0eb12406e99a377b468?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wichita Falls, TX | On Site | Jan 02 |
+| **[Halff](https://www.halff.com/)** | **[Landscape Designer/Landscape Architect](https://jobright.ai/jobs/info/67749ed56658b85a073bb18a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Antonio, TX | On Site | Jan 02 |
+| **[Trigent Software Inc](http://www.trigent.com/)** | **[Media And Graphics Designer- 37186-1](https://jobright.ai/jobs/info/6778d98c81fb411e68561f27?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Elkhart County, IN | On Site | Jan 02 |
 | **[AKE Safety Equipment](https://www.ake.com/)** | **[Graphic Design and Marketing](https://jobright.ai/jobs/info/67778b96a2452d4a6ac51af5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, MN | On Site | Jan 02 |
 | **[Grunley Construction Company, Inc.](http://grunley.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/677754f1a97f39884fa16f5c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rockville, MD | Hybrid | Jan 02 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/677788b542fd4a1b41679077?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Arvada, CO | On Site | Jan 02 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/67515f5ff7bf2c8c071e2cc5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Antonio, TX | On Site | Jan 02 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/677788b542fd4a1b41679077?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Arvada, CO | On Site | Jan 02 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/677788b542fd4a1b4167907e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenville, SC | On Site | Jan 02 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/677788b542fd4a1b4167906f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Omaha, NE | On Site | Jan 02 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/677788b542fd4a1b41679076?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Omaha, NE | On Site | Jan 02 |
@@ -144,7 +150,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Merchandising Layout Designer](https://jobright.ai/jobs/info/670a2a3a043eb7a4ae74f315?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Goodlettsville, TN | Hybrid | Jan 01 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/67516f3a6a99bb601df04b2a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Gabriel, CA | On Site | Dec 31 |
 | **[Red River Commodities Inc](https://redriv.com)** | **[Packaging Associate](https://jobright.ai/jobs/info/6774e5c0830c36943c42e89e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Horace, ND | On Site | Dec 31 |
-| **[Halff](https://www.halff.com/)** | **[Landscape Designer/Landscape Architect](https://jobright.ai/jobs/info/67749ed56658b85a073bb18a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Antonio, TX | On Site | Dec 31 |
 | **[Crate and Barrel](http://crateandbarrel.com)** | **[Design Coordinator](https://jobright.ai/jobs/info/6774a3230e20d1618cfa5b0c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beverly Hills, CA | On Site | Dec 31 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/67300c2b730adaa8320996e2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oak Brook, IL | On Site | Dec 31 |
 | **[Free People](http://www.freepeople.com)** | **[Free People Assistant Visual Manager](https://jobright.ai/jobs/info/67748038b6368cde0bb4805e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Spokane, WA | On Site | Dec 31 |
