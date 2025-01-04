@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/673d35775ae63851b9ac88ec?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | The Woodlands, TX | Hybrid | Jan 04 |
+| ↳ | **[Style Advisor](https://jobright.ai/jobs/info/673dd234ef77ec4af6d14a0b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | Hybrid | Jan 04 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Designer, K-12](https://jobright.ai/jobs/info/6749631c818aa0a84e669fea?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | Hybrid | Jan 04 |
+| **[WebFX](https://www.webfx.com)** | **[Jr. Web Designer](https://jobright.ai/jobs/info/66037bcd9970234a181c5c02?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Harrisburg, PA | On Site | Jan 04 |
+| **[Barr Engineering Co.](http://www.barr.com)** | **[Landscape Architect/Ecological Restoration Designer – Entry Level (Hybrid)](https://jobright.ai/jobs/info/6747940d82cb281bbaa6a2c8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ann Arbor, MI | Hybrid | Jan 04 |
+| **[Fanatics](http://www.fanaticsinc.com)** | **[Artist](https://jobright.ai/jobs/info/672414d6c40604eb9ba1d1a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Winona, MN | On Site | Jan 04 |
+| **[Anduril Industries](https://www.anduril.com)** | **[Creative Operations Coordinator](https://jobright.ai/jobs/info/6779214f0ab81ffb08b10283?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Costa Mesa, CA | On Site | Jan 04 |
+| **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Tim Flex, Beverly Hills - Pottery Barn](https://jobright.ai/jobs/info/66fc43062d7e010a5071cd93?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beverly Hills, CA | On Site | Jan 04 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Creative Services Producer](https://jobright.ai/jobs/info/6778fc2abfe88e6fa7083fdd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, NY | On Site | Jan 04 |
 | **[Holman](http://www.holmanauto.com)** | **[Photographer/Lot Porter- Porsche San Diego](https://jobright.ai/jobs/info/6778acb347c8e2e31a462038?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Jan 03 |
 | **[Ethan Allen Global, Inc.](http://ethanallen.com)** | **[700 - Designers - RE-Design Consultant - (NE)](https://jobright.ai/jobs/info/6778af34f5af341966d790c7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Jan 03 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Merchandise Coordinator, Creative Services](https://jobright.ai/jobs/info/67789bc07a863a9e00c7268b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Jan 03 |
@@ -95,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[LMI](http://www.lmi.org)** | **[Multimedia Designer - TS/SCI with Polygraph Required](https://jobright.ai/jobs/info/6672f9151e5579f2c836a105?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | McLean, VA | On Site | Jan 03 |
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/6710ff5d545d7f27527ac368?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Poughkeepsie, NY | Hybrid | Jan 03 |
 | **[GALLO](https://www.gallo.com)** | **[Designer](https://jobright.ai/jobs/info/672a7ddd2d60e535f4ad1eb1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Modesto, CA | On Site | Jan 03 |
+| **[West Elm](https://www.westelm.com/)** | **[Design Studio Spc/Home Stylist, Part Time, New York City - West Elm](https://jobright.ai/jobs/info/67365d90f1547d21a6f7123f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 03 |
 | **[Lifetouch](http://lifetouch.com/)** | **[School Photographer](https://jobright.ai/jobs/info/6777a04c73e82ed5ceae1790?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bossier City, LA | On Site | Jan 02 |
 | ↳ | **[School Photographer](https://jobright.ai/jobs/info/6777d0eb12406e99a377b468?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wichita Falls, TX | On Site | Jan 02 |
 | **[Halff](https://www.halff.com/)** | **[Landscape Designer/Landscape Architect](https://jobright.ai/jobs/info/67749ed56658b85a073bb18a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Antonio, TX | On Site | Jan 02 |
