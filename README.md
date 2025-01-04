@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/677874d0e3f3cee275df1acd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 03 |
+| **[Lifetime Brands](http://www.lifetimebrands.com)** | **[Built - Designer](https://jobright.ai/jobs/info/67786e56e1658bda1f54d5b6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 03 |
+| **[Otter Tail Power Company](https://www.otpco.com/)** | **[Print Coordinator](https://jobright.ai/jobs/info/67786679ce805102f5278982?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fergus Falls, MN | On Site | Jan 03 |
+| **[CGI Digital](https://cgidigital.com)** | **[WordPress Web Designer](https://jobright.ai/jobs/info/67786f7caf6aa27a2ddbc41e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, NY | On Site | Jan 03 |
+| **[Macy's](http://www.macysjobs.com)** | **[Visual Support Captain, Shoppes At Buckland Hills - Full Time](https://jobright.ai/jobs/info/677852fdaa9c023802137d49?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 183 Pavilion Drive, Manchester, CT, 06042, US | On Site | Jan 03 |
+| **[Insidesource](https://www.insidesource.com/)** | **[Interior Design Associate](https://jobright.ai/jobs/info/67784d72acfbb7dfcc16fd69?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Jan 03 |
 | **[Whitestone](https://whitestonebranding.com/)** | **[Associate Creative Designer, Brand](https://jobright.ai/jobs/info/677834d928fa7de91330177f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Hybrid | Jan 03 |
 | **[Naughty Dog](http://www.naughtydog.com)** | **[Associate Technical Designer (Contingent)](https://jobright.ai/jobs/info/675a79068c83cfcf436860ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Jan 03 |
 | **[LHH](http://www.lhh.com)** | **[Content Creator](https://jobright.ai/jobs/info/67781e9fc102088c09c6ad6e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Export, PA | On Site | Jan 03 |
+| **[Shepherd University](https://www.shepherd.edu/)** | **[Graphic Design Director](https://jobright.ai/jobs/info/6778466d90275b7dd6e6f2f9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Shepherdstown, WV | On Site | Jan 03 |
 | **[SBH Fashion](http://staffingbyhall.com)** | **[Designer - Active](https://jobright.ai/jobs/info/6719b48091d9f7fbfc04281c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 03 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/673dd234ef77ec4af6d14a06?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Scottsdale, AZ | Hybrid | Jan 03 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/6759c4ef68137ef7f3d92aac?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Jan 03 |
@@ -74,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Lifetouch](http://lifetouch.com/)** | **[School Photographer](https://jobright.ai/jobs/info/6777a04c73e82ed5ceae1790?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bossier City, LA | On Site | Jan 02 |
 | ↳ | **[School Photographer](https://jobright.ai/jobs/info/6777d0eb12406e99a377b468?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wichita Falls, TX | On Site | Jan 02 |
 | **[AKE Safety Equipment](https://www.ake.com/)** | **[Graphic Design and Marketing](https://jobright.ai/jobs/info/67778b96a2452d4a6ac51af5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, MN | On Site | Jan 02 |
-| **[CGI Digital](https://cgidigital.com)** | **[WordPress Web Designer](https://jobright.ai/jobs/info/677783ccd1e4a616434a319f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, NY | On Site | Jan 02 |
 | **[Grunley Construction Company, Inc.](http://grunley.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/677754f1a97f39884fa16f5c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rockville, MD | Hybrid | Jan 02 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/677788b542fd4a1b41679077?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Arvada, CO | On Site | Jan 02 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/677788b542fd4a1b4167907e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenville, SC | On Site | Jan 02 |
@@ -151,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NV5](http://www.nv5.com)** | **[Assistant Landscape Architect](https://jobright.ai/jobs/info/66909fd3bb6223b93a70a372?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Melville, NY | On Site | Dec 29 |
 | **[Bloomingdale's](http://www.bloomingdales.com)** | **[Visual Support Associate, Full Time - Lenox Square](https://jobright.ai/jobs/info/677124cfe4d8653f8a18dbe5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 3393 Peachtree Road NE, Atlanta, GA, 30326, US | On Site | Dec 29 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Web Design Project Coordinator](https://jobright.ai/jobs/info/650346f7cf1212e32d79e96e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Harrisburg, PA | On Site | Dec 28 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6752cfb12f52aab336492470?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Louis, MO | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
