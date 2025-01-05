@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Creative Services Assistant (Part - Time)](https://jobright.ai/jobs/info/677a10324be1378a9d3b5943?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Harrisonburg, VA | On Site | Jan 04 |
 | **[Crate and Barrel](http://crateandbarrel.com)** | **[Design Coordinator](https://jobright.ai/jobs/info/6779d836554d9027ceea50dd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | White Plains, NY | On Site | Jan 04 |
 | **[Michaels Stores](https://teachitpro.com)** | **[PT Retail Custom Framing Team Member for Parker Michaels location](https://jobright.ai/jobs/info/6779a024c44c3b3b9ec34336?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Parker-11425 S Twenty Mile Rd | On Site | Jan 04 |
 | **[University of Hawai‘i System](http://www.hawaii.edu/)** | **[(Casual Hire) Digital Media Specialist](https://jobright.ai/jobs/info/677968ad098cb6faf1ecb7b7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hilo, HI | On Site | Jan 04 |
 | **[Vuori](https://www.vuoriclothing.com/)** | **[Assistant Designer, Women's](https://jobright.ai/jobs/info/6747bc6eeb630e4e92d90809?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Carlsbad, CA | On Site | Jan 04 |
+| **[AlphaSights](http://www.alphasights.com)** | **[Associate Product Designer](https://jobright.ai/jobs/info/67508e5792f694aabdfbf758?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | On Site | Jan 04 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/673d35775ae63851b9ac88ec?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | The Woodlands, TX | Hybrid | Jan 04 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/673dd234ef77ec4af6d14a0b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | Hybrid | Jan 04 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Designer, K-12](https://jobright.ai/jobs/info/6749631c818aa0a84e669fea?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | Hybrid | Jan 04 |
@@ -72,6 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Nordstrom](http://www.nordstrom.com)** | **[Flex Female Plus Model - Culver City Photo Studio](https://jobright.ai/jobs/info/6719bc3cf72af510bfc6d52f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Culver City, CA | On Site | Jan 04 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Tim Flex, Beverly Hills - Pottery Barn](https://jobright.ai/jobs/info/66fc43062d7e010a5071cd93?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beverly Hills, CA | On Site | Jan 04 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Creative Services Producer](https://jobright.ai/jobs/info/6778fc2abfe88e6fa7083fdd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, NY | On Site | Jan 04 |
+| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/673e9afb5f6856b1ced70b7d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, MN | Hybrid | Jan 03 |
+| **[Living Spaces Furniture](https://www.livingspaces.com/)** | **[Retail Visual Stylist](https://jobright.ai/jobs/info/6722b4f5fbc07db821e57730?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Draper, UT | On Site | Jan 03 |
 | **[Holman](http://www.holmanauto.com)** | **[Photographer/Lot Porter- Porsche San Diego](https://jobright.ai/jobs/info/6778acb347c8e2e31a462038?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Jan 03 |
 | **[Ethan Allen Global, Inc.](http://ethanallen.com)** | **[700 - Designers - RE-Design Consultant - (NE)](https://jobright.ai/jobs/info/6778af34f5af341966d790c7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Jan 03 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Merchandise Coordinator, Creative Services](https://jobright.ai/jobs/info/67789bc07a863a9e00c7268b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Jan 03 |
