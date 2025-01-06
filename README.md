@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/677bd6fe0e738268f36329bd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Countryside, IL | On Site | Jan 06 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/6751892ed74728d8764c761b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sacramento, CA | On Site | Jan 06 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/67519184aa7cc2a954fe8af7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Countryside, IL | On Site | Jan 06 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/675174994280c376496c35ab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Saugus, MA | On Site | Jan 06 |
 | **[Zillow](http://www.zillow.com)** | **[Photographer, Showingtime+ (Minneapolis, MN)](https://jobright.ai/jobs/info/677b511f3aa37af4d7c21bdb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote-MN | Remote | Jan 05 |
-| ↳ | **[Photographer, Showingtime+ (Sacramento, CA)](https://jobright.ai/jobs/info/677b511f3aa37af4d7c21bdc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote-CA | Remote | Jan 05 |
 | ↳ | **[Photographer, Showingtime+ (Washington, DC)](https://jobright.ai/jobs/info/677b511f3aa37af4d7c21bd6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote-DC | Remote | Jan 05 |
 | ↳ | **[Photographer, Showingtime+ (Columbus, OH)](https://jobright.ai/jobs/info/677b511f3aa37af4d7c21bd8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote-OH | Remote | Jan 05 |
+| ↳ | **[Photographer, Showingtime+ (Sacramento, CA)](https://jobright.ai/jobs/info/677b511f3aa37af4d7c21bdc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote-CA | Remote | Jan 05 |
 | ↳ | **[Photographer, Showingtime+ (Phoenix, AZ)](https://jobright.ai/jobs/info/677b511f3aa37af4d7c21bd7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote-USA | Remote | Jan 05 |
 | ↳ | **[Photographer, Showingtime+ (Philadelphia, PA)](https://jobright.ai/jobs/info/677b45c8fd02a8e917730506?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote-USA | Remote | Jan 05 |
 | ↳ | **[Photographer, Showingtime+ (Charlotte, NC)](https://jobright.ai/jobs/info/677b45c8fd02a8e917730507?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote-USA | Remote | Jan 05 |
@@ -212,6 +216,4 @@ For a complete list, click the following sortable link below:
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Full-Time Frontend Supervisor](https://jobright.ai/jobs/info/67734d7764c176b9c43d0e37?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Findlay, OH | On Site | Dec 30 |
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Entry Level Lighting Designer](https://jobright.ai/jobs/info/677327289db38b96a8da12b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Detroit, MI | Hybrid | Dec 30 |
 | **[Canon USA Business](https://csa.canon.com)** | **[Presentation Graphic Design Rep.](https://jobright.ai/jobs/info/677325aba5c7f83e81072fa9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 30 |
-| **[bet365](http://www.bet365.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/67731c30e647b348c3f1d436?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Dec 30 |
-| **[Pride Mobility Products Corporation](http://www.pridemobility.com)** | **[Technical Writer & Illustration Designer](https://jobright.ai/jobs/info/677321e163be56730f283412?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Duryea, PA | Hybrid | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
