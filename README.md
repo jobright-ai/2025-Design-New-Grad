@@ -57,15 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Macy's](http://www.macysjobs.com)** | **[Visual Support Captain, Ocean County Mall - Full Time](https://jobright.ai/jobs/info/679f4ae49d9a69bcf4dc3bfb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 1201 Hooper Avenue - Suite C, Toms River, NJ, 08753, US | On Site | Feb 02 |
 | **[Treanor](http://treanorhl.com)** | **[Architectural Designer](https://jobright.ai/jobs/info/679ef3fe1cce1953b8398474?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Mateo, CA | On Site | Feb 01 |
 | ↳ | **[Architectural Designer](https://jobright.ai/jobs/info/679ef4b31cce1953b8398d77?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sunnyvale, CA | On Site | Feb 01 |
 | ↳ | **[Architectural Designer](https://jobright.ai/jobs/info/679ef4b31cce1953b8398d78?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Alameda, CA | On Site | Feb 01 |
-| ↳ | **[Architectural Designer](https://jobright.ai/jobs/info/679ef4b31cce1953b8398d79?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Feb 01 |
 | ↳ | **[Architectural Designer](https://jobright.ai/jobs/info/679ef4b31cce1953b8398d7a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sonoma, CA | On Site | Feb 01 |
-| ↳ | **[Architectural Designer](https://jobright.ai/jobs/info/679ef4b31cce1953b8398d7c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hayward, CA | On Site | Feb 01 |
+| ↳ | **[Architectural Designer](https://jobright.ai/jobs/info/679ef4b31cce1953b8398d79?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Feb 01 |
 | ↳ | **[Architectural Designer](https://jobright.ai/jobs/info/679ef4b31cce1953b8398d7b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Clara, CA | On Site | Feb 01 |
-| ↳ | **[Architectural Designer](https://jobright.ai/jobs/info/679ef4b31cce1953b8398d7d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Feb 01 |
+| ↳ | **[Architectural Designer](https://jobright.ai/jobs/info/679ef4b31cce1953b8398d7c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hayward, CA | On Site | Feb 01 |
 | ↳ | **[Architectural Designer](https://jobright.ai/jobs/info/679ef4b31cce1953b8398d7e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Rosa, CA | On Site | Feb 01 |
+| ↳ | **[Architectural Designer](https://jobright.ai/jobs/info/679ef4b31cce1953b8398d7d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Feb 01 |
 | **[The Salvation Army USA Western Territory](https://southernusa.salvationarmy.org/central-oklahoma)** | **[Junior Designer](https://jobright.ai/jobs/info/679ed9516851cd8ae449d004?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ewa Beach, HI | On Site | Feb 01 |
 | **[Arcadis](http://www.arcadis.com)** | **[Architectural Designer 1](https://jobright.ai/jobs/info/679eb2531cee9b173d5aa2e8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Raleigh, NC | Hybrid | Feb 01 |
 | **[Mutual of Omaha](http://www.mutualofomaha.com)** | **[Digital Asset Management Librarian - Remote](https://jobright.ai/jobs/info/679e6bcb3bc52925f711bb01?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Feb 01 |
@@ -75,6 +76,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/67518cb01a0f1c9bc1e01384?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Metairie, LA | On Site | Feb 01 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/6752f1282b8c004f6cf3c852?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Murrieta, CA | On Site | Feb 01 |
 | **[Bloomingdale's](http://www.bloomingdales.com)** | **[Visual Support Associate, Full Time - Century City](https://jobright.ai/jobs/info/679df39e42f26c841ca0ed67?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 10250 Santa Monica Boulevard, Los Angeles, CA, 90067, US | On Site | Feb 01 |
+| **[Kim Seybert](https://kimseybert.com/)** | **[Assistant Designer / Product Development Assistant](https://jobright.ai/jobs/info/679f36d2cfc90cd3c93f992a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 31 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[UX Designer 1](https://jobright.ai/jobs/info/679dbf09879d1f5050cd5189?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Jan 31 |
 | **[SUNY Brockport](http://brockport.edu)** | **[Graphic Designer](https://jobright.ai/jobs/info/679d997dc022ee484c62d3e7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brockport, NY | On Site | Jan 31 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[UX Designer 1](https://jobright.ai/jobs/info/679d86d818295bf807fb936b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | HQ - San Diego, CA | On Site | Jan 31 |
@@ -103,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Design Coordinator](https://jobright.ai/jobs/info/6761e2d58ba3813cd91c408f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Folsom, CA | On Site | Jan 30 |
 | **[Wight & Company](http://wightco.com)** | **[Architectural Professional I](https://jobright.ai/jobs/info/679bff524fb1af735b056ab3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Darien, IL | Hybrid | Jan 30 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/679bd04c725a5d579c1165c3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mesa, AZ | On Site | Jan 30 |
+| **[Boston College](http://www.bc.edu)** | **[Football Creative Content Video and Graphic designer](https://jobright.ai/jobs/info/679bdab850598426d2aae472?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chestnut Hill, MA | On Site | Jan 30 |
 | **[Wight & Company](http://wightco.com)** | **[Architectural Professional I](https://jobright.ai/jobs/info/679bc5bb63aee973882b945e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Darien, Illinois, United States | Hybrid | Jan 30 |
 | **[Moveworks](https://www.moveworks.com)** | **[Motion Graphics Designer](https://jobright.ai/jobs/info/67476ed1541aa7d41f4edb23?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mountain View, CA | Hybrid | Jan 30 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Coordinator](https://jobright.ai/jobs/info/6761fc9d30dcf6c5c5ff5564?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Jan 30 |
@@ -128,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Crate and Barrel](http://crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/677dbc345b7415515c0a0931?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bellevue, WA | On Site | Jan 29 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/679a87073cb61ff95113d61f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Levittown, PA | On Site | Jan 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/679a7cedf9b31b3c36e63a22?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Charlotte, NC | On Site | Jan 29 |
+| **[University of Kentucky](https://www.research.uky.edu/)** | **[STEPS Graphic Designer](https://jobright.ai/jobs/info/679a8a8732ffa3220bd17717?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lexington, KY | On Site | Jan 29 |
 | **[Great American Media](https://gacmedia.com/)** | **[Associate Graphic Designer](https://jobright.ai/jobs/info/679aa959551d4ec4ab479922?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Arlington, TX | On Site | Jan 29 |
 | **[Centric Brands](https://centricbrands.com)** | **[Assistant, Designer (Intimates)](https://jobright.ai/jobs/info/677deb825d7a23a24c7a5bc0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 29 |
 | **[PAR Western Line Contractors, LLC](http://www.parwlc.com)** | **[CAD Designer](https://jobright.ai/jobs/info/6774b0790f1156321bba892d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Upland, CA | On Site | Jan 29 |
@@ -141,7 +145,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Visual Support Associate, Full Time - Chevy Chase](https://jobright.ai/jobs/info/679a01742cb708037557a497?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 5300 Western Avenue, Chevy Chase, MD, 20815, US | On Site | Jan 29 |
 | **[Handel Architects](http://handelarchitects.com)** | **[Designer](https://jobright.ai/jobs/info/679a0733e5aaa55adeb220c0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Hybrid | Jan 29 |
 | **[Team One](http://www.teamone-usa.com/)** | **[Art Director](https://jobright.ai/jobs/info/6799dff02f4316bf35f8b9c8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | Hybrid | Jan 28 |
-| **[Mars United Commerce](http://www.themarsagency.com)** | **[Associate Art Director](https://jobright.ai/jobs/info/679efe4045de8d74f3ad2ac4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | On Site | Jan 28 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[Associate Designer](https://jobright.ai/jobs/info/6799c00c9c08ea2ad694b977?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | On Site | Jan 28 |
 | **[Mars United Commerce](http://www.themarsagency.com)** | **[Associate Art Director](https://jobright.ai/jobs/info/679ee8167601d2aea0680b34?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 28 |
 | **[Sunny Sky Products](https://sunnyskyproducts.com)** | **[Packaging Associate - Crew C (B)](https://jobright.ai/jobs/info/679998ecf5ecacfa9c8bca70?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Douglassville, PA | On Site | Jan 28 |
@@ -155,9 +158,9 @@ For a complete list, click the following sortable link below:
 | **[Digitas North America](https://www.digitas.com/)** | **[Associate Art Director](https://jobright.ai/jobs/info/679955cee6d126f8a0df9976?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | Hybrid | Jan 28 |
 | **[Sleeper](https://sleeper.com)** | **[Product Designer (Mid-Level)](https://jobright.ai/jobs/info/67995ad3eea55ca38604812a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Remote | Jan 28 |
 | **[Spot Pet Insurance](https://spotpetins.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/67994dbeef6422d768972b0d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Miami, FL | On Site | Jan 28 |
-| **[Leap Group](https://leapgroupnetwork.com)** | **[Sitefinity Content Loader](https://jobright.ai/jobs/info/679953fb3bbdc568876b6255?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indiana, United States | Remote | Jan 28 |
-| ↳ | **[Sitefinity Content Loader](https://jobright.ai/jobs/info/679953fb3bbdc568876b6241?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kentucky, United States | Remote | Jan 28 |
+| **[Leap Group](https://leapgroupnetwork.com)** | **[Sitefinity Content Loader](https://jobright.ai/jobs/info/679953fb3bbdc568876b6241?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kentucky, United States | Remote | Jan 28 |
 | ↳ | **[Sitefinity Content Loader](https://jobright.ai/jobs/info/679953fb3bbdc568876b625c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ohio, United States | Remote | Jan 28 |
+| ↳ | **[Sitefinity Content Loader](https://jobright.ai/jobs/info/679953fb3bbdc568876b6255?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indiana, United States | Remote | Jan 28 |
 | ↳ | **[Sitefinity Content Loader](https://jobright.ai/jobs/info/679953fb3bbdc568876b6269?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Illinois, United States | Remote | Jan 28 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Page Designer](https://jobright.ai/jobs/info/6763cedb1df6f2422ace92f0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chico, CA | Hybrid | Jan 28 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[Asst./Assoc. Art Director, Video, Marketing - Hco (Remote)](https://jobright.ai/jobs/info/67993ddafbaa42731f8e850a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, OH | On Site | Jan 28 |
@@ -186,10 +189,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/67515876585147807840c60a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Katy, TX | On Site | Jan 28 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/6751504c39847e2b78a48c68?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | On Site | Jan 28 |
 | **[Bloomingdale's](http://www.bloomingdales.com)** | **[Visual Support Associate, Full Time - Valley Fair](https://jobright.ai/jobs/info/6798ad88e95040b7009ee073?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 2847 Stevens Creek Boulevard, Santa Clara, CA, 95050, US | On Site | Jan 28 |
-| ↳ | **[Visual Support Associate, Full Time - South Coast Plaza](https://jobright.ai/jobs/info/6798ad88e95040b7009ee072?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 3333 South Bristol Street, Costa Mesa, CA, 92626, US | On Site | Jan 28 |
 | ↳ | **[Visual Support Associate, Full Time - Fashion Valley](https://jobright.ai/jobs/info/6798ad88e95040b7009ee070?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 7057 Friars Road, San Diego, CA, 92108, US | On Site | Jan 28 |
-| **[Leap Group](https://leapgroupnetwork.com)** | **[Sitefinity Content Loader](https://jobright.ai/jobs/info/6798c041ddd48ea3796f2619?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, IN | On Site | Jan 28 |
-| ↳ | **[Sitefinity Content Loader](https://jobright.ai/jobs/info/6798beeeddd48ea3796f1a91?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cincinnati, OH | On Site | Jan 28 |
+| ↳ | **[Visual Support Associate, Full Time - South Coast Plaza](https://jobright.ai/jobs/info/6798ad88e95040b7009ee072?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 3333 South Bristol Street, Costa Mesa, CA, 92626, US | On Site | Jan 28 |
+| **[Leap Group](https://leapgroupnetwork.com)** | **[Sitefinity Content Loader](https://jobright.ai/jobs/info/6798beeeddd48ea3796f1a91?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cincinnati, OH | On Site | Jan 28 |
+| ↳ | **[Sitefinity Content Loader](https://jobright.ai/jobs/info/6798c041ddd48ea3796f2619?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, IN | On Site | Jan 28 |
 | **[HGA](http://www.hga.com)** | **[Design Coordinator](https://jobright.ai/jobs/info/6798794eb865c6e359cb6736?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, MN | On Site | Jan 27 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Designer I](https://jobright.ai/jobs/info/6798716715ea3d0d036461a8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Jan 27 |
 | ↳ | **[Interior Designer I](https://jobright.ai/jobs/info/67984fa857d3f5168b4525fc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Jan 27 |
@@ -205,9 +208,9 @@ For a complete list, click the following sortable link below:
 | **[S&ME](https://www.smeinc.com)** | **[Architectural Historian](https://jobright.ai/jobs/info/676ef17076fd369c16e9ab2e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Charleston, SC | Hybrid | Jan 27 |
 | **[Callaway Golf](http://www.callawaygolf.com)** | **[Product Designer](https://jobright.ai/jobs/info/6797dd608992c292aafaaeed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Carlsbad, CA | On Site | Jan 27 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Custom Framer-no experience required.](https://jobright.ai/jobs/info/6797da9c842c75c94b0f0d17?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oceanside-3610 Long Beach Rd | On Site | Jan 27 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6797dd608992c292aafaaf03?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nashua, NH | On Site | Jan 27 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6797dd608992c292aafaaf4e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Albuquerque, NM | On Site | Jan 27 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/6797dd608992c292aafaaf03?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nashua, NH | On Site | Jan 27 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/6797dd608992c292aafaaf2c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pensacola, FL | On Site | Jan 27 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/6797dd608992c292aafaaf4e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Albuquerque, NM | On Site | Jan 27 |
 | **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Landscaper](https://jobright.ai/jobs/info/6797e4b3f4e319cd153e4444?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Gatlinburg, TN | On Site | Jan 27 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Designer, K-12](https://jobright.ai/jobs/info/6797ccffb555391915bd8b46?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, California, United States | Hybrid | Jan 27 |
 | ↳ | **[Designer, K-12](https://jobright.ai/jobs/info/674f5ca9ccd2bc1e4d052d6a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | Hybrid | Jan 27 |
