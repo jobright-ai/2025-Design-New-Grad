@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6752ccfc81e5e0c234f5aa31?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Coral Springs, FL | On Site | Mar 05 |
+| **[EwingCole](http://www.ewingcole.com)** | **[Architectural Design Professional I - 2025 Graduates](https://jobright.ai/jobs/info/67ac110629bee3a7519c3515?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Hybrid | Mar 05 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/67abb7fefb26143c0bb81a0a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ypsilanti, MI | On Site | Mar 05 |
 | **[Eli Lilly and Company](https://www.lilly.com)** | **[Printed Packaging Material Coordinator - DPEM](https://jobright.ai/jobs/info/67abfc231f150d5451761bbb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, IN | On Site | Mar 05 |
 | **[SoFi](https://www.sofi.com)** | **[Interactive Designer](https://jobright.ai/jobs/info/67c7fccf2be1db315fb10d06?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Mar 04 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Year One - Junior Designer - Interiors](https://jobright.ai/jobs/info/67c7d71c5d024baa63d8388f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Mar 04 |
@@ -88,10 +91,12 @@ For a complete list, click the following sortable link below:
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Year One - Junior Designer - Landscape Architecture](https://jobright.ai/jobs/info/67c753d4b74374e51cbbf47d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco | On Site | Mar 04 |
 | ↳ | **[Year One - Junior Designer - Interiors](https://jobright.ai/jobs/info/67c753d4b74374e51cbbf470?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York | On Site | Mar 04 |
 | ↳ | **[Year One - Junior Designer - Landscape Architecture](https://jobright.ai/jobs/info/67c753d4b74374e51cbbf480?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York | On Site | Mar 04 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/67c7517d395f1ec499a02bb5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mission Viejo, CA | On Site | Mar 04 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/67c7517d395f1ec499a02b95?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buford, GA | On Site | Mar 04 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/67c7517d395f1ec499a02b95?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buford, GA | On Site | Mar 04 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/67c7517d395f1ec499a02bb5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mission Viejo, CA | On Site | Mar 04 |
 | **[Reveleer](https://www.reveleer.com)** | **[UX Researcher](https://jobright.ai/jobs/info/67c758d655107a8aacd516e8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Mar 04 |
 | **[AECOM](http://www.aecom.com/)** | **[Architecture Designer ](https://jobright.ai/jobs/info/67c7508a95585e2ec1e17376?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Mar 04 |
+| **[Supergoop!](http://www.supergoop.com/)** | **[Junior Designer](https://jobright.ai/jobs/info/67bd2ec7ddaa3aab85b1da28?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Mar 04 |
+| **[Pottery Barn](http://www.potterybarn.com)** | **[Design Coordinator - Pottery Barn](https://jobright.ai/jobs/info/675a02b33b375766439296ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Hybrid | Mar 04 |
 | **[Penguin Random House](http://www.penguinrandomhouse.com/)** | **[Junior Designer - (Hybrid)](https://jobright.ai/jobs/info/67bfb5b2296522b0690b5f3e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Mar 04 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Year One - Junior Designer - Architecture](https://jobright.ai/jobs/info/67c737c55e671d6f63de4d8e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York | On Site | Mar 04 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/67526e390d9b1d84d6c52d45?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cincinnati, OH | On Site | Mar 04 |
@@ -101,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Gensler](http://www.gensler.com)** | **[Designer – Interior Design – Junior](https://jobright.ai/jobs/info/67c6c378b60a6f63033e5b82?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Mar 04 |
 | ↳ | **[Designer – Architecture – Junior](https://jobright.ai/jobs/info/67c6cd6dbac83ad26fef26f2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Mar 04 |
 | ↳ | **[Technical Designer - Architecture - Junior](https://jobright.ai/jobs/info/67c6c378b60a6f63033e5b79?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Mar 04 |
-| **[Gensler](http://www.gensler.com)** | **[Designer – Interior Design – Junior](https://jobright.ai/jobs/info/67c67ff6d364718d8b401be9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA, US | On Site | Mar 03 |
-| ↳ | **[Technical Designer - Architecture - Junior](https://jobright.ai/jobs/info/67c67ff6d364718d8b401bdf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA, US | On Site | Mar 03 |
+| **[Gensler](http://www.gensler.com)** | **[Technical Designer - Architecture - Junior](https://jobright.ai/jobs/info/67c67ff6d364718d8b401bdf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA, US | On Site | Mar 03 |
+| ↳ | **[Designer – Interior Design – Junior](https://jobright.ai/jobs/info/67c67ff6d364718d8b401be9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA, US | On Site | Mar 03 |
 | ↳ | **[Designer – Architecture – Junior](https://jobright.ai/jobs/info/67c67ff6d364718d8b401bbe?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA, US | On Site | Mar 03 |
 | **[Edwards Lifesciences](http://www.edwards.com)** | **[Proofreading Coordinator, Labeling](https://jobright.ai/jobs/info/67c68c4946b047dad3cd7b31?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | On Site | Mar 03 |
 | **[Quad](https://www.quad.com)** | **[Production Artist](https://jobright.ai/jobs/info/67c66f6fe873f454ac3bd926?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Commerce, CA | On Site | Mar 03 |
@@ -166,6 +171,7 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6752ea42aad4b21d00adbe0b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tinley Park, IL | On Site | Feb 28 |
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/67c20b03dd35f37c8a34bf53?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ridgeland, MS | Hybrid | Feb 28 |
 | **[McDonald's](http://www.mcdonalds.com)** | **[Design Researcher](https://jobright.ai/jobs/info/67c1f28c5f01baa6273d6d33?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Feb 28 |
+| **[Gap](https://jobs.gapinc.com/gap-home)** | **[Sample Coordinator](https://jobright.ai/jobs/info/67b72c45f630dd1b1116f216?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Feb 28 |
 | **[ICP DAS USA, Inc.](https://www.icpdas-usa.com/)** | **[Part Time Web Developer / Graphic Designer](https://jobright.ai/jobs/info/67c203ed2d784a278e100982?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Feb 28 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6752903bf8e0854d9a0be282?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Alexandria, VA | On Site | Feb 28 |
 | **[Armstrong World Industries](https://www.armstrongceilings.com)** | **[Architectural Designer Job](https://jobright.ai/jobs/info/66f338880781054364dcf287?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Feb 28 |
@@ -211,7 +217,4 @@ For a complete list, click the following sortable link below:
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/672172160e3360cd69f9c8f8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Feb 26 |
 | **[U.S. Department of the Interior](http://www.doi.gov/index.cfm)** | **[Visual Information Specialist (Seasonal)](https://jobright.ai/jobs/info/67c149afd2160f0ef304a81c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Longmire, WA | On Site | Feb 26 |
 | **[Sea Pointe Design & Remodel](https://www.seapointe.com/)** | **[Residential Remodeling - Design Assistant](https://jobright.ai/jobs/info/67c0260ef283c02615bf486a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | On Site | Feb 26 |
-| **[Under Armour](http://underarmour.com)** | **[Footwear Designer I - Cleated](https://jobright.ai/jobs/info/67bfbee880fc6c067c609f30?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baltimore, MD | Hybrid | Feb 26 |
-| **[CITY Furniture](http://www.cityfurniture.com)** | **[PHOTO STUDIO RUNNER - TAMARAC](https://jobright.ai/jobs/info/67bfbea0dd43429077fa2368?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tamarac, FL | On Site | Feb 26 |
-| **[Alo Yoga](https://www.aloyoga.com/)** | **[Designer 1, Accessories](https://jobright.ai/jobs/info/67bfa325cc19b1c04eb1b5b9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beverly Hills, CA | On Site | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
