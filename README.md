@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LHB, Inc.](http://www.lhbcorp.com)** | **[Entry-Level Interior Designer](https://jobright.ai/jobs/info/680776a355fc82b28f9e7206?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Duluth, MN | Hybrid | Apr 22 |
+| **[American Electric Power](http://aep.com)** | **[Interactive Designer](https://jobright.ai/jobs/info/67f6ea7c472a94e9d37b2e40?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, OH | On Site | Apr 21 |
 | **[Gensler](http://www.gensler.com)** | **[Designer - Cities - Junior](https://jobright.ai/jobs/info/680703f347c735db311aa079?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Apr 21 |
 | **[LHB, Inc.](http://www.lhbcorp.com)** | **[Entry Level Interior Designer](https://jobright.ai/jobs/info/68071d0029b672720fb9eb03?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Duluth, MN | Hybrid | Apr 21 |
 | **[RR Donnelley](http://www.rrd.com)** | **[Motion Designer (Remote)](https://jobright.ai/jobs/info/6806f5c2cc8c09dbfa790c30?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wheeling, WV | Remote | Apr 21 |
@@ -114,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Assistant Designer- Pink](https://jobright.ai/jobs/info/67c8b552286b91220b0e7ae8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 17 |
 | **[Free People](http://www.freepeople.com)** | **[FP Movement Assistant Visual Manager](https://jobright.ai/jobs/info/67abecd187795a764d3c1aab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Marina del Rey, CA | On Site | Apr 17 |
 | **[Cuningham](http://www.cuningham.com)** | **[Architectural Designer I](https://jobright.ai/jobs/info/6801ad690b2b8b7c4be9930e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, MN | Hybrid | Apr 17 |
-| **[Tetra Tech](http://www.tetratech.com)** | **[Architecture Interior Designer](https://jobright.ai/jobs/info/6801aac476e33bffaffdfbde?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newark, DE | On Site | Apr 17 |
-| ↳ | **[Architecture Interior Designer](https://jobright.ai/jobs/info/6801aac476e33bffaffdfbd8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cincinnati, OH | On Site | Apr 17 |
+| **[Tetra Tech](http://www.tetratech.com)** | **[Architecture Interior Designer](https://jobright.ai/jobs/info/6801aac476e33bffaffdfbd8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cincinnati, OH | On Site | Apr 17 |
+| ↳ | **[Architecture Interior Designer](https://jobright.ai/jobs/info/6801aac476e33bffaffdfbde?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newark, DE | On Site | Apr 17 |
 | **[Qualtrics](http://www.qualtrics.com)** | **[UX Designer](https://jobright.ai/jobs/info/6801a940e8817ae1513a3291?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Apr 17 |
 | **[Tetra Tech](http://www.tetratech.com)** | **[Architecture Interior Designer](https://jobright.ai/jobs/info/6801a477b1a43b7df011eddb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Virginia Beach, VA | On Site | Apr 17 |
 | ↳ | **[Architecture Interior Designer](https://jobright.ai/jobs/info/6801a477b1a43b7df011edda?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Louisville, KY | On Site | Apr 17 |
@@ -137,6 +139,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Landscape Architect/Ecological Restoration Designer – Entry Level (Hybrid)](https://jobright.ai/jobs/info/680111e689c0fc7af9efe68f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ann Arbor, MI | Hybrid | Apr 17 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/67ac021144446ad5d32657ab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Apr 17 |
 | **[Free People](http://www.freepeople.com)** | **[Free People Assistant Visual Manager](https://jobright.ai/jobs/info/67abe4edfe93e40b6c1c1f43?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Miami, FL | On Site | Apr 17 |
+| **[Lucid Motors](http://lucidmotors.com)** | **[Exterior Designer](https://jobright.ai/jobs/info/67f8ea8a944c170c7b1c0d34?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newark, CA | On Site | Apr 17 |
 | **[JT4](https://www.jt4llc.com/)** | **[Technical Publishing I](https://jobright.ai/jobs/info/67e481c938df783307099468?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Edwards, CA | On Site | Apr 17 |
 | **[JCPenney](http://jcp.com)** | **[Assistant Textile Graphic Designer – Kids Design/Trend](https://jobright.ai/jobs/info/6800d256327287163eabe173?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | On Site | Apr 17 |
 | ↳ | **[Assoc Textile Graphic Designer – Kids Design/Trend](https://jobright.ai/jobs/info/6800d256327287163eabe174?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | On Site | Apr 17 |
@@ -163,7 +166,6 @@ For a complete list, click the following sortable link below:
 | **[Colgate University](http://www.colgate.edu/)** | **[Creative Media Assistant](https://jobright.ai/jobs/info/68002495b4657a21711b6a2d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hamilton, NY | On Site | Apr 16 |
 | **[GOLFTEC](https://www.golftec.com)** | **[Junior Designer](https://jobright.ai/jobs/info/680016143ef1558b3b918b16?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Englewood, CO | Hybrid | Apr 16 |
 | **[Quad](https://www.quad.com)** | **[Integrated Designer](https://jobright.ai/jobs/info/67fffb713eebc10a008b3df2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Paul, MN | On Site | Apr 16 |
-| **[American Electric Power](http://aep.com)** | **[Interactive Designer](https://jobright.ai/jobs/info/67f6ea7c472a94e9d37b2e40?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, OH | On Site | Apr 16 |
 | **[GOLFTEC](https://www.golftec.com)** | **[Junior Designer](https://jobright.ai/jobs/info/68001d6e0d4962cf80f8327f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Englewood, CO | Hybrid | Apr 16 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Social Designer](https://jobright.ai/jobs/info/680006dbc04de00ad255758a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA | Remote | Apr 16 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/67e363758be27f175c0b0384?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chula Vista, CA | On Site | Apr 16 |
@@ -183,15 +185,10 @@ For a complete list, click the following sortable link below:
 | **[Calvin Klein](https://www.calvinklein.us)** | **[Temp - Designer, Non Apparel - Calvin Klein](https://jobright.ai/jobs/info/67ff25c7aad436010076f950?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 15 |
 | **[PVH Corp.](https://www.pvh.com)** | **[Temp - Designer, Non Apparel - Calvin Klein](https://jobright.ai/jobs/info/67ff37cbac398fb756bdf278?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 15 |
 | **[HPM Building Supply](https://www.hpmhawaii.com)** | **[Kitchen and Bath Designer - Kihei, Hawaii](https://jobright.ai/jobs/info/680383b1648d37d028138bcc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kihei, HI | On Site | Apr 15 |
-| **[Stratus](https://www.stratusunlimited.com)** | **[Program Manager, Exterior Signage](https://jobright.ai/jobs/info/67ff03d97d1ea36c928e5220?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mentor, OH | Hybrid | Apr 15 |
-| ↳ | **[Program Manager, Exterior Signage](https://jobright.ai/jobs/info/67ff03d97d1ea36c928e5211?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Clearwater, FL | Hybrid | Apr 15 |
+| **[Stratus](https://www.stratusunlimited.com)** | **[Program Manager, Exterior Signage](https://jobright.ai/jobs/info/67ff03d97d1ea36c928e5211?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Clearwater, FL | Hybrid | Apr 15 |
 | ↳ | **[Program Manager, Exterior Signage](https://jobright.ai/jobs/info/67ff03d97d1ea36c928e5221?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rolling Meadows, IL | Hybrid | Apr 15 |
+| ↳ | **[Program Manager, Exterior Signage](https://jobright.ai/jobs/info/67ff03d97d1ea36c928e5220?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mentor, OH | Hybrid | Apr 15 |
 | **[Fivetran](https://fivetran.com)** | **[Product Designer](https://jobright.ai/jobs/info/67fef154d08ba43505ad7943?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | Hybrid | Apr 15 |
 | ↳ | **[Product Designer](https://jobright.ai/jobs/info/67fef154d08ba43505ad7922?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oakland, CA | Hybrid | Apr 15 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/673dd234ef77ec4af6d14a06?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Scottsdale, AZ | Hybrid | Apr 15 |
-| **[ProSource Wholesale](https://www.prosourcewholesale.com)** | **[Assistant Kitchen and Bath Designer](https://jobright.ai/jobs/info/67fecadd375db4b5c60da308?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bridgeville, PA | On Site | Apr 15 |
-| **[Fivetran](https://fivetran.com)** | **[Product Designer](https://jobright.ai/jobs/info/67fec94c375db4b5c60d9b5b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oakland, California, United States, AMER | On Site | Apr 15 |
-| ↳ | **[Product Designer](https://jobright.ai/jobs/info/67fec94c375db4b5c60d9bb7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, Colorado, United States, AMER | On Site | Apr 15 |
-| **[Brigham Young University–Hawaii](https://www.byuh.edu)** | **[Career Mentor - Graphic Designer](https://jobright.ai/jobs/info/67febe8369daf09e21c0f8b8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | BYU–Hawaii | On Site | Apr 15 |
-| **[Stampin'​ Up!](http://www.stampinup.com/ECWeb/)** | **[Freelance/Contractor Product Designer](https://jobright.ai/jobs/info/67fead3aa1051eb58d39192d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fully Remote | Remote | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
