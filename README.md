@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Schwazze](https://www.schwazze.com/home)** | **[Packaging Associate](https://jobright.ai/jobs/info/680e2de36ebadacd96bd1406?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Albuquerque, NM | On Site | Apr 27 |
 | **[ITS](http://www.its.aero)** | **[Architectural Drafter](https://jobright.ai/jobs/info/680db68c29e02f242dc675fc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cleveland, OH | On Site | Apr 26 |
 | **[Crate and Barrel](http://crateandbarrel.com)** | **[Design Coordinator](https://jobright.ai/jobs/info/680d84b15d2c37179cc3180e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Apr 26 |
 | **[dna Communications](https://www.dna-comms.com)** | **[Art Director](https://jobright.ai/jobs/info/67f048b9e992d68e6524ba0f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 26 |
@@ -111,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Anywhere Real Estate Inc.](https://www.anywhere.re/)** | **[Associate Product Designer - US Based Remote](https://jobright.ai/jobs/info/680a684b56a70e11e2c1cce8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US Remote Address 1, US Remote City, US Remote State, 00000, US | Remote | Apr 24 |
 | **[Neiman Marcus Group](https://www.neimanmarcusgroup.com)** | **[Personal Styling Assistant - Beverly Hills](https://jobright.ai/jobs/info/67d23949fb3cd8b64dd5368f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beverly Hills, CA | On Site | Apr 24 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6751655fbce97eca70aba434?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sugar Land, TX | On Site | Apr 24 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/680a4b7afa3adeaac0a39220?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Myers, FL | On Site | Apr 24 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/680a4b7afa3adeaac0a39226?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Peachtree City, GA | On Site | Apr 24 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/680a4b7afa3adeaac0a39220?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Myers, FL | On Site | Apr 24 |
 | **[Chewy](https://www.chewy.com)** | **[WOW Artist](https://jobright.ai/jobs/info/67e42c07b14a6b8ffbded837?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Plantation, FL | On Site | Apr 24 |
 | **[Pagaya](https://www.pagaya.com)** | **[User Experience Designer ](https://jobright.ai/jobs/info/680a49e710bc0d899f4a7e7d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 24 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/67ed9ea8f67b11388351c334?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lakeland, FL | On Site | Apr 24 |
