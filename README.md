@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crate and Barrel](http://crateandbarrel.com)** | **[Design Coordinator](https://jobright.ai/jobs/info/680d84b15d2c37179cc3180e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Apr 26 |
 | **[dna Communications](https://www.dna-comms.com)** | **[Art Director](https://jobright.ai/jobs/info/67f048b9e992d68e6524ba0f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 26 |
 | **[SS&C Technologies](http://www.ssctech.com)** | **[Graphic Production Typesetter](https://jobright.ai/jobs/info/679ada71468c16102812f6ba?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | Hybrid | Apr 26 |
 | **[Nike](http://www.nike.com)** | **[Specialist II, North America Brand Creative Production Specialist](https://jobright.ai/jobs/info/680cb4e24052c150ef8ffa7e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Apr 26 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/680c3a6f4a300f98947c7818?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orlando, FL | On Site | Apr 25 |
 | **[Piper Companies](http://www.pipercompanies.com)** | **[Document Design Specialist](https://jobright.ai/jobs/info/680c260059aa57e9b123c666?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Frederick, MD | On Site | Apr 25 |
 | **[Nike](http://www.nike.com)** | **[Specialist II, North America Brand Creative Production Specialist](https://jobright.ai/jobs/info/680c0fbd3e2658a34d53b0a0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, California | On Site | Apr 25 |
+| **[Complex NTWRK](https://www.complex.com)** | **[Junior Designer, Core Brand](https://jobright.ai/jobs/info/67c64abcd86f4788739650ff?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | On Site | Apr 25 |
 | **[Microsoft](https://www.microsoft.com)** | **[Content Designer 2](https://jobright.ai/jobs/info/680bf3647983c0ad02507442?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Multiple Locations, Multiple Locations, United States | On Site | Apr 25 |
 | **[University of North Texas](http://unt.edu)** | **[Division of Research & Innovation Hourly Graphic & Web Designer](https://jobright.ai/jobs/info/680bf259beb11b922d4ecc6c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denton, TX | On Site | Apr 25 |
 | **[RockSol Consulting Group, Inc.](http://rocksol.com)** | **[Proposal Graphic Designer](https://jobright.ai/jobs/info/680c035bb1631c63370b3d27?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Thornton, CO | On Site | Apr 25 |
@@ -108,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Anywhere Real Estate Inc.](https://www.anywhere.re/)** | **[Associate Product Designer - US Based Remote](https://jobright.ai/jobs/info/680a684b56a70e11e2c1cce8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US Remote Address 1, US Remote City, US Remote State, 00000, US | Remote | Apr 24 |
 | **[Neiman Marcus Group](https://www.neimanmarcusgroup.com)** | **[Personal Styling Assistant - Beverly Hills](https://jobright.ai/jobs/info/67d23949fb3cd8b64dd5368f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beverly Hills, CA | On Site | Apr 24 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6751655fbce97eca70aba434?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sugar Land, TX | On Site | Apr 24 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/680a4b7afa3adeaac0a39226?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Peachtree City, GA | On Site | Apr 24 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/680a4b7afa3adeaac0a39220?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Myers, FL | On Site | Apr 24 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/680a4b7afa3adeaac0a39226?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Peachtree City, GA | On Site | Apr 24 |
 | **[Chewy](https://www.chewy.com)** | **[WOW Artist](https://jobright.ai/jobs/info/67e42c07b14a6b8ffbded837?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Plantation, FL | On Site | Apr 24 |
 | **[Pagaya](https://www.pagaya.com)** | **[User Experience Designer ](https://jobright.ai/jobs/info/680a49e710bc0d899f4a7e7d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 24 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/67ed9ea8f67b11388351c334?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lakeland, FL | On Site | Apr 24 |
@@ -139,7 +141,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[WEB DESIGNER](https://jobright.ai/jobs/info/680970a735a1ef00af3ce7d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA | Remote | Apr 23 |
 | ↳ | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/680970a735a1ef00af3ce7d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Apr 23 |
 | **[Fortune Brands Innovations](http://www.fbhs.com)** | **[Associate Graphic Designer](https://jobright.ai/jobs/info/6809393780ed3efeb9611cdf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 520 Lake Cook Road, Deerfield, ILLINOIS | Hybrid | Apr 23 |
-| **[Complex NTWRK](https://www.complex.com)** | **[Junior Designer, Core Brand](https://jobright.ai/jobs/info/67c64abcd86f4788739650ff?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | On Site | Apr 23 |
 | **[Razorfish](http://www.amnesia.com.au)** | **[Art Director](https://jobright.ai/jobs/info/68092f750caf80151a3ffcb1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Miami, FL | Hybrid | Apr 23 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/68092d3d29b816ffa014a11e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 23 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6751504c39847e2b78a48c68?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | On Site | Apr 23 |
@@ -199,6 +200,7 @@ For a complete list, click the following sortable link below:
 | **[LHB, Inc.](http://www.lhbcorp.com)** | **[Entry Level Interior Designer](https://jobright.ai/jobs/info/68071d0029b672720fb9eb03?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Duluth, MN | Hybrid | Apr 21 |
 | **[Gensler](http://www.gensler.com)** | **[Designer - Cities - Junior](https://jobright.ai/jobs/info/6806f1dcccbfdc37ff8ca64b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA, US | On Site | Apr 21 |
 | **[Abbott](https://www.abbott.com)** | **[Label Designer](https://jobright.ai/jobs/info/6806ea3e4ab1fdb33c4afb5b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Temecula, CA | On Site | Apr 21 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/67607bc2fd3e56198df37235?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | On Site | Apr 21 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Visual Associate, Full Time, Logan Circle- West Elm](https://jobright.ai/jobs/info/6806cfca64927292c25c7387?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 1728 14th St. NW, Washington, DC, 20009, US | On Site | Apr 21 |
 | **[Calvin Klein](https://www.calvinklein.us)** | **[Assistant Designer, Women’s Underwear - Calvin Klein](https://jobright.ai/jobs/info/6806be60a2974ef86a003692?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 21 |
 | **[University of Illinois Springfield](http://www.uis.edu/)** | **[Extra Help Design Specialist - Office of Medicaid Innovation](https://jobright.ai/jobs/info/6806b5f233fabf7ac07c1e1a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Springfield, IL | Remote | Apr 21 |
@@ -211,7 +213,6 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6760d0f8579203bb900fdb67?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bremerton, WA | On Site | Apr 21 |
 | **[Basic Resources, Inc.](http://basicresources.com)** | **[Assistant Designer - Men's Underwear and Loungewear](https://jobright.ai/jobs/info/67ec5cdc93a06f9a5ebe6ee0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 21 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/67518cb01a0f1c9bc1e0139f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Downey, CA | On Site | Apr 21 |
-| **[Manhattan Strategies](https://manhattanstrategies.com)** | **[Associate for Dynamic Design (Video Editor)](https://jobright.ai/jobs/info/680d298b2826896aaeb03632?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 21 |
 | **[Minuteman Press](https://www.minutemanpress.com/)** | **[Customer Service Print Associate / Production Designer](https://jobright.ai/jobs/info/680648cc4db2f10bef57407f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Edina, MN | On Site | Apr 21 |
 | **[Rockstar Games](https://www.rockstargames.com/)** | **[Associate Designer: Missions](https://jobright.ai/jobs/info/67f157edefb8bc125ceaa688?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Carlsbad, CA | On Site | Apr 21 |
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/672025577f3c674a3fde5c03?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Peters, MO | Hybrid | Apr 21 |
@@ -221,5 +222,4 @@ For a complete list, click the following sortable link below:
 | **[Centric Brands](https://centricbrands.com)** | **[Assistant Jewelry Designer](https://jobright.ai/jobs/info/67cc1b61821e2393759d156d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 20 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/67afeabfe8d2d04973e38d27?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rancho Cucamonga, CA | On Site | Apr 20 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/6785671d8ba9a08fb0c43c63?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, IN | On Site | Apr 20 |
-| **[Calvin Klein](https://www.calvinklein.us)** | **[Assistant Designer, Women's Suiting & Wovens - Calvin Klein](https://jobright.ai/jobs/info/67aed343b9591c59faf34f01?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
