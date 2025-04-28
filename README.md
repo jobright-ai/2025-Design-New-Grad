@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[Creative Designer Graduate (Music Design) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/680f4d9f2ac896a6e5eda2c3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Apr 28 |
 | **[ByteDance](http://bytedance.com)** | **[Creative Designer Graduate (Music Design) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/680f27fb3a8a67e4c7715834?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Apr 27 |
 | **[ITS](http://www.its.aero)** | **[Architectural Designer](https://jobright.ai/jobs/info/680f0bfcb5d6cfcfcb3de300?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Youngstown, OH | On Site | Apr 27 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6751861ba691e2b579c05520?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Apr 27 |
+| **[Condé Nast](http://www.condenast.com)** | **[Assistant Photo Editor, The New Yorker](https://jobright.ai/jobs/info/67b8fbe3458f231b3fb5753c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | On Site | Apr 27 |
 | **[Schwazze](https://www.schwazze.com/home)** | **[Packaging Associate](https://jobright.ai/jobs/info/680e2de36ebadacd96bd1406?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Albuquerque, NM | On Site | Apr 27 |
 | **[BCM Controls Corporation](http://bcmcontrols.com)** | **[Graphics Specialist](https://jobright.ai/jobs/info/67f03ed21ad4e104601a2ef6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Woburn, MA | On Site | Apr 27 |
 | **[ITS](http://www.its.aero)** | **[Architectural Drafter](https://jobright.ai/jobs/info/680db68c29e02f242dc675fc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cleveland, OH | On Site | Apr 26 |
@@ -215,8 +217,4 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/67607bc2fd3e56198df37235?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | On Site | Apr 21 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Visual Associate, Full Time, Logan Circle- West Elm](https://jobright.ai/jobs/info/6806cfca64927292c25c7387?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 1728 14th St. NW, Washington, DC, 20009, US | On Site | Apr 21 |
 | **[Calvin Klein](https://www.calvinklein.us)** | **[Assistant Designer, Women’s Underwear - Calvin Klein](https://jobright.ai/jobs/info/6806be60a2974ef86a003692?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Apr 21 |
-| **[University of Illinois Springfield](http://www.uis.edu/)** | **[Extra Help Design Specialist - Office of Medicaid Innovation](https://jobright.ai/jobs/info/6806b5f233fabf7ac07c1e1a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Springfield, IL | Remote | Apr 21 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/67516f3a6a99bb601df04b2a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Gabriel, CA | On Site | Apr 21 |
-| **[Minuteman Press](https://www.minutemanpress.com/)** | **[Customer Service / Print Bindery / Graphic Designer](https://jobright.ai/jobs/info/6806ae35dee863b1ee3ba490?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Canonsburg, PA | On Site | Apr 21 |
-| **[Veronica Beard](http://veronicabeard.com)** | **[Assistant Designer](https://jobright.ai/jobs/info/680684b0e6159bdb6919531a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Hybrid | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
