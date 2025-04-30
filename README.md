@@ -57,11 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vox Media](https://corp.voxmedia.com)** | **[Digital Designer, Lifestyle (Temporary)](https://jobright.ai/jobs/info/68114ee47f7551c945c297f2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote (US Only) | Hybrid | Apr 29 |
+| **[HDR](http://www.hdrinc.com)** | **[Urban Designer I](https://jobright.ai/jobs/info/68114a29d36fb1e5e433e52a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Apr 29 |
+| **[Marks, part of SGS & Co](https://www.makemarks.com/)** | **[2D Asset Artist 1](https://jobright.ai/jobs/info/6811461ec970c6f01e8a7567?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Apr 29 |
+| **[HDR](http://www.hdrinc.com)** | **[Urban Designer I](https://jobright.ai/jobs/info/681140ab8798ceed09bb84eb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bellevue, WA | On Site | Apr 29 |
+| **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Merch Associate, Part Time Flex, Walt Whitman- Pottery Barn](https://jobright.ai/jobs/info/68113bda7a1fb3d948847c10?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Huntington Station, NY | On Site | Apr 29 |
+| ↳ | **[Visual Associate, Part Time Flex, Annapolis- Pottery Barn](https://jobright.ai/jobs/info/68113bda7a1fb3d948847c31?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Annapolis, MD | On Site | Apr 29 |
+| **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Visual Associate, Part Time Flex, Annapolis- Pottery Barn](https://jobright.ai/jobs/info/6811393b80da90044f049ad1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 1906 Town Centre Blvd, Annapolis, MD, 21401, US | On Site | Apr 29 |
+| ↳ | **[Visual Merch Associate, Part Time Flex, Walt Whitman- Pottery Barn](https://jobright.ai/jobs/info/6811393b80da90044f049b4f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 160 Walt Whitman Road, Huntington Station, NY, 11746-4130, US | On Site | Apr 29 |
+| **[HOK](http://www.hok.com/)** | **[Interior Design Professional](https://jobright.ai/jobs/info/681128ff3595dc1728961c27?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Hybrid | Apr 29 |
 | **[Tetra Tech](http://www.tetratech.com)** | **[Architecture Interior Designer](https://jobright.ai/jobs/info/681115df1ee83b083711e570?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newark, DE | On Site | Apr 29 |
 | **[Free People](http://www.freepeople.com)** | **[Free People Assistant Visual Manager](https://jobright.ai/jobs/info/68111159e6b9b52bd20bb24d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Skokie, IL | On Site | Apr 29 |
 | **[Marks, part of SGS & Co](https://www.makemarks.com/)** | **[CGI Modeler 1](https://jobright.ai/jobs/info/68110224f417a0769f704be3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Apr 29 |
 | **[alexanderwang llc.](https://www.alexanderwang.com)** | **[Assistant Designer, Cut & Sew](https://jobright.ai/jobs/info/6810f5c36d797bb9b831a610?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Apr 29 |
-| **[DigiKey](https://www.digikey.ca)** | **[Email Designer](https://jobright.ai/jobs/info/6810eec475f167abe925b4fb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Thief River Falls, MN | Hybrid | Apr 29 |
 | **[Free People](http://www.freepeople.com)** | **[Free People Assistant Visual Manager](https://jobright.ai/jobs/info/6810e5271d9c52e9df55ce96?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | White Plains, NY | On Site | Apr 29 |
 | **[New York State Unified Court System](https://www.nycourts.gov)** | **[Assistant Graphic Designer](https://jobright.ai/jobs/info/6810e5271d9c52e9df55cdea?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | On Site | Apr 29 |
 | **[Cartera – A Rakuten Company](http://www.cartera.com)** | **[Associate Product Designer](https://jobright.ai/jobs/info/67f413e7c65846fab2dae343?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lexington, MA | On Site | Apr 29 |
@@ -202,5 +210,4 @@ For a complete list, click the following sortable link below:
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/67b39186c83cad78459df99e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Paducah, KY | Hybrid | Apr 23 |
 | **[ARC Document Solutions](http://www.e-arc.com/)** | **[Print Production Operator - Large Format Color](https://jobright.ai/jobs/info/6808b1d5dbea3adbcd6c5a18?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Honolulu, HI | On Site | Apr 23 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Creative Services Producer](https://jobright.ai/jobs/info/6778fc2abfe88e6fa7083fdd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, NY | On Site | Apr 23 |
-| **[Armada](https://www.armada.ai)** | **[Associate UI/UX Designer](https://jobright.ai/jobs/info/680b1e19868c7a94744e7008?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
