@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Coordinator, Content Production](https://jobright.ai/jobs/info/681c0e0ee56a426b7ec15d52?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | May 07 |
+| **[Gensler](http://www.gensler.com)** | **[Designer- Junior (Interior Architecture)](https://jobright.ai/jobs/info/681c08cd95d24ca6993d11ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | On Site | May 07 |
+| **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Junior Designer / Designer](https://jobright.ai/jobs/info/681c08cd95d24ca6993d12d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | May 07 |
+| **[DreamWorks Animation](https://www.madoohd.com/)** | **[Coordinator, Content Production](https://jobright.ai/jobs/info/681c02806c4ba8d270b192d0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 30 Rockefeller Plaza, New York, NEW YORK | On Site | May 07 |
 | **[Accenture](https://www.accenture.com)** | **[Technical Asset Coordinator - Creative Production](https://jobright.ai/jobs/info/681bee8595bbb0d2ab1347c4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nashville, 4101 Charlotte Ave., Corp | On Site | May 07 |
 | **[CGI Digital](https://cgidigital.com)** | **[Web Designer](https://jobright.ai/jobs/info/681be3720e4fce1739dd9add?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, NY | On Site | May 07 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Junior Designer - City Design (Temporary)](https://jobright.ai/jobs/info/681be3088c9e721c5a11e705?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | May 07 |
@@ -83,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Centerfield](http://www.centerfield.com)** | **[Junior Product Designer](https://jobright.ai/jobs/info/681ac1db3080b31b2aa7edd8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | May 06 |
 | **[BEDGEAR](http://bedgear.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/681abcd8ccdb33340bbd3d25?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Farmingdale, NY | On Site | May 06 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/681abc425d0c8c42f50cd049?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Conyers, GA | On Site | May 06 |
-| **[WATG and Wimberly Interiors](https://www.watg.com/)** | **[Architectural Designer](https://jobright.ai/jobs/info/681ab1b1851b735d80d8718c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | May 06 |
-| ↳ | **[Architectural Designer](https://jobright.ai/jobs/info/681ab1b1851b735d80d87171?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tustin, CA | On Site | May 06 |
+| **[WATG and Wimberly Interiors](https://www.watg.com/)** | **[Architectural Designer](https://jobright.ai/jobs/info/681ab1b1851b735d80d87171?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tustin, CA | On Site | May 06 |
+| ↳ | **[Architectural Designer](https://jobright.ai/jobs/info/681ab1b1851b735d80d8718c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | May 06 |
 | **[Legion Health](https://legionhealth.com)** | **[Website Development & Redesign Specialist (backed by Y Combinator, $1M+ ARR, $6.3M+ raised)](https://jobright.ai/jobs/info/681aadba867475a7aa0de2dd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US | On Site | May 06 |
 | **[Community.com](https://www.community.com)** | **[Creative Designer](https://jobright.ai/jobs/info/681aaa64794c0390c45b5a86?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | Remote | May 06 |
 | **[Mattel, Inc.](http://www.mattel.com)** | **[Product Designer - Plush](https://jobright.ai/jobs/info/681aa7522cd8b9bc47f99a3b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | El Segundo, CA | Hybrid | May 06 |
@@ -196,10 +200,10 @@ For a complete list, click the following sortable link below:
 | **[Marks, part of SGS & Co](https://www.makemarks.com/)** | **[2D Asset Artist 1](https://jobright.ai/jobs/info/681827fccdf5f242cd70f7da?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Birmingham, MI | On Site | May 01 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/67a11cd2f1498b39ea2d00cf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Lauderdale, FL | On Site | May 01 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[UX Product Designer](https://jobright.ai/jobs/info/67f6defdc2e0e941006f6cae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | May 01 |
-| **[Marks, part of SGS & Co](https://www.makemarks.com/)** | **[2D Asset Artist 1](https://jobright.ai/jobs/info/6813eb6de003cf65f62a7b67?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | May 01 |
-| ↳ | **[2D Asset Artist 1](https://jobright.ai/jobs/info/6813eb6de003cf65f62a7b68?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Birmingham, MI | On Site | May 01 |
+| **[Marks, part of SGS & Co](https://www.makemarks.com/)** | **[2D Asset Artist 1](https://jobright.ai/jobs/info/6813eb6de003cf65f62a7b68?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Birmingham, MI | On Site | May 01 |
 | **[University of Florida](https://www.ufl.edu)** | **[Visual Designer](https://jobright.ai/jobs/info/6813f91b67f518722c457ed5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Gainesville, FL | On Site | May 01 |
 | **[HOK](http://www.hok.com/)** | **[Interiors - Interior Design Professional](https://jobright.ai/jobs/info/67f787ca4a71cea866a50eb7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | May 01 |
+| **[Marks, part of SGS & Co](https://www.makemarks.com/)** | **[2D Asset Artist 1](https://jobright.ai/jobs/info/6813df3d1b44fc935e34cc80?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | May 01 |
 | **[Xe.com](http://www.xe.com)** | **[Visual Designer](https://jobright.ai/jobs/info/6813df3d1b44fc935e34ca09?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | Hybrid | May 01 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6813dd3ac427d6d6c5810eed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Carson, CA | On Site | May 01 |
 | **[The Brand Amp](http://www.thebrandamp.com/)** | **[Digital Designer](https://jobright.ai/jobs/info/6813d6e2bc7a61ba9ab61735?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Costa Mesa, CA | On Site | May 01 |
@@ -217,7 +221,4 @@ For a complete list, click the following sortable link below:
 | **[Free People](http://www.freepeople.com)** | **[FP Movement Assistant Visual Manager](https://jobright.ai/jobs/info/67f8a0c16ddfbc55c14d252c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Carlsbad, CA | On Site | May 01 |
 | **[Jacobs](http://www.jacobs.com)** | **[Entry Level CAD Designer](https://jobright.ai/jobs/info/67d89064c6eb61a49cd0aa1a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, IN | On Site | May 01 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Assistant to the Creative Director, Oprah Daily](https://jobright.ai/jobs/info/67f5d392811c3cf2f681252f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | May 01 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/67f61b14471549865fd63bbb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Albany, NY | On Site | May 01 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/67d8c9d59b42576d8c647250?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Fort Myers, FL | On Site | May 01 |
-| **[ARC Document Solutions](http://www.e-arc.com/)** | **[Print Production Operator - Large Format Color](https://jobright.ai/jobs/info/68133a8697ea15bec72ba10e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Honolulu, HI | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
