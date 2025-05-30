@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HYPEBEAST](http://hypebeast.com)** | **[Junior Creative](https://jobright.ai/jobs/info/68395271cfd71932eeebd92a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | On Site | May 29 |
+| **[BCI Brands](https://www.bcibrands.com)** | **[TEMPORARY Design Assistant](https://jobright.ai/jobs/info/683928d2a2f00884ae90db23?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York County, NY | On Site | May 29 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[Associate Game Designer - Temp, Hearthstone](https://jobright.ai/jobs/info/68391733e3bca59dacc15f42?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | On Site | May 29 |
 | **[DigiKey](https://www.digikey.ca)** | **[Email Designer](https://jobright.ai/jobs/info/68391733e3bca59dacc15f72?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Thief River Falls, MN | Hybrid | May 29 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/68391379a5ea390cbb45e334?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | May 29 |
@@ -64,8 +66,8 @@ For a complete list, click the following sortable link below:
 | **[Procter & Gamble](https://us.pg.com/)** | **[Beauty Care Graphic Designer- Skincare](https://jobright.ai/jobs/info/6838f2b9fbf232adc33cde0a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cincinnati, OH | On Site | May 29 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Framing](https://jobright.ai/jobs/info/6838f1d274bfc45dd3ff027c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fremont-39170 Argonaut Way | On Site | May 29 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Associate Interior Designer](https://jobright.ai/jobs/info/6838e9d370b85b5142b8e073?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Manhasset, NY | On Site | May 29 |
-| **[American Electric Power](http://aep.com)** | **[Designer - Designer Prin](https://jobright.ai/jobs/info/6838e327ceb4989e160272e5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Roanoke, VA | On Site | May 29 |
-| ↳ | **[Designer - Designer Prin](https://jobright.ai/jobs/info/6838e327ceb4989e160272e6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tulsa, OK | On Site | May 29 |
+| **[American Electric Power](http://aep.com)** | **[Designer - Designer Prin](https://jobright.ai/jobs/info/6838e327ceb4989e160272e6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tulsa, OK | On Site | May 29 |
+| ↳ | **[Designer - Designer Prin](https://jobright.ai/jobs/info/6838e327ceb4989e160272e5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Roanoke, VA | On Site | May 29 |
 | ↳ | **[Designer - Designer Prin](https://jobright.ai/jobs/info/6838e327ceb4989e1602713b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Albany, OH | On Site | May 29 |
 | **[Zip Co](https://zip.co)** | **[Brand Design Associate](https://jobright.ai/jobs/info/6838e01f1d990299ff727b8f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | May 29 |
 | **[KiwiCo, Inc.](https://www.kiwico.com)** | **[Graphic Design Specialist](https://jobright.ai/jobs/info/6838db3de0fe797fb63cf9e5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mountain View, CA | Hybrid | May 29 |
@@ -139,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[SpotHero](http://www.spothero.com)** | **[Associate Product Designer, Consumer ](https://jobright.ai/jobs/info/68358848fa8a32692d93e230?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago | On Site | May 27 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/67517f4d6fc072742ff7eb13?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hilliard, OH | On Site | May 27 |
 | **[Mattel, Inc.](http://www.mattel.com)** | **[Product Designer – Vehicles (Hot Wheels Die-Cast)](https://jobright.ai/jobs/info/6835640d717fcf2840fb6cd6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | El Segundo, CA | Hybrid | May 27 |
-| ↳ | **[Product Designer – Vehicles (Hot Wheels Die-Cast)](https://jobright.ai/jobs/info/6835637226d5cde696bb32b8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 333 Continental Blvd, El Segundo, CALIFORNIA | Hybrid | May 27 |
 | ↳ | **[Graphic Designer – Vehicles (Hot Wheels Die-Cast)](https://jobright.ai/jobs/info/6835637226d5cde696bb32c4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 333 Continental Blvd, El Segundo, CALIFORNIA | Hybrid | May 27 |
+| ↳ | **[Product Designer – Vehicles (Hot Wheels Die-Cast)](https://jobright.ai/jobs/info/6835637226d5cde696bb32b8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 333 Continental Blvd, El Segundo, CALIFORNIA | Hybrid | May 27 |
 | **[Mattel, Inc.](http://www.mattel.com)** | **[Graphic Designer – Vehicles (Hot Wheels Die-Cast)](https://jobright.ai/jobs/info/68355d98d3b709dc29ade764?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | El Segundo, CA | Hybrid | May 26 |
 | ↳ | **[Graphic Designer – Vehicles (Hot Wheels Die-Cast)](https://jobright.ai/jobs/info/6835640d717fcf2840fb6ce1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | El Segundo, CA | Hybrid | May 26 |
 | ↳ | **[Product Designer – Vehicles (Hot Wheels Die-Cast)](https://jobright.ai/jobs/info/6835640d717fcf2840fb6cd4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | El Segundo, CA | Hybrid | May 26 |
@@ -148,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Year One - Junior Designer - Architecture](https://jobright.ai/jobs/info/67c7908b684906ab34c548d2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Hybrid | May 26 |
 | **[VML](https://www.vmlyr.com/)** | **[Designer](https://jobright.ai/jobs/info/68347e9f09a9e529667ca10b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | May 26 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/67513709a32b3281d029a1d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Overland Park, KS | On Site | May 26 |
-| **[Anaheim Ducks](http://anaheimducks.com)** | **[Digital Content Producer](https://jobright.ai/jobs/info/6824077d77ea05c987a1aea1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Anaheim, CA | On Site | May 26 |
 | **[Sleeper](https://sleeper.com)** | **[Product Designer (Mid-Level Contract-Hire)](https://jobright.ai/jobs/info/67f3ad1647d920edaad5b1be?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | LA Metro Area | On Site | May 26 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Year One - Junior Designer - Architecture](https://jobright.ai/jobs/info/67c78583c4e4922660fa307d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | May 26 |
 | ↳ | **[Year One - Junior Designer - City Design](https://jobright.ai/jobs/info/67e64eb5b78b3670a0008023?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | May 26 |
@@ -187,13 +188,4 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6830c8b5b348fc7ae050c3d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buford, GA | On Site | May 23 |
 | **[LA Clippers](http://www.clippers.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/6830b4fcefebd74f8252a557?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Inglewood, CA | On Site | May 23 |
 | **[IMEG](http://www.imegcorp.com/)** | **[Landscape Architect (May 2025 Start Date - New Graduate)](https://jobright.ai/jobs/info/6830b4fcefebd74f8252a5eb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hartford, CT | On Site | May 23 |
-| **[Virginia Tech](http://www.vt.edu)** | **[Landscape Designer](https://jobright.ai/jobs/info/6830a0f8aaa256d6eba3289f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Blacksburg-Christiansburg-Radford Area | On Site | May 23 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6752c5e2b232437059babf0d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Venice, FL | On Site | May 23 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/6813dd3ac427d6d6c5810eed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Carson, CA | On Site | May 23 |
-| **[Veronica Beard](http://veronicabeard.com)** | **[Assistant Designer](https://jobright.ai/jobs/info/6830908c9a163889c787413b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Hybrid | May 23 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/67a11cd2f1498b39ea2d00cf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Lauderdale, FL | On Site | May 23 |
-| **[CLO Virtual Fashion](http://www.clovirtualfashion.com)** | **[3D Design Specialist, Marvelous Designer](https://jobright.ai/jobs/info/67a1a41aa2fee5109f800050?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | May 23 |
-| **[AlfaTech](http://atce.com)** | **[Jr. Lighting Designer](https://jobright.ai/jobs/info/6830789a9971c94e8b5a2b6e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Monrovia, California, United States | Hybrid | May 23 |
-| **[PREZENTIUM](https://prezentium.com/)** | **[Presentation Specialist](https://jobright.ai/jobs/info/683074634e3dcb40aeb72063?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | May 23 |
-| **[Minuteman Press](https://www.minutemanpress.com/)** | **[Graphic Designer / Print Production Specialist](https://jobright.ai/jobs/info/68307fb16eb95856ec7d9011?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mound, MN | On Site | May 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
