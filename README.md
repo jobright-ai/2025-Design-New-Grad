@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Flex Male Model - Downtown Seattle Photo Studio](https://jobright.ai/jobs/info/68711d57a5ae807a59cfde83?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Jul 11 |
 | **[Gap](https://jobs.gapinc.com/gap-home)** | **[Assistant Designer Womens](https://jobright.ai/jobs/info/68711a0006ad7073463c3593?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jul 11 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6838cc82b1ec984dc787c53e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Memphis, TN | On Site | Jul 11 |
 | **[VML](https://www.vmlyr.com/)** | **[Art Director](https://jobright.ai/jobs/info/6870ef1ca5ae807a59cfceb1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Jul 11 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Shop - Creative Designer](https://jobright.ai/jobs/info/6870ee2806ad7073463c26d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Jul 11 |
 | **[PREZENTIUM](https://prezentium.com/)** | **[Presentation Specialist](https://jobright.ai/jobs/info/6870b7c306ad7073463c073c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jul 10 |
@@ -112,15 +113,15 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/67a660dbfff568ea006b351a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Memphis, TN | On Site | Jul 08 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Designer, Mixed-Use & K-12 ](https://jobright.ai/jobs/info/686de5fc2f7337a591dd4f94?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, California, United States | Hybrid | Jul 08 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6751861ba691e2b579c05521?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fern Park, FL | On Site | Jul 08 |
-| **[Airlines Reporting Corporation (ARC)](https://www.arccorp.com)** | **[User Experience (UX) Designer II](https://jobright.ai/jobs/info/686dca8bab1e0cdf6bbbfe19?utm_campaign=Creatives%20and%20Design&utm_source=1103)** |  US | Hybrid | Jul 08 |
-| ↳ | **[User Experience (UX) Designer II](https://jobright.ai/jobs/info/686dca8bab1e0cdf6bbbfe18?utm_campaign=Creatives%20and%20Design&utm_source=1103)** |  US-KY-Louisville  | Hybrid | Jul 08 |
+| **[Airlines Reporting Corporation (ARC)](https://www.arccorp.com)** | **[User Experience (UX) Designer II](https://jobright.ai/jobs/info/686dca8bab1e0cdf6bbbfe18?utm_campaign=Creatives%20and%20Design&utm_source=1103)** |  US-KY-Louisville  | Hybrid | Jul 08 |
 | ↳ | **[User Experience (UX) Designer II](https://jobright.ai/jobs/info/686dca8bab1e0cdf6bbbfe1a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-VA-Arlington  | Hybrid | Jul 08 |
 | ↳ | **[User Experience (UX) Designer II](https://jobright.ai/jobs/info/686dca8bab1e0cdf6bbbfcbb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** |  US-FL-Tampa  | Hybrid | Jul 08 |
+| ↳ | **[User Experience (UX) Designer II](https://jobright.ai/jobs/info/686dca8bab1e0cdf6bbbfe19?utm_campaign=Creatives%20and%20Design&utm_source=1103)** |  US | Hybrid | Jul 08 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Designer, Mixed-Use & K-12](https://jobright.ai/jobs/info/686dd099dadb90395aab9a16?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Hybrid | Jul 08 |
 | **[Spin Master](https://www.spinmaster.com)** | **[Designer, Wheels [Contract]](https://jobright.ai/jobs/info/686dc0656597706f9046b0c7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Jul 08 |
 | **[Crate and Barrel](http://crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/686dc00f1d9495af2e8c59c9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Walnut Creek, CA | On Site | Jul 08 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/686dc00f1d9495af2e8c59c5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Schaumburg, IL | On Site | Jul 08 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/686dc00f1d9495af2e8c59c8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Jul 08 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/686dc00f1d9495af2e8c59c5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Schaumburg, IL | On Site | Jul 08 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[UX Researcher I, AWS Support](https://jobright.ai/jobs/info/686dc00f1d9495af2e8c5b69?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Jul 08 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/686dba476ba17ba0b30e3f30?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Jul 08 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Santa Monica - Pottery Barn](https://jobright.ai/jobs/info/686db700e564ed71e6ee221d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Jul 08 |
@@ -194,7 +195,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/67c0bb31a97dd4068a32f095?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Leesburg, VA | On Site | Jul 06 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/674fdcea138b4cdf9438846b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sacramento, CA | On Site | Jul 06 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Frontend Supervisor](https://jobright.ai/jobs/info/686acc8f35584b65424fbd01?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sandy, UT | On Site | Jul 06 |
-| ↳ | **[Retail Frontend Supervisor](https://jobright.ai/jobs/info/686a92a032577fba312c3753?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sandy, UT 84070 | On Site | Jul 06 |
+| ↳ | **[Retail Frontend Supervisor](https://jobright.ai/jobs/info/686a92a032577fba312c375a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sandy, UT 84070 | On Site | Jul 06 |
 | **[Neiman Marcus](https://www.neimanmarcusgroup.com)** | **[Personal Styling Assistant - San Francisco](https://jobright.ai/jobs/info/684cce439e049384c9cf5d15?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Jul 06 |
 | **[CLO Virtual Fashion](http://www.clovirtualfashion.com)** | **[3D Design Specialist, Marvelous Designer](https://jobright.ai/jobs/info/67a1a41aa2fee5109f800050?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Jul 06 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/684ccbf893b64758098d3ab1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buford, GA | On Site | Jul 06 |
@@ -210,5 +211,4 @@ For a complete list, click the following sortable link below:
 | **[FIGS](http://www.wearfigs.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/684d12fcc4f257fd723a2ca5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | Hybrid | Jul 05 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6813dd3ac427d6d6c5810eed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Carson, CA | On Site | Jul 05 |
 | **[National Football League (NFL)](http://www.nfl.com)** | **[Seasonal Graphics Production Assistant](https://jobright.ai/jobs/info/682fb6c96b0bbf3612539038?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Inglewood, CA | On Site | Jul 05 |
-| **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Annapolis- Pottery Barn](https://jobright.ai/jobs/info/68113bda7a1fb3d948847c31?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Annapolis, MD | On Site | Jul 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
