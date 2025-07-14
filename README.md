@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fortune Brands Innovations](http://www.fbhs.com)** | **[Associate Product Designer, Connected Products](https://jobright.ai/jobs/info/68753f035cebcd1dd51bee46?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Jul 14 |
 | **[Macy's](http://www.macysjobs.com)** | **[Visual Support Captain, Irving Mall - Full Time](https://jobright.ai/jobs/info/687519e75cebcd1dd51bdca9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 3801 Irving Mall, Irving, TX, 75062, US | On Site | Jul 14 |
 | **[Reunited Clothing](https://reunitedclothing.com)** | **[Assistant / Associate Designer - Wovens, Cut&Sew](https://jobright.ai/jobs/info/68749f9d299cbc74b874f8be?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jul 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Creative Marketing Operations Coordinator](https://jobright.ai/jobs/info/68744e68299cbc74b874d0d3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burbank, CA, USA | Hybrid | Jul 13 |
@@ -89,9 +90,9 @@ For a complete list, click the following sortable link below:
 | **[VML](https://www.vmlyr.com/)** | **[Art Director](https://jobright.ai/jobs/info/68719988a5ae807a59d00b2c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jul 11 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Junior Interior Designer](https://jobright.ai/jobs/info/68718fb8e1eb93dd1c89b81f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 401 B Street, San Diego, CA, 92101, US | On Site | Jul 11 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Shop - Creative Designer](https://jobright.ai/jobs/info/68718d1606ad7073463c5d86?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Jul 11 |
-| **[Salesforce](https://www.salesforce.com)** | **[Digital Designer - Events & Experiences - Contractor](https://jobright.ai/jobs/info/68717603ff9bcd850a726469?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | California - San Francisco | On Site | Jul 11 |
+| **[Salesforce](https://www.salesforce.com)** | **[Digital Designer - Events & Experiences - Contractor](https://jobright.ai/jobs/info/68717603ff9bcd850a726464?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Texas - Austin | On Site | Jul 11 |
+| ↳ | **[Digital Designer - Events & Experiences - Contractor](https://jobright.ai/jobs/info/68717603ff9bcd850a726469?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | California - San Francisco | On Site | Jul 11 |
 | ↳ | **[Digital Designer - Events & Experiences - Contractor](https://jobright.ai/jobs/info/68717603ff9bcd850a7261f1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oregon - Remote | Remote | Jul 11 |
-| ↳ | **[Digital Designer - Events & Experiences - Contractor](https://jobright.ai/jobs/info/68717603ff9bcd850a726464?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Texas - Austin | On Site | Jul 11 |
 | ↳ | **[Digital Designer - Events & Experiences - Contractor](https://jobright.ai/jobs/info/68717603ff9bcd850a726465?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | California - Remote | Remote | Jul 11 |
 | ↳ | **[Digital Designer - Events & Experiences - Contractor](https://jobright.ai/jobs/info/68717603ff9bcd850a72646c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington - Seattle | On Site | Jul 11 |
 | **[Gensler](http://www.gensler.com)** | **[Designer - Architecture & Interiors - Junior](https://jobright.ai/jobs/info/6850b271740bdb6692048c6a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oakland, CA | On Site | Jul 11 |
@@ -163,10 +164,10 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/67a660dbfff568ea006b351a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Memphis, TN | On Site | Jul 08 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Designer, Mixed-Use & K-12 ](https://jobright.ai/jobs/info/686de5fc2f7337a591dd4f94?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, California, United States | Hybrid | Jul 08 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6751861ba691e2b579c05521?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fern Park, FL | On Site | Jul 08 |
-| **[Airlines Reporting Corporation (ARC)](https://www.arccorp.com)** | **[User Experience (UX) Designer II](https://jobright.ai/jobs/info/686dca8bab1e0cdf6bbbfe18?utm_campaign=Creatives%20and%20Design&utm_source=1103)** |  US-KY-Louisville  | Hybrid | Jul 08 |
-| ↳ | **[User Experience (UX) Designer II](https://jobright.ai/jobs/info/686dca8bab1e0cdf6bbbfe1a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-VA-Arlington  | Hybrid | Jul 08 |
+| **[Airlines Reporting Corporation (ARC)](https://www.arccorp.com)** | **[User Experience (UX) Designer II](https://jobright.ai/jobs/info/686dca8bab1e0cdf6bbbfcbb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** |  US-FL-Tampa  | Hybrid | Jul 08 |
 | ↳ | **[User Experience (UX) Designer II](https://jobright.ai/jobs/info/686dca8bab1e0cdf6bbbfe19?utm_campaign=Creatives%20and%20Design&utm_source=1103)** |  US | Hybrid | Jul 08 |
-| ↳ | **[User Experience (UX) Designer II](https://jobright.ai/jobs/info/686dca8bab1e0cdf6bbbfcbb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** |  US-FL-Tampa  | Hybrid | Jul 08 |
+| ↳ | **[User Experience (UX) Designer II](https://jobright.ai/jobs/info/686dca8bab1e0cdf6bbbfe18?utm_campaign=Creatives%20and%20Design&utm_source=1103)** |  US-KY-Louisville  | Hybrid | Jul 08 |
+| ↳ | **[User Experience (UX) Designer II](https://jobright.ai/jobs/info/686dca8bab1e0cdf6bbbfe1a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-VA-Arlington  | Hybrid | Jul 08 |
 | **[Spin Master](https://www.spinmaster.com)** | **[Designer, Wheels [Contract]](https://jobright.ai/jobs/info/686dc0656597706f9046b0c7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Jul 08 |
 | **[Crate and Barrel](http://crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/686dc00f1d9495af2e8c59c9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Walnut Creek, CA | On Site | Jul 08 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/686dc00f1d9495af2e8c59c5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Schaumburg, IL | On Site | Jul 08 |
@@ -204,7 +205,4 @@ For a complete list, click the following sortable link below:
 | **[Gensler](http://www.gensler.com)** | **[Designer – Interior Design – Junior](https://jobright.ai/jobs/info/68666a57bb4858bb082749c3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Jul 07 |
 | **[Sasaki](https://www.sasaki.com/)** | **[Junior Level Architectural Designer (Los Angeles)](https://jobright.ai/jobs/info/686f4b9ab524c5bedec1e42c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Jul 07 |
 | **[Rover.com](http://www.rover.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/685088e907b58793869627d1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Jul 07 |
-| **[Rally House](http://rallyhouse.com)** | **[Creative Designer Specialist](https://jobright.ai/jobs/info/686c785d35584b6542e14424?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lenexa, KS | On Site | Jul 07 |
-| **[IPSY](http://www.ipsy.com)** | **[Temporary Production Designer](https://jobright.ai/jobs/info/686c706335584b6542b8ed30?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jul 07 |
-| **[CannonDesign](http://www.cannondesign.com/)** | **[Experiential Graphic Designer - IA](https://jobright.ai/jobs/info/686d5c3082cf7edcbdc3e85e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
