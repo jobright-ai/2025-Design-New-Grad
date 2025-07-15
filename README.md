@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Ventures](http://www.redventures.com)** | **[Associate Product Designer / Broadband](https://jobright.ai/jobs/info/6876884c299cbc74b875df37?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Charlotte, NC | Hybrid | Jul 15 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Internal Graphic Designer I](https://jobright.ai/jobs/info/68766934299cbc74b875cf82?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pensacola, FL, United States | On Site | Jul 15 |
-| **[TikTok](https://www.tiktok.com)** | **[TikTok Shop - Creative Visual Designer](https://jobright.ai/jobs/info/687655d15cebcd1dd51c85fc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Jul 15 |
+| **[DEPT®](https://www.deptagency.com)** | **[Creative Analyst](https://jobright.ai/jobs/info/68768f1c5cebcd1dd51ca032?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jul 15 |
+| **[TikTok](https://www.tiktok.com)** | **[TikTok Shop - Creative Visual Designer](https://jobright.ai/jobs/info/68767b825cebcd1dd51c9518?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Jul 15 |
+| ↳ | **[TikTok Shop - Creative Visual Designer](https://jobright.ai/jobs/info/687655d15cebcd1dd51c85fc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Jul 15 |
 | **[Gensler](http://www.gensler.com)** | **[Designer - Architecture & Interiors - Junior](https://jobright.ai/jobs/info/6850b271740bdb6692048c6a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oakland, CA | On Site | Jul 14 |
 | **[PBK](http://www.pbk.com)** | **[Technical Designer](https://jobright.ai/jobs/info/6875bee1ae2f413e4a5a9846?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Anaheim, CA | On Site | Jul 14 |
 | ↳ | **[Technical Designer](https://jobright.ai/jobs/info/6875e0605cebcd1dd51c4342?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Berkeley, CA | On Site | Jul 14 |
@@ -95,8 +98,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/687561fa5cebcd1dd51c0137?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Springfield, IL | On Site | Jul 14 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687561c1299cbc74b8754512?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, OR | On Site | Jul 14 |
 | **[Pearson](https://www.pearson.com/)** | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/6875867b299cbc74b8755ce5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Annapolis, MD | On Site | Jul 14 |
-| ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/68758a5bae2f413e4a5a806c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Little Rock, AR | On Site | Jul 14 |
 | ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/68758593ae2f413e4a5a7e33?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Olympia, WA | On Site | Jul 14 |
+| ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/68758a5bae2f413e4a5a806c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Little Rock, AR | On Site | Jul 14 |
 | ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/687581065cebcd1dd51c15cd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Concord, NH | On Site | Jul 14 |
 | ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/6875862cae2f413e4a5a7e72?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Harrisburg, PA | On Site | Jul 14 |
 | ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/6875850b5cebcd1dd51c1899?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boise, ID | On Site | Jul 14 |
@@ -107,23 +110,23 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/687576f25cebcd1dd51c1087?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Salt Lake City, UT | On Site | Jul 14 |
 | ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/68757ab6299cbc74b87555da?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Juneau, AK | On Site | Jul 14 |
 | ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/687574c5ae2f413e4a5a73fa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Salem, OR | On Site | Jul 14 |
-| ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/68757813299cbc74b8755495?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Raleigh, NC | On Site | Jul 14 |
-| ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/687575a75cebcd1dd51c0fae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | On Site | Jul 14 |
-| ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/68757bbfae2f413e4a5a78b4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Phoenix, AZ | On Site | Jul 14 |
 | ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/687579875cebcd1dd51c11e2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Frankfort, KY | On Site | Jul 14 |
-| ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/687575b7ae2f413e4a5a749c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Richmond, VA | On Site | Jul 14 |
-| ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/68757d9bae2f413e4a5a7a83?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, IN | On Site | Jul 14 |
-| ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/68757945ae2f413e4a5a76ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tallahassee, FL | On Site | Jul 14 |
-| ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/68757ada5cebcd1dd51c1297?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Augusta, ME | On Site | Jul 14 |
+| ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/68757bbfae2f413e4a5a78b4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Phoenix, AZ | On Site | Jul 14 |
+| ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/687575a75cebcd1dd51c0fae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | On Site | Jul 14 |
+| ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/68757813299cbc74b8755495?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Raleigh, NC | On Site | Jul 14 |
 | ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/68757bea5cebcd1dd51c13a2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lansing, MI | On Site | Jul 14 |
+| ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/68757d9bae2f413e4a5a7a83?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, IN | On Site | Jul 14 |
+| ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/68757ada5cebcd1dd51c1297?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Augusta, ME | On Site | Jul 14 |
+| ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/687575b7ae2f413e4a5a749c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Richmond, VA | On Site | Jul 14 |
+| ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/68757945ae2f413e4a5a76ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tallahassee, FL | On Site | Jul 14 |
 | ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/68757cc4ae2f413e4a5a79ec?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Jul 14 |
 | ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/687573e5ae2f413e4a5a7330?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jefferson City, MO | On Site | Jul 14 |
-| ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/68757957299cbc74b8755530?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | On Site | Jul 14 |
 | ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/6875790e299cbc74b875550e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | On Site | Jul 14 |
+| ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/68757957299cbc74b8755530?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | On Site | Jul 14 |
 | ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/68757ca1ae2f413e4a5a79bf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cheyenne, WY | On Site | Jul 14 |
 | ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/6875797e5cebcd1dd51c11dc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montpelier, VT | On Site | Jul 14 |
-| ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/68757d26ae2f413e4a5a7a49?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Providence, RI | On Site | Jul 14 |
 | ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/68757de2ae2f413e4a5a7aa7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baton Rouge, LA | On Site | Jul 14 |
+| ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/68757d26ae2f413e4a5a7a49?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Providence, RI | On Site | Jul 14 |
 | ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/68757bae5cebcd1dd51c1350?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Paul, MN | On Site | Jul 14 |
 | ↳ | **[Multi-Media Graphic Design Animation Assistant](https://jobright.ai/jobs/info/68757bc05cebcd1dd51c1363?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbia, SC | On Site | Jul 14 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Part Time Picture Framer](https://jobright.ai/jobs/info/6875531e5cebcd1dd51bf8b6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Aurora-80 S Abilene St | On Site | Jul 14 |
@@ -228,19 +231,9 @@ For a complete list, click the following sortable link below:
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[UX Designer II - AMZ24226.1](https://jobright.ai/jobs/info/6852080396a63c79dcded3e9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Jul 09 |
 | **[Dickies®](https://www.dickies.com)** | **[Dickies: Associate Designer, Men's & Women's Denim](https://jobright.ai/jobs/info/685223796b7901e216c346a7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Costa Mesa, CA | On Site | Jul 09 |
 | **[AssetMark](http://www.assetmark.com)** | **[Associate Designer](https://jobright.ai/jobs/info/684e086f4c842cc23f5ae7a0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Charlotte, NC | Hybrid | Jul 09 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Designer](https://jobright.ai/jobs/info/686dd099dadb90395aab9a16?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Hybrid | Jul 09 |
 | **[University of Colorado Boulder](https://www.colorado.edu)** | **[Athletics Graphic Designer](https://jobright.ai/jobs/info/686e03b5a64d005d86c0f786?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boulder, CO | On Site | Jul 08 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/67a660dbfff568ea006b351a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Memphis, TN | On Site | Jul 08 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Designer, Mixed-Use & K-12 ](https://jobright.ai/jobs/info/686de5fc2f7337a591dd4f94?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, California, United States | Hybrid | Jul 08 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6751861ba691e2b579c05521?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fern Park, FL | On Site | Jul 08 |
-| **[Airlines Reporting Corporation (ARC)](https://www.arccorp.com)** | **[User Experience (UX) Designer II](https://jobright.ai/jobs/info/686dca8bab1e0cdf6bbbfe19?utm_campaign=Creatives%20and%20Design&utm_source=1103)** |  US | Hybrid | Jul 08 |
-| ↳ | **[User Experience (UX) Designer II](https://jobright.ai/jobs/info/686dca8bab1e0cdf6bbbfe18?utm_campaign=Creatives%20and%20Design&utm_source=1103)** |  US-KY-Louisville  | Hybrid | Jul 08 |
-| ↳ | **[User Experience (UX) Designer II](https://jobright.ai/jobs/info/686dca8bab1e0cdf6bbbfe1a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-VA-Arlington  | Hybrid | Jul 08 |
-| ↳ | **[User Experience (UX) Designer II](https://jobright.ai/jobs/info/686dca8bab1e0cdf6bbbfcbb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** |  US-FL-Tampa  | Hybrid | Jul 08 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Designer, Mixed-Use & K-12](https://jobright.ai/jobs/info/686dd099dadb90395aab9a16?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Hybrid | Jul 08 |
-| **[Spin Master](https://www.spinmaster.com)** | **[Designer, Wheels [Contract]](https://jobright.ai/jobs/info/686dc0656597706f9046b0c7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Jul 08 |
-| **[Crate and Barrel](http://crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/686dc00f1d9495af2e8c59c8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Jul 08 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/686dc00f1d9495af2e8c59c5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Schaumburg, IL | On Site | Jul 08 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/686dc00f1d9495af2e8c59c9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Walnut Creek, CA | On Site | Jul 08 |
-| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/686dba476ba17ba0b30e3f30?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Jul 08 |
-| **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Santa Monica - Pottery Barn](https://jobright.ai/jobs/info/686db700e564ed71e6ee221d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
