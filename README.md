@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crate and Barrel](http://crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/6879ac37a7fc8904e39647d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Walnut Creek, CA | On Site | Jul 17 |
 | **[Macy's](http://www.macysjobs.com)** | **[Assistant Designer, Style & Co - Bottoms, Skirts, and Jackets](https://jobright.ai/jobs/info/6853412e6089533c0e277032?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Hybrid | Jul 17 |
 | **[Calvin Klein](https://www.calvinklein.us)** | **[Assistant Designer, Women’s Underwear - Calvin Klein](https://jobright.ai/jobs/info/681e8f1beae49dfdc17a13cd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jul 17 |
 | **[MEDITECH](https://ehr.meditech.com)** | **[Graphic Designer, Marketing](https://jobright.ai/jobs/info/687948582097a271a89761b0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Foxboro | Hybrid | Jul 17 |
@@ -142,6 +143,7 @@ For a complete list, click the following sortable link below:
 | **[GEA Group](http://www.gea.com/)** | **[Production Designer](https://jobright.ai/jobs/info/67e76889f79cf6ed9f83ebd3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hudson, WI | On Site | Jul 14 |
 | **[PBK](http://www.pbk.com)** | **[Technical Designer](https://jobright.ai/jobs/info/6875bee1ae2f413e4a5a9846?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Anaheim, CA | On Site | Jul 14 |
 | ↳ | **[Technical Designer](https://jobright.ai/jobs/info/6875e0605cebcd1dd51c4342?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Berkeley, CA | On Site | Jul 14 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6752c5e2b232437059babeaf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brentwood, TN | On Site | Jul 14 |
 | **[EXPRESS](http://express.com)** | **[Assistant Technical Designer](https://jobright.ai/jobs/info/68759ffb299cbc74b8756598?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jul 14 |
 | **[Penguin Random House](http://www.penguinrandomhouse.com/)** | **[Junior Designer/Designer, Interiors (Open to remote)](https://jobright.ai/jobs/info/6875b6325cebcd1dd51c2ece?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Remote | Jul 14 |
 | **[Publicis Sapient](https://www.publicissapient.com)** | **[Junior Designer](https://jobright.ai/jobs/info/68757c765cebcd1dd51c142f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York | Hybrid | Jul 14 |
@@ -191,7 +193,4 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6854ca3c5931233535c453d4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lowell, NC | On Site | Jul 11 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/6838cc82b1ec984dc787c53e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Memphis, TN | On Site | Jul 11 |
 | **[Timberland](https://www.timberland.com/)** | **[Timberland: Designer, Footwear](https://jobright.ai/jobs/info/685407ebfc75c6539d7b2c0a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Stratham, NH | On Site | Jul 11 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6751858511d015f6e633fdd0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | On Site | Jul 11 |
-| **[F. Schumacher & Co.](http://fschumacher.com)** | **[Printing Specialist ( PM Shift )](https://jobright.ai/jobs/info/6874a125ae2f413e4a59e2d4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Passaic, NJ | On Site | Jul 11 |
-| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Design Coordinator](https://jobright.ai/jobs/info/681bac15dd031e1cb325f695?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
