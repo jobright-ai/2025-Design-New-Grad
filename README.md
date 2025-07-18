@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6879fa50ed63844c944a08d8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port Chester, NY | On Site | Jul 18 |
+| **[Meta](https://www.meta.com)** | **[2D/UI Artist / Wearables Product Creative](https://jobright.ai/jobs/info/6879f3b3ed63844c944a01bd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burlingame, CA | On Site | Jul 18 |
+| **[Meta](https://www.meta.com)** | **[2D/UI Artist / Wearables Product Creative](https://jobright.ai/jobs/info/6879f0c7ed63844c9449fee6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jul 17 |
+| ↳ | **[2D/UI Artist / Wearables Product Creative](https://jobright.ai/jobs/info/6879e5d62097a271a897b5e6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Jul 17 |
 | **[MEDITECH](https://ehr.meditech.com)** | **[Graphic Designer, Marketing](https://jobright.ai/jobs/info/6879d6bced63844c9449ecc1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Massachusetts, United States | Hybrid | Jul 17 |
 | **[Crate and Barrel](http://crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/6879ac37a7fc8904e39647d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Walnut Creek, CA | On Site | Jul 17 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/686dc00f1d9495af2e8c59c9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Walnut Creek, CA | On Site | Jul 17 |
@@ -126,7 +130,7 @@ For a complete list, click the following sortable link below:
 | **[KITH](https://kith.com)** | **[Visual Assistant](https://jobright.ai/jobs/info/68771388299cbc74b87632fa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | On Site | Jul 15 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[CAD Artist/Design Assistant, Footwear](https://jobright.ai/jobs/info/6876eda3299cbc74b8761de3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jul 15 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[Design Consultant](https://jobright.ai/jobs/info/68734aa4a5ae807a59d092b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Huntsville, AL | On Site | Jul 15 |
-| **[The N2 Company](https://n2co.com)** | **[Publication Designer](https://jobright.ai/jobs/info/6876e6b75cebcd1dd51cd764?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jul 15 |
+| **[The N2 Company](https://n2co.com)** | **[Publication Designer](https://jobright.ai/jobs/info/6876dce85cebcd1dd51cd2e1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jul 15 |
 | **[UNIQLO](https://www.uniqlo.com/jp/ja/)** | **[Visual Supervisor in Training](https://jobright.ai/jobs/info/6876d611ae2f413e4a5b43cb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | UNIQLO PA CHESTNUT STREET(UQUS) | Hybrid | Jul 15 |
 | **[Graco](http://graco.com/in/en/)** | **[Associate Technical Illustrator](https://jobright.ai/jobs/info/6876d5535cebcd1dd51ccd4a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rogers, MN | On Site | Jul 15 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[CAD Artist/Design Assistant, Footwear](https://jobright.ai/jobs/info/6876e327ae2f413e4a5b4ab1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Long Island City, NY | On Site | Jul 15 |
