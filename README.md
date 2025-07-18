@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AECOM](http://www.aecom.com/)** | **[UXO Tech I](https://jobright.ai/jobs/info/687a9ea7ed63844c944a4771?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | On Site | Jul 18 |
 | **[RH](https://rh.com)** | **[Interior Design Consultant](https://jobright.ai/jobs/info/687a5f122097a271a897e88f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tampa, FL | On Site | Jul 18 |
 | **[Razorfish](http://www.amnesia.com.au)** | **[Associate Art Director, Social Media](https://jobright.ai/jobs/info/685de4091361d54b63c9a385?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Miami, FL | Hybrid | Jul 18 |
 | **[Dickies®](https://www.dickies.com)** | **[Dickies: Coordinator, Digital Assets & Samples](https://jobright.ai/jobs/info/687a3af6764c3d7411c2c0e8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Costa Mesa, CA | On Site | Jul 18 |
@@ -65,8 +66,8 @@ For a complete list, click the following sortable link below:
 | **[Meta](https://www.meta.com)** | **[2D/UI Artist / Wearables Product Creative](https://jobright.ai/jobs/info/6879f0c7ed63844c9449fee6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jul 17 |
 | ↳ | **[2D/UI Artist / Wearables Product Creative](https://jobright.ai/jobs/info/6879e5d62097a271a897b5e6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Jul 17 |
 | **[MEDITECH](https://ehr.meditech.com)** | **[Graphic Designer, Marketing](https://jobright.ai/jobs/info/6879d6bced63844c9449ecc1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Massachusetts, United States | Hybrid | Jul 17 |
-| **[Crate and Barrel](http://crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/6879ac37a7fc8904e39647d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Walnut Creek, CA | On Site | Jul 17 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/686dc00f1d9495af2e8c59c9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Walnut Creek, CA | On Site | Jul 17 |
+| **[IKEA](http://www.ikea.com/)** | **[Communication & Interior Design Co-worker -Syracuse, NY](https://jobright.ai/jobs/info/687a9459ed63844c944a3eae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Syracuse-Auburn Area | On Site | Jul 17 |
+| **[Crate and Barrel](http://crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/686dc00f1d9495af2e8c59c9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Walnut Creek, CA | On Site | Jul 17 |
 | **[Macy's](http://www.macysjobs.com)** | **[Assistant Designer, Style & Co - Bottoms, Skirts, and Jackets](https://jobright.ai/jobs/info/6853412e6089533c0e277032?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Hybrid | Jul 17 |
 | **[Calvin Klein](https://www.calvinklein.us)** | **[Assistant Designer, Women’s Underwear - Calvin Klein](https://jobright.ai/jobs/info/681e8f1beae49dfdc17a13cd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jul 17 |
 | **[MEDITECH](https://ehr.meditech.com)** | **[Graphic Designer, Marketing](https://jobright.ai/jobs/info/687948582097a271a89761b0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Foxboro | Hybrid | Jul 17 |
@@ -184,6 +185,4 @@ For a complete list, click the following sortable link below:
 | **[Macy's](http://www.macysjobs.com)** | **[Visual Support Captain, Galleria at Crystal Run - Full Time](https://jobright.ai/jobs/info/687241262874841619ef7113?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 1 North Galleria Drive - Suite 131, Middletown, NY, 10941, US | On Site | Jul 12 |
 | **[Everi.One](https://everi.one)** | **[Technical Artist I (Hybrid in Austin, TX)](https://jobright.ai/jobs/info/68721bd006ad7073463cb745?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Hybrid | Jul 11 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[KJUS / Fit Model](https://jobright.ai/jobs/info/6871e364a5ae807a59d02fa1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boulder, CO | On Site | Jul 11 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6838b6c022a7d57f517da463?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fresno, CA | On Site | Jul 11 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/67c7517d395f1ec499a02bb5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mission Viejo, CA | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
