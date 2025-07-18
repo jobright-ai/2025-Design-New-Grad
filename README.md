@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dickies®](https://www.dickies.com)** | **[Dickies: Coordinator, Digital Assets & Samples](https://jobright.ai/jobs/info/687a3af6764c3d7411c2c0e8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Costa Mesa, CA | On Site | Jul 18 |
 | **[Coalition Technologies](https://coalitiontechnologies.com/)** | **[Web Designer](https://jobright.ai/jobs/info/687a23542097a271a897d6ec?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jul 18 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6879fa50ed63844c944a08d8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port Chester, NY | On Site | Jul 18 |
 | **[Meta](https://www.meta.com)** | **[2D/UI Artist / Wearables Product Creative](https://jobright.ai/jobs/info/6879f3b3ed63844c944a01bd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burlingame, CA | On Site | Jul 18 |
@@ -160,7 +161,7 @@ For a complete list, click the following sortable link below:
 | **[D'Addario & Company, Inc.](http://daddario.com)** | **[Entry Level Graphic Designer-Digital](https://jobright.ai/jobs/info/68757bf3299cbc74b875568e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-NY-Farmingdale | Hybrid | Jul 14 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Entry Level Architectural Designer](https://jobright.ai/jobs/info/687574275cebcd1dd51c0e9c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Peoria, IL | On Site | Jul 14 |
 | **[Random House Group](https://www.penguinrandomhouse.com/)** | **[Junior Designer/Designer, Interiors (Open to remote)](https://jobright.ai/jobs/info/68758b74299cbc74b8755ea0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Remote | Jul 14 |
-| **[Nissan Motor Corporation](https://heylink.me/shen168.id)** | **[Automotive CMF Designer 1](https://jobright.ai/jobs/info/6875699bae2f413e4a5a6ab9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, California - United States of America | On Site | Jul 14 |
+| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Automotive CMF Designer 1](https://jobright.ai/jobs/info/6875699bae2f413e4a5a6ab9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, California - United States of America | On Site | Jul 14 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687561c1299cbc74b8754512?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, OR | On Site | Jul 14 |
 | **[Macy's](http://www.macysjobs.com)** | **[Assistant, Designer (Denim)](https://jobright.ai/jobs/info/68756051299cbc74b8754446?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jul 14 |
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Entry Level Lighting Designer](https://jobright.ai/jobs/info/687559ed5cebcd1dd51bfd45?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pittsburgh, PA | Hybrid | Jul 14 |
@@ -194,5 +195,4 @@ For a complete list, click the following sortable link below:
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/673dd234ef77ec4af6d14a06?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Scottsdale, AZ | Hybrid | Jul 11 |
 | **[VML](https://www.vmlyr.com/)** | **[Art Director](https://jobright.ai/jobs/info/68719988a5ae807a59d00b2c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jul 11 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Junior Interior Designer](https://jobright.ai/jobs/info/68718fb8e1eb93dd1c89b81f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 401 B Street, San Diego, CA, 92101, US | On Site | Jul 11 |
-| **[TikTok](https://www.tiktok.com)** | **[TikTok Shop - Creative Designer](https://jobright.ai/jobs/info/68718d1606ad7073463c5d86?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
