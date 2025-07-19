@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Paubox](https://www.paubox.com)** | **[Visual Web Designer - Contract](https://jobright.ai/jobs/info/687af8e52097a271a8982067?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote (United States) | Remote | Jul 18 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687aa991ed63844c944a4ff8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Madison, WI | On Site | Jul 18 |
 | **[Oliver Wyman](http://www.oliverwyman.com)** | **[Oliver Wyman - Presentation Designer - New York](https://jobright.ai/jobs/info/687aa825764c3d7411c2efae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Hybrid | Jul 18 |
 | **[Serena & Lily](http://www.serenaandlily.com)** | **[Design Advisor](https://jobright.ai/jobs/info/6856e709974ffa1db3328b8a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Jul 18 |
@@ -65,13 +66,13 @@ For a complete list, click the following sortable link below:
 | **[Razorfish](http://www.amnesia.com.au)** | **[Associate Art Director, Social Media](https://jobright.ai/jobs/info/685de4091361d54b63c9a385?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Miami, FL | Hybrid | Jul 18 |
 | **[University of Missouri-Columbia](https://missouri.edu)** | **[Interior Designer](https://jobright.ai/jobs/info/686fce6d06ad7073463b8f1a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbia, MO | On Site | Jul 18 |
 | **[Dickies®](https://www.dickies.com)** | **[Dickies: Coordinator, Digital Assets & Samples](https://jobright.ai/jobs/info/687a3af6764c3d7411c2c0e8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Costa Mesa, CA | On Site | Jul 18 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6879fa50ed63844c944a08d8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port Chester, NY | On Site | Jul 18 |
 | **[Meta](https://www.meta.com)** | **[2D/UI Artist / Wearables Product Creative](https://jobright.ai/jobs/info/6879f3b3ed63844c944a01bd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burlingame, CA | On Site | Jul 18 |
 | **[Meta](https://www.meta.com)** | **[2D/UI Artist / Wearables Product Creative](https://jobright.ai/jobs/info/6879f0c7ed63844c9449fee6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jul 17 |
 | ↳ | **[2D/UI Artist / Wearables Product Creative](https://jobright.ai/jobs/info/6879e5d62097a271a897b5e6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Jul 17 |
 | **[MEDITECH](https://ehr.meditech.com)** | **[Graphic Designer, Marketing](https://jobright.ai/jobs/info/6879d6bced63844c9449ecc1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Massachusetts, United States | Hybrid | Jul 17 |
 | **[IKEA](http://www.ikea.com/)** | **[Communication & Interior Design Co-worker -Syracuse, NY](https://jobright.ai/jobs/info/687a9459ed63844c944a3eae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Syracuse-Auburn Area | On Site | Jul 17 |
 | **[Crate and Barrel](http://crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/686dc00f1d9495af2e8c59c9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Walnut Creek, CA | On Site | Jul 17 |
+| **[Barstool Sports](http://www.barstoolsports.com)** | **[Graphics Associate Producer](https://jobright.ai/jobs/info/687ae0122097a271a8981a61?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Jul 17 |
 | **[Macy's](http://www.macysjobs.com)** | **[Assistant Designer, Style & Co - Bottoms, Skirts, and Jackets](https://jobright.ai/jobs/info/6853412e6089533c0e277032?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Hybrid | Jul 17 |
 | **[Calvin Klein](https://www.calvinklein.us)** | **[Assistant Designer, Women’s Underwear - Calvin Klein](https://jobright.ai/jobs/info/681e8f1beae49dfdc17a13cd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jul 17 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6840a40611e77834e2d7d65e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Jul 17 |
