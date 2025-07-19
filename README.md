@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TPI](http://betonTPI.com)** | **[Print Production Associate - 2nd & 3rd Shift](https://jobright.ai/jobs/info/687b9eec2097a271a8985fbd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Des Moines, IA | On Site | Jul 19 |
+| **[Newsmax Media, Inc.](http://www.newsmax.com/)** | **[Graphics Operator](https://jobright.ai/jobs/info/683461817b219e1a8e9e4aca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jul 19 |
 | **[Mattel, Inc.](http://www.mattel.com)** | **[Product Designer](https://jobright.ai/jobs/info/687b03e3764c3d7411c3075d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 333 Continental Blvd, El Segundo, CALIFORNIA | On Site | Jul 18 |
 | **[Paubox](https://www.paubox.com)** | **[Visual Web Designer - Contract](https://jobright.ai/jobs/info/687af8e52097a271a8982067?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote (United States) | Remote | Jul 18 |
 | **[RealPage, Inc.](http://www.realpage.com)** | **[UI/UX Designer I](https://jobright.ai/jobs/info/687b797bed63844c944a7ee3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | On Site | Jul 18 |
@@ -150,7 +151,7 @@ For a complete list, click the following sortable link below:
 | **[KITH](https://kith.com)** | **[Visual Assistant](https://jobright.ai/jobs/info/68771388299cbc74b87632fa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | On Site | Jul 15 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[CAD Artist/Design Assistant, Footwear](https://jobright.ai/jobs/info/6876eda3299cbc74b8761de3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jul 15 |
 | **[Bassett Furniture Industries, Inc.](http://www.bassettfurniture.com)** | **[Design Consultant](https://jobright.ai/jobs/info/68734aa4a5ae807a59d092b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Huntsville, AL | On Site | Jul 15 |
-| **[The N2 Company](https://n2co.com)** | **[Publication Designer](https://jobright.ai/jobs/info/6876dce85cebcd1dd51cd2e1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jul 15 |
+| **[The N2 Company](https://n2co.com)** | **[Publication Designer](https://jobright.ai/jobs/info/6876e6b75cebcd1dd51cd764?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jul 15 |
 | **[UNIQLO](https://www.uniqlo.com/jp/ja/)** | **[Visual Supervisor in Training](https://jobright.ai/jobs/info/6876d611ae2f413e4a5b43cb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | UNIQLO PA CHESTNUT STREET(UQUS) | Hybrid | Jul 15 |
 | **[Graco](http://graco.com/in/en/)** | **[Associate Technical Illustrator](https://jobright.ai/jobs/info/6876d5535cebcd1dd51ccd4a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rogers, MN | On Site | Jul 15 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[CAD Artist/Design Assistant, Footwear](https://jobright.ai/jobs/info/6876e327ae2f413e4a5b4ab1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Long Island City, NY | On Site | Jul 15 |
@@ -187,5 +188,4 @@ For a complete list, click the following sortable link below:
 | **[Crate and Barrel](http://crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/68608f3d29ab393da443983a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Paramus, NJ | On Site | Jul 13 |
 | **[Broadridge](http://www.broadridge.com)** | **[Print Coordinator (Night Shift - On-Site)](https://jobright.ai/jobs/info/6839f67e48be4fffede41ecd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Coppell, TX | On Site | Jul 13 |
 | **[Gensler](http://www.gensler.com)** | **[Designer – Architecture – Junior](https://jobright.ai/jobs/info/68666a57bb4858bb082749c2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Jul 12 |
-| **[Crate and Barrel](http://crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/687300e0a5ae807a59d07636?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | White Plains, NY | On Site | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
