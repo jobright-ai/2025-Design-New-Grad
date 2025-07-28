@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michaels Stores](https://teachitpro.com)** | **[framing team member](https://jobright.ai/jobs/info/6887ee4c4174df41e0fa1bd8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Alameda-2650 S 5th St, Ste A | On Site | Jul 28 |
+| **[Schwazze](https://www.schwazze.com/home)** | **[Packaging Associate](https://jobright.ai/jobs/info/6887f17573e3e13cbd9415c3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Albuquerque, NM | On Site | Jul 28 |
 | **[LOFT](http://anninc.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/6887ce2073e3e13cbd9403e7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | On Site | Jul 28 |
 | **[Company 3](http://www.company3.com)** | **[Color Assist](https://jobright.ai/jobs/info/6887c26b4174df41e0fa0491?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jul 28 |
 | **[Thumbtack](https://www.thumbtack.com)** | **[Content Designer, New Hiring Experience Team](https://jobright.ai/jobs/info/6887bd3273e3e13cbd93fa8f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jul 28 |
@@ -73,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Konrad](https://www.konrad.com)** | **[Associate UI/UX Designer](https://jobright.ai/jobs/info/68879e00fbbf032d000752cb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jul 27 |
 | ↳ | **[Associate UI/UX Designer](https://jobright.ai/jobs/info/68879e5b73e3e13cbd93ec83?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York | Hybrid | Jul 27 |
 | ↳ | **[UI/UX Designer](https://jobright.ai/jobs/info/6886fdd1fbbf032d00071a9c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jul 27 |
+| **[Frequence](http://www.frequence.com)** | **[Jr. Visual Designer - Photoshop](https://jobright.ai/jobs/info/6887e6924174df41e0fa16df?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote, United States | Remote | Jul 27 |
 | **[Bending Spoons](http://bendingspoons.com)** | **[UX/UI Designer (relocate to Europe)](https://jobright.ai/jobs/info/688677d0fbbf032d00070203?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Hybrid | Jul 27 |
 | ↳ | **[UX/UI Designer (relocate to Europe)](https://jobright.ai/jobs/info/68867629b651c92cb78af538?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Jul 27 |
 | ↳ | **[Junior Product Designer (relocate to Europe)](https://jobright.ai/jobs/info/68867623b651c92cb78af535?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jul 27 |
@@ -90,7 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Michaels Stores](https://teachitpro.com)** | **[Personal Framing Designer - $11.25/hr](https://jobright.ai/jobs/info/6884eb3a4174df41e0f958ea?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | McKinney-1751 N Central Expy Bldg B | On Site | Jul 26 |
 | **[Hammond Lumber Company](http://hammondlumber.com)** | **[Kitchen & Bath Designer](https://jobright.ai/jobs/info/6765dd80a428dd24202fe9af?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ellsworth, ME | On Site | Jul 26 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Annapolis- Pottery Barn](https://jobright.ai/jobs/info/68113bda7a1fb3d948847c31?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Annapolis, MD | On Site | Jul 26 |
-| **[FIGS](http://www.wearfigs.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/684d12fcc4f257fd723a2ca5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | Hybrid | Jul 26 |
+| **[FIGS](http://www.wearfigs.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/684bc077bc94e0abd307074e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | Hybrid | Jul 26 |
 | **[Wabtec Corporation](http://www.wabteccorp.com)** | **[Industrial Experience Designer – Advanced Technologies](https://jobright.ai/jobs/info/684b73e1e510278dc5cdb294?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Jul 26 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Printing Specialist ( PM Shift )](https://jobright.ai/jobs/info/6884c227fbbf032d0006afba?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Passaic, NJ | On Site | Jul 26 |
 | **[Wine Enthusiast](http://www.wineenthusiast.com)** | **[Junior Photo Art Director](https://jobright.ai/jobs/info/68859840fbbf032d0006d1cd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Valhalla, NY | Hybrid | Jul 26 |
@@ -251,6 +254,4 @@ For a complete list, click the following sortable link below:
 | **[Minnesota Lottery](https://www.mnlottery.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/687fa2bd9f7280424570408c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Roseville, MN | Hybrid | Jul 22 |
 | **[Weston Solutions, Inc.](https://www.westonsolutions.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/685e2cde7dcdf6aa10bf44d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West Chester, PA | Hybrid | Jul 22 |
 | **[Community Impact](https://communityimpact.com)** | **[Graphic Designer - Infographic Specialist](https://jobright.ai/jobs/info/6880cf9af4f06100f3a21299?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Jul 22 |
-| **[Free People](http://www.freepeople.com)** | **[FP Movement Assistant Visual Manager](https://jobright.ai/jobs/info/681e4ab2d2a21646a93e8347?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burlington, MA | On Site | Jul 21 |
-| **[Wespath Benefits and Investments](http://www.wespath.org)** | **[Associate UX/Product Researcher](https://jobright.ai/jobs/info/6880c54829ad6b2744adbb92?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Glenview, IL | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
