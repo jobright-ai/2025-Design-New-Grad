@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Experian](http://www.experianplc.com)** | **[OCR Assistant - Remote](https://jobright.ai/jobs/info/688c1b2d1808534a89cb85ff?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States, United States, United States, United States | Remote | Jul 31 |
+| **[Microsoft](https://www.microsoft.com)** | **[UX Researcher II](https://jobright.ai/jobs/info/688c11b61808534a89cb8104?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Redmond, Washington, United States | Remote | Jul 31 |
+| **[Somerled Designs](www.somerleddesigns.com/contact-us-linkedin)** | **[Junior Interior Designer (Design Assistant)](https://jobright.ai/jobs/info/688c0c863a30793eb963f7b5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jul 31 |
 | **[Serena & Lily](http://www.serenaandlily.com)** | **[Design Advisor](https://jobright.ai/jobs/info/688c06433a30793eb963f5ea?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | On Site | Jul 31 |
 | **[West Elm](https://www.westelm.com/)** | **[Visual Associate, Part Time Flex, Pike & Rose- West ELm](https://jobright.ai/jobs/info/688bffd11808534a89cb7b3f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Bethesda, MD | On Site | Jul 31 |
 | **[Signarama Austin](http://www.signarama-austinsouth.com)** | **[Sign Design and Production Specialist](https://jobright.ai/jobs/info/688bfbfe1808534a89cb7922?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Appleton, WI | On Site | Jul 31 |
@@ -241,6 +244,4 @@ For a complete list, click the following sortable link below:
 | **[Design Within Reach](http://www.dwr.com)** | **[Design Specialist - Santa Monica](https://jobright.ai/jobs/info/686715f804afef40fd6de415?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Jul 25 |
 | **[The North Face](http://www.thenorthface.com/)** | **[The North Face: Associate Color Designer, Apparel](https://jobright.ai/jobs/info/6849efa9e12ba2402a004377?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Jul 25 |
 | **[Book of the Month](http://www.bookofthemonth.com)** | **[Coordinator, Creative Strategy](https://jobright.ai/jobs/info/688250366fcd973d15ad8395?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jul 25 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Jr. Designer](https://jobright.ai/jobs/info/684b63ff5394e4a2f71af1e8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jul 25 |
-| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/682e368b63345804acef1e88?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Las Vegas, NV | Hybrid | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
