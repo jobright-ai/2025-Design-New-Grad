@@ -57,14 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Barrett Hofherr](https://www.barrettsf.com)** | **[Production Artist](https://jobright.ai/jobs/info/689293374c7e851b90ad6d1b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco Bay Area | Hybrid | Aug 05 |
+| **[Significance](https://significanceinc.com/)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/68929180f47efe211395d7c7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Hybrid | Aug 05 |
+| **[Brigham Young University–Hawaii](https://www.byuh.edu)** | **[Seasider Sports Graphic Designer](https://jobright.ai/jobs/info/689287b7f47efe211395d29f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | BYU–Hawaii | On Site | Aug 05 |
 | **[Ethan Allen Global, Inc.](http://ethanallen.com)** | **[Interior Designer](https://jobright.ai/jobs/info/6892828bf47efe211395d11b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Superior, CO | On Site | Aug 05 |
-| **[Anne Arundel Community College](http://www.aacc.edu/)** | **[Publicity Assistant/Graphic Designer](https://jobright.ai/jobs/info/6892810ef5ee707a15dc6405?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Arnold, MD | On Site | Aug 05 |
 | **[Old Navy](http://www.oldnavy.com)** | **[Assistant Designer, Women's Sweaters, Sleep, & Swim](https://jobright.ai/jobs/info/68927bb1f5ee707a15dc61d8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Aug 05 |
 | **[J.Crew Factory](https://factory.jcrew.com/)** | **[Assistant Designer - Woven Dresses](https://jobright.ai/jobs/info/68927a20f5ee707a15dc600f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, USA (Headquarters) | Hybrid | Aug 05 |
 | **[Old Navy](http://www.oldnavy.com)** | **[Assistant Designer, Women's Tops, Skirts, Dresses, & Knits](https://jobright.ai/jobs/info/689273134c7e851b90ad5e65?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Aug 05 |
 | **[Bending Spoons](http://bendingspoons.com)** | **[Junior Product Designer (relocate to Europe)](https://jobright.ai/jobs/info/68926e39f5ee707a15dc5a08?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Aug 05 |
-| ↳ | **[Junior Product Designer (relocate to Europe)](https://jobright.ai/jobs/info/68926b5ff5ee707a15dc57be?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Aug 05 |
+| **[Huniford Design Studio](https://huniford.com/)** | **[Design Administrative Assistant](https://jobright.ai/jobs/info/689283404c7e851b90ad667b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Aug 05 |
+| **[Bending Spoons](http://bendingspoons.com)** | **[Junior Product Designer (relocate to Europe)](https://jobright.ai/jobs/info/68926b5ff5ee707a15dc57be?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Aug 05 |
 | **[Majestic Photobooth](https://www.majesticphotobooth.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/68926ac34c7e851b90ad5828?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nashville, TN | On Site | Aug 05 |
+| **[Anne Arundel Community College](http://www.aacc.edu/)** | **[Publicity Assistant/Graphic Designer](https://jobright.ai/jobs/info/6892810ef5ee707a15dc6405?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Arnold, MD | On Site | Aug 05 |
 | **[Lands'​ End](http://landsend.com)** | **[Assistant Designer - Men's](https://jobright.ai/jobs/info/689265c7f5ee707a15dc55d3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dodgeville, WI | Hybrid | Aug 05 |
 | **[Bending Spoons](http://bendingspoons.com)** | **[UX/UI Designer (relocate to Europe)](https://jobright.ai/jobs/info/6892624bf47efe211395bf5f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Aug 05 |
 | ↳ | **[Junior Product Designer (relocate to Europe)](https://jobright.ai/jobs/info/68925f43f5ee707a15dc515e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Hybrid | Aug 05 |
@@ -138,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Junior Interior Designer](https://jobright.ai/jobs/info/6871beb4a5ae807a59d0177a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | Hybrid | Aug 02 |
 | **[Bending Spoons](http://bendingspoons.com)** | **[UX/UI Designer (relocate to Europe)](https://jobright.ai/jobs/info/688e5b776a4aac5783cd9252?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Aug 02 |
 | ↳ | **[UX/UI Designer (relocate to Europe)](https://jobright.ai/jobs/info/688e5b2a6a4aac5783cd9205?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Aug 02 |
-| ↳ | **[UX/UI Designer (relocate to Europe)](https://jobright.ai/jobs/info/688e5a69cdbd821a36641562?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Hybrid | Aug 02 |
 | ↳ | **[Junior Product Designer (relocate to Europe)](https://jobright.ai/jobs/info/688e5a31cdbd821a36641533?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Hybrid | Aug 02 |
 | ↳ | **[Junior Product Designer (relocate to Europe)](https://jobright.ai/jobs/info/688e58396a4aac5783cd90f2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Aug 02 |
 | **[Jeda Media Group](https://jedamedia.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/688e5d51cdbd821a366416ef?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lewiston, ID | On Site | Aug 02 |
@@ -217,8 +220,7 @@ For a complete list, click the following sortable link below:
 | **[HGA](http://www.hga.com)** | **[Design Coordinator](https://jobright.ai/jobs/info/6885a6e1b651c92cb78acfe3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Jul 31 |
 | **[The Home Depot](https://www.homedepot.com)** | **[Designer - Kitchen/Bath](https://jobright.ai/jobs/info/688bb6373a30793eb963ccda?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Marysville, WA | On Site | Jul 31 |
 | **[Flagship Restaurant Group](https://flagshiprestaurantgroup.com)** | **[Multi-Media Designer](https://jobright.ai/jobs/info/688bb5f53a30793eb963ccba?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Omaha, NE | On Site | Jul 31 |
-| **[The Home Depot](https://www.homedepot.com)** | **[Designer - Kitchen/Bath](https://jobright.ai/jobs/info/688bb5a53a30793eb963cc95?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tacoma, WA | On Site | Jul 31 |
-| ↳ | **[Designer - Kitchen/Bath](https://jobright.ai/jobs/info/688bb36c1808534a89cb52f0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Snohomish, WA | On Site | Jul 31 |
+| **[The Home Depot](https://www.homedepot.com)** | **[Designer - Kitchen/Bath](https://jobright.ai/jobs/info/688bb36c1808534a89cb52f0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Snohomish, WA | On Site | Jul 31 |
 | ↳ | **[Designer - Kitchen/Bath](https://jobright.ai/jobs/info/688bb3523a30793eb963cb37?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Spokane Valley, WA | On Site | Jul 31 |
 | ↳ | **[Designer - Kitchen/Bath](https://jobright.ai/jobs/info/688bb3071808534a89cb52b7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Silverdale, WA | On Site | Jul 31 |
 | ↳ | **[Designer - Kitchen/Bath](https://jobright.ai/jobs/info/688bab84906ac06e1d1cd427?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Jul 31 |
@@ -228,11 +230,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer - Kitchen/Bath](https://jobright.ai/jobs/info/688c957d1808534a89cbccee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | College Place, WA | On Site | Jul 31 |
 | ↳ | **[Designer - Kitchen/Bath](https://jobright.ai/jobs/info/688ca0063a30793eb96456b6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Covington, WA | On Site | Jul 31 |
 | ↳ | **[Designer - Kitchen/Bath](https://jobright.ai/jobs/info/688c9ff61808534a89cbde0b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burlington, WA | On Site | Jul 31 |
-| ↳ | **[Designer - Kitchen/Bath](https://jobright.ai/jobs/info/688c96983a30793eb9644715?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oak Harbor, WA | On Site | Jul 31 |
 | ↳ | **[Designer - Kitchen/Bath](https://jobright.ai/jobs/info/688c969b3a30793eb964471b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kennewick, WA | On Site | Jul 31 |
-| ↳ | **[Designer - Kitchen/Bath](https://jobright.ai/jobs/info/688ca47a3a30793eb964593a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Jul 31 |
-| ↳ | **[Designer - Kitchen/Bath](https://jobright.ai/jobs/info/688c9e9c27f9022553c05b8e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Liberty Lake, WA | On Site | Jul 31 |
+| ↳ | **[Designer - Kitchen/Bath](https://jobright.ai/jobs/info/688c96983a30793eb9644715?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oak Harbor, WA | On Site | Jul 31 |
+| ↳ | **[Designer - Kitchen/Bath](https://jobright.ai/jobs/info/688c9aeb1808534a89cbd8e0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Jul 31 |
 | ↳ | **[Designer - Kitchen/Bath](https://jobright.ai/jobs/info/688c990c27f9022553c053dc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tukwila, WA | On Site | Jul 31 |
+| ↳ | **[Designer - Kitchen/Bath](https://jobright.ai/jobs/info/688c9e9c27f9022553c05b8e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Liberty Lake, WA | On Site | Jul 31 |
 | ↳ | **[Designer - Kitchen/Bath](https://jobright.ai/jobs/info/688c99f33a30793eb9644f6f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kent, WA | On Site | Jul 31 |
 | ↳ | **[Designer - Kitchen/Bath](https://jobright.ai/jobs/info/688c975c1808534a89cbd095?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tumwater, WA | On Site | Jul 31 |
 | ↳ | **[Designer - Kitchen/Bath](https://jobright.ai/jobs/info/688c9a9e1808534a89cbd836?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tacoma, WA | On Site | Jul 31 |
@@ -276,5 +278,4 @@ For a complete list, click the following sortable link below:
 | **[Design Within Reach](http://www.dwr.com)** | **[Design Specialist - San Francisco](https://jobright.ai/jobs/info/687b7008764c3d7411c32b49?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Jul 30 |
 | **[Berkadia](https://www.berkadia.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/683604010fafbf5bb4ddfc93?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | On Site | Jul 30 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Bishop Ranch - Pottery Barn](https://jobright.ai/jobs/info/686bffd035584b6542fd0399?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Ramon, CA | On Site | Jul 30 |
-| **[Crate and Barrel](http://crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/6882eb8cb54cac0f1e7338f9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Skokie, IL | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
