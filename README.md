@@ -59,7 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Maletis Beverage](http://maletis.com)** | **[Graphic Design Assistant](https://jobright.ai/jobs/info/6896954b1b9e81727f191b95?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, OR | On Site | Aug 08 |
 | **[West Elm](https://www.westelm.com/)** | **[Visual Associate, Part Time Flex, Santa Monica - West Elm](https://jobright.ai/jobs/info/6896922773b3a600fe8903d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Aug 08 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Designer](https://jobright.ai/jobs/info/68968a061b9e81727f191604?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Overland Park, Kansas | Hybrid | Aug 08 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Designer](https://jobright.ai/jobs/info/68968a051b9e81727f191601?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Overland Park, Kansas | Hybrid | Aug 08 |
 | **[Konrad](https://www.konrad.com)** | **[UI/UX Designer](https://jobright.ai/jobs/info/689689aa73b3a600fe890035?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Aug 08 |
 | ↳ | **[Associate UI/UX Designer](https://jobright.ai/jobs/info/6896878a73b3a600fe88ff58?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Aug 08 |
 | **[Buck Mason](https://www.buckmason.com/)** | **[Junior Visual Merchandiser (Austin)](https://jobright.ai/jobs/info/689685728c6d6b4426782374?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | On Site | Aug 08 |
