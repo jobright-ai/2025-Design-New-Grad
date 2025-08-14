@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Publicis Health](http://publicishealth.com)** | **[Freelance Creative - Copy](https://jobright.ai/jobs/info/689d77dd83d13d1f5b6b06ee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Philadelphia, PA | On Site | Aug 13 |
+| ↳ | **[Freelance Creative - Copy](https://jobright.ai/jobs/info/689d778e79a9f96662540ac2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 13 |
+| ↳ | **[Freelance Creative - Copy](https://jobright.ai/jobs/info/689d777379a9f96662540a4f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Aug 13 |
 | **[Jeda Media Group](https://jedamedia.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/689d608483d13d1f5b6af24a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lewiston, ID | On Site | Aug 13 |
 | **[REI](https://www.rei.com/)** | **[Visual Specialist](https://jobright.ai/jobs/info/689d423cfaa4e875e826e5e3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beaverton, Oregon | On Site | Aug 13 |
 | **[Crate and Barrel](http://crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/689d2fab79a9f9666253deff?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lone Tree, CO | On Site | Aug 13 |
@@ -115,7 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Roll & Hill](https://www.rollandhill.com/)** | **[Junior Industrial Designer](https://jobright.ai/jobs/info/689b8f8a79a9f96662531471?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 12 |
 | **[Stratus](https://www.stratusunlimited.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/689b8ed8faa4e875e8260f31?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Aug 12 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Seasonal Flex Only, Mission Viejo - Pottery Barn](https://jobright.ai/jobs/info/689b8de479a9f96662531161?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mission Viejo, CA | On Site | Aug 12 |
-| **[Allegra Marketing • Print • Mail Hampton Roads](http://www.allegrahamptonroads.com)** | **[Pre-Press Graphic Designer](https://jobright.ai/jobs/info/689c22a879a9f9666253683f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Norfolk, VA | On Site | Aug 12 |
+| **[Allegra/Image360](http://www.allegrahamptonroads.com)** | **[Pre-Press Graphic Designer](https://jobright.ai/jobs/info/689c22a879a9f9666253683f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Norfolk, VA | On Site | Aug 12 |
 | **[Insulet Corporation](https://www.insulet.com)** | **[Associate UX Designer - Acton, MA (Hybrid)](https://jobright.ai/jobs/info/689b7e22faa4e875e82608c6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Acton, Massachusetts | Hybrid | Aug 12 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Visual Associate, Seasonal Flex Only, Mission Viejo - Pottery Barn](https://jobright.ai/jobs/info/689b714383d13d1f5b6a050d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 524 The Shops At Mission Viejo, Mission Viejo, CA, 92691, US | On Site | Aug 12 |
 | **[Allegra Print & Imaging – Helena, MT](http://allegrahelena.com/)** | **[Pre-Press Graphic Designer](https://jobright.ai/jobs/info/689b7d3183d13d1f5b6a0810?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Norfolk, VA | On Site | Aug 12 |
@@ -137,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[PREZENTIUM](https://prezentium.com/)** | **[Presentation Specialist](https://jobright.ai/jobs/info/689aed925574fd6bc0c88027?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Aug 12 |
 | **[Yarn (YC W24)](https://www.yarn.so)** | **[Founding Designer](https://jobright.ai/jobs/info/689ae6495574fd6bc0c875ec?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, US | On Site | Aug 11 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d4992764c3d7411c3ca28?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tacoma, WA | On Site | Aug 11 |
-| **[PepsiCo](http://www.pepsico.com)** | **[Junior Designer](https://jobright.ai/jobs/info/689aa184faa4e875e825a602?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Aug 11 |
 | **[Armstrong World Industries](https://www.armstrongceilings.com)** | **[Architectural Designer Job](https://jobright.ai/jobs/info/689a961683d13d1f5b69a11a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Aug 11 |
 | **[Anne Arundel Community College](http://www.aacc.edu/)** | **[Publicity Assistant/Graphic Designer](https://jobright.ai/jobs/info/6892d48bf47efe211395fb79?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Maryland, United States | On Site | Aug 11 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Product Designer I, Product Safety](https://jobright.ai/jobs/info/689a9116faa4e875e8259baf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Aug 11 |
@@ -171,6 +173,7 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/689a0fd05574fd6bc0c7f617?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Apple Valley, MN | On Site | Aug 11 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687e1924764c3d7411c41688?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Homewood, AL | On Site | Aug 11 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/689a09a083d13d1f5b6958a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Salt Lake City, UT | On Site | Aug 11 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/687d3e492097a271a898e257?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port Chester, NY | On Site | Aug 11 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/689a08665574fd6bc0c7f1ec?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Scottsdale, AZ | On Site | Aug 11 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3be6ed63844c944b2324?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ypsilanti, MI | On Site | Aug 11 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d4472764c3d7411c3c9b1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Memphis, TN | On Site | Aug 11 |
@@ -180,7 +183,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d46892097a271a898e332?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lancaster, CA | On Site | Aug 11 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3e312097a271a898e24b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, GA | On Site | Aug 11 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3f5d764c3d7411c3c962?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Capitol Heights, MD | On Site | Aug 11 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/687d3f08ed63844c944b236c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port Chester, NY | On Site | Aug 11 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3eb5ed63844c944b2346?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nashua, NH | On Site | Aug 11 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3f63ed63844c944b2399?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sarasota, FL | On Site | Aug 11 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3ee5764c3d7411c3c91a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sacramento, CA | On Site | Aug 11 |
@@ -222,8 +224,8 @@ For a complete list, click the following sortable link below:
 | **[T-Mobile](https://www.t-mobile.com)** | **[Designer](https://jobright.ai/jobs/info/6897aa951b9e81727f19f0d8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Overland Park, Kansas | Hybrid | Aug 08 |
 | **[West Elm](https://www.westelm.com/)** | **[Visual Associate, Part Time Flex, Santa Monica - West Elm](https://jobright.ai/jobs/info/689837a5faa4e875e824c006?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Aug 08 |
 | ↳ | **[Visual Associate, Seasonal Flex Only, South Coast Plaza - West Elm](https://jobright.ai/jobs/info/6898493afaa4e875e824d0a3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Costa Mesa, CA | On Site | Aug 08 |
-| **[Buck Mason](https://www.buckmason.com/)** | **[Junior Visual Merchandiser (Washington, DC)](https://jobright.ai/jobs/info/689757ea1b9e81727f198bb0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Georgetown, D.C. | On Site | Aug 08 |
-| ↳ | **[Junior Visual Merchandiser (Austin)](https://jobright.ai/jobs/info/6897e3ed8c6d6b4426793944?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | On Site | Aug 08 |
+| **[Buck Mason](https://www.buckmason.com/)** | **[Junior Visual Merchandiser (Austin)](https://jobright.ai/jobs/info/6897e3ed8c6d6b4426793944?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | On Site | Aug 08 |
+| ↳ | **[Junior Visual Merchandiser (Washington, DC)](https://jobright.ai/jobs/info/689757ea1b9e81727f198bb0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Georgetown, D.C. | On Site | Aug 08 |
 | ↳ | **[Junior Visual Merchandiser (Nashville)](https://jobright.ai/jobs/info/689745031b9e81727f19751d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nashville, TN | On Site | Aug 08 |
 | **[Konrad](https://www.konrad.com)** | **[UI/UX Designer](https://jobright.ai/jobs/info/68986476faa4e875e824fc2c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Aug 08 |
 | **[Global Prairie](http://global-prairie.com)** | **[Associate, Creative (Graphic Designer) - All U.S. Offices](https://jobright.ai/jobs/info/68984dbd83d13d1f5b68da76?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kansas City, MO | On Site | Aug 08 |
@@ -288,9 +290,4 @@ For a complete list, click the following sortable link below:
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/6894f7f54ed2ea559ca5213b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Norfolk, VA | Hybrid | Aug 07 |
 | **[The Kasper Group](http://www.jonesgroupinc.com)** | **[Print Assistant, Women's Wholesale Apparel](https://jobright.ai/jobs/info/6895820e73b3a600fe8882be?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 07 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Flex Sample Assistant - Photo Studio - Cedar Rapids, IA](https://jobright.ai/jobs/info/6894cbd28c6d6b4426774674?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cedar Rapids, IA | On Site | Aug 07 |
-| **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/6894b8134ed2ea559ca4fc39?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Riverside, IL | Hybrid | Aug 07 |
-| **[Bath Fitter](https://www.bathfitter.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/688bec8f906ac06e1d1cf7dc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Birmingham, Alabama, United States | On Site | Aug 07 |
-| **[HLW](http://www.hlw.com)** | **[Lighting Designer](https://jobright.ai/jobs/info/6894d2728c6d6b4426774b8b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 07 |
-| **[Amazon](https://amazon.com)** | **[UX Designer II - AMZ24197.1](https://jobright.ai/jobs/info/685b64fca93cfb040202559d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Aug 07 |
-| **[Betches Media](http://www.betches.com/)** | **[Junior Designer, Motion Graphics (Freelance)](https://jobright.ai/jobs/info/6877f8245cebcd1dd51d6944?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | Hybrid | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
