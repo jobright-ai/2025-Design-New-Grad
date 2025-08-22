@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Konrad](https://www.konrad.com)** | **[UI/UX Designer](https://jobright.ai/jobs/info/68a8af8bd627244576e349f6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Aug 22 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68a8c145d627244576e354df?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbia, SC | On Site | Aug 22 |
+| **[The Araca Group](http://www.araca.com/)** | **[Associate, Art Administrator](https://jobright.ai/jobs/info/68a8c066d627244576e35427?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Secaucus, NJ | On Site | Aug 22 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68a8bf86d627244576e35369?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Clermont, FL | On Site | Aug 22 |
+| **[Konrad](https://www.konrad.com)** | **[Associate UI/UX Designer](https://jobright.ai/jobs/info/68a8b8f9758f2e4ac3ff48f4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Aug 22 |
+| ↳ | **[UI/UX Designer](https://jobright.ai/jobs/info/68a8af8bd627244576e349f6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Aug 22 |
 | **[Real Property Management Express](https://expressrpm.com)** | **[Corporate Designer](https://jobright.ai/jobs/info/68a8ae17758f2e4ac3ff4557?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sioux Falls, SD | On Site | Aug 22 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Jr. Designer, Creative Studios](https://jobright.ai/jobs/info/68a88a566acf96396f720a34?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Aug 22 |
 | **[Disney Advertising](https://www.disneyadvertising.com)** | **[Jr. Designer, Creative Studios](https://jobright.ai/jobs/info/68a88177758f2e4ac3ff2e00?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Aug 22 |
@@ -91,6 +95,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graphic Designer](https://jobright.ai/jobs/info/68a768a3d627244576e2bff2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Battle Ground, WA | On Site | Aug 21 |
 | ↳ | **[Graphic Designer](https://jobright.ai/jobs/info/68a8936c6acf96396f720d99?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greer, SC | On Site | Aug 21 |
 | ↳ | **[Graphic Designer](https://jobright.ai/jobs/info/68a8925dd627244576e33a19?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Battle Ground, WA | On Site | Aug 21 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Space Planner/ Analyst (Architecture)](https://jobright.ai/jobs/info/68a69710b6a3617d7fa786e6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Design Graduate (TikTok Shop Content Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6889a692aab47a17f6703e80?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Aug 21 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Design Coordinator, Business Solutions](https://jobright.ai/jobs/info/686dba476ba17ba0b30e3bf4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 21 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Space Planner/ Analyst (Architecture)](https://jobright.ai/jobs/info/68a6746633dd7158bbca00d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | Hybrid | Aug 21 |
@@ -117,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[State of Maryland](https://jobapscloud.com/MD/)** | **[UI Professional Series UI Professional I, II, & III](https://jobright.ai/jobs/info/68a68f9bb6a3617d7fa782d1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Maryland, United States | On Site | Aug 20 |
 | **[Tillys](http://www.tillys.com/intl/default.aspx?intl=1)** | **[Apparel Graphic Design and Production Assistant](https://jobright.ai/jobs/info/68532884c1141a78b12299a2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | On Site | Aug 20 |
 | **[Torrid](http://www.torrid.com/)** | **[Assistant Designer - Apparel](https://jobright.ai/jobs/info/68a66ef0758f2e4ac3fe4e0e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | City of Industry, California | Hybrid | Aug 20 |
-| **[Thomas James Homes](https://thomasjameshomesusa.com/)** | **[Interior Designer - Temporary Assignment](https://jobright.ai/jobs/info/68a6677033dd7158bbc9fda4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Redwood City, CA | Remote | Aug 20 |
 | **[Crate and Barrel](http://crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/686dc00f1d9495af2e8c59c8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Aug 20 |
 | **[Book of the Month](http://www.bookofthemonth.com)** | **[Coordinator, Creative Strategy](https://jobright.ai/jobs/info/68a39b14403ad4363b1c2882?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 20 |
 | **[Thomas James Homes](https://thomasjameshomesusa.com/)** | **[Interior Designer - Temporary Assignment](https://jobright.ai/jobs/info/68a65bd1758f2e4ac3fe46f8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Redwood City, CA | On Site | Aug 20 |
@@ -136,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Sunny Sky Products](https://sunnyskyproducts.com)** | **[Packaging Associate - Crew C](https://jobright.ai/jobs/info/68a62ee733dd7158bbc9e7f1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Douglassville, PA | On Site | Aug 20 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Custom Framing part time](https://jobright.ai/jobs/info/68a625ce33dd7158bbc9e484?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Saratoga Springs-3037 Rte 50 | On Site | Aug 20 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Interiors Technical Designer](https://jobright.ai/jobs/info/68a61ee033dd7158bbc9e10e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Long Beach, CA | On Site | Aug 20 |
-| **[RR Donnelley](http://www.rrd.com)** | **[Presentation Associate](https://jobright.ai/jobs/info/68a61e1cb6a3617d7fa7579e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Milwaukee, WI | Remote | Aug 20 |
 | **[Corgan](http://www.corgan.com/)** | **[Project Specialist, Architecture / Aviation](https://jobright.ai/jobs/info/68a6177db6a3617d7fa750cb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 20 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/68a61701b6a3617d7fa75048?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Warrenville, IL | On Site | Aug 20 |
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Entry Level Architectural Designer](https://jobright.ai/jobs/info/68a60eeb758f2e4ac3fe2368?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Detroit, MI | Hybrid | Aug 20 |
@@ -218,8 +221,8 @@ For a complete list, click the following sortable link below:
 | **[ThirdChannel](https://www.thirdchannel.com/)** | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a330571ab5f8579e8a390e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenwich, CT | On Site | Aug 18 |
 | ↳ | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a330521ab5f8579e8a3907?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Richmond, VA | On Site | Aug 18 |
 | ↳ | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a33016403ad4363b1bf010?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Orleans, LA | On Site | Aug 18 |
-| ↳ | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a33010403ad4363b1bf00b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Clara, CA | On Site | Aug 18 |
 | ↳ | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a33010403ad4363b1bf00c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Aug 18 |
+| ↳ | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a33010403ad4363b1bf00b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Clara, CA | On Site | Aug 18 |
 | ↳ | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a32ee437d3cc6b0d574d4d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Scottsdale, AZ | On Site | Aug 18 |
 | ↳ | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a32ee237d3cc6b0d574d4a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | On Site | Aug 18 |
 | ↳ | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a32eda37d3cc6b0d574d43?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | On Site | Aug 18 |
