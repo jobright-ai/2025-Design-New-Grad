@@ -58,7 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Anastasia Beverly Hills](http://www.anastasiabeverlyhills.com/)** | **[Junior, Graphic Designer](https://jobright.ai/jobs/info/68a83d9a758f2e4ac3ff1cb5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mar Vista, CA | On Site | Aug 22 |
-| **[Real Property Management](https://rpmnbly.site/)** | **[Corporate Designer](https://jobright.ai/jobs/info/68a838c1758f2e4ac3ff1ac6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sioux Falls, SD | On Site | Aug 22 |
+| **[Real Property Management](https://www.realpropertymgt.com/)** | **[Corporate Designer](https://jobright.ai/jobs/info/68a838c1758f2e4ac3ff1ac6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sioux Falls, SD | On Site | Aug 22 |
 | **[Fabletics](https://www.fabletics.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/68a7c93dd627244576e2ecf9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | El Segundo, CA | Hybrid | Aug 21 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68a7c6c7758f2e4ac3fee76c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tacoma, WA | On Site | Aug 21 |
 | **[HOK](http://www.hok.com/)** | **[Interior Design Professional](https://jobright.ai/jobs/info/68a7c481d627244576e2eb02?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Aug 21 |
@@ -245,9 +245,4 @@ For a complete list, click the following sortable link below:
 | **[Levin Rinke Realty](http://www.levinrinkerealty.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/689fa05dfaa4e875e828a47c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pensacola, FL | On Site | Aug 15 |
 | **[ARC Document Solutions](http://www.e-arc.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/689fa041faa4e875e828a42c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Costa Mesa, CA | On Site | Aug 15 |
 | **[Sports Research](https://sportsresearch.com)** | **[Generative AI Creative Associate](https://jobright.ai/jobs/info/689fc998cc9ee94dc9119d53?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Pedro, CA | Hybrid | Aug 15 |
-| **[ARC Document Solutions](http://www.e-arc.com/)** | **[Print Production Operator](https://jobright.ai/jobs/info/689bc92183d13d1f5b6a3805?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Aug 15 |
-| ↳ | **[Print Production Operator - Large Format Color](https://jobright.ai/jobs/info/689ccde783d13d1f5b6aabd8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Honolulu, HI | On Site | Aug 15 |
-| **[HDR](http://www.hdrinc.com)** | **[Design Coordinator, Interiors](https://jobright.ai/jobs/info/689f908983d13d1f5b6c9b0b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Aug 15 |
-| ↳ | **[Design Coordinator, Interiors](https://jobright.ai/jobs/info/689f8ffd83d13d1f5b6c9989?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Aug 15 |
-| **[Sole Hire](http://www.solehire.com)** | **[Industrial Designer / Product Tester](https://jobright.ai/jobs/info/689f82afb3e889632cf07dc7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Doral, Florida, United States | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
