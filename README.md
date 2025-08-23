@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Nature's Flavors](https://www.naturesflavors.com)** | **[UI/UX & Graphic Designer](https://jobright.ai/jobs/info/68a9deff6acf96396f729293?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Anaheim, CA | On Site | Aug 23 |
 | **[Grande Cheese Company](https://www.grande.com/)** | **[Packaging Associate II - Team 3](https://jobright.ai/jobs/info/688d29fa1808534a89cc163a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wyocena, WI | On Site | Aug 23 |
 | **[Fabletics](https://www.fabletics.com/)** | **[Jr. Video Editor](https://jobright.ai/jobs/info/688d89b5e5cead4afd456ac8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | El Segundo, CA | Hybrid | Aug 23 |
+| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/688d6ad51808534a89cc32ef?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tampa, FL | Hybrid | Aug 23 |
 | **[Real Property Management Express](https://expressrpm.com)** | **[Corporate Designer](https://jobright.ai/jobs/info/68a96885d627244576e398e6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sioux Falls, SD | On Site | Aug 23 |
 | **[HomeWetBar ](http://www.homewetbar.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/68a6465b758f2e4ac3fe3f60?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oklahoma City, OK | On Site | Aug 22 |
 | **[EXPRESS](http://express.com)** | **[Associate Art Director](https://jobright.ai/jobs/info/68a905dc758f2e4ac3ff6bfb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 22 |
@@ -239,8 +240,8 @@ For a complete list, click the following sortable link below:
 | **[ThirdChannel](https://www.thirdchannel.com/)** | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a330571ab5f8579e8a390e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenwich, CT | On Site | Aug 18 |
 | ↳ | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a330521ab5f8579e8a3907?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Richmond, VA | On Site | Aug 18 |
 | ↳ | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a33016403ad4363b1bf010?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Orleans, LA | On Site | Aug 18 |
-| ↳ | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a33010403ad4363b1bf00b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Clara, CA | On Site | Aug 18 |
 | ↳ | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a33010403ad4363b1bf00c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Aug 18 |
+| ↳ | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a33010403ad4363b1bf00b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Clara, CA | On Site | Aug 18 |
 | ↳ | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a32ee437d3cc6b0d574d4d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Scottsdale, AZ | On Site | Aug 18 |
 | ↳ | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a32ee237d3cc6b0d574d4a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | On Site | Aug 18 |
 | ↳ | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a32eda37d3cc6b0d574d43?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | On Site | Aug 18 |
@@ -252,5 +253,4 @@ For a complete list, click the following sortable link below:
 | **[FIGS](http://www.wearfigs.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/684bc077bc94e0abd307074e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | Hybrid | Aug 17 |
 | **[The RealReal](http://www.therealreal.com)** | **[Photography Production Assistant](https://jobright.ai/jobs/info/68a1d2c4cc9ee94dc9123f3f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Perth Amboy, NJ | On Site | Aug 17 |
 | **[Centric Brands](https://centricbrands.com)** | **[Assistant, Designer (Design Ops)](https://jobright.ai/jobs/info/689811988c6d6b4426794f37?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 16 |
-| **[West Elm](https://www.westelm.com/)** | **[Visual Associate, Part Time Flex, Walt Whitman - West Elm](https://jobright.ai/jobs/info/682fb9bdebed1250d43a9f45?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Huntington, NY | On Site | Aug 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
