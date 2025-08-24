@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Everi Holdings Inc.](http://www.everi.com)** | **[Technical Artist I (Hybrid in Austin, TX)](https://jobright.ai/jobs/info/688064219f7280424570a98f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Hybrid | Aug 24 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Human Factors Engineer](https://jobright.ai/jobs/info/68aa9841d627244576e3dcc3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Any Location / Remote | Remote | Aug 23 |
 | **[Rover.com](http://www.rover.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/6879dac72097a271a897afbf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Aug 23 |
 | **[Nature's Flavors](https://www.naturesflavors.com)** | **[UI/UX & Graphic Designer](https://jobright.ai/jobs/info/68a9deff6acf96396f729293?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Anaheim, CA | On Site | Aug 23 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/688d810acdbd821a3663aadf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pembroke Pines, FL | On Site | Aug 23 |
@@ -250,8 +249,8 @@ For a complete list, click the following sortable link below:
 | **[ThirdChannel](https://www.thirdchannel.com/)** | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a330571ab5f8579e8a390e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenwich, CT | On Site | Aug 18 |
 | ↳ | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a330521ab5f8579e8a3907?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Richmond, VA | On Site | Aug 18 |
 | ↳ | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a33016403ad4363b1bf010?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Orleans, LA | On Site | Aug 18 |
-| ↳ | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a33010403ad4363b1bf00b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Clara, CA | On Site | Aug 18 |
 | ↳ | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a33010403ad4363b1bf00c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Aug 18 |
+| ↳ | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a33010403ad4363b1bf00b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Clara, CA | On Site | Aug 18 |
 | ↳ | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a32ee437d3cc6b0d574d4d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Scottsdale, AZ | On Site | Aug 18 |
 | ↳ | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a32ee237d3cc6b0d574d4a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | On Site | Aug 18 |
 | ↳ | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a32eda37d3cc6b0d574d42?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orlando, FL | On Site | Aug 18 |
@@ -259,5 +258,4 @@ For a complete list, click the following sortable link below:
 | **[The Estée Lauder Companies Inc.](http://www.elcompanies.com)** | **[MAC - Artist - Full Time - Melville, NY](https://jobright.ai/jobs/info/689e6ef9faa4e875e827c711?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Melville, NY | On Site | Aug 18 |
 | **[Sleeper](https://sleeper.com)** | **[Product Designer (Mid-Level)](https://jobright.ai/jobs/info/68a32a81403ad4363b1bee34?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | LA Metro Area | Hybrid | Aug 18 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Annapolis- Pottery Barn](https://jobright.ai/jobs/info/68113bda7a1fb3d948847c31?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Annapolis, MD | On Site | Aug 17 |
-| **[Minuteman Press](https://www.minutemanpress.com/)** | **[Customer Service / Graphic Design](https://jobright.ai/jobs/info/68a290effaa4e875e82964d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Natick, MA | On Site | Aug 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
