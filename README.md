@@ -244,11 +244,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a33010403ad4363b1bf00b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Clara, CA | On Site | Aug 18 |
 | ↳ | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a32ee437d3cc6b0d574d4d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Scottsdale, AZ | On Site | Aug 18 |
 | ↳ | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a32ee237d3cc6b0d574d4a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | On Site | Aug 18 |
-| ↳ | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a32eda37d3cc6b0d574d42?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orlando, FL | On Site | Aug 18 |
 | ↳ | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a32eda37d3cc6b0d574d43?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | On Site | Aug 18 |
+| ↳ | **[Luxury Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a32eda37d3cc6b0d574d42?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orlando, FL | On Site | Aug 18 |
 | **[The Estée Lauder Companies Inc.](http://www.elcompanies.com)** | **[MAC - Artist - Full Time - Melville, NY](https://jobright.ai/jobs/info/689e6ef9faa4e875e827c711?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Melville, NY | On Site | Aug 18 |
 | **[Sleeper](https://sleeper.com)** | **[Product Designer (Mid-Level)](https://jobright.ai/jobs/info/68a32a81403ad4363b1bee34?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | LA Metro Area | Hybrid | Aug 18 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Annapolis- Pottery Barn](https://jobright.ai/jobs/info/68113bda7a1fb3d948847c31?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Annapolis, MD | On Site | Aug 17 |
 | **[Minuteman Press](https://www.minutemanpress.com/)** | **[Customer Service / Graphic Design](https://jobright.ai/jobs/info/68a290effaa4e875e82964d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Natick, MA | On Site | Aug 17 |
-| **[FIGS](http://www.wearfigs.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/684bc077bc94e0abd307074e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | Hybrid | Aug 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
