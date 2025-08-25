@@ -240,5 +240,4 @@ For a complete list, click the following sortable link below:
 | **[Tetra Tech](http://www.tetratech.com)** | **[LIGHTING DESIGNER](https://jobright.ai/jobs/info/68a3772f1ab5f8579e8a5cba?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ithaca, New York, United States | On Site | Aug 18 |
 | **[ThirdChannel](https://www.thirdchannel.com/)** | **[Premium Apparel Visual Merchandising Rep](https://jobright.ai/jobs/info/68a37704403ad4363b1c134a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, OH | On Site | Aug 18 |
 | **[Free People](http://www.freepeople.com)** | **[Free People Assistant Visual Manager](https://jobright.ai/jobs/info/68a374e9403ad4363b1c1263?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burlington, MA | On Site | Aug 18 |
-| **[Forbes](https://www.forbesmagazine.com)** | **[Digital Designer](https://jobright.ai/jobs/info/68a3707837d3cc6b0d576d3e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
