@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Minted](http://www.minted.com)** | **[Seasonal Print Quality Assistant - 2025](https://jobright.ai/jobs/info/68acc0bdd627244576e48d5e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Aug 25 |
+| **[Haddad Brands](http://haddad.com)** | **[Assistant Designer - China](https://jobright.ai/jobs/info/68acb389758f2e4ac3007e96?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NY Address | On Site | Aug 25 |
+| **[Jay Peak Resort](http://jaypeakresort.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/68acb348daf1431824c9743e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jay, VT | On Site | Aug 25 |
+| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/68acaeba758f2e4ac30079fa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | Hybrid | Aug 25 |
+| **[H&M Group](https://hmgroup.com/)** | **[Visual Keyholder](https://jobright.ai/jobs/info/68acabcdd627244576e47cbd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Okemos, MI | Hybrid | Aug 25 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Framing Department Team member](https://jobright.ai/jobs/info/68ac9ee3daf1431824c96931?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Store - 5006 NY Rt 23 | On Site | Aug 25 |
 | **[bet365](http://www.bet365.com)** | **[Analyst, User Experience Research](https://jobright.ai/jobs/info/68936b6ca9199876488dd4d1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | Hybrid | Aug 25 |
 | **[Minted](http://www.minted.com)** | **[Seasonal Print Quality Assistant - 2025](https://jobright.ai/jobs/info/68ac9698758f2e4ac3006cee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Aug 25 |
@@ -194,7 +199,6 @@ For a complete list, click the following sortable link below:
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/688974a99f961617fe214872?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Little Rock, AR | Hybrid | Aug 20 |
 | **[Vestcom](http://vestcom.com)** | **[Setup Designer](https://jobright.ai/jobs/info/68894b8609808a6103e468d8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Little Rock, AR | Remote | Aug 20 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architect - Entry Level](https://jobright.ai/jobs/info/68a59fb7758f2e4ac3fe013f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Parsippany, NJ | Hybrid | Aug 20 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Designer](https://jobright.ai/jobs/info/689feda983d13d1f5b6cbdaa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Frisco, TX | Hybrid | Aug 20 |
 | **[geniant](http://www.geniant.com)** | **[Designer I](https://jobright.ai/jobs/info/68a53e14758f2e4ac3fdd099?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Aug 19 |
 | ↳ | **[Technical Designer I](https://jobright.ai/jobs/info/68a53cc6b6a3617d7fa6fa4f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Aug 19 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68a525d7b6a3617d7fa6eee8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Devon, PA | On Site | Aug 19 |
@@ -212,16 +216,13 @@ For a complete list, click the following sortable link below:
 | **[Neiman Marcus](https://www.neimanmarcusgroup.com)** | **[Personal Styling Assistant - Boston](https://jobright.ai/jobs/info/68a4cf23e9f1c744da124945?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | On Site | Aug 19 |
 | **[Milliman](http://www.milliman.com)** | **[Graphic Designer - Indianapolis Health](https://jobright.ai/jobs/info/68a4ceb6e9f1c744da124867?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, IN | Hybrid | Aug 19 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Designer](https://jobright.ai/jobs/info/689fedd983d13d1f5b6cbe40?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | Hybrid | Aug 19 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/689fd6a9faa4e875e828b882?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | Hybrid | Aug 19 |
 | **[LOFT](http://anninc.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/68880cca4174df41e0fa27b1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 19 |
 | **[Torrid](http://www.torrid.com/)** | **[Assistant Technical Designer](https://jobright.ai/jobs/info/6888534973e3e13cbd944601?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | City of Industry, CA | On Site | Aug 19 |
-| **[Credit Genie](https://creditgenie.com)** | **[Qualitative UX Researcher](https://jobright.ai/jobs/info/68ac9a2fd627244576e472dc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Plymouth Meeting, PA | On Site | Aug 19 |
 | **[Social Supply](https://www.socialsupplydesign.com)** | **[Graphic Designer - Fast-Paced Creative](https://jobright.ai/jobs/info/68a48e4c2d2a252445cd79b2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | DC-Baltimore Area | On Site | Aug 19 |
 | **[Zenwise](https://zenwise.com/pages/intenational-customers)** | **[Jr. Graphic Designer](https://jobright.ai/jobs/info/68a48dee2d2a252445cd793f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Carlsbad, CA | Hybrid | Aug 19 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Bishop Ranch - Pottery Barn](https://jobright.ai/jobs/info/686bffd035584b6542fd0399?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Ramon, CA | On Site | Aug 19 |
 | ↳ | **[Visual Associate, Part Time Flex, Hackensack- Pottery Barn](https://jobright.ai/jobs/info/68885e2573e3e13cbd944ea8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hackensack, NJ | On Site | Aug 19 |
 | **[Bath Fitter](https://www.bathfitter.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/6887a0f9fbbf032d00075382?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Huntsville, AL | On Site | Aug 19 |
-| **[Credit Genie](https://creditgenie.com)** | **[Qualitative UX Researcher](https://jobright.ai/jobs/info/68ac6228daf1431824c94c52?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Philadelphia, PA | On Site | Aug 19 |
 | **[EFP, LLC.](http://efpcorp.com)** | **[Product Designer (Hourly)](https://jobright.ai/jobs/info/683a86724ef013afb4031c66?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Decatur, AL | On Site | Aug 19 |
 | **[Reunited Clothing](https://reunitedclothing.com)** | **[Assistant / Associate Designer - Wovens, Cut&Sew](https://jobright.ai/jobs/info/68a43e2ae9f1c744da121719?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 19 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Designer](https://jobright.ai/jobs/info/689fd654cc9ee94dc911a3e3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Overland Park, KS | Hybrid | Aug 19 |
