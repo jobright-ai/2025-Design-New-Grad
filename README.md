@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Feeding America](http://feedingamerica.org)** | **[Specialist, Digital Experience Creator (Chicago/Hybrid)](https://jobright.ai/jobs/info/68ad638c758f2e4ac300d308?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Aug 26 |
 | **[Western University of Health Sciences](http://www.westernu.edu/)** | **[Graphic Designer](https://jobright.ai/jobs/info/68ad2dec758f2e4ac300b89f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pomona, CA | On Site | Aug 25 |
 | **[Bohler](https://bohlerengineering.com/)** | **[Landscape Designer - New Grad](https://jobright.ai/jobs/info/68ad05fadaf1431824c99de7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Towson, MD | Hybrid | Aug 25 |
 | **[IFB Solutions](https://ifbsolutions.org/)** | **[Marketing &amp; Design Services Lead](https://jobright.ai/jobs/info/68ad054edaf1431824c99cc6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Winston Salem, NC, USA | Hybrid | Aug 25 |
@@ -217,8 +218,7 @@ For a complete list, click the following sortable link below:
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/688974a99f961617fe214872?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Little Rock, AR | Hybrid | Aug 20 |
 | **[Vestcom](http://vestcom.com)** | **[Setup Designer](https://jobright.ai/jobs/info/68894b8609808a6103e468d8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Little Rock, AR | Remote | Aug 20 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architect - Entry Level](https://jobright.ai/jobs/info/68a59fb7758f2e4ac3fe013f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Parsippany, NJ | Hybrid | Aug 20 |
-| **[Credit Genie](https://creditgenie.com)** | **[Qualitative UX Researcher](https://jobright.ai/jobs/info/68ad411b758f2e4ac300c2e6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pittsburgh, PA | On Site | Aug 19 |
-| ↳ | **[Qualitative UX Researcher](https://jobright.ai/jobs/info/68ad43abdaf1431824c9bd79?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Philadelphia, PA | On Site | Aug 19 |
+| **[Credit Genie](https://creditgenie.com)** | **[Qualitative UX Researcher](https://jobright.ai/jobs/info/68ad43abdaf1431824c9bd79?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Philadelphia, PA | On Site | Aug 19 |
 | **[geniant](http://www.geniant.com)** | **[Designer I](https://jobright.ai/jobs/info/68a53e14758f2e4ac3fdd099?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Aug 19 |
 | ↳ | **[Technical Designer I](https://jobright.ai/jobs/info/68a53cc6b6a3617d7fa6fa4f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Aug 19 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68a525d7b6a3617d7fa6eee8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Devon, PA | On Site | Aug 19 |
@@ -236,6 +236,4 @@ For a complete list, click the following sortable link below:
 | **[Milliman](http://www.milliman.com)** | **[Graphic Designer - Indianapolis Health](https://jobright.ai/jobs/info/68a4ceb6e9f1c744da124867?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, IN | Hybrid | Aug 19 |
 | **[LOFT](http://anninc.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/68880cca4174df41e0fa27b1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 19 |
 | **[Torrid](http://www.torrid.com/)** | **[Assistant Technical Designer](https://jobright.ai/jobs/info/6888534973e3e13cbd944601?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | City of Industry, CA | On Site | Aug 19 |
-| **[Social Supply](https://www.socialsupplydesign.com)** | **[Graphic Designer - Fast-Paced Creative](https://jobright.ai/jobs/info/68a48e4c2d2a252445cd79b2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | DC-Baltimore Area | On Site | Aug 19 |
-| **[Zenwise](https://zenwise.com/pages/intenational-customers)** | **[Jr. Graphic Designer](https://jobright.ai/jobs/info/68a48dee2d2a252445cd793f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Carlsbad, CA | Hybrid | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
