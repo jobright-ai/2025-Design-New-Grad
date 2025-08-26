@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[UX Designer III - AMZ24199.1](https://jobright.ai/jobs/info/689151b34c7e851b90acd98c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Aug 26 |
 | **[Feeding America](http://feedingamerica.org)** | **[Specialist, Digital Experience Creator (Chicago/Hybrid)](https://jobright.ai/jobs/info/68ad638c758f2e4ac300d308?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Aug 26 |
 | **[Western University of Health Sciences](http://www.westernu.edu/)** | **[Graphic Designer](https://jobright.ai/jobs/info/68ad2dec758f2e4ac300b89f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pomona, CA | On Site | Aug 25 |
 | **[Bohler](https://bohlerengineering.com/)** | **[Landscape Designer - New Grad](https://jobright.ai/jobs/info/68ad05fadaf1431824c99de7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Towson, MD | Hybrid | Aug 25 |
@@ -229,5 +230,4 @@ For a complete list, click the following sortable link below:
 | **[Coalfire](https://www.coalfire.com?utm_source=LinkedIn&utm_medium=organicsocial)** | **[Technical Editor](https://jobright.ai/jobs/info/68a6b6a4b6a3617d7fa79a8a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Hybrid | Aug 19 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac Clubs - Design Project Coordinator](https://jobright.ai/jobs/info/68a510b233dd7158bbc96ce8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Glendale, CA | On Site | Aug 19 |
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/6888269cfbbf032d00079030?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Colorado Springs, CO | Hybrid | Aug 19 |
-| **[Serena & Lily](http://www.serenaandlily.com)** | **[Design Advisor](https://jobright.ai/jobs/info/6856e709974ffa1db3328b8a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
