@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[YPropel](https://www.ypropel.com/)** | **[Google - UX Writer and Content Designer, Android Automotive](https://jobright.ai/jobs/info/68adf7d9daf1431824c9f586?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Aug 26 |
+| **[Imagine](https://www.theimaginegroup.com)** | **[Junior Production Artist](https://jobright.ai/jobs/info/68ae127cdaf1431824ca093d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burbank, CA | On Site | Aug 26 |
+| **[Hoffmaster](http://hoffmastergroupinc.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/68ae0d81758f2e4ac3010da1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greater Indianapolis | On Site | Aug 26 |
+| **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Print Production, Legal](https://jobright.ai/jobs/info/68ae04e0758f2e4ac301056e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA, United States | On Site | Aug 26 |
+| **[InTouch Credit Union](https://www.itcu.org/)** | **[Marketing Graphics Designer](https://jobright.ai/jobs/info/6893ffcba9199876488e1acf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Plano, TX | On Site | Aug 26 |
 | **[Blue Note Entertainment Group](http://www.bluenotejazz.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/68adf6fd758f2e4ac300fedd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Aug 26 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Junior Designer - Architecture](https://jobright.ai/jobs/info/68adf533758f2e4ac300fd48?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Aug 26 |
 | **[Accenture](https://www.accenture.com)** | **[Droga5  - Designer](https://jobright.ai/jobs/info/68adf2e8d627244576e50184?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, 120 Wall Street, Song | On Site | Aug 26 |
@@ -126,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Spencer's](http://www.spencersonline.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/68ad3d0cd627244576e4c43d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Egg Harbor, NJ | Hybrid | Aug 22 |
 | **[EXPRESS](http://express.com)** | **[Associate Art Director](https://jobright.ai/jobs/info/68a905dc758f2e4ac3ff6bfb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 22 |
 | **[Vida Design Inc.](https://vida-design.com/)** | **[Designer 1](https://jobright.ai/jobs/info/68a91475758f2e4ac3ff727e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | Hybrid | Aug 22 |
-| **[Free People](http://www.freepeople.com)** | **[Free People Assistant Visual Manager](https://jobright.ai/jobs/info/68a90fa36acf96396f7247ab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Las Vegas, NV | On Site | Aug 22 |
 | **[Fabletics](https://www.fabletics.com/)** | **[Assistant Print & Graphic Designer (Apparel)](https://jobright.ai/jobs/info/68a9052c758f2e4ac3ff6b81?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | El Segundo, CA | Hybrid | Aug 22 |
 | **[Pepper Home](https://pepper-home.com)** | **[Junior Creative Coordinator](https://jobright.ai/jobs/info/68a8ed3ad627244576e366a9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Hybrid | Aug 22 |
 | **[Serena & Lily](http://www.serenaandlily.com)** | **[Design Advisor](https://jobright.ai/jobs/info/68a8f621758f2e4ac3ff65f1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Haverford, PA | On Site | Aug 22 |
@@ -203,8 +205,6 @@ For a complete list, click the following sortable link below:
 | **[Kaleidoscope®](https://www.thinkkaleidoscope.com/)** | **[Mockup Artist Apprentice](https://jobright.ai/jobs/info/68a687c533dd7158bbca06ff?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Aug 20 |
 | **[Coalition, Inc.](https://www.coalitioninc.com)** | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/68a6666433dd7158bbc9fc3e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Aug 20 |
 | ↳ | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/68a666b1758f2e4ac3fe4ac4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Aug 20 |
-| **[The N2 Company](https://n2co.com)** | **[Advertisement Designer](https://jobright.ai/jobs/info/68a649ae758f2e4ac3fe400d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Aug 20 |
-| ↳ | **[Advertisement Designer](https://jobright.ai/jobs/info/68a69677758f2e4ac3fe5db4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Aug 20 |
 | **[Marvin](http://www.marvin.com/)** | **[Technical Illustrator I](https://jobright.ai/jobs/info/68a63eab758f2e4ac3fe3cf9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Warroad, MN | On Site | Aug 20 |
 | **[Nickey Kehoe](https://nickeykehoe.com/)** | **[Interior Design Assistant](https://jobright.ai/jobs/info/68a6c28d758f2e4ac3fe7a12?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Aug 20 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Product Designer, New Grad - US Government](https://jobright.ai/jobs/info/68a3828f403ad4363b1c1fbf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Hybrid | Aug 20 |
@@ -231,6 +231,4 @@ For a complete list, click the following sortable link below:
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/688974a99f961617fe214872?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Little Rock, AR | Hybrid | Aug 20 |
 | **[Vestcom](http://vestcom.com)** | **[Setup Designer](https://jobright.ai/jobs/info/68894b8609808a6103e468d8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Little Rock, AR | Remote | Aug 20 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architect - Entry Level](https://jobright.ai/jobs/info/68a59fb7758f2e4ac3fe013f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Parsippany, NJ | Hybrid | Aug 20 |
-| **[geniant](http://www.geniant.com)** | **[Designer I](https://jobright.ai/jobs/info/68a53e14758f2e4ac3fdd099?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Aug 19 |
-| ↳ | **[Technical Designer I](https://jobright.ai/jobs/info/68a53cc6b6a3617d7fa6fa4f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
