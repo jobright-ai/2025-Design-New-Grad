@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bohler](https://bohlerengineering.com/)** | **[Landscape Designer - New Grad](https://jobright.ai/jobs/info/68ad05fadaf1431824c99de7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Towson, MD | Hybrid | Aug 25 |
+| **[IFB Solutions](https://ifbsolutions.org/)** | **[Marketing &amp; Design Services Lead](https://jobright.ai/jobs/info/68ad054edaf1431824c99cc6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Winston Salem, NC, USA | Hybrid | Aug 25 |
+| **[IXL Learning](https://www.ixl.com/)** | **[Illustrator (Freelance)](https://jobright.ai/jobs/info/68ad02a4d627244576e4a791?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Aug 25 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/68ad00f6d627244576e4a696?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Aug 25 |
+| **[IXL Learning](https://www.ixl.com/)** | **[Illustrator (Freelance)](https://jobright.ai/jobs/info/68acffd1daf1431824c99a1b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Aug 25 |
 | **[Esri](https://www.esri.com)** | **[Product Designer I - ArcGIS Pro](https://jobright.ai/jobs/info/68acfd61758f2e4ac300a0d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Redlands, CA | Hybrid | Aug 25 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Digital Content Specialist](https://jobright.ai/jobs/info/68ace710758f2e4ac3009703?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, MN, United States | Remote | Aug 25 |
 | **[Esri](https://www.esri.com)** | **[Product Designer I - ArcGIS Pro](https://jobright.ai/jobs/info/68ace3e1daf1431824c98e11?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Redlands, CA | On Site | Aug 25 |
@@ -188,7 +193,6 @@ For a complete list, click the following sortable link below:
 | **[Crate and Barrel](http://crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/686dc00f1d9495af2e8c59c8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Aug 20 |
 | **[Book of the Month](http://www.bookofthemonth.com)** | **[Coordinator, Creative Strategy](https://jobright.ai/jobs/info/68a39b14403ad4363b1c2882?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 20 |
 | **[Thomas James Homes](https://thomasjameshomesusa.com/)** | **[Interior Designer - Temporary Assignment](https://jobright.ai/jobs/info/68a65bd1758f2e4ac3fe46f8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Redwood City, CA | On Site | Aug 20 |
-| **[Clone Goddess Inc.](https://www.clonegoddess.com)** | **[Graphic Design](https://jobright.ai/jobs/info/68a80033d627244576e300f3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Aug 20 |
 | **[Kaleidoscope®](https://www.thinkkaleidoscope.com/)** | **[Mockup Artist Apprentice](https://jobright.ai/jobs/info/68a687c533dd7158bbca06ff?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Aug 20 |
 | **[Coalition, Inc.](https://www.coalitioninc.com)** | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/68a6666433dd7158bbc9fc3e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Aug 20 |
 | ↳ | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/68a666b1758f2e4ac3fe4ac4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Aug 20 |
@@ -243,5 +247,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Visual Associate, Part Time Flex, Hackensack- Pottery Barn](https://jobright.ai/jobs/info/68885e2573e3e13cbd944ea8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hackensack, NJ | On Site | Aug 19 |
 | **[Bath Fitter](https://www.bathfitter.com/)** | **[Design Consultant](https://jobright.ai/jobs/info/6887a0f9fbbf032d00075382?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Huntsville, AL | On Site | Aug 19 |
 | **[EFP, LLC.](http://efpcorp.com)** | **[Product Designer (Hourly)](https://jobright.ai/jobs/info/683a86724ef013afb4031c66?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Decatur, AL | On Site | Aug 19 |
-| **[Reunited Clothing](https://reunitedclothing.com)** | **[Assistant / Associate Designer - Wovens, Cut&Sew](https://jobright.ai/jobs/info/68a43e2ae9f1c744da121719?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
