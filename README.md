@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[YPropel](https://www.ypropel.com/)** | **[Google - UX Writer and Content Designer, Android Automotive](https://jobright.ai/jobs/info/68adf7d9daf1431824c9f586?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Aug 26 |
+| **[Blue Note Entertainment Group](http://www.bluenotejazz.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/68adf6fd758f2e4ac300fedd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Aug 26 |
+| **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Junior Designer - Architecture](https://jobright.ai/jobs/info/68adf533758f2e4ac300fd48?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Aug 26 |
+| **[Accenture](https://www.accenture.com)** | **[Droga5  - Designer](https://jobright.ai/jobs/info/68adf2e8d627244576e50184?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, 120 Wall Street, Song | On Site | Aug 26 |
+| **[Jay Peak Resort](http://jaypeakresort.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/68adec53d627244576e4fe1c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jay, VT | Hybrid | Aug 26 |
 | **[Insulet Corporation](https://www.insulet.com)** | **[Website Content Specialist (Hybrid)](https://jobright.ai/jobs/info/68add66b758f2e4ac300ef3f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Acton, Massachusetts | Hybrid | Aug 26 |
 | **[Saatchi & Saatchi (We Are Saatchi)](https://www.wearesaatchi.com/)** | **[Junior Designer](https://jobright.ai/jobs/info/68920254f47efe211395977b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Aug 26 |
 | **[Prudent Publishing Company](http://www.prudentpublishing.com/)** | **[Seasonal Production Artist](https://jobright.ai/jobs/info/68adc9badaf1431824c9e0c5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ridgefield Park, NJ | On Site | Aug 26 |
 | **[Neiman Marcus](https://www.neimanmarcusgroup.com)** | **[Personal Styling Assistant - San Francisco](https://jobright.ai/jobs/info/689170a5f47efe21139553ab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Aug 26 |
+| **[Crocs, Inc.](http://www.crocs.com)** | **[Associate Creative Designer, GTM](https://jobright.ai/jobs/info/68914898f47efe21139541ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Broomfield, CO | On Site | Aug 26 |
 | **[Amazon](https://amazon.com)** | **[UX Designer III - AMZ24199.1](https://jobright.ai/jobs/info/689151b34c7e851b90acd98c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Aug 26 |
 | **[Feeding America](http://feedingamerica.org)** | **[Specialist, Digital Experience Creator (Chicago/Hybrid)](https://jobright.ai/jobs/info/68ad638c758f2e4ac300d308?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Aug 26 |
 | **[Western University of Health Sciences](http://www.westernu.edu/)** | **[Graphic Designer](https://jobright.ai/jobs/info/68ad2dec758f2e4ac300b89f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pomona, CA | On Site | Aug 25 |
@@ -213,6 +219,7 @@ For a complete list, click the following sortable link below:
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Entry Level Architectural Designer](https://jobright.ai/jobs/info/68a60eeb758f2e4ac3fe2368?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Detroit, MI | Hybrid | Aug 20 |
 | **[CetraRuddy Architecture](http://www.cetraruddy.com/)** | **[Intermediate Architectural Designer](https://jobright.ai/jobs/info/68a6ca6d33dd7158bbca33cf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 20 |
 | **[Steven Harris Architects LLP](https://www.stevenharrisarchitects.com)** | **[Architectural Designer](https://jobright.ai/jobs/info/68a6c829b6a3617d7fa7a93a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 20 |
+| **[Amazon](https://amazon.com)** | **[UX Designer III - AMZ9082432](https://jobright.ai/jobs/info/68ade2fe758f2e4ac300f484?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York, USA | On Site | Aug 20 |
 | **[Snapdragon Cannabis Co.](https://www.snapdragonhemp.com)** | **[Marketing & Design Coordinator](https://jobright.ai/jobs/info/68a601f7b6a3617d7fa7484c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Soddy-Daisy, TN | Hybrid | Aug 20 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Santa Monica - Pottery Barn](https://jobright.ai/jobs/info/686db700e564ed71e6ee221d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Aug 20 |
 | **[Amazon](https://amazon.com)** | **[Visual UX Designer, Devices & Services](https://jobright.ai/jobs/info/688965f79f961617fe214087?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Aug 20 |
@@ -226,6 +233,4 @@ For a complete list, click the following sortable link below:
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architect - Entry Level](https://jobright.ai/jobs/info/68a59fb7758f2e4ac3fe013f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Parsippany, NJ | Hybrid | Aug 20 |
 | **[geniant](http://www.geniant.com)** | **[Designer I](https://jobright.ai/jobs/info/68a53e14758f2e4ac3fdd099?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Aug 19 |
 | ↳ | **[Technical Designer I](https://jobright.ai/jobs/info/68a53cc6b6a3617d7fa6fa4f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Aug 19 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68a525d7b6a3617d7fa6eee8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Devon, PA | On Site | Aug 19 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/68a524d2758f2e4ac3fdc441?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Grand Rapids, MI | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
