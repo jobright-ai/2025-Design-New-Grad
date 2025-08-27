@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Architectural Designer](https://jobright.ai/jobs/info/68ae6958758f2e4ac3013577?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Aug 26 |
+| **[Accenture](https://www.accenture.com)** | **[Droga5 - Designer](https://jobright.ai/jobs/info/68ae62ebdaf1431824ca2aef?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 26 |
+| **[Roller Rabbit](http://rollerrabbit.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/68ae61eed627244576e537ee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 26 |
+| **[Design portal](http://www.designportal.cz)** | **[GRAFIK pro zábavní centrum Máj (m/ž)](https://jobright.ai/jobs/info/68ae5fc9758f2e4ac301325c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Praha, TX | On Site | Aug 26 |
+| **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Architectural Designer](https://jobright.ai/jobs/info/68ae56a2d627244576e53389?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US.CO.Denver | On Site | Aug 26 |
 | **[Intrinsic Development](https://www.id.com)** | **[Architectural Design Associate](https://jobright.ai/jobs/info/68ae3308daf1431824ca17b6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lee's Summit, Missouri | On Site | Aug 26 |
 | **[Nickey Kehoe](https://nickeykehoe.com/)** | **[Interior Design Assistant](https://jobright.ai/jobs/info/68ae32cfd627244576e5251a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | LA Metro Area | On Site | Aug 26 |
 | **[CoCreativ](https://www.cocreativ.co)** | **[Freelance Graphic Designer - Industrial Color Extended](https://jobright.ai/jobs/info/68ae1dc3daf1431824ca0e69?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Aug 26 |
@@ -238,5 +243,4 @@ For a complete list, click the following sortable link below:
 | **[Birchcrest Tree & Landscape, Inc.](https://www.birchcrestlandscape.com)** | **[Landscape Designer and Salesperson](https://jobright.ai/jobs/info/68a5b5c933dd7158bbc9b770?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, NY | On Site | Aug 20 |
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/688974a99f961617fe214872?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Little Rock, AR | Hybrid | Aug 20 |
 | **[Vestcom](http://vestcom.com)** | **[Setup Designer](https://jobright.ai/jobs/info/68894b8609808a6103e468d8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Little Rock, AR | Remote | Aug 20 |
-| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architect - Entry Level](https://jobright.ai/jobs/info/68a59fb7758f2e4ac3fe013f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Parsippany, NJ | Hybrid | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
