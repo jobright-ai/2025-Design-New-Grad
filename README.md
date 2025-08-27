@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[HOK](http://www.hok.com/)** | **[Design Professional](https://jobright.ai/jobs/info/6892bad5f5ee707a15dc7d8b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Aug 27 |
+| **[ALO](https://www.aloyoga.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/67ad43b442046ac9b7e2be17?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beverly Hills, CA | On Site | Aug 27 |
+| **[Fanatics](http://www.fanaticsinc.com)** | **[Graphic Designer I](https://jobright.ai/jobs/info/68224a44cdaf82e297b607af?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 27 |
 | **[Knowledgent](http://www.knowledgent.com)** | **[Droga5 - Designer](https://jobright.ai/jobs/info/68ae90d2daf1431824ca4387?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 26 |
 | **[CoCreativ](https://www.cocreativ.co)** | **[Freelance Graphic Designer - Industrial Color Extended](https://jobright.ai/jobs/info/68ae7d0b758f2e4ac3013f13?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York County, NY | Hybrid | Aug 26 |
 | **[Neighborly Ventures](https://www.theneighborlyway.com)** | **[Brand Coordinator](https://jobright.ai/jobs/info/68ae9477a782bf3e930545a6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Salem, OR | On Site | Aug 26 |
@@ -138,6 +140,7 @@ For a complete list, click the following sortable link below:
 | **[Rover.com](http://www.rover.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/6879dac72097a271a897afbf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Aug 23 |
 | **[Nature's Flavors](https://www.naturesflavors.com)** | **[UI/UX & Graphic Designer](https://jobright.ai/jobs/info/68a9deff6acf96396f729293?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Anaheim, CA | On Site | Aug 23 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/688d810acdbd821a3663aadf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pembroke Pines, FL | On Site | Aug 23 |
+| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/688d63643a30793eb964a8c1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Hybrid | Aug 23 |
 | **[Grande Cheese Company](https://www.grande.com/)** | **[Packaging Associate II - Team 3](https://jobright.ai/jobs/info/688d29fa1808534a89cc163a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wyocena, WI | On Site | Aug 23 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Oakbrook - Pottery Barn](https://jobright.ai/jobs/info/67fdd44456e2d450696b6bca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oak Brook, IL | On Site | Aug 23 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[KJUS / Fit Model](https://jobright.ai/jobs/info/6871e364a5ae807a59d02fa1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boulder, CO | On Site | Aug 23 |
@@ -221,9 +224,4 @@ For a complete list, click the following sortable link below:
 | **[State of Maryland](https://jobapscloud.com/MD/)** | **[UI Professional Series UI Professional I, II, & III](https://jobright.ai/jobs/info/68a68f9bb6a3617d7fa782d1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Maryland, United States | On Site | Aug 20 |
 | **[Tillys](http://www.tillys.com/intl/default.aspx?intl=1)** | **[Apparel Graphic Design and Production Assistant](https://jobright.ai/jobs/info/68532884c1141a78b12299a2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | On Site | Aug 20 |
 | **[Torrid](http://www.torrid.com/)** | **[Assistant Designer - Apparel](https://jobright.ai/jobs/info/68a66ef0758f2e4ac3fe4e0e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | City of Industry, California | Hybrid | Aug 20 |
-| **[Book of the Month](http://www.bookofthemonth.com)** | **[Coordinator, Creative Strategy](https://jobright.ai/jobs/info/68a39b14403ad4363b1c2882?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 20 |
-| **[Thomas James Homes](https://thomasjameshomesusa.com/)** | **[Interior Designer - Temporary Assignment](https://jobright.ai/jobs/info/68a65bd1758f2e4ac3fe46f8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Redwood City, CA | On Site | Aug 20 |
-| **[Kaleidoscope®](https://www.thinkkaleidoscope.com/)** | **[Mockup Artist Apprentice](https://jobright.ai/jobs/info/68a687c533dd7158bbca06ff?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Aug 20 |
-| **[Coalition, Inc.](https://www.coalitioninc.com)** | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/68a6666433dd7158bbc9fc3e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Aug 20 |
-| ↳ | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/68a666b1758f2e4ac3fe4ac4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
