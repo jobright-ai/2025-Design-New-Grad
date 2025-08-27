@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Hawai‘i System](http://www.hawaii.edu/)** | **[(Casual Hire) Digital Media Specialist](https://jobright.ai/jobs/info/68af40da1f0a2a568a06017b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hilo, HI | On Site | Aug 27 |
+| **[National Football League (NFL)](http://www.nfl.com)** | **[Seasonal Production Assistant, Creative Marketing](https://jobright.ai/jobs/info/68af3fdb1f0a2a568a060002?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Inglewood, CA | On Site | Aug 27 |
+| ↳ | **[Seasonal Production Assistant, Creative Marketing](https://jobright.ai/jobs/info/68af33172daaba398441c048?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Inglewood, California, United States | On Site | Aug 27 |
 | **[HOK](http://www.hok.com/)** | **[Design Professional](https://jobright.ai/jobs/info/6892bad5f5ee707a15dc7d8b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Aug 27 |
 | **[ALO](https://www.aloyoga.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/67ad43b442046ac9b7e2be17?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beverly Hills, CA | On Site | Aug 27 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Graphic Designer I](https://jobright.ai/jobs/info/68224a44cdaf82e297b607af?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 27 |
@@ -101,9 +104,7 @@ For a complete list, click the following sortable link below:
 | **[IXL Learning](https://www.ixl.com/)** | **[Illustrator (Freelance)](https://jobright.ai/jobs/info/68ad02a4d627244576e4a791?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Aug 25 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/68ad00f6d627244576e4a696?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Aug 25 |
 | **[IXL Learning](https://www.ixl.com/)** | **[Illustrator (Freelance)](https://jobright.ai/jobs/info/68acffd1daf1431824c99a1b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Aug 25 |
-| **[Esri](https://www.esri.com)** | **[Product Designer I - ArcGIS Pro](https://jobright.ai/jobs/info/68acfd61758f2e4ac300a0d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Redlands, CA | Hybrid | Aug 25 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Digital Content Specialist](https://jobright.ai/jobs/info/68ace710758f2e4ac3009703?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, MN, United States | Remote | Aug 25 |
-| **[Esri](https://www.esri.com)** | **[Product Designer I - ArcGIS Pro](https://jobright.ai/jobs/info/68ace3e1daf1431824c98e11?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Redlands, CA | On Site | Aug 25 |
 | **[Lumens](http://lumens.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/68ace32a758f2e4ac30095a0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greater Sacramento | Hybrid | Aug 25 |
 | **[Industrial Color](http://industrialcolor.com)** | **[Freelance Graphic Designer - Industrial Color Extended](https://jobright.ai/jobs/info/68acdfa5daf1431824c98d7c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Aug 25 |
 | **[CoCreativ](https://www.cocreativ.co)** | **[Freelance Graphic Designer - Industrial Color Extended](https://jobright.ai/jobs/info/68acf450daf1431824c995a3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Aug 25 |
@@ -138,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Auburn University](https://www.auburn.edu/)** | **[Multimedia Specialist](https://jobright.ai/jobs/info/68a7bc6333dd7158bbca9150?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Auburn, AL | On Site | Aug 23 |
 | **[The Ohio State University](http://www.osu.edu/)** | **[Signage Installer](https://jobright.ai/jobs/info/689838b85574fd6bc0c75db1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, OH | On Site | Aug 23 |
 | **[Rover.com](http://www.rover.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/6879dac72097a271a897afbf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Aug 23 |
+| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/688d6bf61808534a89cc3378?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Miami, FL | Hybrid | Aug 23 |
 | **[Nature's Flavors](https://www.naturesflavors.com)** | **[UI/UX & Graphic Designer](https://jobright.ai/jobs/info/68a9deff6acf96396f729293?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Anaheim, CA | On Site | Aug 23 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/688d810acdbd821a3663aadf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pembroke Pines, FL | On Site | Aug 23 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/688d63643a30793eb964a8c1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Hybrid | Aug 23 |
@@ -220,8 +222,4 @@ For a complete list, click the following sortable link below:
 | **[Steinhafels Furniture](http://steinhafels.com)** | **[Interior Designer](https://jobright.ai/jobs/info/68a693f5758f2e4ac3fe5ab4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Merrillville, IN | On Site | Aug 20 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Maple Grove - Pottery Barn](https://jobright.ai/jobs/info/686c5b1035584b65423f9f05?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Maple Grove, MN | On Site | Aug 20 |
 | **[MCC Label](https://www.mcclabel.com/)** | **[PrePress Graphics Operator - 2nd Shift](https://jobright.ai/jobs/info/686c69f235584b654295bb7d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Batavia, OH | On Site | Aug 20 |
-| **[PBK](http://www.pbk.com)** | **[Technical Designer](https://jobright.ai/jobs/info/68a6782933dd7158bbca01b6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Folsom, CA | On Site | Aug 20 |
-| **[State of Maryland](https://jobapscloud.com/MD/)** | **[UI Professional Series UI Professional I, II, & III](https://jobright.ai/jobs/info/68a68f9bb6a3617d7fa782d1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Maryland, United States | On Site | Aug 20 |
-| **[Tillys](http://www.tillys.com/intl/default.aspx?intl=1)** | **[Apparel Graphic Design and Production Assistant](https://jobright.ai/jobs/info/68532884c1141a78b12299a2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | On Site | Aug 20 |
-| **[Torrid](http://www.torrid.com/)** | **[Assistant Designer - Apparel](https://jobright.ai/jobs/info/68a66ef0758f2e4ac3fe4e0e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | City of Industry, California | Hybrid | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
