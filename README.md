@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HOK](http://www.hok.com/)** | **[Design Professional](https://jobright.ai/jobs/info/6892bad5f5ee707a15dc7d8b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Aug 27 |
 | **[Knowledgent](http://www.knowledgent.com)** | **[Droga5 - Designer](https://jobright.ai/jobs/info/68ae90d2daf1431824ca4387?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 26 |
 | **[CoCreativ](https://www.cocreativ.co)** | **[Freelance Graphic Designer - Industrial Color Extended](https://jobright.ai/jobs/info/68ae7d0b758f2e4ac3013f13?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York County, NY | Hybrid | Aug 26 |
 | **[Neighborly Ventures](https://www.theneighborlyway.com)** | **[Brand Coordinator](https://jobright.ai/jobs/info/68ae9477a782bf3e930545a6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Salem, OR | On Site | Aug 26 |
@@ -208,6 +209,7 @@ For a complete list, click the following sortable link below:
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Administrative Assistant, Visual Content °1824](https://jobright.ai/jobs/info/68a7159ad627244576e29809?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, California | On Site | Aug 21 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Digital Print Specialist](https://jobright.ai/jobs/info/68a70b6f33dd7158bbca4248?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Passaic, NJ | On Site | Aug 21 |
 | **[Beckman Coulter Diagnostics](http://www.beckmancoulter.com)** | **[Analyst I, Technical Documentation (Labeling, Packaging)](https://jobright.ai/jobs/info/688aa987aab47a17f670a812?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chaska, MN | On Site | Aug 21 |
+| **[Rochester Regional Health](https://www.rochesterregional.org)** | **[UI UX - IT Requirements Analyst](https://jobright.ai/jobs/info/68a3c99937d3cc6b0d57982d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, NY | Hybrid | Aug 21 |
 | **[AssetMark](http://www.assetmark.com)** | **[Associate Designer](https://jobright.ai/jobs/info/684e086f4c842cc23f5ae7a0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Charlotte, NC | Hybrid | Aug 21 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/686dba476ba17ba0b30e3f30?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Designer Graduate [TikTok-Design-Content Ecosystem & Integrity]- 2026 Start (BS/MS)](https://jobright.ai/jobs/info/688c47953a30793eb9641bf5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Aug 21 |
@@ -224,8 +226,4 @@ For a complete list, click the following sortable link below:
 | **[Kaleidoscope®](https://www.thinkkaleidoscope.com/)** | **[Mockup Artist Apprentice](https://jobright.ai/jobs/info/68a687c533dd7158bbca06ff?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Aug 20 |
 | **[Coalition, Inc.](https://www.coalitioninc.com)** | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/68a6666433dd7158bbc9fc3e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Aug 20 |
 | ↳ | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/68a666b1758f2e4ac3fe4ac4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Aug 20 |
-| **[Marvin](http://www.marvin.com/)** | **[Technical Illustrator I](https://jobright.ai/jobs/info/68a63eab758f2e4ac3fe3cf9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Warroad, MN | On Site | Aug 20 |
-| **[Nickey Kehoe](https://nickeykehoe.com/)** | **[Interior Design Assistant](https://jobright.ai/jobs/info/68a6c28d758f2e4ac3fe7a12?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Aug 20 |
-| **[Palantir Technologies](http://www.palantir.com)** | **[Product Designer, New Grad - US Government](https://jobright.ai/jobs/info/68a3828f403ad4363b1c1fbf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Hybrid | Aug 20 |
-| **[Coalition, Inc.](https://www.coalitioninc.com)** | **[WEB DESIGNER](https://jobright.ai/jobs/info/68a653e133dd7158bbc9f6db?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA | Remote | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
