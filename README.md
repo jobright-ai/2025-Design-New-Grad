@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Coalition, Inc.](https://www.coalitioninc.com)** | **[WEB DESIGNER](https://jobright.ai/jobs/info/68af8392962903596357d53a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA | Remote | Aug 27 |
-| ↳ | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/68af8358962903596357d525?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Aug 27 |
-| ↳ | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/68af82131f0a2a568a0623a0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Aug 27 |
+| **[Fanatics](http://www.fanaticsinc.com)** | **[Designer, Social Media](https://jobright.ai/jobs/info/68af8b472daaba398441f010?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 95 Morton St, New York, NY, 10014, US | Hybrid | Aug 27 |
+| **[Velera](https://www.velera.com)** | **[Associate Experience Researcher](https://jobright.ai/jobs/info/68af86f3962903596357d65e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote-USA | Remote | Aug 27 |
 | **[HYBE America](https://hybecorp.com)** | **[Visual Creative Coordinator](https://jobright.ai/jobs/info/68af77ae2daaba398441e7e3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | Hybrid | Aug 27 |
+| **[Coalition, Inc.](https://www.coalitioninc.com)** | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/68af82131f0a2a568a0623a0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Aug 27 |
+| ↳ | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/68af8358962903596357d525?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Aug 27 |
+| ↳ | **[WEB DESIGNER](https://jobright.ai/jobs/info/68af8392962903596357d53a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA | Remote | Aug 27 |
 | **[Free People](http://www.freepeople.com)** | **[FP Movement Assistant Visual Manager](https://jobright.ai/jobs/info/68af6da51f0a2a568a06199e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Clara, CA | On Site | Aug 27 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68af5fb82daaba398441db7a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lutz, FL | On Site | Aug 27 |
 | **[Bohler](https://bohlerengineering.com/)** | **[Landscape Designer - New Grad](https://jobright.ai/jobs/info/68af58f21f0a2a568a060dbe?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Warren, NJ | Hybrid | Aug 27 |
@@ -110,8 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Bohler](https://bohlerengineering.com/)** | **[Landscape Designer - New Grad](https://jobright.ai/jobs/info/68ad05fadaf1431824c99de7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Towson, MD | Hybrid | Aug 25 |
 | **[IFB Solutions](https://ifbsolutions.org/)** | **[Marketing &amp; Design Services Lead](https://jobright.ai/jobs/info/68ad054edaf1431824c99cc6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Winston Salem, NC, USA | Hybrid | Aug 25 |
 | **[IXL Learning](https://www.ixl.com/)** | **[Illustrator (Freelance)](https://jobright.ai/jobs/info/68ad02a4d627244576e4a791?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Aug 25 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/68ad00f6d627244576e4a696?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Aug 25 |
-| **[IXL Learning](https://www.ixl.com/)** | **[Illustrator (Freelance)](https://jobright.ai/jobs/info/68acffd1daf1431824c99a1b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Aug 25 |
+| ↳ | **[Illustrator (Freelance)](https://jobright.ai/jobs/info/68acffd1daf1431824c99a1b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Aug 25 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Digital Content Specialist](https://jobright.ai/jobs/info/68ace710758f2e4ac3009703?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, MN, United States | Remote | Aug 25 |
 | **[Lumens](http://lumens.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/68ace32a758f2e4ac30095a0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greater Sacramento | Hybrid | Aug 25 |
 | **[Industrial Color](http://industrialcolor.com)** | **[Freelance Graphic Designer - Industrial Color Extended](https://jobright.ai/jobs/info/68acdfa5daf1431824c98d7c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Aug 25 |
@@ -222,6 +223,4 @@ For a complete list, click the following sortable link below:
 | **[Rochester Regional Health](https://www.rochesterregional.org)** | **[UI UX - IT Requirements Analyst](https://jobright.ai/jobs/info/68a3c99937d3cc6b0d57982d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, NY | Hybrid | Aug 21 |
 | **[AssetMark](http://www.assetmark.com)** | **[Associate Designer](https://jobright.ai/jobs/info/684e086f4c842cc23f5ae7a0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Charlotte, NC | Hybrid | Aug 21 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/686dba476ba17ba0b30e3f30?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Aug 21 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Designer Graduate [TikTok-Design-Content Ecosystem & Integrity]- 2026 Start (BS/MS)](https://jobright.ai/jobs/info/688c47953a30793eb9641bf5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Aug 21 |
-| **[JDI Distribution](https://www.jdidistribution.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/68a815f2d627244576e30e3a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Redlands, CA | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
