@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68afcd1ee723db6c9b7b3910?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | On Site | Aug 27 |
+| **[SKIMS](https://skims.com)** | **[Design Assistant - Lounge and Sleep](https://jobright.ai/jobs/info/68afc83ce723db6c9b7b3666?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | LA Metro Area | On Site | Aug 27 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68afc74813563e782a9f0ea0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kennesaw, GA | On Site | Aug 27 |
 | **[WATG and Wimberly Interiors](https://www.watg.com/)** | **[Designer](https://jobright.ai/jobs/info/68afb2ba4e6a6a711484ec2c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Aug 27 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Graphic Design Specialist](https://jobright.ai/jobs/info/68afd4d013563e782a9f1a35?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hartford, CT | Hybrid | Aug 27 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Designer, Social Media](https://jobright.ai/jobs/info/68afad7cf20641371441f73b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 27 |
 | ↳ | **[Designer, Social Media](https://jobright.ai/jobs/info/68af8b472daaba398441f010?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 95 Morton St, New York, NY, 10014, US | Hybrid | Aug 27 |
 | **[Velera](https://www.velera.com)** | **[Associate Experience Researcher](https://jobright.ai/jobs/info/68af86f3962903596357d65e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote-USA | Remote | Aug 27 |
@@ -111,6 +115,7 @@ For a complete list, click the following sortable link below:
 | **[PBK](http://www.pbk.com)** | **[Technical Designer](https://jobright.ai/jobs/info/6875e0605cebcd1dd51c4342?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Berkeley, CA | On Site | Aug 26 |
 | **[GEA Group](http://www.gea.com/)** | **[Production Designer](https://jobright.ai/jobs/info/67e76889f79cf6ed9f83ebd3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hudson, WI | On Site | Aug 26 |
 | **[Feeding America](http://feedingamerica.org)** | **[Specialist, Digital Experience Creator (Chicago/Hybrid)](https://jobright.ai/jobs/info/68ad638c758f2e4ac300d308?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Aug 26 |
+| **[QUES](https://www.ques.com/)** | **[CAD Designer](https://jobright.ai/jobs/info/68afd0c313563e782a9f1843?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Upland, CA | On Site | Aug 25 |
 | **[Western University of Health Sciences](http://www.westernu.edu/)** | **[Graphic Designer](https://jobright.ai/jobs/info/68ad2dec758f2e4ac300b89f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pomona, CA | On Site | Aug 25 |
 | **[Bohler](https://bohlerengineering.com/)** | **[Landscape Designer - New Grad](https://jobright.ai/jobs/info/68ad05fadaf1431824c99de7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Towson, MD | Hybrid | Aug 25 |
 | **[IFB Solutions](https://ifbsolutions.org/)** | **[Marketing &amp; Design Services Lead](https://jobright.ai/jobs/info/68ad054edaf1431824c99cc6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Winston Salem, NC, USA | Hybrid | Aug 25 |
@@ -146,7 +151,6 @@ For a complete list, click the following sortable link below:
 | **[PREZENTIUM](https://prezentium.com/)** | **[Presentation Specialist](https://jobright.ai/jobs/info/68abecc7758f2e4ac30017c2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Aug 24 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Retail - Custom Art Framer - Part-Time](https://jobright.ai/jobs/info/68ab5ca5d627244576e3f903?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orange-1802 E Katella Ave | On Site | Aug 24 |
 | **[Everi Holdings Inc.](http://www.everi.com)** | **[Technical Artist I (Hybrid in Austin, TX)](https://jobright.ai/jobs/info/688064219f7280424570a98f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Hybrid | Aug 24 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Human Factors Engineer](https://jobright.ai/jobs/info/68ab5c91d627244576e3f8ef?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Any Location / Remote | Remote | Aug 23 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Multimedia Specialist](https://jobright.ai/jobs/info/68a7bc6333dd7158bbca9150?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Auburn, AL | On Site | Aug 23 |
 | **[The Ohio State University](http://www.osu.edu/)** | **[Signage Installer](https://jobright.ai/jobs/info/689838b85574fd6bc0c75db1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, OH | On Site | Aug 23 |
 | **[Rover.com](http://www.rover.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/6879dac72097a271a897afbf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Aug 23 |
@@ -221,6 +225,4 @@ For a complete list, click the following sortable link below:
 | **[Benchmark Education Company](http://benchmarkeducation.com)** | **[Associate Photo Editor](https://jobright.ai/jobs/info/68a734ac758f2e4ac3fea267?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Rochelle, NY | On Site | Aug 21 |
 | ↳ | **[Associate Photo Editor](https://jobright.ai/jobs/info/68a71f9133dd7158bbca48f3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Rochelle | On Site | Aug 21 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Administrative Assistant, Visual Content °1824](https://jobright.ai/jobs/info/68a7159ad627244576e29809?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, California | On Site | Aug 21 |
-| **[F. Schumacher & Co.](http://fschumacher.com)** | **[Digital Print Specialist](https://jobright.ai/jobs/info/68a70b6f33dd7158bbca4248?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Passaic, NJ | On Site | Aug 21 |
-| **[Beckman Coulter Diagnostics](http://www.beckmancoulter.com)** | **[Analyst I, Technical Documentation (Labeling, Packaging)](https://jobright.ai/jobs/info/688aa987aab47a17f670a812?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chaska, MN | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
