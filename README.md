@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gensler](http://www.gensler.com)** | **[Technical Designer - Junior](https://jobright.ai/jobs/info/68afe436e723db6c9b7b494b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, MN | On Site | Aug 27 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68afcd1ee723db6c9b7b3910?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | On Site | Aug 27 |
 | **[SKIMS](https://skims.com)** | **[Design Assistant - Lounge and Sleep](https://jobright.ai/jobs/info/68afc83ce723db6c9b7b3666?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | LA Metro Area | On Site | Aug 27 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68afc74813563e782a9f0ea0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kennesaw, GA | On Site | Aug 27 |
@@ -67,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Velera](https://www.velera.com)** | **[Associate Experience Researcher](https://jobright.ai/jobs/info/68af86f3962903596357d65e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote-USA | Remote | Aug 27 |
 | **[Western University of Health Sciences](http://www.westernu.edu/)** | **[Graphic Designer](https://jobright.ai/jobs/info/68afaa181f0a2a568a0632d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pomona, CA | On Site | Aug 27 |
 | **[HYBE America](https://hybecorp.com)** | **[Visual Creative Coordinator](https://jobright.ai/jobs/info/68af77ae2daaba398441e7e3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | Hybrid | Aug 27 |
-| **[Coalition, Inc.](https://www.coalitioninc.com)** | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/68af8358962903596357d525?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Aug 27 |
-| ↳ | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/68af82131f0a2a568a0623a0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Aug 27 |
+| **[Coalition, Inc.](https://www.coalitioninc.com)** | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/68af82131f0a2a568a0623a0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Aug 27 |
+| ↳ | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/68af8358962903596357d525?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Aug 27 |
 | ↳ | **[WEB DESIGNER](https://jobright.ai/jobs/info/68af8392962903596357d53a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA | Remote | Aug 27 |
 | **[Free People](http://www.freepeople.com)** | **[FP Movement Assistant Visual Manager](https://jobright.ai/jobs/info/68af6da51f0a2a568a06199e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Clara, CA | On Site | Aug 27 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68af5fb82daaba398441db7a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lutz, FL | On Site | Aug 27 |
@@ -174,7 +175,6 @@ For a complete list, click the following sortable link below:
 | **[Pepper Home](https://pepper-home.com)** | **[Junior Creative Coordinator](https://jobright.ai/jobs/info/68a8ed3ad627244576e366a9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Hybrid | Aug 22 |
 | **[Serena & Lily](http://www.serenaandlily.com)** | **[Design Advisor](https://jobright.ai/jobs/info/68a8f621758f2e4ac3ff65f1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Haverford, PA | On Site | Aug 22 |
 | **[Anastasia Beverly Hills](http://www.anastasiabeverlyhills.com/)** | **[Junior, Graphic Designer](https://jobright.ai/jobs/info/68a92514d627244576e37d9f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Aug 22 |
-| **[West Elm](https://www.westelm.com/)** | **[Visual Associate, Part Time Flex, Pike & Rose- West ELm](https://jobright.ai/jobs/info/688bffd11808534a89cb7b3f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Bethesda, MD | On Site | Aug 22 |
 | **[JustFab](https://www.justfab.de)** | **[Assistant Print & Graphic Designer (Apparel)](https://jobright.ai/jobs/info/68a8f1666acf96396f723bd8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | El Segundo, CA | Hybrid | Aug 22 |
 | **[Minuteman Press](https://www.minutemanpress.com/)** | **[Graphic Designer / Print Production Specialist](https://jobright.ai/jobs/info/68a8ebd96acf96396f723ac6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Springdale, AR | On Site | Aug 22 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68a8c145d627244576e354df?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbia, SC | On Site | Aug 22 |
@@ -223,6 +223,4 @@ For a complete list, click the following sortable link below:
 | **[New Global Marketing](https://www.bestcigarprices.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/68a751d533dd7158bbca6257?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Drums, PA | On Site | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Designer Graduate [TikTok-Design-UX]- 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68955e5b4ed2ea559ca554b6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Aug 21 |
 | **[Benchmark Education Company](http://benchmarkeducation.com)** | **[Associate Photo Editor](https://jobright.ai/jobs/info/68a734ac758f2e4ac3fea267?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Rochelle, NY | On Site | Aug 21 |
-| ↳ | **[Associate Photo Editor](https://jobright.ai/jobs/info/68a71f9133dd7158bbca48f3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Rochelle | On Site | Aug 21 |
-| **[Universal Music Group](https://www.universalmusic.com)** | **[Administrative Assistant, Visual Content °1824](https://jobright.ai/jobs/info/68a7159ad627244576e29809?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, California | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
