@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Free People](http://www.freepeople.com)** | **[Free People Assistant Visual Manager](https://jobright.ai/jobs/info/68aff864b47fb001d688eb49?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Princeton, NJ | On Site | Aug 27 |
 | **[Gensler](http://www.gensler.com)** | **[Technical Designer - Junior](https://jobright.ai/jobs/info/68afe436e723db6c9b7b494b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, MN | On Site | Aug 27 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68afcd1ee723db6c9b7b3910?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | On Site | Aug 27 |
 | **[SKIMS](https://skims.com)** | **[Design Assistant - Lounge and Sleep](https://jobright.ai/jobs/info/68afc83ce723db6c9b7b3666?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | LA Metro Area | On Site | Aug 27 |
@@ -220,7 +221,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graphic Designer](https://jobright.ai/jobs/info/68a8925dd627244576e33a19?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Battle Ground, WA | On Site | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Design Graduate (TikTok Shop Content Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6889a692aab47a17f6703e80?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Aug 21 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Design Coordinator, Business Solutions](https://jobright.ai/jobs/info/686dba476ba17ba0b30e3bf4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 21 |
-| **[New Global Marketing](https://www.bestcigarprices.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/68a751d533dd7158bbca6257?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Drums, PA | On Site | Aug 21 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Designer Graduate [TikTok-Design-UX]- 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68955e5b4ed2ea559ca554b6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Aug 21 |
-| **[Benchmark Education Company](http://benchmarkeducation.com)** | **[Associate Photo Editor](https://jobright.ai/jobs/info/68a734ac758f2e4ac3fea267?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Rochelle, NY | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
