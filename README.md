@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[alice + olivia](http://www.aliceandolivia.com)** | **[Visual Production Assistant](https://jobright.ai/jobs/info/683f3d92e4de5236508ea0b5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 28 |
+| **[MJ](http://mjels.com)** | **[Entry Level Landscape Designer](https://jobright.ai/jobs/info/68b075b3b47fb001d6892772?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Clifton Park, NY | On Site | Aug 28 |
+| **[Closet Factory](https://www.closetfactory.com/)** | **[Home Organization Designer / Interior Space Planner](https://jobright.ai/jobs/info/68b065fd2d46f6396cae5147?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jacksonville, FL | On Site | Aug 28 |
+| **[Centric Brands](https://centricbrands.com)** | **[Associate Designer](https://jobright.ai/jobs/info/685aff6bb89dd84eb2161ec9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 28 |
 | **[Bonterra](https://www.bonterratech.com/)** | **[Product Designer](https://jobright.ai/jobs/info/68940a6ba9199876488e20f5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Aug 28 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Junior Designer / Designer](https://jobright.ai/jobs/info/68b026acb47fb001d688fc3c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 28 |
 | **[Free People](http://www.freepeople.com)** | **[Free People Assistant Visual Manager](https://jobright.ai/jobs/info/68aff864b47fb001d688eb49?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Princeton, NJ | On Site | Aug 27 |
@@ -204,8 +206,4 @@ For a complete list, click the following sortable link below:
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Real Time Designer (Temporary)](https://jobright.ai/jobs/info/68a7c26033dd7158bbca9794?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 21 |
 | **[JustFab](https://www.justfab.de)** | **[Assistant Designer](https://jobright.ai/jobs/info/68a7c15a33dd7158bbca94c9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | El Segundo, CA | Hybrid | Aug 21 |
 | **[Motive](https://motivehq.com/)** | **[Implementation Specialist](https://jobright.ai/jobs/info/68a80763758f2e4ac3ff0167?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oklahoma City, OK | Hybrid | Aug 21 |
-| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Advertising Project Coordinator](https://jobright.ai/jobs/info/68a7f145758f2e4ac3fef5a2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | La Crosse, WI | On Site | Aug 21 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Jr. Designer, Creative Studios](https://jobright.ai/jobs/info/68a7a300758f2e4ac3fed5f5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA, USA | On Site | Aug 21 |
-| ↳ | **[Jr. Designer, Creative Studios](https://jobright.ai/jobs/info/68a7a2f933dd7158bbca879d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, USA | On Site | Aug 21 |
-| **[TikTok](https://www.tiktok.com)** | **[Creative Designer Graduate [TikTok-Design-Effect]- 2026 Start (BS/MS)](https://jobright.ai/jobs/info/688c3223906ac06e1d1d19f6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
