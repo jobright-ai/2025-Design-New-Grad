@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Virginia](https://lvg.virginia.edu)** | **[User Experience (UX) Designer](https://jobright.ai/jobs/info/68b20641f4e41a61efd81be3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Charlottesville, VA | Hybrid | Aug 29 |
+| **[WGN-TV](https://wgntv.com/)** | **[Graphic Artist](https://jobright.ai/jobs/info/68b1fef3f4e41a61efd81828?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Aug 29 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68b1fd3ef4e41a61efd816e1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Garden City, NY | On Site | Aug 29 |
+| **[McBride Homes](http://mcbridehomes.com)** | **[Junior Architect](https://jobright.ai/jobs/info/68b1f4b9bc187f64e1bd806d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chesterfield, MO | On Site | Aug 29 |
+| **[University of Virginia](https://lvg.virginia.edu)** | **[User Experience (UX) Designer](https://jobright.ai/jobs/info/68b1ef251ade4306aa632f44?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Charlottesville, VA | Hybrid | Aug 29 |
 | **[Imperial Quest, L.L.C.](http://www.HighAutoIQ.com)** | **[Jr. Graphic Production Designer](https://jobright.ai/jobs/info/68b1eaf0f4e41a61efd80ae3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Phoenix, AZ | On Site | Aug 29 |
 | **[The New York Times](https://www.nytco.com/)** | **[Associate Product Designer, Programmed SurfacesNew](https://jobright.ai/jobs/info/68b1ea2e1ade4306aa632da7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Aug 29 |
-| **[EA SPORTS](http://www.EASports.com)** | **[Associate Experience Designer](https://jobright.ai/jobs/info/68b1e4d8bc187f64e1bd787b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orlando, FL | On Site | Aug 29 |
+| **[EA SPORTS](http://www.EASports.com)** | **[Associate Experience Designer](https://jobright.ai/jobs/info/68b1e51fbc187f64e1bd78aa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orlando, FL | On Site | Aug 29 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[UX Designer](https://jobright.ai/jobs/info/68b1e3a41ade4306aa632a2c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kansas City, MO | Remote | Aug 29 |
 | **[Macy's](http://www.macysjobs.com)** | **[Trend Research and Forecasting Assistant](https://jobright.ai/jobs/info/68b1dcfcbc187f64e1bd74b0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 151 West 34th Street, New York, NY, 10001, US | On Site | Aug 29 |
 | **[The New York Times](https://www.nytco.com/)** | **[Associate Product Designer, Programmed Surfaces](https://jobright.ai/jobs/info/68b1d9c41ade4306aa632438?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Aug 29 |
@@ -122,8 +127,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer, Social Media](https://jobright.ai/jobs/info/68af8b472daaba398441f010?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 95 Morton St, New York, NY, 10014, US | Hybrid | Aug 27 |
 | **[Western University of Health Sciences](http://www.westernu.edu/)** | **[Graphic Designer](https://jobright.ai/jobs/info/68afaa181f0a2a568a0632d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pomona, CA | On Site | Aug 27 |
 | **[HYBE America](https://hybecorp.com)** | **[Visual Creative Coordinator](https://jobright.ai/jobs/info/68af77ae2daaba398441e7e3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | Hybrid | Aug 27 |
-| **[Coalition, Inc.](https://www.coalitioninc.com)** | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/68af8358962903596357d525?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Aug 27 |
-| ↳ | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/68af82131f0a2a568a0623a0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Aug 27 |
+| **[Coalition, Inc.](https://www.coalitioninc.com)** | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/68af82131f0a2a568a0623a0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Aug 27 |
+| ↳ | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/68af8358962903596357d525?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Aug 27 |
 | ↳ | **[WEB DESIGNER](https://jobright.ai/jobs/info/68af8392962903596357d53a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA | Remote | Aug 27 |
 | **[Free People](http://www.freepeople.com)** | **[FP Movement Assistant Visual Manager](https://jobright.ai/jobs/info/68af6da51f0a2a568a06199e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Clara, CA | On Site | Aug 27 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68af5fb82daaba398441db7a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lutz, FL | On Site | Aug 27 |
@@ -219,5 +224,4 @@ For a complete list, click the following sortable link below:
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/688d6ad51808534a89cc32ef?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tampa, FL | Hybrid | Aug 23 |
 | **[Levin Rinke Realty](http://www.levinrinkerealty.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/689fa05dfaa4e875e828a47c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pensacola, FL | On Site | Aug 23 |
 | **[HomeWetBar ](http://www.homewetbar.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/68a6465b758f2e4ac3fe3f60?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oklahoma City, OK | On Site | Aug 22 |
-| **[Spencer's](http://www.spencersonline.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/68ad3d0cd627244576e4c43d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Egg Harbor, NJ | Hybrid | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
