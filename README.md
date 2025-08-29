@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HOK](http://www.hok.com/)** | **[Design Professional](https://jobright.ai/jobs/info/68b1b1861ade4306aa63138a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Hybrid | Aug 29 |
+| **[Naughty Dog](http://www.naughtydog.com)** | **[UI Technical Designer](https://jobright.ai/jobs/info/689542a18c6d6b4426778662?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | Hybrid | Aug 29 |
+| **[Meta](https://www.meta.com)** | **[2D/UI Artist / Wearables Product Creative](https://jobright.ai/jobs/info/6879e5d62097a271a897b5e6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Aug 29 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Senior Designer - Healthcare Advertising](https://jobright.ai/jobs/info/689530ca8c6d6b4426777f43?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Aug 29 |
 | **[Print Magazine](http://www.printmag.com)** | **[Experiential Graphic Designer - IA](https://jobright.ai/jobs/info/68b1989ff4e41a61efd7e739?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Aug 29 |
 | **[Stantec](http://www.stantec.com)** | **[Interior Design Coordinator](https://jobright.ai/jobs/info/68b188d3f4e41a61efd7e364?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Honolulu, HI | On Site | Aug 28 |
