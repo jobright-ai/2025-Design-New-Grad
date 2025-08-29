@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Football League (NFL)](http://www.nfl.com)** | **[Seasonal Digital Video Editor](https://jobright.ai/jobs/info/68b11ae26fab621da7b09f31?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mount Laurel, NJ | On Site | Aug 28 |
+| **[HDR](http://www.hdrinc.com)** | **[Interior Design Coordinator](https://jobright.ai/jobs/info/68b11a90e815524ae11fb20f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pennington, NJ | On Site | Aug 28 |
+| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Graphic Designer](https://jobright.ai/jobs/info/68b10d6b6fab621da7b099e0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | On Site | Aug 28 |
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/68b0f9836fab621da7b09010?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Paducah, KY | Hybrid | Aug 28 |
 | **[Adore Me](http://www.adoreme.com/)** | **[Assistant Bra Designer](https://jobright.ai/jobs/info/68b0efd913563e782a9fa7db?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Hybrid | Aug 28 |
+| **[Rise, a Quad Agency](http://www.riseinteractive.com)** | **[Presentation Designer](https://jobright.ai/jobs/info/68b10ff9e815524ae11faeb8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Aug 28 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Page Designer](https://jobright.ai/jobs/info/68b0eac713563e782a9fa55f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boulder, CO | On Site | Aug 28 |
 | **[eko](https://eko.com)** | **[Creative Associate - UARK](https://jobright.ai/jobs/info/68b0e8222d46f6396cae9623?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bentonville | On Site | Aug 28 |
 | **[National Football League (NFL)](http://www.nfl.com)** | **[Media Design Group Designer / Animator](https://jobright.ai/jobs/info/68b0e6c22d46f6396cae94d1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Inglewood, California, United States | On Site | Aug 28 |
@@ -69,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[DAHLIN Architecture | Planning | Interiors](http://dahlingroup.com)** | **[Architectural Designer/Drafter - Entry-Level](https://jobright.ai/jobs/info/68b0a5a0b47fb001d6894229?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bellevue, WA | Hybrid | Aug 28 |
 | **[Alphatec PC](http://www.alphatecpc.com)** | **[Proposal Coordinator and Graphic Designer](https://jobright.ai/jobs/info/68b0c09e2d46f6396cae82aa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | On Site | Aug 28 |
 | **[Pottery Barn Kids](http://potterybarnkids.com/)** | **[Visual Associate, Part Time Flex, Farmers Market - Pottery Barn Kids](https://jobright.ai/jobs/info/68b09d91b47fb001d6893ca6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Aug 28 |
+| **[Iron Mountain](http://www.ironmountain.com)** | **[Freelance Art Handler - Travel Team, Crozier](https://jobright.ai/jobs/info/68b11d0104557a6c207ba072?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US | NJ | Newark | 231 Johnson Ave | On Site | Aug 28 |
 | **[HappyRobot](https://happyrobot.ai)** | **[Creative Content Designer](https://jobright.ai/jobs/info/68b098d4b47fb001d6893bee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Aug 28 |
 | **[Influencer](https://www.influencer.com)** | **[Junior Creative](https://jobright.ai/jobs/info/68b09526b47fb001d68938e7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Hybrid | Aug 28 |
 | **[TeacherGeek](https://teachergeek.com)** | **[Content Creator, Designer](https://jobright.ai/jobs/info/68b08ac82d46f6396cae65d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Holley, NY | On Site | Aug 28 |
@@ -210,6 +215,4 @@ For a complete list, click the following sortable link below:
 | **[Disney Advertising](https://www.disneyadvertising.com)** | **[Jr. Designer, Creative Studios](https://jobright.ai/jobs/info/68a88177758f2e4ac3ff2e00?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Aug 22 |
 | **[Minuteman Press](https://www.minutemanpress.com/)** | **[Print Shop Assistant / Designer](https://jobright.ai/jobs/info/68a8765e758f2e4ac3ff29ca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West Berlin, NJ | On Site | Aug 22 |
 | **[FIGS](http://www.wearfigs.com)** | **[Assistant Designer](https://jobright.ai/jobs/info/67fd8a79976bfb581085297c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | Hybrid | Aug 22 |
-| **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/688bd3463a30793eb963dee8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Woodbury, MN | Hybrid | Aug 22 |
-| **[Danaher Life Sciences](https://lifesciences.danaher.com)** | **[Analyst I, Technical Documentation (Labeling, Packaging)](https://jobright.ai/jobs/info/68a94f49758f2e4ac3ff8b06?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chaska, MN | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
