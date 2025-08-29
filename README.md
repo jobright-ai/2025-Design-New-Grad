@@ -89,7 +89,7 @@ For a complete list, click the following sortable link below:
 | **[alice + olivia](http://www.aliceandolivia.com)** | **[Visual Production Assistant](https://jobright.ai/jobs/info/68b1450d6fab621da7b0bdaf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 28 |
 | **[Centric Brands](https://centricbrands.com)** | **[Associate Designer](https://jobright.ai/jobs/info/685aff6bb89dd84eb2161ec9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 28 |
 | **[Bonterra](https://www.bonterratech.com/)** | **[Product Designer](https://jobright.ai/jobs/info/68940a6ba9199876488e20f5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Aug 28 |
-| **[Cushing Terrell](https://cushingterrell.com/)** | **[Design Professional](https://jobright.ai/jobs/info/68b143bc6fab621da7b0bbf3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Orleans, LA | On Site | Aug 28 |
+| **[Cushing Terrell](https://cushingterrell.com/)** | **[Design Professional](https://jobright.ai/jobs/info/68b153d6e815524ae11fdbb6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Billings, MT | On Site | Aug 28 |
 | **[Free People](http://www.freepeople.com)** | **[Free People Assistant Visual Manager](https://jobright.ai/jobs/info/68aff864b47fb001d688eb49?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Princeton, NJ | On Site | Aug 27 |
 | **[Gensler](http://www.gensler.com)** | **[Technical Designer - Junior](https://jobright.ai/jobs/info/68afe436e723db6c9b7b494b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, MN | On Site | Aug 27 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68afcd1ee723db6c9b7b3910?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | On Site | Aug 27 |
@@ -103,8 +103,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer, Social Media](https://jobright.ai/jobs/info/68af8b472daaba398441f010?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 95 Morton St, New York, NY, 10014, US | Hybrid | Aug 27 |
 | **[Western University of Health Sciences](http://www.westernu.edu/)** | **[Graphic Designer](https://jobright.ai/jobs/info/68afaa181f0a2a568a0632d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pomona, CA | On Site | Aug 27 |
 | **[HYBE America](https://hybecorp.com)** | **[Visual Creative Coordinator](https://jobright.ai/jobs/info/68af77ae2daaba398441e7e3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | Hybrid | Aug 27 |
-| **[Coalition, Inc.](https://www.coalitioninc.com)** | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/68af8358962903596357d525?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Aug 27 |
-| ↳ | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/68af82131f0a2a568a0623a0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Aug 27 |
+| **[Coalition, Inc.](https://www.coalitioninc.com)** | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/68af82131f0a2a568a0623a0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Aug 27 |
+| ↳ | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/68af8358962903596357d525?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Aug 27 |
 | ↳ | **[WEB DESIGNER](https://jobright.ai/jobs/info/68af8392962903596357d53a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA | Remote | Aug 27 |
 | **[Free People](http://www.freepeople.com)** | **[FP Movement Assistant Visual Manager](https://jobright.ai/jobs/info/68af6da51f0a2a568a06199e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Clara, CA | On Site | Aug 27 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68af5fb82daaba398441db7a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lutz, FL | On Site | Aug 27 |
@@ -216,5 +216,4 @@ For a complete list, click the following sortable link below:
 | **[Konrad](https://www.konrad.com)** | **[Associate UI/UX Designer](https://jobright.ai/jobs/info/68aa12316acf96396f7298cd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Aug 22 |
 | ↳ | **[Associate UI/UX Designer](https://jobright.ai/jobs/info/68aa11c6d627244576e3c386?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York | Hybrid | Aug 22 |
 | ↳ | **[UI/UX Designer](https://jobright.ai/jobs/info/68a8af8bd627244576e349f6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Aug 22 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Jr. Designer, Creative Studios](https://jobright.ai/jobs/info/68a88a566acf96396f720a34?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
