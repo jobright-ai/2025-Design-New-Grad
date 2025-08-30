@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Anastasia Beverly Hills](http://www.anastasiabeverlyhills.com/)** | **[Junior, Graphic Designer](https://jobright.ai/jobs/info/68b33104bc187f64e1bdfe0f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Aug 30 |
 | **[PREZENTIUM](https://prezentium.com/)** | **[Presentation Specialist](https://jobright.ai/jobs/info/68b309c2bc187f64e1bdfa1d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Aug 30 |
 | **[Global Prairie](http://global-prairie.com)** | **[Associate, Creative (Graphic Designer) - All U.S. Offices](https://jobright.ai/jobs/info/68984dbd83d13d1f5b68da76?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kansas City, MO | On Site | Aug 30 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Artist](https://jobright.ai/jobs/info/685dfe3bbee2fb40984e7fe3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Winona, MN | On Site | Aug 30 |
 | **[WorkinVirtual](https://workinvirtual.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/68b2ae01bc187f64e1bdec88?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Hybrid | Aug 30 |
-| **[Anastasia Beverly Hills](http://www.anastasiabeverlyhills.com/)** | **[Junior, Graphic Designer](https://jobright.ai/jobs/info/68b31628f4e41a61efd889d0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Aug 29 |
 | **[Gensler](http://www.gensler.com)** | **[Designer - Interiors - Technology Workplace](https://jobright.ai/jobs/info/68b28b251ade4306aa638158?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Aug 29 |
 | **[National Football League (NFL)](http://www.nfl.com)** | **[Seasonal Digital Video Editor](https://jobright.ai/jobs/info/68b2849ef4e41a61efd85890?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mount Laurel, New Jersey, United States | On Site | Aug 29 |
 | **[The New York Times](https://www.nytco.com/)** | **[Associate Product Designer, Programmed Surfaces](https://jobright.ai/jobs/info/68b26d681ade4306aa6365c1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Aug 29 |
@@ -132,6 +132,7 @@ For a complete list, click the following sortable link below:
 | **[Alphatec PC](http://www.alphatecpc.com)** | **[Proposal Coordinator and Graphic Designer](https://jobright.ai/jobs/info/68b0c09e2d46f6396cae82aa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | On Site | Aug 28 |
 | **[Pottery Barn Kids](http://potterybarnkids.com/)** | **[Visual Associate, Part Time Flex, Farmers Market - Pottery Barn Kids](https://jobright.ai/jobs/info/68b09d91b47fb001d6893ca6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Aug 28 |
 | **[Iron Mountain](http://www.ironmountain.com)** | **[Freelance Art Handler - Travel Team, Crozier](https://jobright.ai/jobs/info/68b11d0104557a6c207ba072?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US | NJ | Newark | 231 Johnson Ave | On Site | Aug 28 |
+| **[Google](https://www.google.com)** | **[UX Writer and Content Designer, Android Automotive](https://jobright.ai/jobs/info/68940df3a9199876488e229e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kirkland, WA | On Site | Aug 28 |
 | **[Influencer](https://www.influencer.com)** | **[Junior Creative](https://jobright.ai/jobs/info/68b09526b47fb001d68938e7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Hybrid | Aug 28 |
 | **[Bohler](https://bohlerengineering.com/)** | **[Landscape Designer - New Grad](https://jobright.ai/jobs/info/68ad05fadaf1431824c99de7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Towson, MD | Hybrid | Aug 28 |
 | **[TeacherGeek](https://teachergeek.com)** | **[Content Creator, Designer](https://jobright.ai/jobs/info/68b08ac82d46f6396cae65d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Holley, NY | On Site | Aug 28 |
@@ -245,5 +246,4 @@ For a complete list, click the following sortable link below:
 | **[TubeScience](https://tubescience.com/#home)** | **[Creative Coordinator](https://jobright.ai/jobs/info/687ca1792097a271a898c229?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Aug 24 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Retail - Custom Art Framer - Part-Time](https://jobright.ai/jobs/info/68ab5ca5d627244576e3f903?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orange-1802 E Katella Ave | On Site | Aug 24 |
 | **[Everi Holdings Inc.](http://www.everi.com)** | **[Technical Artist I (Hybrid in Austin, TX)](https://jobright.ai/jobs/info/688064219f7280424570a98f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Hybrid | Aug 24 |
-| **[Auburn University](https://www.auburn.edu/)** | **[Multimedia Specialist](https://jobright.ai/jobs/info/68a7bc6333dd7158bbca9150?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Auburn, AL | On Site | Aug 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
