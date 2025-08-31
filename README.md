@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Michaels Stores](https://teachitpro.com)** | **[Art/Picture Framer](https://jobright.ai/jobs/info/68b3507cbc187f64e1be00dd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn-252 Atlantic Ave | On Site | Aug 30 |
+| **[Print Magazine](http://www.printmag.com)** | **[Experiential Graphic Designer - IA](https://jobright.ai/jobs/info/68b3c0c8f4e41a61efd89d1e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Aug 30 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68983757faa4e875e824bf91?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cortlandt Manor, NY | On Site | Aug 30 |
 | **[PREZENTIUM](https://prezentium.com/)** | **[Presentation Specialist](https://jobright.ai/jobs/info/68b309c2bc187f64e1bdfa1d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Aug 30 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Assistant Designer, Decorative Accessories & Tabletop](https://jobright.ai/jobs/info/6879482b2097a271a8976178?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 30 |
@@ -160,6 +161,7 @@ For a complete list, click the following sortable link below:
 | **[SKIMS](https://skims.com)** | **[Design Assistant - Lounge and Sleep](https://jobright.ai/jobs/info/68afc83ce723db6c9b7b3666?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | LA Metro Area | On Site | Aug 27 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68afc74813563e782a9f0ea0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kennesaw, GA | On Site | Aug 27 |
 | **[WATG and Wimberly Interiors](https://www.watg.com/)** | **[Designer](https://jobright.ai/jobs/info/68b27218f4e41a61efd84777?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Aug 27 |
+| **[maurices](https://www.maurices.com)** | **[Assistant Technical Designer-maurices](https://jobright.ai/jobs/info/68917111f47efe21139553d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Duluth, MN | On Site | Aug 27 |
 | **[The Ohio State University](http://www.osu.edu/)** | **[Signage Installer](https://jobright.ai/jobs/info/689838b85574fd6bc0c75db1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, OH | On Site | Aug 27 |
 | **[JKA / John Kaliski Architects](http://www.jka-la.com)** | **[Urban Designer](https://jobright.ai/jobs/info/68b1a4e61ade4306aa630e0d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Aug 27 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Graphic Design Specialist](https://jobright.ai/jobs/info/68afd4d013563e782a9f1a35?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hartford, CT | Hybrid | Aug 27 |
@@ -188,9 +190,9 @@ For a complete list, click the following sortable link below:
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Graphic Designer I](https://jobright.ai/jobs/info/68224a44cdaf82e297b607af?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 27 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/6846dd01b46345bffb9c5aef?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Aug 27 |
 | **[Knowledgent](http://www.knowledgent.com)** | **[Droga5 - Designer](https://jobright.ai/jobs/info/68ae90d2daf1431824ca4387?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Aug 26 |
-| **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Landscape Architect](https://jobright.ai/jobs/info/68b3adc41ade4306aa63b806?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US.GA.Atlanta.1600 RiverEdge Parkway, NW | On Site | Aug 26 |
 | **[CoCreativ](https://www.cocreativ.co)** | **[Freelance Graphic Designer - Industrial Color Extended](https://jobright.ai/jobs/info/68ae7d0b758f2e4ac3013f13?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York County, NY | Hybrid | Aug 26 |
 | **[Neighborly Ventures](https://www.theneighborlyway.com)** | **[Brand Coordinator](https://jobright.ai/jobs/info/68ae9477a782bf3e930545a6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Salem, OR | On Site | Aug 26 |
+| **[Print NW](http://printnw.rocks)** | **[Installation Associate](https://jobright.ai/jobs/info/68b3c0bcf4e41a61efd89d14?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lakewood, WA | On Site | Aug 26 |
 | **[HDR](http://www.hdrinc.com)** | **[Landscape Design Coordinator](https://jobright.ai/jobs/info/68ae73c4758f2e4ac3013a03?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Aug 26 |
 | **[Intrinsic Development](https://www.id.com)** | **[Architectural Design Associate](https://jobright.ai/jobs/info/68ae733edaf1431824ca3159?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lees Summit, MO | On Site | Aug 26 |
 | **[AtkinsRéalis](https://www.atkinsrealis.com/)** | **[Architectural Designer](https://jobright.ai/jobs/info/68ae6958758f2e4ac3013577?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Aug 26 |
@@ -249,5 +251,4 @@ For a complete list, click the following sortable link below:
 | **[Giorgio Armani](http://www.armani.com)** | **[Tailor, Giorgio Armani](https://jobright.ai/jobs/info/684725e6ae27a4ff15e61d63?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beverly Hills, CA | On Site | Aug 25 |
 | **[TubeScience](https://tubescience.com/#home)** | **[Creative Coordinator](https://jobright.ai/jobs/info/687ca1792097a271a898c229?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Aug 24 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Retail - Custom Art Framer - Part-Time](https://jobright.ai/jobs/info/68ab5ca5d627244576e3f903?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orange-1802 E Katella Ave | On Site | Aug 24 |
-| **[Everi Holdings Inc.](http://www.everi.com)** | **[Technical Artist I (Hybrid in Austin, TX)](https://jobright.ai/jobs/info/688064219f7280424570a98f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Hybrid | Aug 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
