@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DTJ DESIGN, Inc.](http://dtjdesign.com)** | **[Designer / Architect (0-5 yrs experience)](https://jobright.ai/jobs/info/68b94277ea901c0d269fe2b8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Hybrid | Sep 04 |
+| **[Rakuten Viki](http://www.viki.com)** | **[Associate Multimedia Designer](https://jobright.ai/jobs/info/68b939f507090163b6ba91b2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Mateo, CA | On Site | Sep 04 |
+| **[Rakuten](http://global.rakuten.com)** | **[Associate Multimedia Designer](https://jobright.ai/jobs/info/68b9389eea901c0d269fd9fc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Mateo, California | On Site | Sep 03 |
 | **[DEPT®](https://www.deptagency.com)** | **[Creative Analyst](https://jobright.ai/jobs/info/68768f1c5cebcd1dd51ca032?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Sep 03 |
 | **[nCino](http://ncino.com)** | **[Associate Creative Designer](https://jobright.ai/jobs/info/68b8f4005b42bc4562829453?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wilmington, NC | On Site | Sep 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Designer Graduate [TikTok-Design-Platform]- 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68b8f25b07090163b6ba65a2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Sep 03 |
@@ -117,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Rent The Runway](http://www.renttherunway.com)** | **[Assoicate Manager, Social Media Design & Editor](https://jobright.ai/jobs/info/689bef3083d13d1f5b6a495b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | On Site | Sep 03 |
 | **[FASTSIGNS®](https://www.fastsigns.com/)** | **[Graphic Designer/Production Team Member Job at FastSigns in Washington](https://jobright.ai/jobs/info/68b807650514b74d7c3ec293?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | On Site | Sep 03 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Shop - Content Designer, Consumer](https://jobright.ai/jobs/info/68b82ea64987402050d0c86e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Sep 03 |
+| **[Aumen Asner, Inc.](https://www.aumenasner.com)** | **[Junior Interior Designer](https://jobright.ai/jobs/info/68b9430107090163b6ba98c8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baltimore, MD | On Site | Sep 02 |
 | **[Smileland Dental](https://www.smilelanddental.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/68b7b1ae872d1074a98b2515?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bakersfield, CA | On Site | Sep 02 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d4472764c3d7411c3c9b1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Memphis, TN | On Site | Sep 02 |
 | **[Anastasia Beverly Hills](http://www.anastasiabeverlyhills.com/)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/68b79fedf4e41a61efd9aa02?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | LA Metro Area | On Site | Sep 02 |
@@ -164,8 +168,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3ec7ed63844c944b2350?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Memphis, TN | On Site | Sep 02 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68844ee7fbbf032d00067455?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Omaha, NE | On Site | Sep 02 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3e312097a271a898e24b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, GA | On Site | Sep 02 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/687d3f08ed63844c944b236c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port Chester, NY | On Site | Sep 02 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/687d3b77ed63844c944b2301?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sacramento, CA | On Site | Sep 02 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/687d3e492097a271a898e257?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port Chester, NY | On Site | Sep 02 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68a02ccffaa4e875e828f12c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Riviera Beach, FL | On Site | Sep 02 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687eae85db19f31cf0d6c378?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Worth, TX | On Site | Sep 02 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3e692097a271a898e270?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cuyahoga Falls, OH | On Site | Sep 02 |
@@ -182,7 +185,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d46892097a271a898e332?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lancaster, CA | On Site | Sep 01 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d41372097a271a898e29a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Colorado Springs, CO | On Site | Sep 01 |
 | **[Outdoor Collective](https://ocapparel.com)** | **[Associate Designer, Color, Print, and Graphics](https://jobright.ai/jobs/info/68b65f331ade4306aa6445f4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver Metropolitan Area | On Site | Sep 01 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d46f22097a271a898e355?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sugar Land, TX | On Site | Sep 01 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3ed3764c3d7411c3c90d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sacramento, CA | On Site | Sep 01 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/687d46f22097a271a898e355?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sugar Land, TX | On Site | Sep 01 |
 | **[SUPACAZ](https://supacaz.com)** | **[Graphic Designer:  Sports Sunglass Brand - Cycling Baseball](https://jobright.ai/jobs/info/68b666c3f4e41a61efd92a62?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | LA Metro Area | On Site | Sep 01 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3f71ed63844c944b23a4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Sep 01 |
 | **[CourseCareers](http://coursecareers.com)** | **[YouTube Producer & Creative Director](https://jobright.ai/jobs/info/68b73cb42124650c140209bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Sep 01 |
@@ -301,7 +305,4 @@ For a complete list, click the following sortable link below:
 | **[Influencer](https://www.influencer.com)** | **[Junior Creative](https://jobright.ai/jobs/info/68b09526b47fb001d68938e7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Hybrid | Aug 28 |
 | **[Bohler](https://bohlerengineering.com/)** | **[Landscape Designer - New Grad](https://jobright.ai/jobs/info/68ad05fadaf1431824c99de7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Towson, MD | Hybrid | Aug 28 |
 | **[TeacherGeek](https://teachergeek.com)** | **[Content Creator, Designer](https://jobright.ai/jobs/info/68b08ac82d46f6396cae65d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Holley, NY | On Site | Aug 28 |
-| **[Orion180](https://www.orion180.com/)** | **[User Experience Specialist](https://jobright.ai/jobs/info/68b0807213563e782a9f6cd2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irving, TX | Hybrid | Aug 28 |
-| **[Minuteman Press](https://www.minutemanpress.com/)** | **[Graphic Designer / Print Coordinator](https://jobright.ai/jobs/info/68b081862d46f6396cae6071?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Nolensville, TN | On Site | Aug 28 |
-| ↳ | **[Graphic Designer / Print Coordinator](https://jobright.ai/jobs/info/68b0808fb47fb001d6892d09?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Gallatin, TN | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
