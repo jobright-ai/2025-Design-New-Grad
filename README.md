@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Coalition, Inc.](https://www.coalitioninc.com)** | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/68b8bc845b42bc45628275fc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Sep 03 |
-| ↳ | **[WEB DESIGNER](https://jobright.ai/jobs/info/68b8bc5b5b42bc45628275e0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA | Remote | Sep 03 |
-| ↳ | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/68b8bc225b42bc45628275c5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Sep 03 |
+| **[Mayo Clinic Healthcare](https://mayoclinichealthcare.co.uk)** | **[Communications Specialist - Visual Design](https://jobright.ai/jobs/info/68b8d56e07090163b6ba5499?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, MN | Remote | Sep 03 |
+| **[O'Connell Electric Company](http://oconnellelectric.com)** | **[3D Animation and Graphic Designer](https://jobright.ai/jobs/info/68b8c94b07090163b6ba4eaa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, New York | On Site | Sep 03 |
+| **[Meta](https://www.meta.com)** | **[Industrial Designer - VR Hardware Studio](https://jobright.ai/jobs/info/68b8c3b75b42bc45628278a2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Sep 03 |
 | **[nCino](http://ncino.com)** | **[Associate Creative Designer](https://jobright.ai/jobs/info/68b8b5eb5b42bc456282739b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wilmington, NC | On Site | Sep 03 |
 | **[Vida Design Inc.](https://vida-design.com/)** | **[Designer 1](https://jobright.ai/jobs/info/68b8ac6807090163b6ba41d2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, Oregon Metropolitan Area | Hybrid | Sep 03 |
 | **[ZGF Architects](https://www.zgf.com/)** | **[Entry Level Interior Designer](https://jobright.ai/jobs/info/68b8aa315b42bc4562826c92?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 03 |
+| **[Coalition, Inc.](https://www.coalitioninc.com)** | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/68b8bc225b42bc45628275c5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Sep 03 |
+| ↳ | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/68b8bc845b42bc45628275fc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Sep 03 |
+| ↳ | **[WEB DESIGNER](https://jobright.ai/jobs/info/68b8bc5b5b42bc45628275e0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA | Remote | Sep 03 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[Image Researcher](https://jobright.ai/jobs/info/68b89b68ea901c0d269f8058?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 30 Rockefeller Plaza, New York, NEW YORK | On Site | Sep 03 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Jr. Designer (Headwear)](https://jobright.ai/jobs/info/68b897d75b42bc456282616d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buffalo, NY | On Site | Sep 03 |
 | **[Henderson Engineers](https://www.hendersonengineers.com)** | **[Graphic Design Specialist](https://jobright.ai/jobs/info/68b89661ea901c0d269f7c7a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | Hybrid | Sep 03 |
@@ -111,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[RR Donnelley](http://www.rrd.com)** | **[Presentation Associate - 1st and 2nd Shifts](https://jobright.ai/jobs/info/68b7938a1ade4306aa64c23c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, OH | On Site | Sep 02 |
 | **[U.S. Bank](http://www.usbank.com)** | **[2026 Experience Design Rotational Program](https://jobright.ai/jobs/info/68b791851ade4306aa64bf79?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, MN | Hybrid | Sep 02 |
 | **[California Polytechnic State University-San Luis Obispo](http://www.calpoly.edu)** | **[Emergency Hire - Graphic Designer - University Housing](https://jobright.ai/jobs/info/68b787562124650c1402369f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Luis Obispo, CA | On Site | Sep 02 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3ea3764c3d7411c3c8f2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Humble, TX | On Site | Sep 02 |
 | **[California Polytechnic State University (Cal Poly)](http://www.calpolyjobs.org)** | **[Emergency Hire - Graphic Designer - University Housing](https://jobright.ai/jobs/info/68b77a791ade4306aa64b49a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Luis Obispo, CA | On Site | Sep 02 |
 | **[Alyssa Rome Design](http://alyssaromedesign.com)** | **[Design Assistant](https://jobright.ai/jobs/info/68b7e1ada10b650604b61c36?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | On Site | Sep 02 |
 | **[Faherty Brand](http://fahertybrand.com)** | **[Assistant Designer, Men’s](https://jobright.ai/jobs/info/68b772192124650c14022cca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York, United States | On Site | Sep 02 |
@@ -142,7 +146,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3ec7ed63844c944b2350?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Memphis, TN | On Site | Sep 02 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68844ee7fbbf032d00067455?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Omaha, NE | On Site | Sep 02 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3e312097a271a898e24b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, GA | On Site | Sep 02 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/687d3e492097a271a898e257?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port Chester, NY | On Site | Sep 02 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/687d3f08ed63844c944b236c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port Chester, NY | On Site | Sep 02 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3b77ed63844c944b2301?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sacramento, CA | On Site | Sep 02 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68a02ccffaa4e875e828f12c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Riviera Beach, FL | On Site | Sep 02 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687eae85db19f31cf0d6c378?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Worth, TX | On Site | Sep 02 |
@@ -289,5 +293,4 @@ For a complete list, click the following sortable link below:
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/683df3ea03306e9ff5198fb8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | McLean, VA | Hybrid | Aug 28 |
 | **[Bonterra](https://www.bonterratech.com/)** | **[Product Designer](https://jobright.ai/jobs/info/68940a6ba9199876488e20f5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Aug 28 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6892be714c7e851b90ad7fd7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Louis, MO | On Site | Aug 28 |
-| **[Free People](http://www.freepeople.com)** | **[Free People Assistant Visual Manager](https://jobright.ai/jobs/info/68aff864b47fb001d688eb49?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Princeton, NJ | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
