@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CoCreativ](https://www.cocreativ.co)** | **[Retail Designer - Industrial Color Extended](https://jobright.ai/jobs/info/68bdf411e57feb02eb0ac822?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Sep 07 |
 | **[Wyn2It Business Solutions](www.Wyn2It.com)** | **[Freelance Graphic Designer Memphis, TN Only](https://jobright.ai/jobs/info/68bdd0f3c4c5904ff60042f0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Memphis Metro | On Site | Sep 07 |
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[Design Specialist - Upper West Side](https://jobright.ai/jobs/info/68bdc056df5eec448f63d48d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 07 |
+| **[FIGS](http://www.wearfigs.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/684d12fcc4f257fd723a2ca5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | Hybrid | Sep 07 |
 | **[Industrial Color](http://industrialcolor.com)** | **[Retail Designer - Industrial Color Extended](https://jobright.ai/jobs/info/68bce78cae79610dacddc5c3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Sep 06 |
 | **[Global Strategy Group](http://globalstrategygroup.com)** | **[Design Assistant](https://jobright.ai/jobs/info/68b8762aea901c0d269f656d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Sep 06 |
 | **[ATRA](https://www.megethosdigital.com/)** | **[Landing Page Designer & CRO Specialist](https://jobright.ai/jobs/info/68bb86f08043103d4f229428?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tempe, AZ | On Site | Sep 06 |
