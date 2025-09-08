@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PREZENTIUM](https://prezentium.com/)** | **[Presentation Specialist](https://jobright.ai/jobs/info/68be9c50c4c5904ff6007292?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Sep 08 |
 | **[PwC](http://pwc.com)** | **[Advisory National - Design Associate - Summer/Fall 2026](https://jobright.ai/jobs/info/68be6952e57feb02eb0ae509?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | TX-Dallas | On Site | Sep 07 |
 | ↳ | **[Advisory National - Design Associate - Summer/Fall 2026](https://jobright.ai/jobs/info/68be6919e57feb02eb0ae4a4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | IL-Chicago | On Site | Sep 07 |
 | ↳ | **[Advisory National - Design Associate - Summer/Fall 2026](https://jobright.ai/jobs/info/68be68fbc4c5904ff60063a8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | IL-Rosemont | On Site | Sep 07 |
@@ -67,7 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Wyn2It Business Solutions](www.Wyn2It.com)** | **[Freelance Graphic Designer Memphis, TN Only](https://jobright.ai/jobs/info/68bdd0f3c4c5904ff60042f0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Memphis Metro | On Site | Sep 07 |
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[Design Specialist - Upper West Side](https://jobright.ai/jobs/info/68bdc056df5eec448f63d48d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 07 |
 | **[Newmark](https://www.nmrk.com)** | **[Designer, Graphic](https://jobright.ai/jobs/info/68685d8f35584b65426d9303?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 07 |
-| **[FIGS](http://www.wearfigs.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/684d12fcc4f257fd723a2ca5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | Hybrid | Sep 07 |
+| **[FIGS](http://www.wearfigs.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/684bc077bc94e0abd307074e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | Hybrid | Sep 07 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Flex Male Model - Los Angeles Photo Studio](https://jobright.ai/jobs/info/689f533279a9f966625560cb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Sep 06 |
 | **[Industrial Color](http://industrialcolor.com)** | **[Retail Designer - Industrial Color Extended](https://jobright.ai/jobs/info/68bce78cae79610dacddc5c3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Sep 06 |
 | **[Global Strategy Group](http://globalstrategygroup.com)** | **[Design Assistant](https://jobright.ai/jobs/info/68b8762aea901c0d269f656d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Sep 06 |
@@ -135,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[State of Florida](http://www.myflorida.com)** | **[OPS Graphics Assistant](https://jobright.ai/jobs/info/68bb7ffb8043103d4f229049?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tallahassee, FL | On Site | Sep 04 |
 | **[SanMar](http://www.sanmar.com)** | **[Jr UX Designer](https://jobright.ai/jobs/info/68ba33936105227d1189b9d1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Issaquah, WA | Hybrid | Sep 04 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Sr. UX UX/AI strategist and researcher](https://jobright.ai/jobs/info/68ba31768043103d4f21e2cc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Plantation, FL | Hybrid | Sep 04 |
-| **[PAE](https://www.pae-engineers.com)** | **[Entry Level Lighting Designer - Seattle, Washington](https://jobright.ai/jobs/info/68bbf63f5f38327491874749?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA, USA | Hybrid | Sep 04 |
-| ↳ | **[Entry Level Lighting Designer - Los Angeles, California](https://jobright.ai/jobs/info/68bb64f35f3832749186ecf1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Culver City, CA, USA | Hybrid | Sep 04 |
+| **[PAE](https://www.pae-engineers.com)** | **[Entry Level Lighting Designer - Los Angeles, California](https://jobright.ai/jobs/info/68bb64f35f3832749186ecf1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Culver City, CA, USA | Hybrid | Sep 04 |
+| ↳ | **[Entry Level Lighting Designer - Seattle, Washington](https://jobright.ai/jobs/info/68bbf63f5f38327491874749?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA, USA | Hybrid | Sep 04 |
 | **[Signs By Tomorrow](http://www.signsbytomorrow.com/pg/)** | **[Graphic Designer](https://jobright.ai/jobs/info/68ba404b5f383274918657a6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kent, WA | On Site | Sep 04 |
 | **[Under Armour](http://underarmour.com)** | **[Associate Apparel Designer, Train](https://jobright.ai/jobs/info/68ba5f5c5f383274918667b0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baltimore, MD | Hybrid | Sep 04 |
 | **[Old Navy](http://www.oldnavy.com)** | **[Temp Remote Old Navy Merchandise Coordinator, Franchise Strategic Alliances (Freelance)](https://jobright.ai/jobs/info/68ba0f2b8043103d4f21d3b4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco Bay Area | Remote | Sep 04 |
@@ -291,8 +292,7 @@ For a complete list, click the following sortable link below:
 | **[Club Sportiva](https://www.clubsportiva.com)** | **[Marketing & Photography Specialist](https://jobright.ai/jobs/info/68b7317ef4e41a61efd964b0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Sep 02 |
 | **[Cara Cara New York](https://caracaranyc.com)** | **[Assistant Technical Designer](https://jobright.ai/jobs/info/68b711611ade4306aa647627?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | On Site | Sep 02 |
 | **[The Print Guys, Inc.](https://www.printguys.com)** | **[Customer Service Representative & Graphic Design](https://jobright.ai/jobs/info/68b7298c1ade4306aa648041?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Yakima, WA | On Site | Sep 02 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d4476ed63844c944b23f9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tampa, FL | On Site | Sep 02 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/687d3f31ed63844c944b237d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Apple Valley, MN | On Site | Sep 02 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3f31ed63844c944b237d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Apple Valley, MN | On Site | Sep 02 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3ec7ed63844c944b2350?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Memphis, TN | On Site | Sep 02 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68844ee7fbbf032d00067455?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Omaha, NE | On Site | Sep 02 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3e312097a271a898e24b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, GA | On Site | Sep 02 |
@@ -308,6 +308,7 @@ For a complete list, click the following sortable link below:
 | **[MANSCAPED](https://manscaped.com)** | **[THE MANSCAPED® CREATIVE NETWORK](https://jobright.ai/jobs/info/687ef6c9764c3d7411c47982?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Sep 02 |
 | **[Wespath Benefits and Investments](http://www.wespath.org)** | **[Associate UX/Product Researcher](https://jobright.ai/jobs/info/68ad51cfd627244576e4cde9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Glenview, IL | On Site | Sep 02 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3ec2764c3d7411c3c902?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Countryside, IL | On Site | Sep 02 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/687d46a2ed63844c944b246b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tampa, FL | On Site | Sep 02 |
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/687eed772097a271a8998fb4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tallahassee, FL | Hybrid | Sep 02 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3eaced63844c944b2341?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Novi, MI | On Site | Sep 02 |
 | **[J.Crew Factory](https://factory.jcrew.com/)** | **[Jr. Print Designer](https://jobright.ai/jobs/info/68a294d283d13d1f5b6d656e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Sep 02 |
@@ -330,6 +331,4 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3e8c764c3d7411c3c8e9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boynton Beach, FL | On Site | Sep 01 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3e2c2097a271a898e243?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buford, GA | On Site | Sep 01 |
 | **[West Elm](https://www.westelm.com/)** | **[Visual Associate, Part Time Flex, New York City- West Elm](https://jobright.ai/jobs/info/68423105f21a7b1d97f963de?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 01 |
-| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/68b5dff0f4e41a61efd91682?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Las Vegas, NV | Hybrid | Sep 01 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d49c7ed63844c944b24a2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, ME | On Site | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
