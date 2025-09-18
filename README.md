@@ -57,13 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DroneDeploy](https://dronedeploy.com/)** | **[Brand Designer (USA)](https://jobright.ai/jobs/info/687705f55cebcd1dd51ce85d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Hybrid | Sep 17 |
 | **[Wild Places](wildplaces.co)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/68cb2978ba798c1a501cc987?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta Metro | Hybrid | Sep 17 |
 | **[Brie](https://www.brie.co/)** | **[Clothing Merchandise/Photography Associate](https://jobright.ai/jobs/info/68cb23e1efdec76df36b963e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | On Site | Sep 17 |
 | **[Dealer Blue Sky](https://www.dealerbluesky.com)** | **[Graphics Designer](https://jobright.ai/jobs/info/68cb22deba798c1a501cc458?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tampa, FL | On Site | Sep 17 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cb2193ba798c1a501cc227?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dearborn, MI | On Site | Sep 17 |
 | **[Fried Frank](http://www.friedfrank.com/)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/68cb2138efdec76df36b9296?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York, United States | On Site | Sep 17 |
+| **[Coalition, Inc.](https://www.coalitioninc.com)** | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/68cb4b6f9e3a822f5d244a16?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Sep 17 |
+| ↳ | **[WEB DESIGNER](https://jobright.ai/jobs/info/68cb43baba798c1a501cdb94?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA | Remote | Sep 17 |
+| ↳ | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/68cb43ecefdec76df36bab90?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Sep 17 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cb18dcefdec76df36b8b24?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Garden City, NY | On Site | Sep 17 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68cb18619e3a822f5d242631?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, WA | On Site | Sep 17 |
+| **[Central California Blood Center](https://www.donateblood.org)** | **[Graphic Designer](https://jobright.ai/jobs/info/68cb3294efdec76df36ba130?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fresno, CA | On Site | Sep 17 |
 | **[AECOM](http://www.aecom.com/)** | **[UXO Tech I](https://jobright.ai/jobs/info/68cb1409d905e25191d9f84b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Salt Lake City, UT | Remote | Sep 17 |
 | ↳ | **[UXO Tech I](https://jobright.ai/jobs/info/68cb1328d905e25191d9f712?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | Remote | Sep 17 |
 | **[Crate and Barrel](http://crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/68cb11feefdec76df36b880e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bellevue, WA | On Site | Sep 17 |
@@ -83,7 +88,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[UXO Tech I](https://jobright.ai/jobs/info/68cb101aefdec76df36b846c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Remote | Sep 17 |
 | **[Crate and Barrel](http://crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/68cb0fdd9e3a822f5d241f06?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Northbrook, IL | On Site | Sep 17 |
 | **[AECOM](http://www.aecom.com/)** | **[UXO Tech I](https://jobright.ai/jobs/info/68cb0fb0efdec76df36b83f5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Milwaukee, WI | Remote | Sep 17 |
-| ↳ | **[UXO Tech I](https://jobright.ai/jobs/info/68cb0f5b9e3a822f5d241e43?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, OH | Remote | Sep 17 |
 | ↳ | **[UXO Tech I](https://jobright.ai/jobs/info/68cb0f3eefdec76df36b836a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Miami, FL | Remote | Sep 17 |
 | ↳ | **[UXO Tech I](https://jobright.ai/jobs/info/68cb0eec9e3a822f5d241d7b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | Remote | Sep 17 |
 | ↳ | **[UXO Tech I](https://jobright.ai/jobs/info/68cb0ece9e3a822f5d241d41?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | Remote | Sep 17 |
@@ -92,6 +96,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[UXO Tech I](https://jobright.ai/jobs/info/68cb0d559e3a822f5d2419ac?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | Remote | Sep 17 |
 | ↳ | **[UXO Tech I](https://jobright.ai/jobs/info/68cb0d539e3a822f5d241998?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | St Louis, MO | Remote | Sep 17 |
 | ↳ | **[UXO Tech I](https://jobright.ai/jobs/info/68cb0d539e3a822f5d241999?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Phoenix, AZ | Remote | Sep 17 |
+| ↳ | **[UXO Tech I](https://jobright.ai/jobs/info/68cb334dba798c1a501cd223?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | Remote | Sep 17 |
+| ↳ | **[UXO Tech I](https://jobright.ai/jobs/info/68cb4b7e9e3a822f5d244a2d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, OH | Remote | Sep 17 |
 | **[Crate and Barrel](http://crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/68cb2a63ba798c1a501ccb3d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burlington, MA | On Site | Sep 17 |
 | **[Macy's](http://www.macysjobs.com)** | **[Assistant Designer - Epic Threads Kids](https://jobright.ai/jobs/info/68cb0796d905e25191d9e8bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Hybrid | Sep 17 |
 | **[Sole Hire](http://www.solehire.com)** | **[Industrial Designer / Product Tester](https://jobright.ai/jobs/info/68cafbe19e3a822f5d240cc2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Doral, FL | On Site | Sep 17 |
@@ -102,9 +108,11 @@ For a complete list, click the following sortable link below:
 | **[Morton Buildings, Inc.](https://mortonbuildings.com/)** | **[Architectural Associate](https://jobright.ai/jobs/info/68cad1f69e3a822f5d23f49b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Morton, IL | On Site | Sep 17 |
 | **[Big Frog Custom T-Shirts & More](https://www.bigfrog.com)** | **[Retail Associate / Graphic Designer](https://jobright.ai/jobs/info/68cada039e3a822f5d23f89c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brighton, MI | On Site | Sep 17 |
 | **[PREZENTIUM](https://prezentium.com/)** | **[Presentation Specialist](https://jobright.ai/jobs/info/68cabe82d905e25191d9bf1a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Sep 17 |
+| **[Tanooki Labs](http://tanookilabs.com)** | **[Freelance Creative Designer](https://jobright.ai/jobs/info/68cb3850efdec76df36ba3c0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Sep 17 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Web Assistant - Web Team](https://jobright.ai/jobs/info/68ca9562cca9271990ce42c7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | On Site | Sep 17 |
 | **[Accenture](https://www.accenture.com)** | **[Droga5 - Designer](https://jobright.ai/jobs/info/68c2b6c95001f8077bf5d63b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 17 |
 | **[Hoffmaster](http://hoffmastergroupinc.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/68ae0d81758f2e4ac3010da1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greater Indianapolis | Hybrid | Sep 17 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Architect, Higher Education](https://jobright.ai/jobs/info/68770bc0299cbc74b8762e18?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Riverside, CA | Hybrid | Sep 17 |
 | **[Gensler](http://www.gensler.com)** | **[Technical Designer – Junior](https://jobright.ai/jobs/info/68ca4a8e5f9f0336447db36c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newport Beach, CA | On Site | Sep 16 |
 | **[Seattle Sustainable Landscapes](https://www.seattlelandscapes.com/)** | **[Landscape Designer](https://jobright.ai/jobs/info/68ca3b0fd4187c55157a8838?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Sep 16 |
 | **[Target](https://www.target.com)** | **[Associate Designer, A New Day Knits and Sweaters](https://jobright.ai/jobs/info/68ca2620d4187c55157a6a80?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | Hybrid | Sep 16 |
@@ -123,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[WPP Unite](www.wpp.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/68c9c2fcf9c6ff7aedf1d7a3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 16 |
 | **[The University of Kansas](https://www.lsi.ku.edu)** | **[Graphic Designer](https://jobright.ai/jobs/info/68cac639d905e25191d9c21e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lawrence, KS | Hybrid | Sep 16 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Graphic Designer](https://jobright.ai/jobs/info/68c9bbe5a0c52d598ea3a96a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Topeka Metropolitan Area | Hybrid | Sep 16 |
-| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Production Artist (Temporary)](https://jobright.ai/jobs/info/68c9b4c4a0c52d598ea3a417?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, USA | On Site | Sep 16 |
-| ↳ | **[Studio Artist (Temporary)](https://jobright.ai/jobs/info/68c9b4c4a0c52d598ea3a418?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, USA | On Site | Sep 16 |
+| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Studio Artist (Temporary)](https://jobright.ai/jobs/info/68c9b4c4a0c52d598ea3a418?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, USA | On Site | Sep 16 |
+| ↳ | **[Production Artist (Temporary)](https://jobright.ai/jobs/info/68c9b4c4a0c52d598ea3a417?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, USA | On Site | Sep 16 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Studio Artist (Temporary)](https://jobright.ai/jobs/info/68c9b4acf9c6ff7aedf1c95a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, USA | On Site | Sep 16 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Product Designer I (Remote)](https://jobright.ai/jobs/info/68c9b398a0c52d598ea3a1cc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rhode Island, United States | Remote | Sep 16 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Production Artist (Temporary)](https://jobright.ai/jobs/info/68c9b2e895f5211cd2cf3106?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, USA | On Site | Sep 16 |
@@ -261,10 +269,10 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Shop - Creative Designer](https://jobright.ai/jobs/info/68c333a15adaee6c9bda836f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Sep 11 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68c32d285adaee6c9bda7f45?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Eagle, ID | On Site | Sep 11 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68c32c9463829b0a8a5007f7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenville, SC | On Site | Sep 11 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/68c32a555adaee6c9bda7d06?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Grand Rapids, MI | On Site | Sep 11 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68c329f663829b0a8a5005f2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Owings Mills, MD | On Site | Sep 11 |
 | **[CB2](https://cb2.com)** | **[Designer](https://jobright.ai/jobs/info/68c3253e5adaee6c9bda79fc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | On Site | Sep 11 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Product Designer, New Grad - Developer Experience](https://jobright.ai/jobs/info/68c88790f9c6ff7aedf0fb90?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 11 |
-| **[Steve Madden](http://www.stevemadden.com)** | **[Associate Graphic Designer - Dolce Vita Footwear](https://jobright.ai/jobs/info/68c88b92f9c6ff7aedf10193?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 11 |
 | **[Team Velocity](http://www.teamvelocitymarketing.com)** | **[Creative Production Designer](https://jobright.ai/jobs/info/68c31e1d5001f8077bf61225?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote, Continental U.S., VA | Remote | Sep 11 |
 | **[Tommy Bahama](http://www.tommybahama.com)** | **[Assistant Designer](https://jobright.ai/jobs/info/68c35d7cb8c22d3828471466?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Corporate - Seattle,WA | On Site | Sep 11 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Associate Graphic Designer - Dolce Vita Footwear](https://jobright.ai/jobs/info/68c303635001f8077bf6025e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 11 |
@@ -275,5 +283,4 @@ For a complete list, click the following sortable link below:
 | **[Akima](https://www.akima.com)** | **[Digital Print Specialist](https://jobright.ai/jobs/info/68c2b6785001f8077bf5d5d1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | District of Columbia, United States | On Site | Sep 11 |
 | **[Beckman Coulter Diagnostics](http://www.beckmancoulter.com)** | **[Analyst I, Technical Documentation (Labeling, Packaging)](https://jobright.ai/jobs/info/688aa987aab47a17f670a812?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chaska, MN | On Site | Sep 11 |
 | **[MJH Life Sciences®](https://www.mjhlifesciences.com/)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/68899713aab47a17f6702eaf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kansas City, MO | Hybrid | Sep 11 |
-| **[Golden Touch](https://gtimports.net)** | **[Fashion Graphic Designer – Juniors Apparel](https://jobright.ai/jobs/info/68ca65ae06a34016008c82d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
