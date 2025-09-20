@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HOK](http://www.hok.com/)** | **[Interior Design Professional](https://jobright.ai/jobs/info/68b0d16c2d46f6396cae8c8e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | Hybrid | Sep 20 |
+| **[EA SPORTS](http://www.EASports.com)** | **[Associate Experience Designer](https://jobright.ai/jobs/info/68cecaf2dbd9fb154ede2d31?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orlando, FL | On Site | Sep 20 |
+| **[City of New York](http://www1.nyc.gov)** | **[GRAPHIC ARTIST](https://jobright.ai/jobs/info/68ceb8f0846f0b04af67c7ff?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | All, MO | On Site | Sep 20 |
+| **[HOK](http://www.hok.com/)** | **[Interior Design Professional](https://jobright.ai/jobs/info/68cec750fb49c96ca6ea3689?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | Hybrid | Sep 20 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Digital Print Specialist](https://jobright.ai/jobs/info/68ce9fd6846f0b04af67b977?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Passaic, NJ | On Site | Sep 20 |
 | **[Old Navy](http://www.oldnavy.com)** | **[Associate Designer, Girls Apparel](https://jobright.ai/jobs/info/68ce9fce846f0b04af67b96e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Sep 20 |
 | **[Meta](https://www.meta.com)** | **[2D/UI Artist / Wearables Product Creative](https://jobright.ai/jobs/info/68ce922fdbd9fb154ede0f0e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 20 |
@@ -254,8 +256,8 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[UI/UX Human Factor Developer, Junior](https://jobright.ai/jobs/info/68cb6196ba798c1a501cf054?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Arlington, TX | Hybrid | Sep 16 |
 | **[Serena & Lily](http://www.serenaandlily.com)** | **[Design Advisor](https://jobright.ai/jobs/info/6856e709974ffa1db3328b8a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Sep 16 |
 | **[Armstrong World Industries](https://www.armstrongceilings.com)** | **[CAD Designer Job](https://jobright.ai/jobs/info/68cbb162efdec76df36c131b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Carson, CA | On Site | Sep 16 |
-| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Production Artist (Temporary)](https://jobright.ai/jobs/info/68c9b4c4a0c52d598ea3a417?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, USA | On Site | Sep 16 |
-| ↳ | **[Studio Artist (Temporary)](https://jobright.ai/jobs/info/68c9b4c4a0c52d598ea3a418?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, USA | On Site | Sep 16 |
+| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Studio Artist (Temporary)](https://jobright.ai/jobs/info/68c9b4c4a0c52d598ea3a418?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, USA | On Site | Sep 16 |
+| ↳ | **[Production Artist (Temporary)](https://jobright.ai/jobs/info/68c9b4c4a0c52d598ea3a417?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, USA | On Site | Sep 16 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Studio Artist (Temporary)](https://jobright.ai/jobs/info/68c9b4acf9c6ff7aedf1c95a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, USA | On Site | Sep 16 |
 | ↳ | **[Production Artist (Temporary)](https://jobright.ai/jobs/info/68c9b2e895f5211cd2cf3106?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, USA | On Site | Sep 16 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Social Graphic Designer (Part-Time)](https://jobright.ai/jobs/info/68c9b221f9c6ff7aedf1c79e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, IN | Hybrid | Sep 16 |
