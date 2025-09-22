@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Destination Bryan](https://www.destinationbryan.com)** | **[Creative Services Coordinator](https://jobright.ai/jobs/info/68d1c1368c62e63bc7fcf603?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bryan, TX | On Site | Sep 22 |
 | **[City of Norfolk, VA](https://www.norfolk.gov)** | **[Multimedia Communications Specialist I](https://jobright.ai/jobs/info/68d1a26fcece431f8b586476?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Norfolk, VA | Hybrid | Sep 22 |
 | **[Blueprint Capital](http://blueprintcap.com)** | **[Architectural Designer](https://jobright.ai/jobs/info/68d18dc4cece431f8b585244?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Sep 22 |
 | **[Amerex Group LLC](http://www.amerexgroup.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/68d18254fa731f61692dfcd5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 22 |
@@ -127,7 +128,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Designer I (Remote)](https://jobright.ai/jobs/info/68cea073846f0b04af67ba26?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mississippi, United States | Remote | Sep 19 |
 | **[Studio Munroe, Inc](https://www.studiomunroe.com/)** | **[Interior Design Studio Assistant](https://jobright.ai/jobs/info/68cdaf22e23def7af55bdf93?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Sep 19 |
 | **[Microsoft](https://www.microsoft.com)** | **[UX Researcher II](https://jobright.ai/jobs/info/68cdaa401ad6b16f0289d7dc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Redmond, Washington, United States | Hybrid | Sep 19 |
-| **[BCM Controls Corporation](http://bcmcontrols.com)** | **[Graphics Specialist](https://jobright.ai/jobs/info/68ccd9ca5954791a1d6ffc48?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Woburn, MA | On Site | Sep 19 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Assistant Director, Athletics Graphic Design & Branding](https://jobright.ai/jobs/info/68cda757b2a74e1837eda5d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Auburn, AL | On Site | Sep 19 |
 | **[Invisible Technologies](https://www.invisible.co/)** | **[Character Artist Specialist – AI Trainer](https://jobright.ai/jobs/info/68cda5161ad6b16f0289cb26?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | World Wide - Remote | Remote | Sep 19 |
 | **[POS Professional Office Services, Inc.](https://www.poscorp.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/68cdb8631ad6b16f0289e365?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Waterloo, IA | On Site | Sep 19 |
@@ -250,7 +250,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[UXO Tech I](https://jobright.ai/jobs/info/68cb91f79e3a822f5d248579?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, OH | Remote | Sep 17 |
 | **[Crate and Barrel](http://crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/68cb2a63ba798c1a501ccb3d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burlington, MA | On Site | Sep 17 |
 | **[Macy's](http://www.macysjobs.com)** | **[Assistant Designer - Epic Threads Kids](https://jobright.ai/jobs/info/68cb0796d905e25191d9e8bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Hybrid | Sep 17 |
-| **[Gensler](http://www.gensler.com)** | **[Technical Designer – Junior](https://jobright.ai/jobs/info/68d1a9aba54edb3bf3e14930?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newport Beach, CA | On Site | Sep 17 |
 | **[AECOM](http://www.aecom.com/)** | **[UXO Tech I](https://jobright.ai/jobs/info/68cb7515ba798c1a501cff32?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | Remote | Sep 17 |
 | **[Minuteman Press](https://www.minutemanpress.com/)** | **[Graphic Designer / Production Assistant](https://jobright.ai/jobs/info/68cb07b5d905e25191d9e913?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fayetteville, GA | On Site | Sep 17 |
 | **[O'Connell Electric Company](http://oconnellelectric.com)** | **[3D Animation and Graphic Designer](https://jobright.ai/jobs/info/68b8eaf3ea901c0d269fac8e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, NY | On Site | Sep 17 |
