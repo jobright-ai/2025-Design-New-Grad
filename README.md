@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Junior Designer](https://jobright.ai/jobs/info/68d25b5ba54edb3bf3e1dbde?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Floyds Knobs, IN | On Site | Sep 23 |
+| **[Print Magazine](http://www.printmag.com)** | **[Junior Designer](https://jobright.ai/jobs/info/68d25bd417554c2d9eee7341?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Floyds Knobs, IN | On Site | Sep 22 |
 | **[The UPS Store](http://www.theupsstore.com)** | **[Graphic Designer & Printing](https://jobright.ai/jobs/info/68d226d817554c2d9eee4c34?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Snellville, GA | On Site | Sep 22 |
 | **[Insulet Corporation](https://www.insulet.com)** | **[Associate Motion/Production Designer, Instructional Design (Hybrid) Acton, Mass. or San Diego, CA](https://jobright.ai/jobs/info/68d1fd58a54edb3bf3e188af?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Acton, MA | Hybrid | Sep 22 |
 | ↳ | **[Associate Motion/Production Designer, Instructional Design (Hybrid) Acton, Mass. or San Diego, CA](https://jobright.ai/jobs/info/68d1fcc517554c2d9eee1f71?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | Hybrid | Sep 22 |
@@ -75,7 +77,9 @@ For a complete list, click the following sortable link below:
 | **[ARC Document Solutions](http://www.e-arc.com/)** | **[Color Specialist](https://jobright.ai/jobs/info/68c2916b03b99f6b342962d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | On Site | Sep 22 |
 | ↳ | **[Color Specialist](https://jobright.ai/jobs/info/68c35b9580e77b1fa6fc88f8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Metairie, LA | On Site | Sep 22 |
 | **[Amerex Group LLC](http://www.amerexgroup.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/68d18254fa731f61692dfcd5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 22 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3bb3764c3d7411c3c8ca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hilliard, OH | On Site | Sep 22 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3dc52097a271a898e219?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pensacola, FL | On Site | Sep 22 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/687d41372097a271a898e29a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Colorado Springs, CO | On Site | Sep 22 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/687d3bb3764c3d7411c3c8ca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hilliard, OH | On Site | Sep 22 |
 | **[Jerry Pate Design, Inc.](http://jerrypatedesign.com)** | **[Landscape Architect - Design Associate (0-3yr exp)](https://jobright.ai/jobs/info/68d15f89cece431f8b583263?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pensacola, FL | On Site | Sep 22 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cf31f9fb49c96ca6ea64eb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boynton Beach, FL | On Site | Sep 22 |
 | **[Frontier Bank](https://www.frontierbankoftexas.bank)** | **[Graphics Designer](https://jobright.ai/jobs/info/68d149ecfa731f61692ddb8a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | On Site | Sep 22 |
@@ -285,7 +289,6 @@ For a complete list, click the following sortable link below:
 | **[PREZENTIUM](https://prezentium.com/)** | **[Presentation Specialist](https://jobright.ai/jobs/info/68cea7d5fb49c96ca6ea2b18?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Sep 17 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Product Designer I (Remote)](https://jobright.ai/jobs/info/68d14c168c62e63bc7fca2fb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kentucky, United States | Remote | Sep 17 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Graphic Designer](https://jobright.ai/jobs/info/68cff804fb49c96ca6eacfba?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Topeka Metropolitan Area | Hybrid | Sep 17 |
-| **[Tanooki Labs](http://tanookilabs.com)** | **[Freelance Creative Designer](https://jobright.ai/jobs/info/68cb3850efdec76df36ba3c0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Sep 17 |
 | **[Neiman Marcus](https://www.neimanmarcusgroup.com)** | **[Personal Styling Assistant - San Francisco](https://jobright.ai/jobs/info/689170a5f47efe21139553ab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Sep 17 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Product Designer I (Remote)](https://jobright.ai/jobs/info/68cfe363846f0b04af685e4f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indiana, United States | Remote | Sep 17 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architect, Higher Education](https://jobright.ai/jobs/info/68770bc0299cbc74b8762e18?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Riverside, CA | Hybrid | Sep 17 |
@@ -320,10 +323,4 @@ For a complete list, click the following sortable link below:
 | **[Precision AQ](http://www.precisionaq.com)** | **[Studio Artist (Temporary)](https://jobright.ai/jobs/info/68c9b4acf9c6ff7aedf1c95a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, USA | On Site | Sep 16 |
 | ↳ | **[Production Artist (Temporary)](https://jobright.ai/jobs/info/68c9b2e895f5211cd2cf3106?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, USA | On Site | Sep 16 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Social Graphic Designer (Part-Time)](https://jobright.ai/jobs/info/68c9b221f9c6ff7aedf1c79e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, IN | Hybrid | Sep 16 |
-| **[QUES](https://www.ques.com/)** | **[CAD Designer](https://jobright.ai/jobs/info/68cc676c7342c7623ae64565?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Upland, CA | On Site | Sep 16 |
-| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Production Artist (Temporary)](https://jobright.ai/jobs/info/68c9a764a0c52d598ea39927?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Sep 16 |
-| **[Precision AQ](http://www.precisionaq.com)** | **[Studio Artist (Temporary)](https://jobright.ai/jobs/info/68c9a68195f5211cd2cf289f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Sep 16 |
-| ↳ | **[Production Artist (Temporary)](https://jobright.ai/jobs/info/68c9a680a0c52d598ea397a1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Sep 16 |
-| **[CrowdStrike](http://www.crowdstrike.com)** | **[Product Designer I (Remote)](https://jobright.ai/jobs/info/68d1990117554c2d9eedd2fb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Iowa, United States | Remote | Sep 16 |
-| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Studio Artist (Temporary)](https://jobright.ai/jobs/info/68c9a09ca0c52d598ea3925b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
