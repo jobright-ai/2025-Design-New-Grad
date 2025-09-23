@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salesforce](https://www.salesforce.com)** | **[Associate UI/UX Designer](https://jobright.ai/jobs/info/68d2bbc717554c2d9eee9518?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Sep 23 |
+| ↳ | **[Associate UI/UX Designer](https://jobright.ai/jobs/info/68d2b3638c62e63bc7fd9066?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Illinois - Chicago | Hybrid | Sep 23 |
+| ↳ | **[Associate UI/UX Designer](https://jobright.ai/jobs/info/68d2afdd17554c2d9eee8dcc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Sep 23 |
+| **[Visionist, Inc.](https://www.visionistinc.com)** | **[Junior UX Designer](https://jobright.ai/jobs/info/68d2ac02f0d9af73038da0f6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbia, MD | On Site | Sep 23 |
 | **[Revel Group](https://www.linkedin.com/company/103331994)** | **[Production Designer](https://jobright.ai/jobs/info/68d2a477f0d9af73038d9eef?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Knoxville, TN | On Site | Sep 23 |
+| **[Paradigm](http://www.paradigmcorp.com/)** | **[Digital Printing Specialist - 2nd Shift](https://jobright.ai/jobs/info/68d2b25617554c2d9eee8f89?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Virginia Beach, VA | On Site | Sep 23 |
 | **[Frontier Bank](https://www.frontierbankoftexas.bank)** | **[Graphic Designer](https://jobright.ai/jobs/info/68d28af58c62e63bc7fd81f0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | On Site | Sep 23 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Junior Designer](https://jobright.ai/jobs/info/68d25b5ba54edb3bf3e1dbde?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Floyds Knobs, IN | On Site | Sep 23 |
 | **[Print Magazine](http://www.printmag.com)** | **[Junior Designer](https://jobright.ai/jobs/info/68d25bd417554c2d9eee7341?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Floyds Knobs, IN | On Site | Sep 22 |
@@ -73,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Screen Pilot](http://www.screenpilot.com)** | **[Digital Production Artist](https://jobright.ai/jobs/info/68d1da0ca54edb3bf3e16a10?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | Hybrid | Sep 22 |
 | **[Newsweek](http://www.newsweek.com)** | **[Freelance Homepage Producer](https://jobright.ai/jobs/info/68d1d696a54edb3bf3e169a7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote, United States | Remote | Sep 22 |
 | ↳ | **[Freelance Homepage Producer](https://jobright.ai/jobs/info/68d237248c62e63bc7fd583c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 22 |
+| **[Destination Bryan](https://www.destinationbryan.com)** | **[Creative Services Coordinator](https://jobright.ai/jobs/info/68d2b1ec8c62e63bc7fd8e7d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bryan, TX | On Site | Sep 22 |
 | **[City of Norfolk, VA](https://www.norfolk.gov)** | **[Multimedia Communications Specialist I](https://jobright.ai/jobs/info/68d1a26fcece431f8b586476?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Norfolk, VA | Hybrid | Sep 22 |
 | **[TORY BURCH](http://toryburch.com)** | **[Assistant, Design Operations, HBs & SLGs](https://jobright.ai/jobs/info/68cfd0d5fb49c96ca6eabb72?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 22 |
 | **[Blueprint Capital](http://blueprintcap.com)** | **[Architectural Designer](https://jobright.ai/jobs/info/68d18dc4cece431f8b585244?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Sep 22 |
@@ -81,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Amerex Group LLC](http://www.amerexgroup.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/68d18254fa731f61692dfcd5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 22 |
 | **[Kee Group Marketing](https://keegroupmarketing.com/)** | **[Part-Time Web and Graphic Designer](https://jobright.ai/jobs/info/68d29d3617554c2d9eee885a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Sep 22 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3dc52097a271a898e219?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pensacola, FL | On Site | Sep 22 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/687d3f1bed63844c944b2373?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Sep 22 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687e18cb764c3d7411c41668?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lewis Center, OH | On Site | Sep 22 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d41372097a271a898e29a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Colorado Springs, CO | On Site | Sep 22 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3bb3764c3d7411c3c8ca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hilliard, OH | On Site | Sep 22 |
@@ -95,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[WebFX](https://www.webfx.com)** | **[Jr. Web Design Project Coordinator](https://jobright.ai/jobs/info/67eec162357dc4681d864204?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Harrisburg, PA | On Site | Sep 21 |
 | **[West Elm](https://www.westelm.com/)** | **[Visual Associate, Seasonal Flex Only, South Coast Plaza - West Elm](https://jobright.ai/jobs/info/6898493afaa4e875e824d0a3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Costa Mesa, CA | On Site | Sep 21 |
 | **[Crate and Barrel](http://crateandbarrel.com)** | **[Associate Designer, Digital & Paid Media](https://jobright.ai/jobs/info/68ccd78677add66568aba197?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Northbrook, IL | Hybrid | Sep 20 |
-| **[Akima Infrastructure Services](http://akimainfrasvcs.com)** | **[Digital Print Specialist with Security Clearance](https://jobright.ai/jobs/info/68d228e28c62e63bc7fd4efb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | On Site | Sep 20 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/683fa097a3e0f4aba2e04cd5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bellevue, WA | Hybrid | Sep 20 |
 | **[WGN-TV](https://wgntv.com/)** | **[Graphic Artist](https://jobright.ai/jobs/info/68cd6474b2a74e1837ed66d2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Sep 20 |
 | **[LOFT](http://anninc.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/68cf2fe3846f0b04af67fb2e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | On Site | Sep 20 |
