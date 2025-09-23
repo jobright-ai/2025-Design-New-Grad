@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Freeman Company](https://www.freeman.com/)** | **[Production Designer](https://jobright.ai/jobs/info/68d1f6eb17554c2d9eee1bbd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orlando, FL | Hybrid | Sep 22 |
+| **[Insulet Corporation](https://www.insulet.com)** | **[Associate Motion/Production Designer, Instructional Design (Hybrid) Acton, Mass. or San Diego, CA  ](https://jobright.ai/jobs/info/68d1f03aa54edb3bf3e17d1c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, California | Hybrid | Sep 22 |
+| ↳ | **[Associate Motion/Production Designer, Instructional Design (Hybrid) Acton, Mass. or San Diego, CA  ](https://jobright.ai/jobs/info/68d1eec217554c2d9eee130f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Acton, Massachusetts | Hybrid | Sep 22 |
+| **[xAI](https://x.ai)** | **[Web Design Tutor](https://jobright.ai/jobs/info/68c5f41c7d0db41142735639?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Palo Alto, CA & Remote | Remote | Sep 22 |
 | **[Broadridge](http://www.broadridge.com)** | **[Print Coordinator (Night Shift - On-Site)](https://jobright.ai/jobs/info/68d1e4a58c62e63bc7fd0bad?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Coppell, TX | On Site | Sep 22 |
 | **[Screen Pilot](http://www.screenpilot.com)** | **[Digital Production Artist](https://jobright.ai/jobs/info/68d1da0ca54edb3bf3e16a10?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | Hybrid | Sep 22 |
 | **[Newsweek](http://www.newsweek.com)** | **[Freelance Homepage Producer](https://jobright.ai/jobs/info/68d1d696a54edb3bf3e169a7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote, United States | Remote | Sep 22 |
-| **[Destination Bryan](https://www.destinationbryan.com)** | **[Creative Services Coordinator](https://jobright.ai/jobs/info/68d1c1368c62e63bc7fcf603?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bryan, TX | On Site | Sep 22 |
 | **[City of Norfolk, VA](https://www.norfolk.gov)** | **[Multimedia Communications Specialist I](https://jobright.ai/jobs/info/68d1a26fcece431f8b586476?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Norfolk, VA | Hybrid | Sep 22 |
 | **[Blueprint Capital](http://blueprintcap.com)** | **[Architectural Designer](https://jobright.ai/jobs/info/68d18dc4cece431f8b585244?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Sep 22 |
 | **[ARC Document Solutions](http://www.e-arc.com/)** | **[Color Specialist](https://jobright.ai/jobs/info/68c2916b03b99f6b342962d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | On Site | Sep 22 |
@@ -324,6 +327,4 @@ For a complete list, click the following sortable link below:
 | **[Auburn University](https://www.auburn.edu/)** | **[TES Multimedia Specialist](https://jobright.ai/jobs/info/68c3741980e77b1fa6fc9563?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Auburn, AL | On Site | Sep 16 |
 | **[Supreme Color Graphics LLC](https://supremecolor.com)** | **[Pre Press Graphic Designer](https://jobright.ai/jobs/info/68cc042d16d00d2beeb1812a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mandeville, LA 70471 | On Site | Sep 16 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Designer - Entry Level](https://jobright.ai/jobs/info/68ce9908846f0b04af67b6c8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Sep 16 |
-| **[FASTSIGNS®](https://www.fastsigns.com/)** | **[FastSigns is hiring: Graphic Designer/Production Team Member in Washington](https://jobright.ai/jobs/info/68c95e14f9c6ff7aedf192bd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | On Site | Sep 16 |
-| **[TORY BURCH](http://toryburch.com)** | **[Assistant, Design Operations, HBs & SLGs](https://jobright.ai/jobs/info/68cfd0d5fb49c96ca6eabb72?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
