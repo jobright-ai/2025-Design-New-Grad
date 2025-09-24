@@ -235,7 +235,6 @@ For a complete list, click the following sortable link below:
 | **[Wasserman](http://www.teamwass.com)** | **[Associate Manager, Creative Resource](https://jobright.ai/jobs/info/68cc674c7342c7623ae64535?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | Hybrid | Sep 18 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cf1143dbd9fb154ede4e04?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Garden City, NY | On Site | Sep 18 |
 | **[J.Crew Factory](https://www.jcrewfactory.com)** | **[Assistant Designer - J.Crew Factory Crewcuts Girls](https://jobright.ai/jobs/info/68cc621816d00d2beeb1e97c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, USA (Headquarters) | Hybrid | Sep 18 |
-| ↳ | **[Assistant Designer - J.Crew Factory Crewcuts Girls](https://jobright.ai/jobs/info/68cc5b5f16d00d2beeb1dd66?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Sep 18 |
 | **[AECOM](http://www.aecom.com/)** | **[UXO Tech I](https://jobright.ai/jobs/info/68cce0d877add66568abb2a3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Sep 18 |
 | **[SKIMS](https://skims.com)** | **[Design Assistant - Lounge and Sleep](https://jobright.ai/jobs/info/68afc83ce723db6c9b7b3666?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | LA Metro Area | On Site | Sep 18 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cc851d7342c7623ae66147?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mooresville, NC | On Site | Sep 18 |
@@ -251,6 +250,7 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68af5fb82daaba398441db7a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lutz, FL | On Site | Sep 18 |
 | **[Justrite Safety Group](https://www.justrite.com)** | **[Production Artist](https://jobright.ai/jobs/info/68af510b1f0a2a568a060766?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooksville, FL | Hybrid | Sep 18 |
 | **[Insulet Corporation](https://www.insulet.com)** | **[Website Content Specialist (Hybrid)](https://jobright.ai/jobs/info/68ae1415758f2e4ac301117c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Acton, MA | Hybrid | Sep 18 |
+| **[The Ohio State University](http://www.osu.edu/)** | **[Graphic Designer](https://jobright.ai/jobs/info/68d3e24f5ae5a90cfd481f9a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, OH | On Site | Sep 18 |
 | **[Meta](https://www.meta.com)** | **[Postdoctoral Researcher, Perceptual Graphics (PhD)](https://jobright.ai/jobs/info/68cfde77fb49c96ca6eac185?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Redmond, WA | On Site | Sep 18 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Designer, Social Media](https://jobright.ai/jobs/info/68afad7cf20641371441f73b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 18 |
 | **[AECOM](http://www.aecom.com/)** | **[UXO Tech I](https://jobright.ai/jobs/info/68cbfcdd7342c7623ae5cf4d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | Remote | Sep 18 |
@@ -286,28 +286,4 @@ For a complete list, click the following sortable link below:
 | **[Coalition, Inc.](https://www.coalitioninc.com)** | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/68cb4b6f9e3a822f5d244a16?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Sep 17 |
 | ↳ | **[WEB DESIGNER](https://jobright.ai/jobs/info/68cb43baba798c1a501cdb94?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA | Remote | Sep 17 |
 | ↳ | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/68cb43ecefdec76df36bab90?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Sep 17 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cb18619e3a822f5d242631?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, WA | On Site | Sep 17 |
-| **[Central California Blood Center](https://www.donateblood.org)** | **[Graphic Designer](https://jobright.ai/jobs/info/68cb3294efdec76df36ba130?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fresno, CA | On Site | Sep 17 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cc80f316d00d2beeb20b06?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dearborn, MI | On Site | Sep 17 |
-| **[AECOM](http://www.aecom.com/)** | **[UXO Tech I](https://jobright.ai/jobs/info/68cb1328d905e25191d9f712?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | Remote | Sep 17 |
-| ↳ | **[UXO Tech I](https://jobright.ai/jobs/info/68cc654f16d00d2beeb1f05e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, IN | Remote | Sep 17 |
-| ↳ | **[UXO Tech I](https://jobright.ai/jobs/info/68cb11abd905e25191d9f491?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Philadelphia, PA | Remote | Sep 17 |
-| ↳ | **[UXO Tech I](https://jobright.ai/jobs/info/68cb119ad905e25191d9f466?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | Remote | Sep 17 |
-| ↳ | **[UXO Tech I](https://jobright.ai/jobs/info/68cb112fefdec76df36b862f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kansas City, MO | Remote | Sep 17 |
-| ↳ | **[UXO Tech I](https://jobright.ai/jobs/info/68cb10d6efdec76df36b8595?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Remote | Sep 17 |
-| ↳ | **[UXO Tech I](https://jobright.ai/jobs/info/68cb101aefdec76df36b846c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Remote | Sep 17 |
-| ↳ | **[UXO Tech I](https://jobright.ai/jobs/info/68cbabcdba798c1a501d3aad?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Omaha, NE | Remote | Sep 17 |
-| ↳ | **[UXO Tech I](https://jobright.ai/jobs/info/68cb0fb0efdec76df36b83f5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Milwaukee, WI | Remote | Sep 17 |
-| ↳ | **[UXO Tech I](https://jobright.ai/jobs/info/68cb0f3eefdec76df36b836a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Miami, FL | Remote | Sep 17 |
-| ↳ | **[UXO Tech I](https://jobright.ai/jobs/info/68cb0eec9e3a822f5d241d7b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | Remote | Sep 17 |
-| ↳ | **[UXO Tech I](https://jobright.ai/jobs/info/68cb0ece9e3a822f5d241d41?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | Remote | Sep 17 |
-| ↳ | **[UXO Tech I](https://jobright.ai/jobs/info/68cbebfa16d00d2beeb16cc3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Salt Lake City, UT | Remote | Sep 17 |
-| ↳ | **[UXO Tech I](https://jobright.ai/jobs/info/68cb0e82efdec76df36b823a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Michigan, United States | Remote | Sep 17 |
-| ↳ | **[UXO Tech I](https://jobright.ai/jobs/info/68cb0d9f9e3a822f5d241aab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jacksonville, FL | Remote | Sep 17 |
-| ↳ | **[UXO Tech I](https://jobright.ai/jobs/info/68cb0d559e3a822f5d2419ac?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | Remote | Sep 17 |
-| ↳ | **[UXO Tech I](https://jobright.ai/jobs/info/68cb0d539e3a822f5d241999?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Phoenix, AZ | Remote | Sep 17 |
-| ↳ | **[UXO Tech I](https://jobright.ai/jobs/info/68cb91f79e3a822f5d248579?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, OH | Remote | Sep 17 |
-| **[Crate and Barrel](http://crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/68cb2a63ba798c1a501ccb3d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burlington, MA | On Site | Sep 17 |
-| **[Macy's](http://www.macysjobs.com)** | **[Assistant Designer - Epic Threads Kids](https://jobright.ai/jobs/info/68cb0796d905e25191d9e8bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Hybrid | Sep 17 |
-| **[AECOM](http://www.aecom.com/)** | **[UXO Tech I](https://jobright.ai/jobs/info/68cb7515ba798c1a501cff32?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | Remote | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
