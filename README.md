@@ -252,7 +252,4 @@ For a complete list, click the following sortable link below:
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/68cd2a221ad6b16f02895eb2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | McLean, VA | Hybrid | Sep 19 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architect, Higher Education](https://jobright.ai/jobs/info/68771be1ae2f413e4a5b6b42?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Sep 19 |
 | **[FASTSIGNS®](https://www.fastsigns.com/)** | **[Graphic Designer/Production Team Member](https://jobright.ai/jobs/info/68ccfba077add66568abd007?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC 20018 | On Site | Sep 18 |
-| **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Mission Viejo - Pottery Barn](https://jobright.ai/jobs/info/6893e229f47efe21139679f1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mission Viejo, CA | On Site | Sep 18 |
-| **[Steinhafels Furniture](http://steinhafels.com)** | **[Interior Designer](https://jobright.ai/jobs/info/68cfaf12dbd9fb154edea25f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oak Creek, WI | On Site | Sep 18 |
-| **[HDR](http://www.hdrinc.com)** | **[Landscape Designer](https://jobright.ai/jobs/info/68d37fd88c62e63bc7fe21d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
