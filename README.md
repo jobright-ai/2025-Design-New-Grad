@@ -250,6 +250,4 @@ For a complete list, click the following sortable link below:
 | **[Free People](http://www.freepeople.com)** | **[FP Movement Assistant Visual Manager](https://jobright.ai/jobs/info/68ce94fefb49c96ca6ea1d2f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Manhattan Beach, CA | On Site | Sep 19 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Page Designer](https://jobright.ai/jobs/info/68b0eac713563e782a9fa55f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boulder, CO | On Site | Sep 19 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/68cd2a221ad6b16f02895eb2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | McLean, VA | Hybrid | Sep 19 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Architect, Higher Education](https://jobright.ai/jobs/info/68771be1ae2f413e4a5b6b42?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Sep 19 |
-| **[FASTSIGNS®](https://www.fastsigns.com/)** | **[Graphic Designer/Production Team Member](https://jobright.ai/jobs/info/68ccfba077add66568abd007?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC 20018 | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
