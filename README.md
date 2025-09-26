@@ -248,6 +248,4 @@ For a complete list, click the following sortable link below:
 | **[Brilliant.org](https://brilliant.org)** | **[Product Designer (Learning Interactives)](https://jobright.ai/jobs/info/68cd3ae8e23def7af55b70b4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC, SF, Remote | Remote | Sep 19 |
 | **[RR Donnelley](http://www.rrd.com)** | **[Graphic Designer (Presentations)](https://jobright.ai/jobs/info/683f9d8a1801444deab50ced?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wheeling, WV | Hybrid | Sep 19 |
 | **[Free People](http://www.freepeople.com)** | **[FP Movement Assistant Visual Manager](https://jobright.ai/jobs/info/68ce94fefb49c96ca6ea1d2f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Manhattan Beach, CA | On Site | Sep 19 |
-| **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Page Designer](https://jobright.ai/jobs/info/68b0eac713563e782a9fa55f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boulder, CO | On Site | Sep 19 |
-| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/68cd2a221ad6b16f02895eb2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | McLean, VA | Hybrid | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
