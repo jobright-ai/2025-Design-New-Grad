@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ethan Allen Global, Inc.](http://ethanallen.com)** | **[700 - Designers - RE-Design Consultant - (NE)](https://jobright.ai/jobs/info/68d893eb6c1d856b1b93ac40?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Natick, MA | On Site | Sep 27 |
+| **[Buck Mason](https://www.buckmason.com/)** | **[Junior Visual Merchandiser (Georgetown)](https://jobright.ai/jobs/info/689757ea1b9e81727f198bb0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Georgetown, D.C. | On Site | Sep 27 |
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Assistant Designer](https://jobright.ai/jobs/info/68d8586fc9952514e1e94d83?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Egg Harbor, NJ | Hybrid | Sep 27 |
+| **[Shure Incorporated](http://www.shure.com)** | **[Specialist, Creative Services (Video)](https://jobright.ai/jobs/info/68cff7befb49c96ca6eacf43?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Niles, IL | Hybrid | Sep 27 |
 | **[Disney Advertising](https://www.disneyadvertising.com)** | **[Jr. Designer, Creative Studios](https://jobright.ai/jobs/info/68d7f29c295f8e37655e43a0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Sep 27 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Flex Female Model - Los Angeles Photo Studio](https://jobright.ai/jobs/info/689f52ef79a9f96662556020?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Sep 27 |
 | **[Under Armour](http://underarmour.com)** | **[Associate Apparel Designer, Golf](https://jobright.ai/jobs/info/68c28958b535a221b153b8e3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baltimore, MD | Hybrid | Sep 27 |
@@ -301,7 +304,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3bb3764c3d7411c3c8ca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hilliard, OH | On Site | Sep 22 |
 | **[Jerry Pate Design, Inc.](http://jerrypatedesign.com)** | **[Landscape Architect - Design Associate (0-3yr exp)](https://jobright.ai/jobs/info/68d15f89cece431f8b583263?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pensacola, FL | On Site | Sep 22 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cf31f9fb49c96ca6ea64eb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boynton Beach, FL | On Site | Sep 22 |
-| **[Music Jobs US ](https://www.music-jobs.com/usa/)** | **[Lighting Design Fellow](https://jobright.ai/jobs/info/68d7574d295f8e37655d53dc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 22 |
 | **[Music Jobs US ](https://www.music-jobs.com/usa/)** | **[Lighting Design Fellow](https://jobright.ai/jobs/info/68d778257a37c712687ce7a3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 21 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/68092d3d29b816ffa014a11e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Sep 21 |
 | **[Mentra](https://Mentra.Glass)** | **[Design SMART GLASSES at Mentra - UI/UX Lead](https://jobright.ai/jobs/info/68d754ea61a175619f8c8861?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA, US | On Site | Sep 21 |
@@ -310,9 +312,4 @@ For a complete list, click the following sortable link below:
 | **[Rebag](http://www.rebag.com)** | **[Photo Production Assistant](https://jobright.ai/jobs/info/68d7712d7a37c712687cd373?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, New York | On Site | Sep 21 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Associate Graphic Designer - Dolce Vita Footwear](https://jobright.ai/jobs/info/68cfeaefdbd9fb154edebeb1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 21 |
 | **[Mentra](https://Mentra.Glass)** | **[Design SMART GLASSES at Mentra - UI/UX Lead (Mobile)](https://jobright.ai/jobs/info/68d77a53267b154f9a2d9cee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA, US | On Site | Sep 21 |
-| **[Meta](https://www.meta.com)** | **[2D/UI Artist / Wearables Product Creative](https://jobright.ai/jobs/info/68cfd7c5dbd9fb154edeb387?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burlingame, CA | On Site | Sep 21 |
-| **[HDR](http://www.hdrinc.com)** | **[Design Coordinator](https://jobright.ai/jobs/info/68cf506efb49c96ca6ea73ff?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Sep 21 |
-| **[Newsmax Media, Inc.](http://www.newsmax.com/)** | **[Graphics Operator](https://jobright.ai/jobs/info/683461817b219e1a8e9e4aca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 21 |
-| **[WebFX](https://www.webfx.com)** | **[Jr. Web Design Project Coordinator](https://jobright.ai/jobs/info/67eec162357dc4681d864204?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Harrisburg, PA | On Site | Sep 21 |
-| **[West Elm](https://www.westelm.com/)** | **[Visual Associate, Seasonal Flex Only, South Coast Plaza - West Elm](https://jobright.ai/jobs/info/6898493afaa4e875e824d0a3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Costa Mesa, CA | On Site | Sep 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
