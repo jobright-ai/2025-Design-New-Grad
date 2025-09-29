@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FASTSIGNS®](https://www.fastsigns.com/)** | **[Signs and Graphics Production/Installer](https://jobright.ai/jobs/info/68da57bd0b832179ca4ad4d0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Monrovia, CA | On Site | Sep 29 |
 | **[American Electric Power](http://aep.com)** | **[Designer Assc - Designer Sr](https://jobright.ai/jobs/info/68d4ef7b24b1ee4c7b6621e9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tulsa, OK | On Site | Sep 28 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Frontend Supervisor](https://jobright.ai/jobs/info/68d9e37d061b716fa295b024?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sandy, UT | On Site | Sep 28 |
-| ↳ | **[Retail Frontend Supervisor](https://jobright.ai/jobs/info/68d9b8ee9a8e451a446a52b5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sandy, UT 84070 | On Site | Sep 28 |
+| ↳ | **[Retail Frontend Supervisor](https://jobright.ai/jobs/info/68d9b9049a8e451a446a52e2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sandy, UT 84070 | On Site | Sep 28 |
 | **[Redrob by McKinley Rice](https://www.mckinleyrice.com/)** | **[LLM UI/UX Designer](https://jobright.ai/jobs/info/68d9b5059a8e451a446a528f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Sep 28 |
 | **[McBride Homes](http://mcbridehomes.com)** | **[Junior Architect](https://jobright.ai/jobs/info/68d99ed8022fc803b487785a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chesterfield, MO | On Site | Sep 28 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Flex Female Model - Downtown Seattle Photo Studio](https://jobright.ai/jobs/info/68d930fe9a8e451a446a45dd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Sep 28 |
@@ -70,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Macy's](http://www.macysjobs.com)** | **[Visual Support Captain, Promenade Bolingbrook - Full Time](https://jobright.ai/jobs/info/68d91581061b716fa2959e6a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 645 East Boughton Road, Bolingbrook, IL, 60440, US | On Site | Sep 28 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Coordinator, Interiors](https://jobright.ai/jobs/info/68cee4d9dbd9fb154ede3775?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Sep 28 |
 | **[Ethan Allen Global, Inc.](http://ethanallen.com)** | **[Retail Interior Design Consultant](https://jobright.ai/jobs/info/68d968c69a8e451a446a4a5b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lexington, KY | On Site | Sep 28 |
+| **[FASTSIGNS®](https://www.fastsigns.com/)** | **[SIGNWRITER](https://jobright.ai/jobs/info/68da3f0b6df7b8311bb0e2d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Heflin, LA | On Site | Sep 28 |
 | **[Adobe](http://www.adobe.com)** | **[2026 University Graduate - User Experience Researcher](https://jobright.ai/jobs/info/68da2c2e6df7b8311bb0cea1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, California, United States of America | On Site | Sep 27 |
 | ↳ | **[2026 University Graduate - Associate Experience Designer](https://jobright.ai/jobs/info/68d8b4deed09d95201eb6271?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Sep 27 |
 | ↳ | **[2026 University Graduate - Associate Experience Designer](https://jobright.ai/jobs/info/68d8acfbed09d95201eb5eae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose | On Site | Sep 27 |
@@ -182,6 +184,7 @@ For a complete list, click the following sortable link below:
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/68b8881407090163b6ba26af?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | Hybrid | Sep 25 |
 | **[J.Crew](http://www.jcrew.com)** | **[Assistant Designer - Men's Accessories and Footwear](https://jobright.ai/jobs/info/682b775978d503ae31391494?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Sep 25 |
 | **[RR Donnelley](http://www.rrd.com)** | **[Presentation Associate - 1st and 2nd Shifts](https://jobright.ai/jobs/info/68b7938a1ade4306aa64c23c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, OH | On Site | Sep 25 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687e19f9764c3d7411c416ed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sanford, FL | On Site | Sep 24 |
 | **[WestRock Company](http://www.westrock.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/68d8d88d061b716fa295862d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Carol Stream, IL | On Site | Sep 24 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3f90ed63844c944b23b6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toms River, NJ | On Site | Sep 24 |
 | **[ZEALOT](https://zealotinc.com)** | **[Junior Art Director - Print](https://jobright.ai/jobs/info/68d4ef5224b1ee4c7b66219e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Sep 24 |
@@ -240,6 +243,7 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cc7ec7128dc347fd925dfd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Memphis, TN | On Site | Sep 24 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3be6ed63844c944b2324?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ypsilanti, MI | On Site | Sep 24 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3bc2ed63844c944b2315?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hendersonville, TN | On Site | Sep 24 |
+| **[KTGY](http://ktgy.com)** | **[Designer - Architecture](https://jobright.ai/jobs/info/68da50fa07c157682e569cec?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | Hybrid | Sep 24 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3f51ed63844c944b238f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Carson, CA | On Site | Sep 23 |
 | **[Visionist, Inc.](https://www.visionistinc.com)** | **[Junior UX Designer](https://jobright.ai/jobs/info/68d6236bebcef82ef5cf6784?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbia, MD | On Site | Sep 23 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3f19764c3d7411c3c938?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Myers, FL | On Site | Sep 23 |
@@ -319,7 +323,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3eaced63844c944b2341?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Novi, MI | On Site | Sep 22 |
 | **[TORY BURCH](http://toryburch.com)** | **[Assistant, Design Operations, HBs & SLGs](https://jobright.ai/jobs/info/68cfd0d5fb49c96ca6eabb72?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 22 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3ed3764c3d7411c3c90d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sacramento, CA | On Site | Sep 22 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/687d3e3d2097a271a898e253?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fern Park, FL | On Site | Sep 22 |
-| **[Amerex Group LLC](http://www.amerexgroup.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/68d18254fa731f61692dfcd5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 22 |
-| **[American Electric Power](http://aep.com)** | **[Designer Assc - Designer Sr](https://jobright.ai/jobs/info/68d4ed93e678d65ec7d89566?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tulsa, OK | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
