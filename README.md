@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[U.S. Bank](http://www.usbank.com)** | **[2026 Experience Design Rotational Program](https://jobright.ai/jobs/info/68cc756d128dc347fd92552e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, MN | Hybrid | Oct 01 |
+| **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/68d62679894705799a2e7fbd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Silverdale, WA | Hybrid | Oct 01 |
+| ↳ | **[Visual Keyholder](https://jobright.ai/jobs/info/68b0f9836fab621da7b09010?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Paducah, KY | Hybrid | Oct 01 |
 | **[ARC Document Solutions](http://www.e-arc.com/)** | **[Color Specialist](https://jobright.ai/jobs/info/68c2916b03b99f6b342962d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | On Site | Sep 30 |
 | **[Amazon](https://amazon.com)** | **[Visual UX Designer, Fire TV](https://jobright.ai/jobs/info/68cc246d16d00d2beeb1a965?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Sep 30 |
 | **[Figma](https://www.figma.com)** | **[Early Career, Product Designer (2026)](https://jobright.ai/jobs/info/68cc27ee128dc347fd920318?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Creative Services Producer](https://jobright.ai/jobs/info/68bf34018e65e77df55b833c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Springfield, MO | Hybrid | Sep 30 |
+| **[The RealReal](http://www.therealreal.com)** | **[Photography Production Assistant](https://jobright.ai/jobs/info/68a1d2c4cc9ee94dc9123f3f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Perth Amboy, NJ | On Site | Sep 30 |
 | **[Figma](https://www.figma.com)** | **[Early Career, Product Designer (2026)](https://jobright.ai/jobs/info/68ccca40d99309000e5a3532?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Sep 30 |
 | **[PAR Western Line Contractors, LLC](http://www.parwlc.com)** | **[CAD Designer](https://jobright.ai/jobs/info/6813cfc0f5ef7dbf3b65c41e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Upland, CA | On Site | Sep 30 |
 | **[VML](https://www.vmlyr.com/)** | **[Art Director (Content Creator)](https://jobright.ai/jobs/info/68db6b2ae19b9e63ba20be6e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | On Site | Sep 29 |
@@ -153,7 +157,7 @@ For a complete list, click the following sortable link below:
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/68b9dc4e5f383274918616ca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Sep 26 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[AFL - Social Content Designer (Seasonal)](https://jobright.ai/jobs/info/6866c0d218861a21481fc6d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Phoenix, AZ | On Site | Sep 26 |
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[Creative Producer](https://jobright.ai/jobs/info/68c65a2c7d0db41142738dc8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 26 |
-| **[disney](http://radio.disney.com/)** | **[Jr. Designer, Creative Studios](https://jobright.ai/jobs/info/68d76ff661a175619f8cd48b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Sep 26 |
+| **[disney](https://family.disney.com/)** | **[Jr. Designer, Creative Studios](https://jobright.ai/jobs/info/68d76ff661a175619f8cd48b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Sep 26 |
 | **[JT4](https://www.jt4llc.com/)** | **[Tech Publishing I](https://jobright.ai/jobs/info/68d75747295f8e37655d53c2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Las Vegas, NV | On Site | Sep 26 |
 | **[Arcadis](http://www.arcadis.com)** | **[Architectural Designer - Retail](https://jobright.ai/jobs/info/68d7474bcb1d8e52c9766955?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Sep 26 |
 | **[Keywords Studios](http://www.keywordsstudios.com)** | **[Packaging Associate](https://jobright.ai/jobs/info/68d74eadf9dbe42bf62c1639?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, IN | Hybrid | Sep 26 |
@@ -183,7 +187,6 @@ For a complete list, click the following sortable link below:
 | **[alice + olivia](http://www.aliceandolivia.com)** | **[Visual Production Assistant](https://jobright.ai/jobs/info/68d60da263d77d6f6f3f4171?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 25 |
 | **[Corefact Corporation](http://corefact.com)** | **[Print Production Associate](https://jobright.ai/jobs/info/68d77b30295f8e37655db242?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Leandro, CA | On Site | Sep 25 |
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/68d626ce894705799a2e807b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | South Burlington, VT | Hybrid | Sep 25 |
-| ↳ | **[Visual Keyholder](https://jobright.ai/jobs/info/68d62679894705799a2e7fbd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Silverdale, WA | Hybrid | Sep 25 |
 | **[Gray Media](http://www.gray.tv)** | **[DESIGN SUPPORT COORDINATOR (REMOTE/USA) - GDM (GRAY MEDIA GROUP)](https://jobright.ai/jobs/info/68d603aa1f7fb2169ab15387?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | Remote | Sep 25 |
 | **[Gensler](http://www.gensler.com)** | **[Designer - Interiors - Junior](https://jobright.ai/jobs/info/68d614fd2116ff37ee092b2e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Sep 25 |
 | ↳ | **[Technical Designer - Workplace](https://jobright.ai/jobs/info/68d5ff741f7fb2169ab152bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Morristown, NJ | On Site | Sep 25 |
@@ -253,7 +256,7 @@ For a complete list, click the following sortable link below:
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Page Designer](https://jobright.ai/jobs/info/68b0eac713563e782a9fa55f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boulder, CO | On Site | Sep 24 |
 | **[Academy Museum of Motion Pictures](http://academymuseum.org)** | **[Specialist, Exhibition Design](https://jobright.ai/jobs/info/68d49ceffcd3367e8df162c2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | LA Metro Area | On Site | Sep 24 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68c8f198983e6768bc553d8a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Humble, TX | On Site | Sep 24 |
-| **[Electronic Arts (EA)](https://www.ea.com/)** | **[Associate Experience Designer - Visual](https://jobright.ai/jobs/info/68d481ef77769e778f5098cf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orlando, FL | On Site | Sep 24 |
+| **[Electronic Arts (EA)](https://www.ea.com)** | **[Associate Experience Designer - Visual](https://jobright.ai/jobs/info/68d481ef77769e778f5098cf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orlando, FL | On Site | Sep 24 |
 | **[Old Navy](http://www.oldnavy.com)** | **[Associate Designer, Girls Apparel](https://jobright.ai/jobs/info/68d46c088c62e63bc7fe92c4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Sep 24 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68844ee7fbbf032d00067455?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Omaha, NE | On Site | Sep 24 |
 | **[Armstrong World Industries](https://www.armstrongceilings.com)** | **[Architectural Designer Job](https://jobright.ai/jobs/info/68c79f36c96a22563ecf364b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Sep 24 |
@@ -262,10 +265,4 @@ For a complete list, click the following sortable link below:
 | **[Coalition, Inc.](https://www.coalitioninc.com)** | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/68d46b2bffc1276de3fdab17?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Sep 24 |
 | ↳ | **[WEB DESIGNER](https://jobright.ai/jobs/info/68d46b5d77769e778f508dcb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA | Remote | Sep 24 |
 | ↳ | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/68d4732b8c62e63bc7fe96cf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Sep 24 |
-| **[GoldenHome Cabinetry](https://www.goldenvilla.ca/)** | **[Cabinet Designer](https://jobright.ai/jobs/info/68d5099224b1ee4c7b663600?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cedar Hill, TX | On Site | Sep 24 |
-| **[Hammond Lumber Company](http://hammondlumber.com)** | **[Kitchen & Bath Designer](https://jobright.ai/jobs/info/688d9249e5cead4afd45766d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boothbay Harbor, ME | On Site | Sep 24 |
-| **[American Electric Power](http://aep.com)** | **[Designer Assc - Designer Sr.](https://jobright.ai/jobs/info/68d445b88c62e63bc7fe7801?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Albany, OH | On Site | Sep 24 |
-| **[BaubleBar Inc.](https://www.baublebar.com)** | **[Temporary Design Support and Assembly Assoc. – NJDC Warehouse - Moonachie, NJ](https://jobright.ai/jobs/info/68d7767161a175619f8ce4ba?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Moonachie, NJ | On Site | Sep 24 |
-| **[Michaels Stores](https://teachitpro.com)** | **[PT Custom Picture Framer](https://jobright.ai/jobs/info/68d444d3ffc1276de3fd8e6e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kennewick-6803 W Canal Dr | On Site | Sep 24 |
-| **[Adtalem Global Education](https://www.adtalem.com/)** | **[Web/UX Specialist](https://jobright.ai/jobs/info/68d83aa17a37c712687d8fe4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbia, MD | Hybrid | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
