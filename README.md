@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rokt](https://www.rokt.com)** | **[Brand Designer](https://jobright.ai/jobs/info/68c180e4233c7d3e64d02136?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Oct 02 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cfd0c7fb49c96ca6eabb5b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Devon, PA | On Site | Oct 01 |
 | **[LOFT](http://anninc.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/68cf2fe3846f0b04af67fb2e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | On Site | Oct 01 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Design Coordinator](https://jobright.ai/jobs/info/68c82560f9c6ff7aedf0b5bf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Oct 01 |
@@ -140,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Macy's](http://www.macysjobs.com)** | **[Visual Support Captain, Promenade Bolingbrook - Full Time](https://jobright.ai/jobs/info/68d91581061b716fa2959e6a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 645 East Boughton Road, Bolingbrook, IL, 60440, US | On Site | Sep 28 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Coordinator, Interiors](https://jobright.ai/jobs/info/68cee4d9dbd9fb154ede3775?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Sep 28 |
 | **[Ethan Allen Global, Inc.](http://ethanallen.com)** | **[Retail Interior Design Consultant](https://jobright.ai/jobs/info/68d968c69a8e451a446a4a5b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lexington, KY | On Site | Sep 28 |
+| **[Procter & Gamble](https://us.pg.com/)** | **[Personal Healthcare Brand Expression Designer](https://jobright.ai/jobs/info/68bb712d5f3832749186f2ac?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mason, OH | On Site | Sep 27 |
 | **[Revelyst](https://www.revelyst.com)** | **[Studio Production & Photography Assistant](https://jobright.ai/jobs/info/689fc241cc9ee94dc91199b1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | On Site | Sep 27 |
 | **[Adobe](http://www.adobe.com)** | **[2026 University Graduate - Associate Experience Designer](https://jobright.ai/jobs/info/68d8b4deed09d95201eb6271?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Sep 27 |
 | ↳ | **[2026 University Graduate - Associate Experience Designer](https://jobright.ai/jobs/info/68d8acfbed09d95201eb5eae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose | On Site | Sep 27 |
@@ -217,13 +219,4 @@ For a complete list, click the following sortable link below:
 | **[Gensler](http://www.gensler.com)** | **[Technical Designer - Workplace](https://jobright.ai/jobs/info/68d5ce882116ff37ee0906bd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Morristown, NJ | On Site | Sep 25 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68c8ef7995f5211cd2ceb94f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Commack, NY | On Site | Sep 25 |
 | **[Critical Response Group](https://www.crgplans.com)** | **[Entry Level Graphic Designer](https://jobright.ai/jobs/info/68d5aaa31f7fb2169ab12d8e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hamilton, NJ | Hybrid | Sep 25 |
-| **[FASTSIGNS®](https://www.fastsigns.com/)** | **[Graphic Designer for Industry Leading Sign Company](https://jobright.ai/jobs/info/68d59c5314935e31e231a508?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Florence, KY 41042 | On Site | Sep 25 |
-| **[Alexander Shunnarah Trial Attorneys](http://shunnarah.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/68d5b3ee63d77d6f6f3f1ae3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Birmingham, AL | On Site | Sep 25 |
-| ↳ | **[Graphic Designer](https://jobright.ai/jobs/info/68d599c71f7fb2169ab12387?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Birmingham, AL | On Site | Sep 25 |
-| **[Golden Hippo®](http://goldenhippomedia.com)** | **[Associate Production Designer](https://jobright.ai/jobs/info/68d5b6ee1f7fb2169ab132e2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Sep 25 |
-| **[Naughty Dog](http://www.naughtydog.com)** | **[Associate Game Designer (Technical) (Contingent)](https://jobright.ai/jobs/info/68c28bd28753a565272fb3b1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States, Santa Monica, CA | On Site | Sep 25 |
-| **[Ryan Lawn & Tree](http://ryanlawn.com)** | **[Landscape Designer – Entry Level](https://jobright.ai/jobs/info/68d595ca1f7fb2169ab1222b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bucyrus, KS | On Site | Sep 25 |
-| **[Gensler](http://www.gensler.com)** | **[Technical Designer - Workplace](https://jobright.ai/jobs/info/68d592de39247e3c807ecd2c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Morristown, NJ, US | On Site | Sep 25 |
-| **[Candlelight Cabinetry](https://www.candlelightcab.com)** | **[Associate CAD Designer](https://jobright.ai/jobs/info/68d77ba8295f8e37655db668?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lockport, NY | On Site | Sep 25 |
-| **[Critical Response Group](https://www.crgplans.com)** | **[Entry Level Graphic Designer](https://jobright.ai/jobs/info/68d5a23914935e31e231a6a8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Township of Hamilton, NJ | Hybrid | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
