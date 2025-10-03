@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Golden Touch](https://gtimports.net)** | **[Fashion Graphic Designer – Juniors Apparel](https://jobright.ai/jobs/info/68ca65ae06a34016008c82d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Oct 02 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Associate Production Designer](https://jobright.ai/jobs/info/68d5b6ee1f7fb2169ab132e2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Oct 02 |
+| **[Naughty Dog](http://www.naughtydog.com)** | **[Associate Game Designer (Technical) (Contingent)](https://jobright.ai/jobs/info/68c26b7f33864f172f9c081d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Oct 02 |
 | **[UBS](https://www.ubs.com)** | **[Journey Manager, Experience, Design and Analytics (XDA)](https://jobright.ai/jobs/info/68cfc719846f0b04af684e74?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Weehawken, NJ | On Site | Oct 02 |
 | **[Funko](http://www.funko.com)** | **[Loungefly -  Assistant Graphic Artist](https://jobright.ai/jobs/info/68c1ab843fd8b059a20f15a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burbank, CA | On Site | Oct 02 |
 | **[Google](https://www.google.com)** | **[Interaction Designer, Google Ads](https://jobright.ai/jobs/info/68cd1874b2a74e1837ed232d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Oct 02 |
@@ -182,5 +183,4 @@ For a complete list, click the following sortable link below:
 | **[Perfection Custom Closets](https://www.aperfectcloset.com)** | **[Assistant Closet Designer & Business Development](https://jobright.ai/jobs/info/68d70e8545853d0e39ccc924?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Niles, IL | On Site | Sep 26 |
 | **[Free People](http://www.freepeople.com)** | **[Free People Assistant Visual Manager](https://jobright.ai/jobs/info/68d6eff7d3fe025a3015d37a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Flagstaff, AZ | On Site | Sep 26 |
 | **[American Exchange Group](https://www.axnygroup.com)** | **[Assistant Footwear Designer (Women's)](https://jobright.ai/jobs/info/68d754e57a37c712687c82d0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York, United States | On Site | Sep 26 |
-| ↳ | **[Assistant Footwear Designer (Women's)](https://jobright.ai/jobs/info/68d777f97a37c712687ce647?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
