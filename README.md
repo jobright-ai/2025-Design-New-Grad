@@ -104,8 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Vestcom](http://vestcom.com)** | **[Setup Designer](https://jobright.ai/jobs/info/68db00100dffed6f83d2bd5f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Little Rock, AR | Remote | Sep 29 |
 | **[RAPP](http://www.rapp.com/)** | **[Content Author](https://jobright.ai/jobs/info/68dafa476df7b8311bb14fe4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Detroit Metro | Hybrid | Sep 29 |
 | **[Saviynt](http://saviynt.com/)** | **[Jr. UX/AI Designer](https://jobright.ai/jobs/info/68daf6c707c157682e5701ff?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | El Segundo, CA | Remote | Sep 29 |
-| **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Year One - Junior Designer - Architecture](https://jobright.ai/jobs/info/68daf62e0dffed6f83d2b3f8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Sep 29 |
-| **[Saviynt](http://saviynt.com/)** | **[Jr. UX/AI Designer](https://jobright.ai/jobs/info/68daf4fa6df7b8311bb14a65?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | Remote | Sep 29 |
+| ↳ | **[Jr. UX/AI Designer](https://jobright.ai/jobs/info/68daf4fa6df7b8311bb14a65?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | Remote | Sep 29 |
 | **[RAPP](http://www.rapp.com/)** | **[Content Author](https://jobright.ai/jobs/info/68daf2ae07c157682e570008?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Detroit - RAPP | Hybrid | Sep 29 |
 | **[E INC](https://e.inc)** | **[Junior Graphic Designer (Temporary - 8 Months)](https://jobright.ai/jobs/info/68daf1860dffed6f83d2afb3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote (Ontario, CA) | Remote | Sep 29 |
 | **[CENTERS, LLC](http://centersusa.com)** | **[PT Graphic Designer](https://jobright.ai/jobs/info/68daf11d0dffed6f83d2adbc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-AL-Jacksonville | On Site | Sep 29 |
@@ -193,5 +192,4 @@ For a complete list, click the following sortable link below:
 | **[West Elm](https://www.westelm.com/)** | **[Visual Associate, Seasonal Flex Only, Beverly Blvd - West Elm](https://jobright.ai/jobs/info/68c8df2f95f5211cd2cea46e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Sep 26 |
 | **[City of New York](http://www1.nyc.gov)** | **[Social Media Graphic Designer](https://jobright.ai/jobs/info/68d68ec445853d0e39cc8524?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Long Island City, NY | On Site | Sep 26 |
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[Creative Producer](https://jobright.ai/jobs/info/68cd9b98e23def7af55bc89d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Sep 26 |
-| **[Under Armour](http://underarmour.com)** | **[Associate Apparel Designer, Train](https://jobright.ai/jobs/info/68d776d2295f8e37655da7e5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baltimore, MD | Hybrid | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
