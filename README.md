@@ -58,9 +58,15 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Amazon](https://amazon.com)** | **[Visual UX Designer, Devices & Services](https://jobright.ai/jobs/info/68ce2bf3e23def7af55c2bbf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Oct 03 |
+| **[Talbots](http://www.talbots.com)** | **[Assistant Concept, Trend, & CAD Artist](https://jobright.ai/jobs/info/68c35ba880e77b1fa6fc8916?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Oct 03 |
+| **[TikTok](https://www.tiktok.com)** | **[AI Creative Designer Graduate [TikTok-Design-Effect]- 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cbebc116d00d2beeb16c86?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
 | **[AssetMark](http://www.assetmark.com)** | **[Associate Designer](https://jobright.ai/jobs/info/68c89c13f9c6ff7aedf10d92?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Charlotte, NC | Hybrid | Oct 03 |
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/68c87b41983e6768bc54df5a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Waterloo, NY | Hybrid | Oct 03 |
+| ↳ | **[Visual Keyholder](https://jobright.ai/jobs/info/68d626ce894705799a2e807b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | South Burlington, VT | Hybrid | Oct 03 |
+| ↳ | **[Visual Keyholder](https://jobright.ai/jobs/info/68b0f9836fab621da7b09010?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Paducah, KY | Hybrid | Oct 03 |
+| ↳ | **[Visual Keyholder](https://jobright.ai/jobs/info/68d62679894705799a2e7fbd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Silverdale, WA | Hybrid | Oct 03 |
 | **[Golden Touch](https://gtimports.net)** | **[Fashion Graphic Designer – Juniors Apparel](https://jobright.ai/jobs/info/68ca65ae06a34016008c82d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Oct 02 |
+| **[Golden Hippo®](http://goldenhippomedia.com)** | **[Associate Production Designer](https://jobright.ai/jobs/info/68d5b6ee1f7fb2169ab132e2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Oct 02 |
 | **[Funko](http://www.funko.com)** | **[Loungefly -  Assistant Graphic Artist](https://jobright.ai/jobs/info/68c1ab843fd8b059a20f15a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burbank, CA | On Site | Oct 02 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cfd0c7fb49c96ca6eabb5b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Devon, PA | On Site | Oct 01 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68a524d2758f2e4ac3fdc441?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Grand Rapids, MI | On Site | Oct 01 |
@@ -71,9 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Visual Keyholder](https://jobright.ai/jobs/info/688974a99f961617fe214872?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Little Rock, AR | Hybrid | Oct 01 |
 | ↳ | **[Visual Keyholder](https://jobright.ai/jobs/info/6894f7f54ed2ea559ca5213b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Norfolk, VA | Hybrid | Oct 01 |
 | ↳ | **[Visual Keyholder](https://jobright.ai/jobs/info/68c8bd54983e6768bc550ea7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Spokane, WA | Hybrid | Oct 01 |
-| ↳ | **[Visual Keyholder](https://jobright.ai/jobs/info/68d62679894705799a2e7fbd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Silverdale, WA | Hybrid | Oct 01 |
 | ↳ | **[Visual Keyholder](https://jobright.ai/jobs/info/687eed772097a271a8998fb4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tallahassee, FL | Hybrid | Oct 01 |
-| ↳ | **[Visual Keyholder](https://jobright.ai/jobs/info/68b0f9836fab621da7b09010?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Paducah, KY | Hybrid | Oct 01 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/68bf1bef8e65e77df55b7017?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 30 |
 | **[Neiman Marcus](https://www.neimanmarcusgroup.com)** | **[Personal Styling Assistant - Beverly Hills](https://jobright.ai/jobs/info/68a3ce8237d3cc6b0d579c92?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beverly Hills, CA | On Site | Sep 30 |
 | **[ARC Document Solutions](http://www.e-arc.com/)** | **[Color Specialist](https://jobright.ai/jobs/info/68c2916b03b99f6b342962d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | On Site | Sep 30 |
@@ -130,7 +134,7 @@ For a complete list, click the following sortable link below:
 | **[Nordstrom](http://www.nordstrom.com)** | **[Flex Male Model - Downtown Seattle Photo Studio](https://jobright.ai/jobs/info/689f52fe79a9f96662556042?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Sep 28 |
 | **[Léal Hospitality Portfolio](http://liveloveleal.com/)** | **[LUXE Floral Designer](https://jobright.ai/jobs/info/68db4870e19b9e63ba209f71?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hollister, CA | On Site | Sep 28 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Frontend Supervisor](https://jobright.ai/jobs/info/68d9e37d061b716fa295b024?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sandy, UT | On Site | Sep 28 |
-| ↳ | **[Retail Frontend Supervisor](https://jobright.ai/jobs/info/68d9b9049a8e451a446a52e2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sandy, UT 84070 | On Site | Sep 28 |
+| ↳ | **[Retail Frontend Supervisor](https://jobright.ai/jobs/info/68d9b8ee9a8e451a446a52b5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sandy, UT 84070 | On Site | Sep 28 |
 | **[McBride Homes](http://mcbridehomes.com)** | **[Junior Architect](https://jobright.ai/jobs/info/68d99ed8022fc803b487785a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chesterfield, MO | On Site | Sep 28 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/689fd97efaa4e875e828ba0b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mount Pleasant, SC | On Site | Sep 28 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Flex Female Model - Downtown Seattle Photo Studio](https://jobright.ai/jobs/info/68d930fe9a8e451a446a45dd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Sep 28 |
@@ -164,7 +168,4 @@ For a complete list, click the following sortable link below:
 | **[San Francisco Chronicle](http://www.sfgate.com)** | **[Creative Producer](https://jobright.ai/jobs/info/68c65a2c7d0db41142738dc8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 26 |
 | **[disney](https://family.disney.com/)** | **[Jr. Designer, Creative Studios](https://jobright.ai/jobs/info/68d76ff661a175619f8cd48b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Sep 26 |
 | **[JT4](https://www.jt4llc.com/)** | **[Tech Publishing I](https://jobright.ai/jobs/info/68d75747295f8e37655d53c2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Las Vegas, NV | On Site | Sep 26 |
-| **[Arcadis](http://www.arcadis.com)** | **[Architectural Designer - Retail](https://jobright.ai/jobs/info/68d7474bcb1d8e52c9766955?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Sep 26 |
-| **[Keywords Studios](http://www.keywordsstudios.com)** | **[Packaging Associate](https://jobright.ai/jobs/info/68d74eadf9dbe42bf62c1639?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, IN | Hybrid | Sep 26 |
-| **[Allocate](https://www.allocate.co)** | **[Freelance Graphic Designer (Junior Level) (Remote)](https://jobright.ai/jobs/info/68d733ec45853d0e39ccd889?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
