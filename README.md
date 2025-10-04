@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Georgia Institute of Technology](http://gatech.edu)** | **[Architectural Designer](https://jobright.ai/jobs/info/68d0c673fb49c96ca6eb015a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta Metro | On Site | Oct 03 |
 | **[Amazon](https://amazon.com)** | **[Visual UX Designer, Devices & Services](https://jobright.ai/jobs/info/68ce2bf3e23def7af55c2bbf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Oct 03 |
 | **[Talbots](http://www.talbots.com)** | **[Assistant Concept, Trend, & CAD Artist](https://jobright.ai/jobs/info/68c35ba880e77b1fa6fc8916?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Oct 03 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Creative Designer Graduate [TikTok-Design-Effect]- 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cbebc116d00d2beeb16c86?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
@@ -65,7 +66,8 @@ For a complete list, click the following sortable link below:
 | **[Tommy Bahama](http://www.tommybahama.com)** | **[Assistant Designer-Men's Woven Shirts](https://jobright.ai/jobs/info/68c36c52b8c22d382847191a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Oct 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Designer Graduate [TikTok-Design-Content Ecosystem & Integrity]- 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68ce1a5b1ad6b16f028a1d79?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Oct 03 |
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/682ce17a3725225d5661f394?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | College Station, TX | Hybrid | Oct 03 |
-| ↳ | **[Visual Keyholder](https://jobright.ai/jobs/info/68c87b41983e6768bc54df5a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Waterloo, NY | Hybrid | Oct 03 |
+| **[Gensler](http://www.gensler.com)** | **[Technical Designer - Workplace](https://jobright.ai/jobs/info/68d5ff741f7fb2169ab152bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Morristown, NJ | On Site | Oct 03 |
+| **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/68c87b41983e6768bc54df5a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Waterloo, NY | Hybrid | Oct 03 |
 | ↳ | **[Visual Keyholder](https://jobright.ai/jobs/info/68d626ce894705799a2e807b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | South Burlington, VT | Hybrid | Oct 03 |
 | ↳ | **[Visual Keyholder](https://jobright.ai/jobs/info/68b0f9836fab621da7b09010?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Paducah, KY | Hybrid | Oct 03 |
 | ↳ | **[Visual Keyholder](https://jobright.ai/jobs/info/68c8bd54983e6768bc550ea7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Spokane, WA | Hybrid | Oct 03 |
@@ -140,7 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Léal Hospitality Portfolio](http://liveloveleal.com/)** | **[LUXE Floral Designer](https://jobright.ai/jobs/info/68db4870e19b9e63ba209f71?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hollister, CA | On Site | Sep 28 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Frontend Supervisor](https://jobright.ai/jobs/info/68d9e37d061b716fa295b024?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sandy, UT | On Site | Sep 28 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Flex Female Model - Cedar Rapids Photo Studio](https://jobright.ai/jobs/info/68d581d039247e3c807ec295?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cedar Rapids, IA | On Site | Sep 28 |
-| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Frontend Supervisor](https://jobright.ai/jobs/info/68d9b8ee9a8e451a446a52b5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sandy, UT 84070 | On Site | Sep 28 |
+| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Retail Frontend Supervisor](https://jobright.ai/jobs/info/68d9b9049a8e451a446a52e2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sandy, UT 84070 | On Site | Sep 28 |
 | **[McBride Homes](http://mcbridehomes.com)** | **[Junior Architect](https://jobright.ai/jobs/info/68d99ed8022fc803b487785a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chesterfield, MO | On Site | Sep 28 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/689fd97efaa4e875e828ba0b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mount Pleasant, SC | On Site | Sep 28 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Flex Female Model - Downtown Seattle Photo Studio](https://jobright.ai/jobs/info/68d930fe9a8e451a446a45dd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Sep 28 |
@@ -158,5 +160,4 @@ For a complete list, click the following sortable link below:
 | **[Ethan Allen Global, Inc.](http://ethanallen.com)** | **[700 - Designers - RE-Design Consultant - (NE)](https://jobright.ai/jobs/info/68d893eb6c1d856b1b93ac40?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Natick, MA | On Site | Sep 27 |
 | **[Buck Mason](https://www.buckmason.com/)** | **[Junior Visual Merchandiser (Georgetown)](https://jobright.ai/jobs/info/689757ea1b9e81727f198bb0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Georgetown, D.C. | On Site | Sep 27 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Assistant Director, Athletics Graphic Design & Branding](https://jobright.ai/jobs/info/68d5a47014935e31e231a90b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Auburn, AL | On Site | Sep 27 |
-| **[Nordstrom](http://www.nordstrom.com)** | **[Flex Female Plus Model - Los Angeles Photo Studio](https://jobright.ai/jobs/info/689f5345faa4e875e8285e91?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
