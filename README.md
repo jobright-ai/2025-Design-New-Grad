@@ -146,6 +146,4 @@ For a complete list, click the following sortable link below:
 | **[SpeedPro ](http://speedpro.com)** | **[Sign and Graphic Production Specialist](https://jobright.ai/jobs/info/68da643507c157682e56a0e7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newton, MA | On Site | Sep 29 |
 | **[FASTSIGNS®](https://www.fastsigns.com/)** | **[Signs and Graphics Production/Installer](https://jobright.ai/jobs/info/68da57bd0b832179ca4ad4d0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Monrovia, CA | On Site | Sep 29 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Coordinator, Interiors](https://jobright.ai/jobs/info/689f908983d13d1f5b6c9b0b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Sep 28 |
-| **[American Electric Power](http://aep.com)** | **[Designer Assc - Designer Sr](https://jobright.ai/jobs/info/68d4ef7b24b1ee4c7b6621e9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tulsa, OK | On Site | Sep 28 |
-| **[Nordstrom](http://www.nordstrom.com)** | **[Flex Male Model - Downtown Seattle Photo Studio](https://jobright.ai/jobs/info/689f52fe79a9f96662556042?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
