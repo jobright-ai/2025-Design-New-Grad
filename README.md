@@ -142,7 +142,4 @@ For a complete list, click the following sortable link below:
 | **[Roc Nation](http://rocnation.com)** | **[Jr. Creative Strategist](https://jobright.ai/jobs/info/68db13e9e9b48513789b1b82?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 29 |
 | **[Frontier Bank](https://www.frontierbankoftexas.bank)** | **[Graphics Designer (Entry Level)](https://jobright.ai/jobs/info/68dac8970b832179ca4b0d14?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Hybrid | Sep 29 |
 | **[Camping World](http://www.campingworld.com/)** | **[Social Media & Photography Assistant](https://jobright.ai/jobs/info/68dab6d20b832179ca4b0370?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ashland, VA | On Site | Sep 29 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68daac0907c157682e56c36c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fountain Valley, CA | On Site | Sep 29 |
-| **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Annapolis- Pottery Barn](https://jobright.ai/jobs/info/68113bda7a1fb3d948847c31?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Annapolis, MD | On Site | Sep 29 |
-| **[Bare Home](https://barehome.com/)** | **[Production Artist](https://jobright.ai/jobs/info/68da97d20b832179ca4ae997?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Forest Lake, MN | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
