@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spencer's](http://www.spencersonline.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/68ca45050456a931db296a31?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Egg Harbor, NJ | Hybrid | Oct 05 |
 | **[Fabletics](https://www.fabletics.com/)** | **[Jr. Digital Graphic Designer](https://jobright.ai/jobs/info/68c699847d0db4114273adc4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | El Segundo, CA | Hybrid | Oct 05 |
 | **[American Electric Power](http://aep.com)** | **[Designer Assc - Designer Sr.](https://jobright.ai/jobs/info/68d445b88c62e63bc7fe7801?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Albany, OH | On Site | Oct 05 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68a7c6c7758f2e4ac3fee76c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tacoma, WA | On Site | Oct 04 |
@@ -99,6 +100,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68a524d2758f2e4ac3fdc441?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Grand Rapids, MI | On Site | Oct 01 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Design Coordinator](https://jobright.ai/jobs/info/68c82560f9c6ff7aedf0b5bf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Oct 01 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Junior Designer - Architecture](https://jobright.ai/jobs/info/688813c7fbbf032d0007887b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Oct 01 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68ccc80dfa466330fef91099?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Saugus, MA | On Site | Oct 01 |
 | **[Farnsworth Group, Inc.](http://f-w.com)** | **[Architectural Associate – Entry-Level - May 2026](https://jobright.ai/jobs/info/68bf32928e65e77df55b81c1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Champaign, IL | Hybrid | Sep 30 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/68bf1bef8e65e77df55b7017?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 30 |
 | **[Neiman Marcus](https://www.neimanmarcusgroup.com)** | **[Personal Styling Assistant - Beverly Hills](https://jobright.ai/jobs/info/68a3ce8237d3cc6b0d579c92?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beverly Hills, CA | On Site | Sep 30 |
@@ -137,9 +139,4 @@ For a complete list, click the following sortable link below:
 | **[Print Magazine](http://www.printmag.com)** | **[Retail Designer - Industrial Color Extended](https://jobright.ai/jobs/info/68dad94607c157682e56e5ba?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Utica-Rome Area | Hybrid | Sep 29 |
 | **[2.7 August Apparel, Inc.](https://www.27augustapparel.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/68dad5db07c157682e56dfbd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Sep 29 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac Clubs - Junior Graphic Designer](https://jobright.ai/jobs/info/68db16e6e9b48513789b1c8d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Sep 29 |
-| **[NYS Department of Transportation](http://www.dot.ny.gov)** | **[Landscape Architect Trainee/Assistant Landscape Architect](https://jobright.ai/jobs/info/68dac8b70b832179ca4b0d71?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 29 |
-| **[Camping World](http://www.campingworld.com/)** | **[Social Media & Photography Assistant](https://jobright.ai/jobs/info/68dac7dc6df7b8311bb120f7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ashland, VA | On Site | Sep 29 |
-| **[Roc Nation](http://rocnation.com)** | **[Jr. Creative Strategist](https://jobright.ai/jobs/info/68db13e9e9b48513789b1b82?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 29 |
-| **[Frontier Bank](https://www.frontierbankoftexas.bank)** | **[Graphics Designer (Entry Level)](https://jobright.ai/jobs/info/68dac8970b832179ca4b0d14?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Hybrid | Sep 29 |
-| **[Camping World](http://www.campingworld.com/)** | **[Social Media & Photography Assistant](https://jobright.ai/jobs/info/68dab6d20b832179ca4b0370?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ashland, VA | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
