@@ -62,6 +62,7 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68a7c6c7758f2e4ac3fee76c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tacoma, WA | On Site | Oct 04 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Monterey - Pottery Barn](https://jobright.ai/jobs/info/67fd338035a101604cbfd5b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Monterey, CA | On Site | Oct 04 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68c32a555adaee6c9bda7d06?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Grand Rapids, MI | On Site | Oct 04 |
+| **[Fabletics](https://www.fabletics.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/68cd4428e23def7af55b792f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | El Segundo, CA | Hybrid | Oct 03 |
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/688974a99f961617fe214872?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Little Rock, AR | Hybrid | Oct 03 |
 | **[Georgia Institute of Technology](http://gatech.edu)** | **[Architectural Designer](https://jobright.ai/jobs/info/68d0c673fb49c96ca6eb015a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta Metro | On Site | Oct 03 |
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/6894f7f54ed2ea559ca5213b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Norfolk, VA | Hybrid | Oct 03 |
@@ -145,5 +146,4 @@ For a complete list, click the following sortable link below:
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Annapolis- Pottery Barn](https://jobright.ai/jobs/info/68113bda7a1fb3d948847c31?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Annapolis, MD | On Site | Sep 29 |
 | **[Bare Home](https://barehome.com/)** | **[Production Artist](https://jobright.ai/jobs/info/68da97d20b832179ca4ae997?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Forest Lake, MN | On Site | Sep 29 |
 | **[FIGS](http://www.wearfigs.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/684d12fcc4f257fd723a2ca5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | Hybrid | Sep 29 |
-| **[SpeedPro ](http://speedpro.com)** | **[Sign and Graphic Production Specialist](https://jobright.ai/jobs/info/68da643507c157682e56a0e7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newton, MA | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
