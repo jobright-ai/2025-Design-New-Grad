@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern University](https://www.northwestern.edu)** | **[Assistant Director of Creative Video (Athletics)](https://jobright.ai/jobs/info/68cd945cb2a74e1837ed8f7b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Evanston, IL | Hybrid | Oct 07 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/68ca45050456a931db296a31?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Egg Harbor, NJ | Hybrid | Oct 05 |
 | **[Fabletics](https://www.fabletics.com/)** | **[Jr. Digital Graphic Designer](https://jobright.ai/jobs/info/68c699847d0db4114273adc4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | El Segundo, CA | Hybrid | Oct 05 |
 | **[American Electric Power](http://aep.com)** | **[Designer Assc - Designer Sr.](https://jobright.ai/jobs/info/68d445b88c62e63bc7fe7801?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Albany, OH | On Site | Oct 05 |
@@ -98,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[UBS](https://www.ubs.com)** | **[Journey Manager, Experience, Design and Analytics (XDA)](https://jobright.ai/jobs/info/68cfc719846f0b04af684e74?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Weehawken, NJ | On Site | Oct 02 |
 | **[Funko](http://www.funko.com)** | **[Loungefly -  Assistant Graphic Artist](https://jobright.ai/jobs/info/68c1ab843fd8b059a20f15a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burbank, CA | On Site | Oct 02 |
 | **[Google](https://www.google.com)** | **[Interaction Designer, Google Ads](https://jobright.ai/jobs/info/68cd8bae1ad6b16f0289b3aa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mountain View, CA | On Site | Oct 02 |
+| **[TikTok](https://www.tiktok.com)** | **[Design Graduate (TikTok Shop Content Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cb9a0fefdec76df36bf56a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Oct 02 |
 | **[Vestcom](http://vestcom.com)** | **[Setup Designer](https://jobright.ai/jobs/info/68db00100dffed6f83d2bd5f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Little Rock, AR | Remote | Oct 01 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Digital Content Creator](https://jobright.ai/jobs/info/68ce49fdfb49c96ca6e9e7b5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tampa, FL | On Site | Oct 01 |
 | **[HDR](http://www.hdrinc.com)** | **[Interior Design Coordinator](https://jobright.ai/jobs/info/68c0bdfc8e65e77df55c409d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Oct 01 |
@@ -109,6 +111,4 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68ccc80dfa466330fef91099?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Saugus, MA | On Site | Oct 01 |
 | **[Farnsworth Group, Inc.](http://f-w.com)** | **[Architectural Associate – Entry-Level - May 2026](https://jobright.ai/jobs/info/68bf32928e65e77df55b81c1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Champaign, IL | Hybrid | Sep 30 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/68bf1bef8e65e77df55b7017?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 30 |
-| **[Neiman Marcus](https://www.neimanmarcusgroup.com)** | **[Personal Styling Assistant - Beverly Hills](https://jobright.ai/jobs/info/68a3ce8237d3cc6b0d579c92?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beverly Hills, CA | On Site | Sep 30 |
-| **[ARC Document Solutions](http://www.e-arc.com/)** | **[Color Specialist](https://jobright.ai/jobs/info/68c2916b03b99f6b342962d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
