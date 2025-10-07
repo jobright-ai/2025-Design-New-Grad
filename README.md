@@ -109,6 +109,4 @@ For a complete list, click the following sortable link below:
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Design Coordinator](https://jobright.ai/jobs/info/68c82560f9c6ff7aedf0b5bf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Oct 01 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Junior Designer - Architecture](https://jobright.ai/jobs/info/688813c7fbbf032d0007887b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Oct 01 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68ccc80dfa466330fef91099?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Saugus, MA | On Site | Oct 01 |
-| **[Farnsworth Group, Inc.](http://f-w.com)** | **[Architectural Associate – Entry-Level - May 2026](https://jobright.ai/jobs/info/68bf32928e65e77df55b81c1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Champaign, IL | Hybrid | Sep 30 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/68bf1bef8e65e77df55b7017?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
