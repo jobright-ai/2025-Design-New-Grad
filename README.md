@@ -69,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68a8bf86d627244576e35369?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Clermont, FL | On Site | Oct 04 |
 | **[Nutrafol](https://www.nutrafol.com/)** | **[Associate, Email Designer (HTML)](https://jobright.ai/jobs/info/68ccdf5b77add66568abaf42?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Oct 04 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/688bc7b71808534a89cb6159?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | Hybrid | Oct 04 |
+| **[RR Donnelley](http://www.rrd.com)** | **[Presentation Associate - 1st and 2nd Shifts](https://jobright.ai/jobs/info/68b7938a1ade4306aa64c23c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, OH | On Site | Oct 04 |
 | **[Madewell](https://www.madewell.com)** | **[Assistant Designer - Woven Tops](https://jobright.ai/jobs/info/68cd4b011ad6b16f028979bf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Oct 04 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68a7c6c7758f2e4ac3fee76c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tacoma, WA | On Site | Oct 04 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Monterey - Pottery Barn](https://jobright.ai/jobs/info/67fd338035a101604cbfd5b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Monterey, CA | On Site | Oct 04 |
@@ -103,5 +104,4 @@ For a complete list, click the following sortable link below:
 | **[Funko](http://www.funko.com)** | **[Loungefly -  Assistant Graphic Artist](https://jobright.ai/jobs/info/68c1ab843fd8b059a20f15a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burbank, CA | On Site | Oct 02 |
 | **[Google](https://www.google.com)** | **[Interaction Designer, Google Ads](https://jobright.ai/jobs/info/68cd8bae1ad6b16f0289b3aa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mountain View, CA | On Site | Oct 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Design Graduate (TikTok Shop Content Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cb9a0fefdec76df36bf56a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Oct 02 |
-| **[Vestcom](http://vestcom.com)** | **[Setup Designer](https://jobright.ai/jobs/info/68db00100dffed6f83d2bd5f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Little Rock, AR | Remote | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
