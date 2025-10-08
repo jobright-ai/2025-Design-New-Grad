@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Studio Artist (Temporary)](https://jobright.ai/jobs/info/68c9a68195f5211cd2cf289f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Oct 08 |
+| **[AppLovin](https://www.applovin.com)** | **[Creative Operator](https://jobright.ai/jobs/info/68ccfc2477add66568abd14d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Florida, United States | Hybrid | Oct 08 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Assistant Director of Creative Video (Athletics)](https://jobright.ai/jobs/info/68cd945cb2a74e1837ed8f7b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Evanston, IL | Hybrid | Oct 07 |
 | **[Rain For Rent](http://www.rainforrent.com/)** | **[Creative Services Specialist](https://jobright.ai/jobs/info/68c8ca63f9c6ff7aedf12ae0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bakersfield, CA | On Site | Oct 07 |
 | **[Georgia Institute of Technology](http://gatech.edu)** | **[Architectural Designer](https://jobright.ai/jobs/info/68d0c673fb49c96ca6eb015a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta Metro | On Site | Oct 06 |
