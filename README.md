@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Precision AQ](http://www.precisionaq.com)** | **[Studio Artist (Temporary)](https://jobright.ai/jobs/info/68c9a68195f5211cd2cf289f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Oct 08 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Assistant Director of Creative Video (Athletics)](https://jobright.ai/jobs/info/68cd945cb2a74e1837ed8f7b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Evanston, IL | Hybrid | Oct 07 |
 | **[Rain For Rent](http://www.rainforrent.com/)** | **[Creative Services Specialist](https://jobright.ai/jobs/info/68c8ca63f9c6ff7aedf12ae0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bakersfield, CA | On Site | Oct 07 |
 | **[Georgia Institute of Technology](http://gatech.edu)** | **[Architectural Designer](https://jobright.ai/jobs/info/68d0c673fb49c96ca6eb015a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta Metro | On Site | Oct 06 |
@@ -103,6 +104,4 @@ For a complete list, click the following sortable link below:
 | **[Google](https://www.google.com)** | **[Interaction Designer, Google Ads](https://jobright.ai/jobs/info/68cd8bae1ad6b16f0289b3aa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mountain View, CA | On Site | Oct 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Design Graduate (TikTok Shop Content Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cb9a0fefdec76df36bf56a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Oct 02 |
 | **[Vestcom](http://vestcom.com)** | **[Setup Designer](https://jobright.ai/jobs/info/68db00100dffed6f83d2bd5f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Little Rock, AR | Remote | Oct 01 |
-| **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Digital Content Creator](https://jobright.ai/jobs/info/68ce49fdfb49c96ca6e9e7b5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tampa, FL | On Site | Oct 01 |
-| **[HDR](http://www.hdrinc.com)** | **[Interior Design Coordinator](https://jobright.ai/jobs/info/68c0bdfc8e65e77df55c409d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
