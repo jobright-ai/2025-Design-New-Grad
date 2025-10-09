@@ -112,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[MJH Life Sciences®](https://www.mjhlifesciences.com/)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/68cc934e128dc347fd926c53?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kansas City, MO | Hybrid | Oct 02 |
 | **[Golden Touch](https://gtimports.net)** | **[Fashion Graphic Designer – Juniors Apparel](https://jobright.ai/jobs/info/68ca65ae06a34016008c82d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Oct 02 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Associate Production Designer](https://jobright.ai/jobs/info/68d5b6ee1f7fb2169ab132e2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Oct 02 |
-| **[UBS](https://www.ubs.com)** | **[Journey Manager, Experience, Design and Analytics (XDA)](https://jobright.ai/jobs/info/68cfc719846f0b04af684e74?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Weehawken, NJ | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
