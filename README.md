@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[REVOLVE](https://www.revolve.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/68c2118863b706703e1115ee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 08 |
+| **[Precision AQ](http://www.precisionaq.com)** | **[Production Artist (Temporary)](https://jobright.ai/jobs/info/68c9a680a0c52d598ea397a1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Oct 08 |
+| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Production Artist (Temporary)](https://jobright.ai/jobs/info/68c9a764a0c52d598ea39927?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Oct 08 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Studio Artist (Temporary)](https://jobright.ai/jobs/info/68c9a68195f5211cd2cf289f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Oct 08 |
+| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Studio Artist (Temporary)](https://jobright.ai/jobs/info/68c9a09ca0c52d598ea3925b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Oct 08 |
 | **[AppLovin](https://www.applovin.com)** | **[Creative Operator](https://jobright.ai/jobs/info/68ccfc2477add66568abd14d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Florida, United States | Hybrid | Oct 08 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Assistant Director of Creative Video (Athletics)](https://jobright.ai/jobs/info/68cd945cb2a74e1837ed8f7b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Evanston, IL | Hybrid | Oct 07 |
 | **[Rain For Rent](http://www.rainforrent.com/)** | **[Creative Services Specialist](https://jobright.ai/jobs/info/68c8ca63f9c6ff7aedf12ae0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bakersfield, CA | On Site | Oct 07 |
@@ -79,7 +83,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68c32d285adaee6c9bda7f45?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Eagle, ID | On Site | Oct 04 |
 | **[Fabletics](https://www.fabletics.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/68cd4428e23def7af55b792f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | El Segundo, CA | Hybrid | Oct 03 |
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/688974a99f961617fe214872?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Little Rock, AR | Hybrid | Oct 03 |
+| **[Mattel, Inc.](http://www.mattel.com)** | **[Graphic Designer - Vehicles](https://jobright.ai/jobs/info/68355d98d3b709dc29ade764?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | El Segundo, CA | Hybrid | Oct 03 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Walt Whitman - Pottery Barn](https://jobright.ai/jobs/info/68ccf7945954791a1d701f25?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Huntington, NY | On Site | Oct 03 |
+| **[West Elm](https://www.westelm.com/)** | **[Design Studio Spc/Home Stylist, Part Time Flex, Boulder- West Elm](https://jobright.ai/jobs/info/66d0e27a1337b911efaee309?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boulder, CO | On Site | Oct 03 |
 | **[Amazon](https://amazon.com)** | **[Visual UX Designer, Devices & Services](https://jobright.ai/jobs/info/68ce2bf3e23def7af55c2bbf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Oct 03 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68c6c4d8c96a22563ecefe04?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lancaster, CA | On Site | Oct 03 |
 | **[Talbots](http://www.talbots.com)** | **[Assistant Concept, Trend, & CAD Artist](https://jobright.ai/jobs/info/68c35ba880e77b1fa6fc8916?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Oct 03 |
