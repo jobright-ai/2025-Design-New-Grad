@@ -110,5 +110,4 @@ For a complete list, click the following sortable link below:
 | **[UBS](https://www.ubs.com)** | **[Journey Manager, Experience, Design and Analytics (XDA)](https://jobright.ai/jobs/info/68cfc719846f0b04af684e74?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Weehawken, NJ | On Site | Oct 02 |
 | **[Funko](http://www.funko.com)** | **[Loungefly -  Assistant Graphic Artist](https://jobright.ai/jobs/info/68c1ab843fd8b059a20f15a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burbank, CA | On Site | Oct 02 |
 | **[Google](https://www.google.com)** | **[Interaction Designer, Google Ads](https://jobright.ai/jobs/info/68cd8bae1ad6b16f0289b3aa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mountain View, CA | On Site | Oct 02 |
-| **[TikTok](https://www.tiktok.com)** | **[Design Graduate (TikTok Shop Content Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cb9a0fefdec76df36bf56a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
