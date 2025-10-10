@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TORY BURCH](http://toryburch.com)** | **[Assistant, Design Operations, HBs & SLGs](https://jobright.ai/jobs/info/68cfd0d5fb49c96ca6eabb72?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Oct 09 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cb18619e3a822f5d242631?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, WA | On Site | Oct 09 |
 | **[maurices](https://www.maurices.com)** | **[Assistant Technical Designer-maurices](https://jobright.ai/jobs/info/68917111f47efe21139553d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Duluth, MN | On Site | Oct 09 |
 | **[Banana Republic](http://www.bananarepublic.com/)** | **[Associate Textile Designer - Women's](https://jobright.ai/jobs/info/68a76a0a758f2e4ac3febbcb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Oct 08 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/68c2118863b706703e1115ee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 08 |
