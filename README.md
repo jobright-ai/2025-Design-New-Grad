@@ -109,6 +109,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Visual Keyholder](https://jobright.ai/jobs/info/687eed772097a271a8998fb4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tallahassee, FL | Hybrid | Oct 03 |
 | ↳ | **[Visual Keyholder](https://jobright.ai/jobs/info/68d62679894705799a2e7fbd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Silverdale, WA | Hybrid | Oct 03 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Maple Grove - Pottery Barn](https://jobright.ai/jobs/info/686c5b1035584b65423f9f05?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Maple Grove, MN | On Site | Oct 03 |
-| **[Gensler](http://www.gensler.com)** | **[Designer - Interiors - Junior](https://jobright.ai/jobs/info/68d8d938022fc803b4875478?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Oct 03 |
-| **[Neiman Marcus](https://www.neimanmarcusgroup.com)** | **[Personal Styling Assistant - Boston](https://jobright.ai/jobs/info/68a4cf23e9f1c744da124945?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
