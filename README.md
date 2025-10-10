@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Earthbound](https://earthboundbrands.com/)** | **[Graphic Designer- Cabrio Group](https://jobright.ai/jobs/info/68ccc144fa466330fef908e8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Oct 10 |
 | **[Bonterra](https://www.bonterratech.com/)** | **[Product Designer](https://jobright.ai/jobs/info/68cf63fbdbd9fb154ede770a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Oct 10 |
 | **[TORY BURCH](http://toryburch.com)** | **[Assistant, Design Operations, HBs & SLGs](https://jobright.ai/jobs/info/68cfd0d5fb49c96ca6eabb72?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Oct 09 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cb18619e3a822f5d242631?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, WA | On Site | Oct 09 |
@@ -94,6 +95,4 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68c32a555adaee6c9bda7d06?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Grand Rapids, MI | On Site | Oct 04 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68c32d285adaee6c9bda7f45?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Eagle, ID | On Site | Oct 04 |
 | **[Fabletics](https://www.fabletics.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/68cd4428e23def7af55b792f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | El Segundo, CA | Hybrid | Oct 03 |
-| **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/688974a99f961617fe214872?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Little Rock, AR | Hybrid | Oct 03 |
-| **[Mattel, Inc.](http://www.mattel.com)** | **[Graphic Designer - Vehicles](https://jobright.ai/jobs/info/68355d98d3b709dc29ade764?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | El Segundo, CA | Hybrid | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
