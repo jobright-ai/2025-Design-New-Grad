@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TORY BURCH](http://toryburch.com)** | **[Assistant, Design Operations, HBs & SLGs](https://jobright.ai/jobs/info/68cfd0d5fb49c96ca6eabb72?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Oct 09 |
+| **[maurices](https://www.maurices.com)** | **[Assistant Technical Designer-maurices](https://jobright.ai/jobs/info/68917111f47efe21139553d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Duluth, MN | On Site | Oct 09 |
 | **[Banana Republic](http://www.bananarepublic.com/)** | **[Associate Textile Designer - Women's](https://jobright.ai/jobs/info/68a76a0a758f2e4ac3febbcb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Oct 08 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/68c2118863b706703e1115ee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 08 |
 | **[Neiman Marcus](https://www.neimanmarcusgroup.com)** | **[Personal Styling Assistant - San Francisco](https://jobright.ai/jobs/info/689170a5f47efe21139553ab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Oct 08 |
@@ -72,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Rain For Rent](http://www.rainforrent.com/)** | **[Creative Services Specialist](https://jobright.ai/jobs/info/68c8ca63f9c6ff7aedf12ae0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bakersfield, CA | On Site | Oct 07 |
 | **[Georgia Institute of Technology](http://gatech.edu)** | **[Architectural Designer](https://jobright.ai/jobs/info/68d0c673fb49c96ca6eb015a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta Metro | On Site | Oct 06 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68a8c145d627244576e354df?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbia, SC | On Site | Oct 05 |
-| **[Spencer's](http://www.spencersonline.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/68ca45050456a931db296a31?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Egg Harbor, NJ | Hybrid | Oct 05 |
 | **[Fabletics](https://www.fabletics.com/)** | **[Jr. Digital Graphic Designer](https://jobright.ai/jobs/info/68c699847d0db4114273adc4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | El Segundo, CA | Hybrid | Oct 05 |
 | **[Meta](https://www.meta.com)** | **[Postdoctoral Researcher, Perceptual Graphics (PhD)](https://jobright.ai/jobs/info/68d84629295f8e37655e6992?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sunnyvale, CA | On Site | Oct 04 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68c54592db52c07d288421cc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Parkville, MD | On Site | Oct 04 |
@@ -93,5 +94,4 @@ For a complete list, click the following sortable link below:
 | **[Mattel, Inc.](http://www.mattel.com)** | **[Graphic Designer - Vehicles](https://jobright.ai/jobs/info/68355d98d3b709dc29ade764?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | El Segundo, CA | Hybrid | Oct 03 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Walt Whitman - Pottery Barn](https://jobright.ai/jobs/info/68ccf7945954791a1d701f25?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Huntington, NY | On Site | Oct 03 |
 | **[West Elm](https://www.westelm.com/)** | **[Design Studio Spc/Home Stylist, Part Time Flex, Boulder- West Elm](https://jobright.ai/jobs/info/66d0e27a1337b911efaee309?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boulder, CO | On Site | Oct 03 |
-| **[Amazon](https://amazon.com)** | **[Visual UX Designer, Devices & Services](https://jobright.ai/jobs/info/68ce2bf3e23def7af55c2bbf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
