@@ -58,8 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Earthbound](https://earthboundbrands.com/)** | **[Graphic Designer- Cabrio Group](https://jobright.ai/jobs/info/68ccc144fa466330fef908e8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Oct 10 |
+| **[Woot, Inc.](http://www.woot.com)** | **[UX Designer III - AMZ25440.1](https://jobright.ai/jobs/info/68cc9f237342c7623ae674fb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Oct 10 |
 | **[Bonterra](https://www.bonterratech.com/)** | **[Product Designer](https://jobright.ai/jobs/info/68cf63fbdbd9fb154ede770a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Oct 10 |
 | **[TORY BURCH](http://toryburch.com)** | **[Assistant, Design Operations, HBs & SLGs](https://jobright.ai/jobs/info/68cfd0d5fb49c96ca6eabb72?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Oct 09 |
+| **[Golden Hippo®](http://goldenhippomedia.com)** | **[Associate Production Designer](https://jobright.ai/jobs/info/68d5b6ee1f7fb2169ab132e2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Oct 09 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cb18619e3a822f5d242631?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, WA | On Site | Oct 09 |
 | **[West Elm](https://www.westelm.com/)** | **[Visual Associate, Part Time Flex, Vernon Hills - West Elm](https://jobright.ai/jobs/info/68598ce1d66e0e7fc47c5bdb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Scarsdale, NY | On Site | Oct 09 |
 | **[maurices](https://www.maurices.com)** | **[Assistant Technical Designer-maurices](https://jobright.ai/jobs/info/68917111f47efe21139553d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Duluth, MN | On Site | Oct 09 |
@@ -94,5 +96,4 @@ For a complete list, click the following sortable link below:
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Studio Design Assistant](https://jobright.ai/jobs/info/68d75660295f8e37655d4d7e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Oct 04 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68c32a555adaee6c9bda7d06?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Grand Rapids, MI | On Site | Oct 04 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68c32d285adaee6c9bda7f45?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Eagle, ID | On Site | Oct 04 |
-| **[Fabletics](https://www.fabletics.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/68cd4428e23def7af55b792f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | El Segundo, CA | Hybrid | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
