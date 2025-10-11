@@ -190,6 +190,4 @@ For a complete list, click the following sortable link below:
 | **[Ethan Allen Global, Inc.](http://ethanallen.com)** | **[Retail Interior Design Consultant](https://jobright.ai/jobs/info/68d968c69a8e451a446a4a5b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lexington, KY | On Site | Sep 28 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Personal Healthcare Brand Expression Designer](https://jobright.ai/jobs/info/68bb712d5f3832749186f2ac?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mason, OH | On Site | Sep 27 |
 | **[Revelyst](https://www.revelyst.com)** | **[Studio Production & Photography Assistant](https://jobright.ai/jobs/info/689fc241cc9ee94dc91199b1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | On Site | Sep 27 |
-| **[Neiman Marcus](https://www.neimanmarcusgroup.com)** | **[Personal Styling Assistant - Short Hills](https://jobright.ai/jobs/info/68bb3ae68043103d4f226e3b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Short Hills, NJ | On Site | Sep 27 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68bb8ece8043103d4f229b10?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, ME | On Site | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
