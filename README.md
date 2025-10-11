@@ -92,6 +92,4 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68a7c6c7758f2e4ac3fee76c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tacoma, WA | On Site | Oct 04 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Monterey - Pottery Barn](https://jobright.ai/jobs/info/67fd338035a101604cbfd5b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Monterey, CA | On Site | Oct 04 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Design Coordinator, Business Solutions](https://jobright.ai/jobs/info/686dba476ba17ba0b30e3bf4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Oct 04 |
-| **[F. Schumacher & Co.](http://fschumacher.com)** | **[Studio Design Assistant](https://jobright.ai/jobs/info/68d75660295f8e37655d4d7e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Oct 04 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68c32a555adaee6c9bda7d06?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Grand Rapids, MI | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
