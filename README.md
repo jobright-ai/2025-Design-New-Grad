@@ -87,6 +87,4 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68a8bf86d627244576e35369?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Clermont, FL | On Site | Oct 04 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/68cd5b901ad6b16f02898784?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Hybrid | Oct 04 |
 | **[Nutrafol](https://www.nutrafol.com/)** | **[Associate, Email Designer (HTML)](https://jobright.ai/jobs/info/68ccdf5b77add66568abaf42?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Oct 04 |
-| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/688bc7b71808534a89cb6159?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | Hybrid | Oct 04 |
-| **[RR Donnelley](http://www.rrd.com)** | **[Presentation Associate - 1st and 2nd Shifts](https://jobright.ai/jobs/info/68b7938a1ade4306aa64c23c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, OH | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
