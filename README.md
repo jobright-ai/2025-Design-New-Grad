@@ -190,5 +190,4 @@ For a complete list, click the following sortable link below:
 | **[Nutrafol](https://www.nutrafol.com/)** | **[Associate, Email Designer (HTML)](https://jobright.ai/jobs/info/68d92b3d9a8e451a446a4507?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote (United States) | Remote | Sep 28 |
 | **[Macy's](http://www.macysjobs.com)** | **[Visual Support Captain, Promenade Bolingbrook - Full Time](https://jobright.ai/jobs/info/68d91581061b716fa2959e6a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 645 East Boughton Road, Bolingbrook, IL, 60440, US | On Site | Sep 28 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Coordinator, Interiors](https://jobright.ai/jobs/info/68cee4d9dbd9fb154ede3775?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Sep 28 |
-| **[Ethan Allen Global, Inc.](http://ethanallen.com)** | **[Retail Interior Design Consultant](https://jobright.ai/jobs/info/68d968c69a8e451a446a4a5b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lexington, KY | On Site | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
