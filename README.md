@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[WGN-TV](https://wgntv.com/)** | **[Graphic Artist](https://jobright.ai/jobs/info/68cd6474b2a74e1837ed66d2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Oct 12 |
+| **[WebFX](https://www.webfx.com)** | **[Jr. Web Design Project Coordinator](https://jobright.ai/jobs/info/67eec162357dc4681d864204?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Harrisburg, PA | On Site | Oct 12 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Artist](https://jobright.ai/jobs/info/685dfe3bbee2fb40984e7fe3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Winona, MN | On Site | Oct 12 |
 | **[Centric Brands](https://centricbrands.com)** | **[Associate Designer](https://jobright.ai/jobs/info/68d755b37a37c712687c8ac8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Oct 11 |
 | **[Amazon](https://amazon.com)** | **[UX Designer II - AMZ25436.1](https://jobright.ai/jobs/info/68ce6d10846f0b04af679c92?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Oct 11 |
