@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3e312097a271a898e24b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, GA | On Site | Oct 15 |
 | **[Roblox](https://corp.roblox.com)** | **[[2026] Associate Product Designer, Early Career](https://jobright.ai/jobs/info/68cbed6d128dc347fd91c1d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Mateo, CA | Hybrid | Oct 15 |
 | **[Faherty Brand](http://fahertybrand.com)** | **[Assistant Designer, Men’s](https://jobright.ai/jobs/info/68c98b64a0c52d598ea384e2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Oct 15 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d46f22097a271a898e355?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sugar Land, TX | On Site | Oct 14 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cd660bb2a74e1837ed68a8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hyannis, MA | On Site | Oct 14 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/687d46f22097a271a898e355?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sugar Land, TX | On Site | Oct 14 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/689a09a083d13d1f5b6958a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Salt Lake City, UT | On Site | Oct 14 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3e6e2097a271a898e27d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Summerfield, FL | On Site | Oct 14 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687e18cb764c3d7411c41668?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lewis Center, OH | On Site | Oct 14 |
@@ -74,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Newsmax Media, Inc.](http://www.newsmax.com/)** | **[Graphics Operator](https://jobright.ai/jobs/info/683461817b219e1a8e9e4aca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Oct 13 |
 | **[HDR](http://www.hdrinc.com)** | **[Interior Design Coordinator](https://jobright.ai/jobs/info/68d358f117554c2d9eef0079?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pennington, NJ | On Site | Oct 12 |
 | **[Crate and Barrel](http://www.crateandbarrel.com)** | **[Associate Designer, Digital & Paid Media](https://jobright.ai/jobs/info/68ccd78677add66568aba197?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Northbrook, IL | Hybrid | Oct 12 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cd37b2b2a74e1837ed3e8a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cortlandt Manor, NY | On Site | Oct 12 |
 | **[West Elm](https://www.westelm.com/)** | **[Visual Associate, Seasonal Flex Only, South Coast Plaza - West Elm](https://jobright.ai/jobs/info/6898493afaa4e875e824d0a3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Costa Mesa, CA | On Site | Oct 12 |
 | **[WGN-TV](https://wgntv.com/)** | **[Graphic Artist](https://jobright.ai/jobs/info/68cd6474b2a74e1837ed66d2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Oct 12 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Web Design Project Coordinator](https://jobright.ai/jobs/info/67eec162357dc4681d864204?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Harrisburg, PA | On Site | Oct 12 |
@@ -91,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[LOFT](https://www.loft.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/68cf7ef2846f0b04af6827b8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Oct 10 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6892bd61f5ee707a15dc7eac?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tempe, AZ | On Site | Oct 10 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Mission Viejo - Pottery Barn](https://jobright.ai/jobs/info/6893e229f47efe21139679f1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mission Viejo, CA | On Site | Oct 10 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68af5fb82daaba398441db7a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lutz, FL | On Site | Oct 10 |
 | **[Earthbound](https://earthboundbrands.com/)** | **[Graphic Designer- Cabrio Group](https://jobright.ai/jobs/info/68ccc144fa466330fef908e8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Oct 10 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/683df3ea03306e9ff51990fc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Hybrid | Oct 10 |
 | **[Woot, Inc.](http://www.woot.com)** | **[UX Designer III - AMZ25440.1](https://jobright.ai/jobs/info/68cc9f237342c7623ae674fb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Oct 10 |
