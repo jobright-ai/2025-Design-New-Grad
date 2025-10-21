@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RAPP](http://www.rapp.com/)** | **[Content Author](https://jobright.ai/jobs/info/68dafa476df7b8311bb14fe4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Detroit Metro | Hybrid | Oct 21 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Flex Female Model - Downtown Seattle Photo Studio](https://jobright.ai/jobs/info/68d930fe9a8e451a446a45dd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Oct 19 |
 | ↳ | **[Flex Female Model - Cedar Rapids Photo Studio](https://jobright.ai/jobs/info/68d581d039247e3c807ec295?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cedar Rapids, IA | On Site | Oct 19 |
 | ↳ | **[Flex Male Model - Downtown Seattle Photo Studio](https://jobright.ai/jobs/info/689f52fe79a9f96662556042?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Oct 19 |
@@ -147,5 +148,4 @@ For a complete list, click the following sortable link below:
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Studio Artist (Temporary)](https://jobright.ai/jobs/info/68c9a09ca0c52d598ea3925b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Oct 08 |
 | **[AppLovin](https://www.applovin.com)** | **[Creative Operator](https://jobright.ai/jobs/info/68ccfc2477add66568abd14d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Florida, United States | Hybrid | Oct 08 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/68acaeba758f2e4ac30079fa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | Hybrid | Oct 07 |
-| **[Giorgio Armani](http://www.armani.com)** | **[Tailor, Giorgio Armani](https://jobright.ai/jobs/info/68ce4acedbd9fb154edddca8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
