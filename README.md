@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[RAPP](http://www.rapp.com/)** | **[Content Author](https://jobright.ai/jobs/info/68dafa476df7b8311bb14fe4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Detroit Metro | Hybrid | Oct 21 |
 | **[The RealReal](http://www.therealreal.com)** | **[Photography Production Assistant](https://jobright.ai/jobs/info/68a1d2c4cc9ee94dc9123f3f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Perth Amboy, NJ | On Site | Oct 20 |
+| **[Nordstrom](http://www.nordstrom.com)** | **[Flex Male Model - Los Angeles Photo Studio](https://jobright.ai/jobs/info/68d92fd1022fc803b4876d76?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Oct 20 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Flex Female Model - Downtown Seattle Photo Studio](https://jobright.ai/jobs/info/68d930fe9a8e451a446a45dd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Oct 19 |
 | ↳ | **[Flex Female Model - Cedar Rapids Photo Studio](https://jobright.ai/jobs/info/68d581d039247e3c807ec295?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cedar Rapids, IA | On Site | Oct 19 |
 | ↳ | **[Flex Male Model - Downtown Seattle Photo Studio](https://jobright.ai/jobs/info/689f52fe79a9f96662556042?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Oct 19 |
@@ -141,5 +142,4 @@ For a complete list, click the following sortable link below:
 | **[TORY BURCH](http://toryburch.com)** | **[Assistant, Design Operations, HBs & SLGs](https://jobright.ai/jobs/info/68cfd0d5fb49c96ca6eabb72?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Oct 09 |
 | **[West Elm](https://www.westelm.com/)** | **[Visual Associate, Part Time Flex, Vernon Hills - West Elm](https://jobright.ai/jobs/info/68598ce1d66e0e7fc47c5bdb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Scarsdale, NY | On Site | Oct 09 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Junior Designer - Architecture](https://jobright.ai/jobs/info/68adf533758f2e4ac300fd48?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Oct 08 |
-| **[Banana Republic](http://www.bananarepublic.com/)** | **[Associate Textile Designer - Women's](https://jobright.ai/jobs/info/68a76a0a758f2e4ac3febbcb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
