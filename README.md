@@ -97,7 +97,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3e632097a271a898e268?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, IN | On Site | Oct 14 |
 | **[Broadridge](http://www.broadridge.com)** | **[Print Coordinator (Night Shift - On-Site)](https://jobright.ai/jobs/info/68d7c0957796a83635f0b286?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Coppell, TX | On Site | Oct 14 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cf31f9fb49c96ca6ea64eb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boynton Beach, FL | On Site | Oct 13 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/687d3ee5764c3d7411c3c91a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sacramento, CA | On Site | Oct 13 |
 | **[Huitt-Zollars, Inc.](http://www.huitt-zollars.com)** | **[Entry Level Design Staff I](https://jobright.ai/jobs/info/674f5ca9ccd2bc1e4d052da9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Oct 13 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d41372097a271a898e29a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Colorado Springs, CO | On Site | Oct 13 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68cd2c1c1ad6b16f0289610c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pembroke Pines, FL | On Site | Oct 13 |
@@ -137,6 +136,5 @@ For a complete list, click the following sortable link below:
 | **[Meta](https://www.meta.com)** | **[Postdoctoral Researcher, Perceptual Graphics (PhD)](https://jobright.ai/jobs/info/68cfde77fb49c96ca6eac185?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Redmond, WA | On Site | Oct 09 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cc80f316d00d2beeb20b06?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dearborn, MI | On Site | Oct 09 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68cf1143dbd9fb154ede4e04?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Garden City, NY | On Site | Oct 09 |
-| **[TORY BURCH](http://toryburch.com)** | **[Assistant, Design Operations, HBs & SLGs](https://jobright.ai/jobs/info/68cfd0d5fb49c96ca6eabb72?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Oct 09 |
 | **[West Elm](https://www.westelm.com/)** | **[Visual Associate, Part Time Flex, Vernon Hills - West Elm](https://jobright.ai/jobs/info/68598ce1d66e0e7fc47c5bdb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Scarsdale, NY | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
