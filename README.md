@@ -120,5 +120,4 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cc851d7342c7623ae66147?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mooresville, NC | On Site | Oct 11 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Brea - Pottery Barn](https://jobright.ai/jobs/info/67eaffdcbef01db4995a17f5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brea, CA | On Site | Oct 10 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Design Assistant, Polo Women's Knits](https://jobright.ai/jobs/info/68cc9cfc128dc347fd927483?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Oct 10 |
-| **[LOFT](https://www.loft.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/68cf7ef2846f0b04af6827b8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
