@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Akima](https://www.akima.com)** | **[Digital Print Specialist](https://jobright.ai/jobs/info/68c2b6785001f8077bf5d5d1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | District of Columbia, United States | On Site | Oct 23 |
 | **[RAPP](http://www.rapp.com/)** | **[Content Author](https://jobright.ai/jobs/info/68dafa476df7b8311bb14fe4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Detroit Metro | Hybrid | Oct 21 |
 | **[The RealReal](http://www.therealreal.com)** | **[Photography Production Assistant](https://jobright.ai/jobs/info/68a1d2c4cc9ee94dc9123f3f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Perth Amboy, NJ | On Site | Oct 20 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Flex Male Model - Los Angeles Photo Studio](https://jobright.ai/jobs/info/68d92fd1022fc803b4876d76?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Oct 20 |
