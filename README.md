@@ -109,5 +109,4 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Design Coordinator](https://jobright.ai/jobs/info/68cf506efb49c96ca6ea73ff?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Oct 12 |
 | ↳ | **[Interior Design Coordinator](https://jobright.ai/jobs/info/68d358f117554c2d9eef0079?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pennington, NJ | On Site | Oct 12 |
 | **[Crate and Barrel](http://www.crateandbarrel.com)** | **[Associate Designer, Digital & Paid Media](https://jobright.ai/jobs/info/68ccd78677add66568aba197?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Northbrook, IL | Hybrid | Oct 12 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cd37b2b2a74e1837ed3e8a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cortlandt Manor, NY | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
