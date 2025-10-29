@@ -137,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[Banana Republic](http://www.bananarepublic.com/)** | **[Associate Textile Designer - Women's](https://jobright.ai/jobs/info/68a76a0a758f2e4ac3febbcb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Oct 08 |
 | **[Neiman Marcus](https://www.neimanmarcusgroup.com)** | **[Personal Styling Assistant - San Francisco](https://jobright.ai/jobs/info/689170a5f47efe21139553ab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Oct 08 |
 | **[AppLovin](https://www.applovin.com)** | **[Creative Operator](https://jobright.ai/jobs/info/68ccfc2477add66568abd14d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Florida, United States | Hybrid | Oct 08 |
-| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/68acaeba758f2e4ac30079fa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | Hybrid | Oct 07 |
 | **[Giorgio Armani](http://www.armani.com)** | **[Tailor, Giorgio Armani](https://jobright.ai/jobs/info/68ce4acedbd9fb154edddca8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Oct 07 |
 | **[RR Donnelley](http://www.rrd.com)** | **[Presentation Associate - 1st and 2nd Shifts](https://jobright.ai/jobs/info/68b7938a1ade4306aa64c23c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, OH | On Site | Oct 04 |
 | **[Gensler](http://www.gensler.com)** | **[Technical Designer - Workplace](https://jobright.ai/jobs/info/68d5ff741f7fb2169ab152bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Morristown, NJ | On Site | Oct 03 |
@@ -148,5 +147,4 @@ For a complete list, click the following sortable link below:
 | **[CENTERS, LLC](http://centersusa.com)** | **[PT Graphic Designer](https://jobright.ai/jobs/info/68daf11d0dffed6f83d2adbc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US-AL-Jacksonville | On Site | Sep 29 |
 | **[PACSUN](http://www.pacsun.com/)** | **[Assistant Designer, Women's Graphics](https://jobright.ai/jobs/info/68b87a215b42bc4562824caf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Anaheim, CA | Hybrid | Sep 29 |
 | **[Minuteman Press](https://www.minutemanpress.com/)** | **[Print Production Designer](https://jobright.ai/jobs/info/68db07d3e9b48513789b145e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brandon, FL | On Site | Sep 29 |
-| ↳ | **[Graphic Designer/Print Production](https://jobright.ai/jobs/info/68daf78b07c157682e570422?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orland Park, IL | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
