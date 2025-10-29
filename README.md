@@ -142,5 +142,4 @@ For a complete list, click the following sortable link below:
 | **[Gensler](http://www.gensler.com)** | **[Technical Designer - Workplace](https://jobright.ai/jobs/info/68d5ff741f7fb2169ab152bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Morristown, NJ | On Site | Oct 03 |
 | ↳ | **[Designer - Interiors - Junior](https://jobright.ai/jobs/info/68d8d938022fc803b4875478?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Oct 03 |
 | **[Free People](http://www.freepeople.com)** | **[FP Movement Assistant Visual Manager](https://jobright.ai/jobs/info/68db3457e19b9e63ba2093b9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | On Site | Sep 29 |
-| **[TikTok](https://www.tiktok.com)** | **[Design Graduate (TikTok Shop Creative Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68db15cb6df7b8311bb15f48?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
