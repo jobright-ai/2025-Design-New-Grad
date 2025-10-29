@@ -150,5 +150,4 @@ For a complete list, click the following sortable link below:
 | **[Minuteman Press](https://www.minutemanpress.com/)** | **[Print Production Designer](https://jobright.ai/jobs/info/68db07d3e9b48513789b145e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brandon, FL | On Site | Sep 29 |
 | ↳ | **[Graphic Designer/Print Production](https://jobright.ai/jobs/info/68daf78b07c157682e570422?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orland Park, IL | On Site | Sep 29 |
 | **[Camping World](http://www.campingworld.com/)** | **[Social Media & Photography Assistant](https://jobright.ai/jobs/info/68dab6d20b832179ca4b0370?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ashland, VA | On Site | Sep 29 |
-| **[FASTSIGNS®](https://www.fastsigns.com/)** | **[Signs and Graphics Production/Installer](https://jobright.ai/jobs/info/68da57bd0b832179ca4ad4d0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Monrovia, CA | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
