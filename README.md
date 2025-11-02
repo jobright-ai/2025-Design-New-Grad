@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Giorgio Armani](http://www.armani.com)** | **[Tailor, Giorgio Armani](https://jobright.ai/jobs/info/68ce4acedbd9fb154edddca8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Oct 29 |
 | **[West Elm](https://www.westelm.com/)** | **[Design Studio Spc/Home Stylist, Part Time Flex, Boulder- West Elm](https://jobright.ai/jobs/info/66d0e27a1337b911efaee309?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boulder, CO | On Site | Oct 25 |
 | **[Akima](https://www.akima.com)** | **[Digital Print Specialist](https://jobright.ai/jobs/info/68c2b6785001f8077bf5d5d1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | District of Columbia, United States | On Site | Oct 23 |
 | **[RAPP](http://www.rapp.com/)** | **[Content Author](https://jobright.ai/jobs/info/68dafa476df7b8311bb14fe4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Detroit Metro | Hybrid | Oct 21 |
@@ -115,6 +116,5 @@ For a complete list, click the following sortable link below:
 | **[Centric Brands](https://centricbrands.com)** | **[Associate Designer](https://jobright.ai/jobs/info/68d755b37a37c712687c8ac8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Oct 11 |
 | **[Amazon](https://amazon.com)** | **[UX Designer II - AMZ25436.1](https://jobright.ai/jobs/info/68ce6d10846f0b04af679c92?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Oct 11 |
 | **[Banana Republic](http://www.bananarepublic.com/)** | **[Associate Textile Designer - Women's](https://jobright.ai/jobs/info/68a76a0a758f2e4ac3febbcb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Oct 08 |
-| **[Giorgio Armani](http://www.armani.com)** | **[Tailor, Giorgio Armani](https://jobright.ai/jobs/info/68ce4acedbd9fb154edddca8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Oct 07 |
 | **[RR Donnelley](http://www.rrd.com)** | **[Presentation Associate - 1st and 2nd Shifts](https://jobright.ai/jobs/info/68b7938a1ade4306aa64c23c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, OH | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
