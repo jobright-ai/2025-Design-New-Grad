@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3e312097a271a898e24b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, GA | On Site | Nov 05 |
+| **[ReminderMedia](http://www.remindermedia.com)** | **[Web Designer - Junior](https://jobright.ai/jobs/info/690b6df8221b890c277f4dae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Hybrid | Nov 05 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cd893d1ad6b16f0289b055?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sarasota, FL | On Site | Nov 05 |
+| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/690b6164d046ab6061ce4096?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Eau Claire, WI | On Site | Nov 05 |
 | **[Harris Teeter](http://www.harristeeter.com)** | **[Part Time Floral Designer](https://jobright.ai/jobs/info/690b55cb4a1b456627b0ef1d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | GAINESVILLE, VIRGINIA, STORE 338 - HERITAGE MARKETPLACE | On Site | Nov 05 |
 | ↳ | **[Part Time Floral Designer](https://jobright.ai/jobs/info/690b55494a1b456627b0eee0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | BRAMBLETON, VIRGINIA, STORE 230 - BRAMBLETON TOWN CENTER | On Site | Nov 05 |
 | ↳ | **[Part Time Floral Designer](https://jobright.ai/jobs/info/690b51bf221b890c277f4489?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | WARRENTON, VIRGINIA, STORE 329 - WARRENTON VA | On Site | Nov 05 |
@@ -71,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[CoCreativ](https://www.cocreativ.co)** | **[Retail Designer - Industrial Color Extended](https://jobright.ai/jobs/info/690acf23bcccf20de59e6544?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York County, NY | Hybrid | Nov 04 |
 | **[Bloom Companies, LLC](https://www.bloomcos.com/)** | **[ARCHITECT 1](https://jobright.ai/jobs/info/690ac944bcccf20de59e6090?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Nov 04 |
 | **[AECOM](http://www.aecom.com/)** | **[Landscape Architecture Designer I](https://jobright.ai/jobs/info/690ac6e9bcccf20de59e5f66?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Nov 04 |
-| **[Crate and Barrel](http://www.crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/690abd10d046ab6061cdfa43?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Nov 04 |
+| **[Crate and Barrel](http://www.crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/690ac0ead046ab6061cdfcde?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Nov 04 |
 | **[Intereum](http://www.intereum.com)** | **[Associate Designer](https://jobright.ai/jobs/info/690abaa2d046ab6061cdf826?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Plymouth, MN | On Site | Nov 04 |
 | **[Crate and Barrel](http://www.crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/690ab9384a1b456627b0a9d8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | White Plains, NY | On Site | Nov 04 |
 | **[DACUT](dacut.com)** | **[Graphic Designer - Cannabis Marketing](https://jobright.ai/jobs/info/690ab51ad046ab6061cdf515?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West Bloomfield Township, MI | On Site | Nov 04 |
@@ -193,7 +197,6 @@ For a complete list, click the following sortable link below:
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Artist](https://jobright.ai/jobs/info/685dfe3bbee2fb40984e7fe3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Winona, MN | On Site | Nov 02 |
 | **[WebFX](https://www.webfx.com)** | **[Jr. Web Design Project Coordinator](https://jobright.ai/jobs/info/67eec162357dc4681d864204?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Harrisburg, PA | On Site | Nov 02 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Coordinator](https://jobright.ai/jobs/info/68cf506efb49c96ca6ea73ff?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Nov 02 |
-| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/68cdf5f41ad6b16f028a03d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | King of Prussia, PA | Hybrid | Nov 02 |
 | **[The Estée Lauder Companies Inc.](http://www.elcompanies.com)** | **[MAC Artist Freelancer - Knoxville, TN](https://jobright.ai/jobs/info/6902868500a1816c41e9f3b8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Knoxville, TN | On Site | Nov 01 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68af5fb82daaba398441db7a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lutz, FL | On Site | Nov 01 |
 | **[Earthbound](https://earthboundbrands.com/)** | **[Graphic Designer- Cabrio Group](https://jobright.ai/jobs/info/68ccc144fa466330fef908e8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Nov 01 |
@@ -309,6 +312,4 @@ For a complete list, click the following sortable link below:
 | **[Chicago Bulls](https://www.nba.com/bulls/)** | **[Creative Specialist, Partnership Strategy & Insights](https://jobright.ai/jobs/info/6902e87c98707b2b0fe73e1a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Oct 29 |
 | **[Free People](http://www.freepeople.com)** | **[FP Movement Assistant Visual Manager](https://jobright.ai/jobs/info/6902c68e98707b2b0fe72b39?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Oct 29 |
 | **[RR Donnelley](http://www.rrd.com)** | **[Presentations Graphic Designer (Weekends - Primarily Remote)](https://jobright.ai/jobs/info/690541c1ff462851feffc4e5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wheeling, WV, USA | Remote | Oct 29 |
-| **[FKP | CannonDesign](http://www.fkp.com/)** | **[Designer - Entry Level](https://jobright.ai/jobs/info/6903f053d64a22104aa95106?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 29 |
-| **[Book of the Month](http://www.bookofthemonth.com)** | **[Coordinator, Creative Strategy](https://jobright.ai/jobs/info/6902bd3e00a1816c41ea10de?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
