@@ -71,7 +71,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3bc2ed63844c944b2315?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hendersonville, TN | On Site | Oct 16 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architect, Higher Education](https://jobright.ai/jobs/info/68770bc0299cbc74b8762e18?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Riverside, CA | Hybrid | Oct 16 |
 | **[J.Crew](http://www.jcrew.com)** | **[Assistant Designer - Men's Accessories and Footwear](https://jobright.ai/jobs/info/682b775978d503ae31391494?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Oct 16 |
-| **[HDR](http://www.hdrinc.com)** | **[Design Coordinator](https://jobright.ai/jobs/info/68b8f8b15b42bc45628295b4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Oct 16 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3f66ed63844c944b239c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Lauderdale, FL | On Site | Oct 15 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3f19764c3d7411c3c938?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Myers, FL | On Site | Oct 15 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687e1975db19f31cf0d682e7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fern Park, FL | On Site | Oct 15 |
