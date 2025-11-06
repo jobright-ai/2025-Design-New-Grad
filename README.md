@@ -88,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3f66ed63844c944b239c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Lauderdale, FL | On Site | Nov 05 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3bc2ed63844c944b2315?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hendersonville, TN | On Site | Nov 05 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3e492097a271a898e257?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port Chester, NY | On Site | Nov 05 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/689a0fd05574fd6bc0c7f617?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Apple Valley, MN | On Site | Nov 05 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3c1b2097a271a898e1e7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bremerton, WA | On Site | Nov 05 |
 | **[Shown Media](shownmedia.com)** | **[Associate Creative Strategist](https://jobright.ai/jobs/info/690b81b2221b890c277f559b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | On Site | Nov 05 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3f51ed63844c944b238f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Carson, CA | On Site | Nov 05 |
@@ -104,7 +103,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68c8f198983e6768bc553d8a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Humble, TX | On Site | Nov 05 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68cdff391ad6b16f028a09ff?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ocean Township, NJ | On Site | Nov 05 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[Video Editor, Marketing - A&F (Remote)](https://jobright.ai/jobs/info/68ea44e72f64880ca0b51a96?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, OH | Remote | Nov 05 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cc7ec7128dc347fd925dfd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Memphis, TN | On Site | Nov 05 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cdb10c1ad6b16f0289dcb4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Apple Valley, MN | On Site | Nov 05 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/68cc7ec7128dc347fd925dfd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Memphis, TN | On Site | Nov 05 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68ce20fde23def7af55c2665?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Nov 05 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Part Time - Framing Team Member](https://jobright.ai/jobs/info/690b7688221b890c277f5109?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | El Cajon-2398 Jamacha Rd, Ste A | On Site | Nov 05 |
 | **[The Hartford](http://www.thehartford.com)** | **[Marketing Production Designer](https://jobright.ai/jobs/info/690b9821d046ab6061ce5920?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wayne, PA | Hybrid | Nov 05 |
@@ -346,9 +346,4 @@ For a complete list, click the following sortable link below:
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Designer - Entry Level](https://jobright.ai/jobs/info/69038378d64a22104aa9002f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Oct 30 |
 | **[Centric Brands](https://centricbrands.com)** | **[Graphic Designer - Beauty](https://jobright.ai/jobs/info/690a2277bcccf20de59df2ac?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Oct 30 |
 | **[Printoly LLC](https://printoly.com/)** | **[Print Operator](https://jobright.ai/jobs/info/6904ca5b63502c0aded75431?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Deerfield Beach, FL | On Site | Oct 30 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68e7408ae8daec61499b3a99?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Homewood, AL | On Site | Oct 30 |
-| **[West Elm](https://www.westelm.com/)** | **[Visual Associate, Part Time Flex, Vernon Hills - West Elm](https://jobright.ai/jobs/info/68598ce1d66e0e7fc47c5bdb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Scarsdale, NY | Hybrid | Oct 30 |
-| **[Orveon Global](http://orveonglobal.com)** | **[Associate Art Director](https://jobright.ai/jobs/info/68e6b581e8daec61499adb52?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Oct 30 |
-| **[Jacobs](http://www.jacobs.com)** | **[Entry Level Architect - Summer 2026](https://jobright.ai/jobs/info/68df69775ab4977c2e954685?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Worth, TX | On Site | Oct 30 |
-| **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Junior Designer - Architecture](https://jobright.ai/jobs/info/68adf533758f2e4ac300fd48?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
