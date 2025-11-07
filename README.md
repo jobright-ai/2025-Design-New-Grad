@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Publicis Health](http://publicishealth.com)** | **[Freelance Creative - Copy](https://jobright.ai/jobs/info/689d778e79a9f96662540ac2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Nov 07 |
+| ↳ | **[Freelance Creative - Copy](https://jobright.ai/jobs/info/689d777379a9f96662540a4f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Nov 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Jr. Designer, Creative Studios (In-House Agency)](https://jobright.ai/jobs/info/690de7cc44146d3b6ec50752?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Nov 07 |
 | **[The LA Group](https://www.thelagroup.com/)** | **[Landscape Designer](https://jobright.ai/jobs/info/690de7c544146d3b6ec5074e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Saratoga Springs, NY | Hybrid | Nov 07 |
 | **[Torrid](http://www.torrid.com/)** | **[Associate Technical Designer](https://jobright.ai/jobs/info/68f737cbec6dbe7073fb7b12?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | City of Industry, CA | On Site | Nov 07 |
@@ -158,13 +160,12 @@ Freelance Golazo Graphics Operator, CBS Sports Digital (On Site)](https://jobrig
 | **[Old Navy](http://www.oldnavy.com)** | **[Associate Designer, Men's Active Apparel](https://jobright.ai/jobs/info/690bdf5ad046ab6061ce8c52?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Nov 05 |
 | **[Free People](http://www.freepeople.com)** | **[FP Movement Assistant Visual Manager](https://jobright.ai/jobs/info/690bba42d046ab6061ce6e7e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Antonio, TX | On Site | Nov 05 |
 | **[Marc Jacobs](http://www.marcjacobs.com)** | **[Temporary Design Coordinator](https://jobright.ai/jobs/info/690bb90f4a1b456627b11fcc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Nov 05 |
-| **[Coalition, Inc.](https://www.coalitioninc.com)** | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/690be32a221b890c277f97da?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Nov 05 |
-| ↳ | **[WEB DESIGNER](https://jobright.ai/jobs/info/690bdfa3d046ab6061ce8c92?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA | Remote | Nov 05 |
+| **[Coalition, Inc.](https://www.coalitioninc.com)** | **[WEB DESIGNER](https://jobright.ai/jobs/info/690bdfa3d046ab6061ce8c92?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA | Remote | Nov 05 |
+| ↳ | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/690be32a221b890c277f97da?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Nov 05 |
 | ↳ | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/690bd529d046ab6061ce851c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Nov 05 |
 | **[Castle Automotive Group](https://castleautomotivegroup.com)** | **[Part-Time Graphic Designer](https://jobright.ai/jobs/info/690bb3b7d046ab6061ce6a57?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oakbrook Terrace, IL, 60181, US | Hybrid | Nov 05 |
 | **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Display Artist - Full-Time](https://jobright.ai/jobs/info/690baec9d046ab6061ce66e5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Monterey, CA | On Site | Nov 05 |
 | **[The Hartford](http://www.thehartford.com)** | **[Marketing Production Designer](https://jobright.ai/jobs/info/690bcc724a1b456627b13044?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wayne, PA | Hybrid | Nov 05 |
-| **[Nordstrom](http://www.nordstrom.com)** | **[Production Artist, Flex - (Hybrid - Seattle, WA)](https://jobright.ai/jobs/info/690ba093221b890c277f65da?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Nov 05 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Viz Graphics Operator - Contract - Bloomberg](https://jobright.ai/jobs/info/6907c8da63502c0aded89250?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Nov 05 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[Asst. Video Editor/Assoc. Video Editor, Marketing - Hco (Remote)](https://jobright.ai/jobs/info/68eed3f9d078b81ad160fd50?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, OH | Remote | Nov 05 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3f66ed63844c944b239c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Lauderdale, FL | On Site | Nov 05 |
@@ -176,6 +177,7 @@ Freelance Golazo Graphics Operator, CBS Sports Digital (On Site)](https://jobrig
 | **[Worldwide Golf](http://www.worldwidegolfshops.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/690ba31bd046ab6061ce5faa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Ana, CA | On Site | Nov 05 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d40c6764c3d7411c3c971?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chandler, AZ | On Site | Nov 05 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3e632097a271a898e268?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, IN | On Site | Nov 05 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/687d3f5e764c3d7411c3c964?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Myers, FL | On Site | Nov 05 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[In-House Studio Designer](https://jobright.ai/jobs/info/68eeb59046e5b153e5a5e854?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cincinnati, OH | On Site | Nov 05 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3be6ed63844c944b2324?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ypsilanti, MI | On Site | Nov 05 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68cd6ecdb2a74e1837ed6d72?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Riviera Beach, FL | On Site | Nov 05 |
@@ -197,8 +199,7 @@ Freelance Golazo Graphics Operator, CBS Sports Digital (On Site)](https://jobrig
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3f90ed63844c944b23b6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toms River, NJ | On Site | Nov 05 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68d301868c62e63bc7fdcb33?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lutz, FL | On Site | Nov 05 |
 | **[Minuteman Press](https://www.minutemanpress.com/)** | **[Graphic Designer / Digital Print Production](https://jobright.ai/jobs/info/690b7fcb4a1b456627b0fdd9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fairfax, VA | On Site | Nov 05 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3f19764c3d7411c3c938?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Myers, FL | On Site | Nov 05 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/687d3b94764c3d7411c3c8b7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lone Tree, CO | On Site | Nov 05 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3b94764c3d7411c3c8b7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lone Tree, CO | On Site | Nov 05 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3e2c2097a271a898e244?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montgomery, AL | On Site | Nov 05 |
 | **[Woodbridge Interiors](https://www.woodbridgeinteriors.com/)** | **[Interior Designer/Design Consultant](https://jobright.ai/jobs/info/690b81cd4a1b456627b0ff17?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wexford, PA | On Site | Nov 05 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/690b6164d046ab6061ce4096?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Eau Claire, WI | On Site | Nov 05 |
@@ -243,10 +244,10 @@ Freelance Golazo Graphics Operator, CBS Sports Digital (On Site)](https://jobrig
 | **[Reformation](http://www.thereformation.com)** | **[Associate Footwear Designer](https://jobright.ai/jobs/info/68e97b7865768b6412b1c9dd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York | Hybrid | Nov 04 |
 | **[Gapingvoid Culture Design Group](http://www.gapingvoid.com)** | **[Designer](https://jobright.ai/jobs/info/690a9bc54a1b456627b09a6a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Nov 04 |
 | **[Serena & Lily](http://www.serenaandlily.com)** | **[Design Advisor](https://jobright.ai/jobs/info/690a8b084a1b456627b09081?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Naples, FL | On Site | Nov 04 |
-| **[VF Corporation](http://www.vfc.com)** | **[Vans: Associate Designer, Apparel Graphics](https://jobright.ai/jobs/info/690a80f84a1b456627b0892d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USCA > USA > California > Costa Mesa HQ - VAN | Hybrid | Nov 04 |
-| **[Serena & Lily](http://www.serenaandlily.com)** | **[Assistant Designer](https://jobright.ai/jobs/info/68e41b29f758fe1f97e63eea?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco Bay Area | On Site | Nov 04 |
+| ↳ | **[Assistant Designer](https://jobright.ai/jobs/info/68e41b29f758fe1f97e63eea?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco Bay Area | On Site | Nov 04 |
 | **[Steinhafels Furniture](http://steinhafels.com)** | **[Interior Designer](https://jobright.ai/jobs/info/690a9c19bcccf20de59e44cb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Milwaukee, WI | On Site | Nov 04 |
 | **[Continua Interiors](http://continuainteriors.com)** | **[Associate Designer](https://jobright.ai/jobs/info/690a7ab4bcccf20de59e2f6c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Plymouth, MN | On Site | Nov 04 |
+| **[VF Corporation](http://www.vfc.com)** | **[Vans: Associate Designer, Apparel Graphics](https://jobright.ai/jobs/info/690a77f9d046ab6061cdd0aa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USCA > USA > California > Costa Mesa HQ - VAN | Hybrid | Nov 04 |
 | **[Back to Nature Home & Garden](https://backtonature.net)** | **[Design Coordinator](https://jobright.ai/jobs/info/690a69c54a1b456627b07499?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Basking Ridge, NJ | On Site | Nov 04 |
 | **[Minuteman Press](https://www.minutemanpress.com/)** | **[Graphic Designer Print Associate](https://jobright.ai/jobs/info/690a807d4a1b456627b088a7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cincinnati, OH | On Site | Nov 04 |
 | **[American Electric Power](http://aep.com)** | **[Designer - Designer Sr](https://jobright.ai/jobs/info/6905c777ff462851fe00041e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Albany, OH | On Site | Nov 04 |
@@ -271,8 +272,7 @@ Freelance Golazo Graphics Operator, CBS Sports Digital (On Site)](https://jobrig
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68c67d93db52c07d2884946b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port St Lucie, FL | On Site | Nov 04 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3f71ed63844c944b23a4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Shoreline, WA | On Site | Nov 04 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68edd0d96335d3323612c34c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pompano Beach, FL | On Site | Nov 04 |
-| **[Remodeling Consultants Inc.](https://remodeling-consultants.com)** | **[Residential Design Assistant](https://jobright.ai/jobs/info/6904dd42ff462851feff827e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mamaroneck, NY | On Site | Nov 04 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cf313adbd9fb154ede58d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tampa, FL | On Site | Nov 04 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/68cf313adbd9fb154ede58d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tampa, FL | On Site | Nov 04 |
 | **[HII](https://hii.com)** | **[UI/UX Designer (Engineer Software 1)](https://jobright.ai/jobs/info/690a439d4a1b456627b059f4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Suffolk, VA | On Site | Nov 04 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3f5d764c3d7411c3c962?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Capitol Heights, MD | On Site | Nov 04 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3f30764c3d7411c3c942?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brentwood, TN | On Site | Nov 04 |
@@ -362,5 +362,4 @@ Freelance Golazo Graphics Operator, CBS Sports Digital (On Site)](https://jobrig
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Analyst, Clinical Training and Adoption](https://jobright.ai/jobs/info/6905887663502c0aded7bfa2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Oct 31 |
 | **[Abe](https://www.abetheagency.com/)** | **[Motion & Graphic Designer (Remote US) - Future Opening](https://jobright.ai/jobs/info/690578b563502c0aded7b5a0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | Remote | Oct 31 |
 | **[Strata Decision Technology](http://www.stratadecision.com)** | **[User Experience Researcher](https://jobright.ai/jobs/info/68dd96fea125e75c422acdda?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Oct 31 |
-| **[McCurley Dealerships](https://www.mccurley.net)** | **[Content Creator - Part-Time](https://jobright.ai/jobs/info/6905786f122e8474c78d92c4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pasco, WA, US | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
