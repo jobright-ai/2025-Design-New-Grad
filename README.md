@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Content and Communications Coordinator - ART60083909](https://jobright.ai/jobs/info/6916158a6f36db06ef052d2d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wake County, NC | Hybrid | Nov 13 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cfd0c7fb49c96ca6eabb5b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Devon, PA | On Site | Nov 13 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[UX Designer II - AMZ26133.1](https://jobright.ai/jobs/info/68f99c3c6de2db04dc3ea90a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | On Site | Nov 13 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68c1dcd54d652f044775b239?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Waltham, MA | On Site | Nov 13 |
+| **[MJH Life Sciences®](https://www.mjhlifesciences.com/)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/68cc934e128dc347fd926c53?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kansas City, MO | Hybrid | Nov 13 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/68dd87bd44d32141e0bf7abe?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Nov 13 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Graphic Designer](https://jobright.ai/jobs/info/68dda97cddc10244dd682b6b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Nov 13 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/68ddda73ddc10244dd68423b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orange, CA | On Site | Nov 13 |
@@ -96,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[The Kasper Group](http://www.jonesgroupinc.com)** | **[Associate Technical Designer, Dress & Bottoms](https://jobright.ai/jobs/info/68e998df0930fe0bc46279c0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Nov 12 |
 | **[VOX Global](https://voxglobal.com/)** | **[Video & Motion Design Fellowship](https://jobright.ai/jobs/info/6914fbbf9c388539cbdef3b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, D.C. | Hybrid | Nov 12 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68f8018d5dc1be60128201d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wylie, TX | On Site | Nov 12 |
+| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Associate UX Designer](https://jobright.ai/jobs/info/69161b19286ccf0a151328d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | On Site | Nov 12 |
 | **[NewCo Capital Group](https://newcocapitalgroup.com/)** | **[Junior Creative Designer](https://jobright.ai/jobs/info/6914c0406f36db06ef048a52?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Miami-FTL Area | On Site | Nov 12 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68f80027b0edcf159dc8d8c3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Moreno Valley, CA | On Site | Nov 12 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[User Experience Designer](https://jobright.ai/jobs/info/6914bb4b6f36db06ef0487e3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Nov 12 |
@@ -274,7 +278,4 @@ For a complete list, click the following sortable link below:
 | **[Applied Intuition](https://appliedintuition.com)** | **[Brand Designer](https://jobright.ai/jobs/info/68d02743dbd9fb154ededb27?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sunnyvale, CA | On Site | Nov 07 |
 | **[Boscov's Department Store, LLC](http://www.boscovs.com)** | **[Visual Merchandising - Seasonal (Full Time)](https://jobright.ai/jobs/info/690dc925221b890c278099c7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Clifton Park Center, 22 Clifton Country Road, Clifton Park, NY, 12065, US | On Site | Nov 07 |
 | **[MediaNews Group](https://www.medianewsgroup.com/)** | **[Page Designer](https://jobright.ai/jobs/info/690d73154a1b456627b21740?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boulder, CO | On Site | Nov 06 |
-| **[Fox News Media](https://www.foxnews.com/)** | **[Daily Artist](https://jobright.ai/jobs/info/690d6210221b890c278063c9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Nov 06 |
-| **[Cab Interior Design](http://www.cabinteriordesign.com/)** | **[Assembly Tech Cab Interior Design](https://jobright.ai/jobs/info/6902471f98707b2b0fe6dbda?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | On Site | Nov 06 |
-| **[CITY Furniture](http://www.cityfurniture.com)** | **[RESIDENTIAL INTERIOR DESIGNER - CLEARWATER](https://jobright.ai/jobs/info/690d5e77221b890c27806241?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Clearwater, FL | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
