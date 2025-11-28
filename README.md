@@ -347,11 +347,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6921cc55a49a885af9a47ad3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Liberty, IA | On Site | Nov 22 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6921cc4ca49a885af9a47ace?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bakersfield, CA | On Site | Nov 22 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6921cbf1a49a885af9a47aa2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Shorewood, IL | On Site | Nov 22 |
-| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6921cbaca49a885af9a47a7b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Nov 22 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6921cb9ad1ec2c3565c46015?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vails Gate, NY | On Site | Nov 22 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6921cb9ad1ec2c3565c46017?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dripping Springs, TX | On Site | Nov 22 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6921cb72a49a885af9a47a58?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | On Site | Nov 22 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6921cb6fd1ec2c3565c45ffd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Goodyear, AZ | On Site | Nov 22 |
+| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6921cb6cd1ec2c3565c45ff9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Nov 22 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6921cb4fa49a885af9a47a3a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Galesburg, IL | On Site | Nov 22 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6921cb03d1ec2c3565c45faa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chula Vista, CA | On Site | Nov 22 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6921cae1d1ec2c3565c45f9a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Clifton, NJ | On Site | Nov 22 |
@@ -450,13 +450,4 @@ For a complete list, click the following sortable link below:
 | **[Free People](http://www.freepeople.com)** | **[FP Movement Assistant Visual Manager](https://jobright.ai/jobs/info/6920ef023f782d2f1afccf2e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | East Grand Rapids, MI | On Site | Nov 21 |
 | **[KTGY Interior Design & Branded Environments](https://www.simeonedeary.com)** | **[Interior Designer II](https://jobright.ai/jobs/info/6920a1cfa49a885af9a3d807?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL, US | Hybrid | Nov 21 |
 | **[KTGY](http://ktgy.com)** | **[Interior Designer II](https://jobright.ai/jobs/info/6920a10f3f782d2f1afc9a0b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL, US | Hybrid | Nov 21 |
-| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/692082a4a49a885af9a3c03a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Glendale, CO | On Site | Nov 21 |
-| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69208224a49a885af9a3c002?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lubbock, TX | On Site | Nov 21 |
-| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6920803700c9ee50eaec4a95?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Flowood, MS | On Site | Nov 21 |
-| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6920802000c9ee50eaec4a70?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Clive, IA | On Site | Nov 21 |
-| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69207e0c00c9ee50eaec47ff?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chandler, AZ | On Site | Nov 21 |
-| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/692078da00c9ee50eaec4256?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Gatos, CA | On Site | Nov 21 |
-| **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Mission Viejo - Pottery Barn](https://jobright.ai/jobs/info/6893e229f47efe21139679f1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mission Viejo, CA | On Site | Nov 21 |
-| **[Reformation](http://www.thereformation.com)** | **[Associate Footwear Designer](https://jobright.ai/jobs/info/68e97b7865768b6412b1c9dd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York | Hybrid | Nov 21 |
-| **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Brea - Pottery Barn](https://jobright.ai/jobs/info/67eaffdcbef01db4995a17f5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brea, CA | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
