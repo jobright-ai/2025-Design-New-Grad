@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/690e722644146d3b6ec5448f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orem, UT | Hybrid | Nov 29 |
+| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/689fcd43faa4e875e828b3f0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Nov 29 |
 | **[Tailored Pet Services](http://www.tailoredpetservices.com)** | **[Photo & Video Content Creator](https://jobright.ai/jobs/info/692ac2444c474121999ccb11?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Everett, WA | On Site | Nov 28 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[UX Designer](https://jobright.ai/jobs/info/692a713666796e3028f8f098?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Hybrid | Nov 28 |
 | **[Abe](https://www.abetheagency.com/)** | **[Motion & Graphic Designer (Remote US) - Future Opening](https://jobright.ai/jobs/info/692a62984c474121999cc0d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | Remote | Nov 28 |
@@ -75,6 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Motion & Graphic Designer (Remote US) - Future Opening](https://jobright.ai/jobs/info/692a61e9fa28370be269703d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Remote | Nov 28 |
 | ↳ | **[Digital Designer (Remote US) - Future Opening](https://jobright.ai/jobs/info/692a61cf66796e3028f8eebb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Remote | Nov 28 |
 | ↳ | **[Digital Designer (Remote US) - Future Opening](https://jobright.ai/jobs/info/692a61c666796e3028f8eeb5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | Remote | Nov 28 |
+| **[Tailored Pet Services](http://www.tailoredpetservices.com)** | **[Photo & Video Content Creator](https://jobright.ai/jobs/info/692ab66e66796e3028f8f7ca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Everett, WA | On Site | Nov 28 |
 | **[Outlier](https://outlier.ai/)** | **[Remote Creative Writer](https://jobright.ai/jobs/info/692a1f5d4c474121999cb817?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sherbrooke, Quebec, Canada | Remote | Nov 28 |
 | ↳ | **[Remote Creative Writer](https://jobright.ai/jobs/info/692a1500fa28370be26965f7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Saskatoon, Saskatchewan, Canada | Remote | Nov 28 |
 | ↳ | **[Remote Creative Writer](https://jobright.ai/jobs/info/692a14f6fa28370be26965f5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Calgary, Alberta, Canada | Remote | Nov 28 |
@@ -352,7 +355,6 @@ For a complete list, click the following sortable link below:
 | **[Dollamur](https://dollamur.com/)** | **[Digital Print Assistant - (2nd Shift)](https://jobright.ai/jobs/info/69249853ec574f4265bb4c8b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Worth, TX | On Site | Nov 23 |
 | **[Archinect](https://archinect.com)** | **[Designer / Architectural Associate (Unlicensed)](https://jobright.ai/jobs/info/6924e6ccc0cefa13343e3b3a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Huntington, NY | On Site | Nov 23 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/692315de7795cd460c8380be?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Palm Coast, FL | On Site | Nov 23 |
-| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/692315947795cd460c83808b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvington, NJ | On Site | Nov 23 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/692313afc0cefa13343da24f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montgomery, AL | On Site | Nov 23 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/692313a538cd5478a8d56031?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bayonne, NJ | On Site | Nov 23 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/692313a4c0cefa13343da24c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Neenah, WI | On Site | Nov 23 |
