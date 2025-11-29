@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pacific Office Automation](http://www.pacificoffice.com/)** | **[Digital Print Operator & Finisher](https://jobright.ai/jobs/info/692b6784fa28370be2698b9a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tempe, AZ | On Site | Nov 29 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Retail Designer - Industrial Color Extended](https://jobright.ai/jobs/info/692b4b93fa28370be26988da?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Utica-Rome Area | Hybrid | Nov 29 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68bec4935c5d5f14f46d0ccf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West Covina, CA | On Site | Nov 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68c8ef7995f5211cd2ceb94f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Commack, NY | On Site | Nov 29 |
@@ -77,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[UX Designer](https://jobright.ai/jobs/info/692a713666796e3028f8f098?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Hybrid | Nov 28 |
 | **[Abe](https://www.abetheagency.com/)** | **[Motion & Graphic Designer (Remote US) - Future Opening](https://jobright.ai/jobs/info/692a62984c474121999cc0d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | Remote | Nov 28 |
 | ↳ | **[Motion & Graphic Designer (Remote US) - Future Opening](https://jobright.ai/jobs/info/692a628c4c474121999cc0d2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | Remote | Nov 28 |
-| ↳ | **[Digital Designer (Remote US) - Future Opening](https://jobright.ai/jobs/info/692a62774c474121999cc0c7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Remote | Nov 28 |
 | ↳ | **[Digital Designer (Remote US) - Future Opening](https://jobright.ai/jobs/info/692a62774c474121999cc0c8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | Remote | Nov 28 |
+| ↳ | **[Digital Designer (Remote US) - Future Opening](https://jobright.ai/jobs/info/692a62774c474121999cc0c7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Remote | Nov 28 |
 | ↳ | **[Digital Designer (Remote US) - Future Opening](https://jobright.ai/jobs/info/692a626366796e3028f8ef0f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | Remote | Nov 28 |
 | ↳ | **[Motion & Graphic Designer (Remote US) - Future Opening](https://jobright.ai/jobs/info/692a626166796e3028f8ef0a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Des Moines, IA | Remote | Nov 28 |
 | ↳ | **[Digital Designer (Remote US) - Future Opening](https://jobright.ai/jobs/info/692a6261fa28370be269707f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, IN | Remote | Nov 28 |
@@ -267,7 +268,8 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d4125ed63844c944b23d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Katy, TX | On Site | Nov 25 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68edd0d96335d3323612c34c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pompano Beach, FL | On Site | Nov 25 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3b98764c3d7411c3c8b8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | McKinney, TX | On Site | Nov 25 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/687d3f5d764c3d7411c3c962?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Capitol Heights, MD | On Site | Nov 25 |
+| **[XBP Global](https://xbpglobal.com/)** | **[Digital Print Coordinator/Print Operator](https://jobright.ai/jobs/info/6925e322f0beb07232620171?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Nov 25 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3f5d764c3d7411c3c962?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Capitol Heights, MD | On Site | Nov 25 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68cdd50ce23def7af55bfa48?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Countryside, IL | On Site | Nov 25 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3eaced63844c944b2341?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Novi, MI | On Site | Nov 25 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68c67d93db52c07d2884946b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port St Lucie, FL | On Site | Nov 25 |
@@ -315,7 +317,6 @@ For a complete list, click the following sortable link below:
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Digital Media Project Coordinator (Project Hire/Internal Assignment))](https://jobright.ai/jobs/info/692598c0f0beb0723261e2a1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Glendale, CA | On Site | Nov 25 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/68092d3d29b816ffa014a11e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Nov 25 |
 | **[Newsmax Media, Inc.](http://www.newsmax.com/)** | **[Graphics Operator](https://jobright.ai/jobs/info/683461817b219e1a8e9e4aca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Nov 25 |
-| **[XBP Global](https://xbpglobal.com/)** | **[Digital Print Coordinator/Print Operator](https://jobright.ai/jobs/info/692542c327bf2f41a2c3dbf8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Nov 24 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Assistant Director, Athletics Graphic Design & Branding](https://jobright.ai/jobs/info/69252b8dd47de4798eccdc46?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Auburn, AL | On Site | Nov 24 |
 | **[BLOCK LLP](https://blockllp.com/)** | **[Content Creator & Short Form Video Editor](https://jobright.ai/jobs/info/69251c9ec0cefa13343e6aae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burbank, CA | Hybrid | Nov 24 |
 | **[Vivid Impact](http://vividimpact.com)** | **[Printing Press Assistant](https://jobright.ai/jobs/info/692759f2f0beb07232629435?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Louisville,KY,US | On Site | Nov 24 |
