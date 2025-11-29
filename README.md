@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6880424c764c3d7411c507cf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Peachtree City, GA | On Site | Nov 29 |
+| **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Retail Designer - Industrial Color Extended](https://jobright.ai/jobs/info/692b4b93fa28370be26988da?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Utica-Rome Area | Hybrid | Nov 29 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68bec4935c5d5f14f46d0ccf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West Covina, CA | On Site | Nov 29 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/68c8ef7995f5211cd2ceb94f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Commack, NY | On Site | Nov 29 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/6880424c764c3d7411c507cf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Peachtree City, GA | On Site | Nov 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68bb39b95f3832749186d753?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Daytona Beach, FL | On Site | Nov 29 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68f1be72ef766b3f0fd11b12?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Augusta, GA | On Site | Nov 29 |
 | **[Learning Resources](https://www.learningresources.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/68f299a99a65fd345857e060?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vernon Hills, IL | Hybrid | Nov 29 |
