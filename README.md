@@ -266,8 +266,7 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d4125ed63844c944b23d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Katy, TX | On Site | Nov 25 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68edd0d96335d3323612c34c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pompano Beach, FL | On Site | Nov 25 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3b98764c3d7411c3c8b8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | McKinney, TX | On Site | Nov 25 |
-| **[XBP Global](https://xbpglobal.com/)** | **[Digital Print Coordinator/Print Operator](https://jobright.ai/jobs/info/6925e322f0beb07232620171?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Nov 25 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3f5d764c3d7411c3c962?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Capitol Heights, MD | On Site | Nov 25 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/687d3f5d764c3d7411c3c962?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Capitol Heights, MD | On Site | Nov 25 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68cdd50ce23def7af55bfa48?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Countryside, IL | On Site | Nov 25 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3eaced63844c944b2341?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Novi, MI | On Site | Nov 25 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68c67d93db52c07d2884946b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port St Lucie, FL | On Site | Nov 25 |
@@ -296,7 +295,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6925c640d47de4798ecd18c3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Staten Island, NY | On Site | Nov 25 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6925c620d47de4798ecd18ad?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pittsburgh, PA | On Site | Nov 25 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6925c541f0beb0723261f1aa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hattiesburg, MS | On Site | Nov 25 |
-| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6925c4f0d47de4798ecd181b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Antonio, TX | On Site | Nov 25 |
 | **[Lands'​ End](http://landsend.com)** | **[Assistant Designer - Swim](https://jobright.ai/jobs/info/6925c476f0beb0723261f151?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dodgeville, WI | Hybrid | Nov 25 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6925c467d47de4798ecd17e0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Erie, PA | On Site | Nov 25 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6925c460d47de4798ecd17dc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West Covina, CA | On Site | Nov 25 |
@@ -315,6 +313,7 @@ For a complete list, click the following sortable link below:
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Digital Media Project Coordinator (Project Hire/Internal Assignment))](https://jobright.ai/jobs/info/692598c0f0beb0723261e2a1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Glendale, CA | On Site | Nov 25 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/68092d3d29b816ffa014a11e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Nov 25 |
 | **[Newsmax Media, Inc.](http://www.newsmax.com/)** | **[Graphics Operator](https://jobright.ai/jobs/info/683461817b219e1a8e9e4aca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Nov 25 |
+| **[XBP Global](https://xbpglobal.com/)** | **[Digital Print Coordinator/Print Operator](https://jobright.ai/jobs/info/692542c327bf2f41a2c3dbf8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Nov 24 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Assistant Director, Athletics Graphic Design & Branding](https://jobright.ai/jobs/info/69252b8dd47de4798eccdc46?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Auburn, AL | On Site | Nov 24 |
 | **[BLOCK LLP](https://blockllp.com/)** | **[Content Creator & Short Form Video Editor](https://jobright.ai/jobs/info/69251c9ec0cefa13343e6aae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burbank, CA | Hybrid | Nov 24 |
 | **[Vivid Impact](http://vividimpact.com)** | **[Printing Press Assistant](https://jobright.ai/jobs/info/692759f2f0beb07232629435?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Louisville,KY,US | On Site | Nov 24 |
