@@ -376,5 +376,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/692312db38cd5478a8d55ff4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Apex, NC | On Site | Nov 23 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/692312c138cd5478a8d55fed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Perth Amboy, NJ | On Site | Nov 23 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Printing Specialist ( PM Shift )](https://jobright.ai/jobs/info/69230a4038cd5478a8d55f07?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Passaic, NJ | On Site | Nov 23 |
-| **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Landscaping - Landscape Section Tender - Full Time](https://jobright.ai/jobs/info/690c7d46221b890c277fe2e7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kailua-Kona, HI | On Site | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
