@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dogwood Industries](https://www.dogwoodindustries.com)** | **[Designer / Bothell, WA](https://jobright.ai/jobs/info/692d8712fa28370be269d307?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bothell, WA | On Site | Dec 01 |
+| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/6910e8eb183be660d267a418?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | Hybrid | Dec 01 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Temporary Associate Video Editor & Motion Graphics Designer and Animator](https://jobright.ai/jobs/info/6925e3d027bf2f41a2c4151d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jersey City, NJ | Hybrid | Nov 30 |
 | **[Stella Contracting, Inc](http://www.StellaContractingInc.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/692ceb9c66796e3028f938c6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, Washington, United States | On Site | Nov 30 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Flex Male Model - Downtown Seattle Photo Studio](https://jobright.ai/jobs/info/689f52fe79a9f96662556042?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Nov 30 |
@@ -171,6 +173,7 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architect, Higher Education](https://jobright.ai/jobs/info/68771be1ae2f413e4a5b6b42?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Nov 27 |
 | ↳ | **[Space Planner/ Campus Planning Analyst](https://jobright.ai/jobs/info/68f029d078ba1621431e284c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | Hybrid | Nov 27 |
 | **[Specialized Bicycle Components](http://specialized.com)** | **[Junior Color and Graphic Designer – Bike Graphics](https://jobright.ai/jobs/info/68cda4c9e23def7af55bd265?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Morgan Hill, CA | On Site | Nov 27 |
+| **[Everi Holdings Inc.](http://www.everi.com)** | **[Technical Artist (Chicago) - Hybrid](https://jobright.ai/jobs/info/690aa5074a1b456627b09e6a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Nov 27 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Visual Coord](https://jobright.ai/jobs/info/68eeaf0746e5b153e5a5e4b4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Nov 27 |
 | **[The Pinnacle Companies](https://www.thepinnaclecompanies.com)** | **[Project Designer](https://jobright.ai/jobs/info/6928f26a91ceeb2e8a5469fb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Silverthorne, CO | On Site | Nov 27 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Junior Designer](https://jobright.ai/jobs/info/692804eff0beb0723262f1e0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Floyds Knobs, IN | On Site | Nov 26 |
@@ -279,7 +282,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d4125ed63844c944b23d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Katy, TX | On Site | Nov 25 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68edd0d96335d3323612c34c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pompano Beach, FL | On Site | Nov 25 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3b98764c3d7411c3c8b8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | McKinney, TX | On Site | Nov 25 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/687d3f5d764c3d7411c3c962?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Capitol Heights, MD | On Site | Nov 25 |
+| **[XBP Global](https://xbpglobal.com/)** | **[Digital Print Coordinator/Print Operator](https://jobright.ai/jobs/info/6925e322f0beb07232620171?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Nov 25 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3f5d764c3d7411c3c962?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Capitol Heights, MD | On Site | Nov 25 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68cdd50ce23def7af55bfa48?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Countryside, IL | On Site | Nov 25 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3eaced63844c944b2341?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Novi, MI | On Site | Nov 25 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68c67d93db52c07d2884946b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port St Lucie, FL | On Site | Nov 25 |
@@ -326,7 +330,6 @@ For a complete list, click the following sortable link below:
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Digital Media Project Coordinator (Project Hire/Internal Assignment))](https://jobright.ai/jobs/info/692598c0f0beb0723261e2a1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Glendale, CA | On Site | Nov 25 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/68092d3d29b816ffa014a11e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Nov 25 |
 | **[Newsmax Media, Inc.](http://www.newsmax.com/)** | **[Graphics Operator](https://jobright.ai/jobs/info/683461817b219e1a8e9e4aca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Nov 25 |
-| **[XBP Global](https://xbpglobal.com/)** | **[Digital Print Coordinator/Print Operator](https://jobright.ai/jobs/info/692542c327bf2f41a2c3dbf8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Nov 24 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Assistant Director, Athletics Graphic Design & Branding](https://jobright.ai/jobs/info/69252b8dd47de4798eccdc46?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Auburn, AL | On Site | Nov 24 |
 | **[BLOCK LLP](https://blockllp.com/)** | **[Content Creator & Short Form Video Editor](https://jobright.ai/jobs/info/69251c9ec0cefa13343e6aae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burbank, CA | Hybrid | Nov 24 |
 | **[Vivid Impact](http://vividimpact.com)** | **[Printing Press Assistant](https://jobright.ai/jobs/info/692759f2f0beb07232629435?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Louisville,KY,US | On Site | Nov 24 |
@@ -334,8 +337,4 @@ For a complete list, click the following sortable link below:
 | **[Tommy John](https://www.tommyjohn.com/)** | **[Assistant Designer, Color & Concept](https://jobright.ai/jobs/info/6925109fec574f4265bbb3ca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York City, NY | Hybrid | Nov 24 |
 | **[Thrive Digital](http://thrivedigital.com)** | **[Designer (Philippines)](https://jobright.ai/jobs/info/6924e552c0cefa13343e38e3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver (Remote) | Remote | Nov 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Digital Media Project Coordinator (Project Hire/Internal Assignment))](https://jobright.ai/jobs/info/6924f325ec574f4265bb9a15?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Glendale, CA, USA | Hybrid | Nov 24 |
-| **[TOWN & COUNTRY LIVING](http://www.tncliving.com/)** | **[Home Textile Designer](https://jobright.ai/jobs/info/6924ccaaec574f4265bb7231?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Nov 24 |
-| **[Olivia Travel](http://olivia.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/6924bcf9c0cefa13343e1574?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Nov 24 |
-| **[Kubik](https://thinkubik.com/)** | **[Designer](https://jobright.ai/jobs/info/6924d653ec574f4265bb7a20?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Eastern, WV | On Site | Nov 24 |
-| **[Monarch Investment and Management Group](https://www.mimginvestment.com/?utm_medium=organic+social&utm_source=linkedin&utm_content=homepage)** | **[Landscaper - Marquette, Michigan](https://jobright.ai/jobs/info/6924b3adec574f4265bb5f0c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Marquette, Michigan | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
