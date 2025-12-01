@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gemini](https://gemini.com)** | **[Associate Brand Designer](https://jobright.ai/jobs/info/692e02c54c474121999d5398?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 01 |
+| **[CB2](https://cb2.com)** | **[Designer](https://jobright.ai/jobs/info/692e01de4c474121999d52fb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Dec 01 |
+| **[Timothy Corrigan, Inc.](https://www.timothy-corrigan.com)** | **[Interior Design Assistant](https://jobright.ai/jobs/info/692dfa41ef4b48533d13b492?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Dec 01 |
+| **[Rokt](https://www.rokt.com)** | **[Product Designer](https://jobright.ai/jobs/info/692df436ef4b48533d13b054?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 01 |
+| **[Nest Seekers International](https://www.nestseekers.com)** | **[Office Administrator (Graphic Design Proficient)](https://jobright.ai/jobs/info/692e06854c474121999d567c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 01 |
+| **[Serena & Lily](http://www.serenaandlily.com)** | **[Design Advisor](https://jobright.ai/jobs/info/690a8b084a1b456627b09081?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Naples, FL | On Site | Dec 01 |
 | **[Influential](https://influential.co/)** | **[Associate, Creative](https://jobright.ai/jobs/info/692ddc85fa28370be269ef3c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Remote | Dec 01 |
+| **[Gemini](https://gemini.com)** | **[Associate Brand Designer](https://jobright.ai/jobs/info/692dff7e4c474121999d51bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York | On Site | Dec 01 |
 | **[melin](https://melin.com)** | **[Jr. Digital Designer](https://jobright.ai/jobs/info/692dd846fa28370be269ed46?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Clemente, CA | On Site | Dec 01 |
 | **[Macy's](http://www.macysjobs.com)** | **[Visual Support Captain, Kapolei - Full Time](https://jobright.ai/jobs/info/692de107fa28370be269f192?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 91-5431 Kapolei Parkway - Suite 100, Kapolei, HI, 96707, US | On Site | Dec 01 |
 | **[Amazon](https://amazon.com)** | **[UX Designer II - AMZ25436.1](https://jobright.ai/jobs/info/68ce6d10846f0b04af679c92?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 01 |
@@ -232,7 +239,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687e19f9764c3d7411c416ed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sanford, FL | On Site | Nov 26 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3e2c2097a271a898e244?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montgomery, AL | On Site | Nov 26 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69271bcff0beb072326279f6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Gabriel, CA | On Site | Nov 26 |
-| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69271a5ff0beb0723262794a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Antonio, TX | On Site | Nov 26 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6927170491ceeb2e8a53c7e5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Searcy, AR | On Site | Nov 26 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6927160091ceeb2e8a53c77f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rancho Cucamonga, CA | On Site | Nov 26 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6927141f91ceeb2e8a53c6de?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Barnegat, NJ | On Site | Nov 26 |
