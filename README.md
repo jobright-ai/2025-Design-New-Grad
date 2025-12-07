@@ -167,6 +167,7 @@ For a complete list, click the following sortable link below:
 | **[Straw House Ticketing, inc.](https://sarasotaboxoffice.com/)** | **[Graphic Designer / Content](https://jobright.ai/jobs/info/6931f3b34c474121999f4cd9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sarasota, FL | On Site | Dec 04 |
 | **[MJH Life Sciences®](https://www.mjhlifesciences.com/)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/6933068df131d96e4845f3de?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kansas City, MO | Hybrid | Dec 04 |
 | **[Chervon North America, Inc](http://www.chervongroup.com/)** | **[Industrial Designer I](https://jobright.ai/jobs/info/69200eb4a49a885af9a36444?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Grand Rapids, MI | Hybrid | Dec 04 |
+| **[Crate and Barrel](http://www.crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/692e5a894c474121999d8b7f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Dec 04 |
 | **[Glendale Fire Department](http://www.glendalefire.gov)** | **[Social Media Graphic Designer](https://jobright.ai/jobs/info/6931d0e1fa28370be26be518?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Philadelphia, PA | Hybrid | Dec 04 |
 | **[The Baltimore Sun](http://www.baltimoresun.com/)** | **[Editorial Designer/Layout Specialist](https://jobright.ai/jobs/info/6931e205fa28370be26befa7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baltimore, MD | On Site | Dec 04 |
 | **[Marc Jacobs](http://www.marcjacobs.com)** | **[Designer Jewelry](https://jobright.ai/jobs/info/691540a66f36db06ef04d07c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 04 |
@@ -189,7 +190,6 @@ For a complete list, click the following sortable link below:
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Landscaping - Landscape Section Tender - Full Time](https://jobright.ai/jobs/info/691540bf6f36db06ef04d08c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kailua-Kona, HI | On Site | Dec 04 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/691705edab115751cca3e999?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 04 |
 | **[Floor Coverings International](https://floorcoveringsinternational.com)** | **[Design Associate](https://jobright.ai/jobs/info/6931875a4c474121999f1a8f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Littleton, CO | On Site | Dec 04 |
-| **[Crate and Barrel](http://www.crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/692e5036ef4b48533d13e98e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Dec 03 |
 | **[Mouse Graphics](https://sendmouse.com)** | **[Graphic Designer / Pre Press](https://jobright.ai/jobs/info/6930efc9fa28370be26b5631?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Costa Mesa, CA | On Site | Dec 03 |
 | **[Golden Touch](https://gtimports.net)** | **[Temporary Associate Designer, Kid's Apparel (4-20) (6 months)](https://jobright.ai/jobs/info/6930eda34c474121999ea667?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York,NY,US | Hybrid | Dec 03 |
 | **[HomeWetBar](http://www.homewetbar.com)** | **[Onsite Graphic Designer](https://jobright.ai/jobs/info/6930eb10ef4b48533d150a40?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oklahoma City, OK | On Site | Dec 03 |
@@ -205,8 +205,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[WEB DESIGNER](https://jobright.ai/jobs/info/6930f935fa28370be26b5b77?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA | Remote | Dec 03 |
 | ↳ | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/6930d1bf4c474121999e94ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Dec 03 |
 | **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[Art Director](https://jobright.ai/jobs/info/6930a07d4c474121999e6c88?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 03 |
-| **[Tailscale](https://www.tailscale.com)** | **[Brand Designer](https://jobright.ai/jobs/info/6930d96eef4b48533d14fea5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote (Canada) | Remote | Dec 03 |
-| ↳ | **[Brand Designer](https://jobright.ai/jobs/info/6930f196ef4b48533d150f84?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote (United States) | Remote | Dec 03 |
+| **[Tailscale](https://www.tailscale.com)** | **[Brand Designer](https://jobright.ai/jobs/info/6930f196ef4b48533d150f84?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote (United States) | Remote | Dec 03 |
+| ↳ | **[Brand Designer](https://jobright.ai/jobs/info/6930d96eef4b48533d14fea5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote (Canada) | Remote | Dec 03 |
 | **[DDB Health New York](http://www.ddbhealth.com/#a-force-for-good-health)** | **[Art Director](https://jobright.ai/jobs/info/6930c759fa28370be26b3a1a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 03 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Floral Designer](https://jobright.ai/jobs/info/6930966a4c474121999e6478?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Marshall, E Main Street, Marshall, MN | On Site | Dec 03 |
 | **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[Art Director](https://jobright.ai/jobs/info/6930c9664c474121999e8d66?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hamilton, NJ | Hybrid | Dec 03 |
@@ -237,8 +237,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69314b40ef4b48533d15369c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Eden Prairie, MN | On Site | Dec 03 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69308d38ef4b48533d14c589?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chesapeake, VA | On Site | Dec 03 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69305c6aef4b48533d14b543?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boardman, OH | On Site | Dec 03 |
-| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69305c48fa28370be26afe6b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Shakopee, MN | On Site | Dec 03 |
 | ↳ | **[Duane Reade Photo Technician](https://jobright.ai/jobs/info/69306d48ef4b48533d14b956?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 03 |
+| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69305c48fa28370be26afe6b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Shakopee, MN | On Site | Dec 03 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/693063bbfa28370be26b0098?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ankeny, IA | On Site | Dec 03 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69305e3b4c474121999e504f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Provo, UT | On Site | Dec 03 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69305d32fa28370be26afeb0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | On Site | Dec 03 |
@@ -347,6 +347,4 @@ For a complete list, click the following sortable link below:
 | **[Buro Happold](http://www.burohappold.com)** | **[Graduate Lighting Designer- New York (Summer 2026)](https://jobright.ai/jobs/info/68f28bc09a63986de7568b0b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | Hybrid | Nov 30 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Walt Whitman - Pottery Barn](https://jobright.ai/jobs/info/684a0d63ab18d2944e0529a2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Huntington Station, NY | On Site | Nov 30 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/692c4d96fa28370be269ae8d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Suffolk, VA | On Site | Nov 30 |
-| **[CB2](https://cb2.com)** | **[Designer](https://jobright.ai/jobs/info/68efc0e3de50091dbfa5005e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Nov 30 |
-| **[LogRocket](https://logrocket.com)** | **[Product Designer](https://jobright.ai/jobs/info/692c42a866796e3028f92b6f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston or NYC | Hybrid | Nov 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
