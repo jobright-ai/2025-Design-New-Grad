@@ -140,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Banana Republic](http://www.bananarepublic.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/6932e8f8764507023d1b10a0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Dec 05 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/691ff6e6a49a885af9a35adc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Dec 05 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6932ff1e764507023d1b187d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester Hills, MI | On Site | Dec 05 |
-| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6932fda5f131d96e4845f0be?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Dec 05 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69330190f131d96e4845f24a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, MN | On Site | Dec 05 |
+| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6932fda5f131d96e4845f0be?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Dec 05 |
 | **[Centric Brands](https://centricbrands.com)** | **[Assistant, Graphic Artist (Production Art)](https://jobright.ai/jobs/info/691f3e7609cc522e8773e86b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 05 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Year One - Junior Designer - Architecture](https://jobright.ai/jobs/info/69165e1b9c388539cbdfa615?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 05 |
 | **[J.Crew Factory](https://www.jcrewfactory.com)** | **[ASSISTANT DESIGNER- WOMEN'S FOOTWEAR, BAGS, and BELTS](https://jobright.ai/jobs/info/691abba0bcdbf3560c9da18f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 05 |
@@ -250,8 +250,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69314b40ef4b48533d15369c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Eden Prairie, MN | On Site | Dec 03 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69308d38ef4b48533d14c589?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chesapeake, VA | On Site | Dec 03 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69305c6aef4b48533d14b543?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boardman, OH | On Site | Dec 03 |
-| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69305c48fa28370be26afe6b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Shakopee, MN | On Site | Dec 03 |
 | ↳ | **[Duane Reade Photo Technician](https://jobright.ai/jobs/info/69306d48ef4b48533d14b956?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 03 |
+| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69305c48fa28370be26afe6b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Shakopee, MN | On Site | Dec 03 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69305e3b4c474121999e504f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Provo, UT | On Site | Dec 03 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69305d32fa28370be26afeb0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | On Site | Dec 03 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69306fc64c474121999e54c7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Gainesville, VA | On Site | Dec 03 |
@@ -346,6 +346,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[UX Designer II - AMZ25436.1](https://jobright.ai/jobs/info/68ce6d10846f0b04af679c92?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 01 |
 | ↳ | **[Visual UX Designer, Fire TV](https://jobright.ai/jobs/info/68cc246d16d00d2beeb1a965?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Dec 01 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Design Assistant, Sweaters & Knits](https://jobright.ai/jobs/info/68f6739f76a51a4307bda7d0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 01 |
-| **[Amazon](https://amazon.com)** | **[Visual UX Designer, Devices & Services](https://jobright.ai/jobs/info/68ce2bf3e23def7af55c2bbf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Dec 01 |
-| **[Young Musicians Unite](https://www.youngmusiciansunite.org/)** | **[Graphic Designer](https://jobright.ai/jobs/info/692d8b594c474121999d236d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Miami, FL | On Site | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
