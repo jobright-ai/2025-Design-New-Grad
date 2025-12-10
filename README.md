@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HGA](http://www.hga.com)** | **[Interior Designer](https://jobright.ai/jobs/info/692e45704c474121999d7d78?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Milwaukee, WI | On Site | Dec 09 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Architect Trainee](https://jobright.ai/jobs/info/6939014cb95c305f206e40ad?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 09 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6939003ca0dde7020e319c31?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West Hartford, CT | On Site | Dec 09 |
 | **[Caddell Construction](http://caddell.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/693320bf764507023d1b2631?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montgomery, Alabama, United States | On Site | Dec 09 |
@@ -249,7 +250,6 @@ For a complete list, click the following sortable link below:
 | **[AECOM](http://www.aecom.com/)** | **[Entry Level Architectural Designer](https://jobright.ai/jobs/info/692f86c84c474121999e01ae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cleveland, OH | Hybrid | Dec 04 |
 | **[Calico](http://calicocorners.com)** | **[Interior Design Consultant](https://jobright.ai/jobs/info/6938d494a0dde7020e31699e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fairfax, VA | On Site | Dec 04 |
 | **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Display Artist - Full-Time](https://jobright.ai/jobs/info/6931e6d9d0010831497bcc06?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Richmond, VA | On Site | Dec 04 |
-| **[AECOM](http://www.aecom.com/)** | **[Entry-Level Architecture Designer - Networking Event with AECOM – Boston, MA](https://jobright.ai/jobs/info/69321938d0010831497bf837?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | Hybrid | Dec 04 |
 | **[Carrier Johnson + Culture](http://www.carrierjohnson.com/)** | **[Architectural Designer](https://jobright.ai/jobs/info/690a5b83bcccf20de59e1416?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Dec 04 |
 | **[Motive: A Project WorldWide Agency](http://thinkmotive.com/)** | **[Jr. Art Director (Denver)](https://jobright.ai/jobs/info/6931f9814c474121999f50f9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | Hybrid | Dec 04 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68c1dcd54d652f044775b239?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Waltham, MA | On Site | Dec 04 |
@@ -281,7 +281,6 @@ For a complete list, click the following sortable link below:
 | **[Golden Touch](https://gtimports.net)** | **[Temporary Associate Designer, Kid's Apparel (4-20) (6 months)](https://jobright.ai/jobs/info/69312c19ef4b48533d152cd5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 03 |
 | **[ICON Creative Studio](https://www.iconcreativestudio.com)** | **[Junior Designer/Concept Artist (On-Site)](https://jobright.ai/jobs/info/6930f8d74c474121999ead5e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Dec 03 |
 | **[The Upper Deck Company](http://www.upperdeck.com)** | **[Copy Editor](https://jobright.ai/jobs/info/6930f7b44c474121999eacb9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Carlsbad, CA, US | On Site | Dec 03 |
-| **[Fanatics](http://www.fanaticsinc.com)** | **[Concept Artist (On-site Fulltime)](https://jobright.ai/jobs/info/6930b0edfa28370be26b2613?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Winona, MN | On Site | Dec 03 |
 | **[Tailscale](https://www.tailscale.com)** | **[Brand Designer](https://jobright.ai/jobs/info/6930f818ef4b48533d15129b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 03 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6930bd4cef4b48533d14e941?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Allentown, PA | On Site | Dec 03 |
 | **[DDB Health New York](http://www.ddbhealth.com/#a-force-for-good-health)** | **[Art Director](https://jobright.ai/jobs/info/6930b347fa28370be26b2851?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hamilton, NJ | Hybrid | Dec 03 |
@@ -294,13 +293,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Brand Designer](https://jobright.ai/jobs/info/6930f196ef4b48533d150f84?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote (United States) | Remote | Dec 03 |
 | **[DDB Health New York](http://www.ddbhealth.com/#a-force-for-good-health)** | **[Art Director](https://jobright.ai/jobs/info/6930c759fa28370be26b3a1a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 03 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Floral Designer](https://jobright.ai/jobs/info/6930966a4c474121999e6478?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Marshall, E Main Street, Marshall, MN | On Site | Dec 03 |
-| **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[Art Director](https://jobright.ai/jobs/info/6930c9664c474121999e8d66?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hamilton, NJ | Hybrid | Dec 03 |
-| **[Playfly Sports](https://www.playfly.com/)** | **[Designer, Playfly Creates](https://jobright.ai/jobs/info/68fbce3d93c49825ab105e86?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Dec 03 |
-| **[DDB Health New York](http://www.ddbhealth.com/#a-force-for-good-health)** | **[Art Director](https://jobright.ai/jobs/info/6930a1f3fa28370be26b1bf6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hamilton, NJ | Hybrid | Dec 03 |
-| ↳ | **[Art Director](https://jobright.ai/jobs/info/69309d41fa28370be26b16f8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 03 |
-| **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[Art Director](https://jobright.ai/jobs/info/6930b3844c474121999e7a5e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hamilton, NJ | Hybrid | Dec 03 |
-| **[Gemini](https://gemini.com)** | **[Junior Brand Designer](https://jobright.ai/jobs/info/692dff7e4c474121999d51bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York | On Site | Dec 03 |
-| **[Knapsack Creative | Digital Marketing Agency](https://knapsackcreative.com)** | **[Squarespace Web Designer](https://jobright.ai/jobs/info/6930b90e4c474121999e8053?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 03 |
-| **[Fanatics](http://www.fanaticsinc.com)** | **[Concept Artist](https://jobright.ai/jobs/info/6930b3c64c474121999e7a96?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 1265 E Sanborn St, Winona, MN, 55987, US | On Site | Dec 03 |
-| **[Minuteman Press](https://www.minutemanpress.com/)** | **[Graphic Designer/Print Production](https://jobright.ai/jobs/info/6930b3484c474121999e7a11?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orland Park, IL | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
