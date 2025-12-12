@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orveon Global](http://orveonglobal.com)** | **[Associate Art Director](https://jobright.ai/jobs/info/68e6b581e8daec61499adb52?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 12 |
+| **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Brea - Pottery Barn](https://jobright.ai/jobs/info/67eaffdcbef01db4995a17f5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brea, CA | On Site | Dec 12 |
+| **[Amazon](https://amazon.com)** | **[Associate Key Art Finisher, Amazon MGM Studios Marketing - Key Art Production](https://jobright.ai/jobs/info/691fd8283f782d2f1afc0c9c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Culver City, CA | On Site | Dec 12 |
+| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/693c1fc549a7695fbd02fe58?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vacaville, CA | On Site | Dec 12 |
+| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/693c1faf49a7695fbd02fe52?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Clarksville, TN | On Site | Dec 12 |
+| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/693c1f9daa598a08c3ed1599?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denton, TX | On Site | Dec 12 |
 | **[Woolpert](http://www.woolpert.com)** | **[Architectural Designer - Healthcare](https://jobright.ai/jobs/info/691fb3a9a49a885af9a334d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Coral Gables, FL | On Site | Dec 12 |
 | **[Arc'teryx Equipment](http://arcteryx.com)** | **[Graphics Coordinator, Decoration Services](https://jobright.ai/jobs/info/691dffe0a49a885af9a23767?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Vancouver, British Columbia, Canada | Hybrid | Dec 12 |
 | **[AlphaSights](http://www.alphasights.com)** | **[Associate Product Designer](https://jobright.ai/jobs/info/68eca4861eecd439f43fc7f1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | On Site | Dec 12 |
@@ -172,8 +178,8 @@ For a complete list, click the following sortable link below:
 | **[Coach](https://uk.coach.com)** | **[Technical Design Assistant](https://jobright.ai/jobs/info/6901333ed5259a1b3cff2d26?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 10 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/693994ff56b68f3dc4e6f684?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Stony Point, NY | On Site | Dec 10 |
 | **[Robert Graham Designs](http://robertgraham.us)** | **[Assistant, Technical Designer - Robert Graham](https://jobright.ai/jobs/info/691fea7ba49a885af9a35572?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 10 |
-| **[Omnicom Production](https://omnicomproduction.com)** | **[Production Artist](https://jobright.ai/jobs/info/6938a269b95c305f206ddc1e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Dec 10 |
-| ↳ | **[Proofreader](https://jobright.ai/jobs/info/693955b056b68f3dc4e6cc14?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Dec 10 |
+| **[Omnicom Production](https://omnicomproduction.com)** | **[Proofreader](https://jobright.ai/jobs/info/693955b056b68f3dc4e6cc14?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Dec 10 |
+| ↳ | **[Production Artist](https://jobright.ai/jobs/info/6938a269b95c305f206ddc1e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Dec 10 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Visual Retoucher - Executive Creative Support](https://jobright.ai/jobs/info/6939578956b68f3dc4e6cca4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, MN | On Site | Dec 09 |
 | **[HGA](http://www.hga.com)** | **[Interior Designer](https://jobright.ai/jobs/info/692e45704c474121999d7d78?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Milwaukee, WI | On Site | Dec 09 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Architect Trainee](https://jobright.ai/jobs/info/6939014cb95c305f206e40ad?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 09 |
@@ -274,10 +280,4 @@ For a complete list, click the following sortable link below:
 | **[Uber](http://www.uber.com)** | **[Graduate 2026 Product Designer I (U4B), US](https://jobright.ai/jobs/info/6933d0d2a0dde7020e2f2272?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Dec 05 |
 | **[TP-Link](http://www.tp-link.com)** | **[UX/UI Designer](https://jobright.ai/jobs/info/69366711a0dde7020e2fb7c9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | On Site | Dec 05 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Design Coordinator - Pottery Barn Brands](https://jobright.ai/jobs/info/69339593f131d96e48464a05?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Dec 05 |
-| **[FASTSIGNS®](https://www.fastsigns.com/)** | **[Print Production Designer](https://jobright.ai/jobs/info/69338921a0dde7020e2eef93?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fullerton, CA 92831 | On Site | Dec 05 |
-| **[Michaels Stores](https://teachitpro.com)** | **[Custom Art Framer Part time](https://jobright.ai/jobs/info/693388fca0dde7020e2eef89?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Puyallup-4621 S Meridian St Ste A905 | On Site | Dec 05 |
-| **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Design Coordinator - Pottery Barn Brands](https://jobright.ai/jobs/info/6933a434764507023d1b7951?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 151 Union Street, San Francisco, CA, 94111, US | On Site | Dec 05 |
-| ↳ | **[Design Coordinator - Pottery Barn Brands](https://jobright.ai/jobs/info/6933ad2cf131d96e48465cad?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Dec 05 |
-| **[Nominal](https://www.nominal.io)** | **[Brand Designer](https://jobright.ai/jobs/info/6933717c764507023d1b5b5c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | On Site | Dec 05 |
-| **[BoxLunch](https://www.boxlunch.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/69336ee3f131d96e48463463?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | City of Industry, CA | Hybrid | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
