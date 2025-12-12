@@ -294,6 +294,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69330190f131d96e4845f24a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, MN | On Site | Dec 05 |
 | **[Centric Brands](https://centricbrands.com)** | **[Assistant, Graphic Artist (Production Art)](https://jobright.ai/jobs/info/691f3e7609cc522e8773e86b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 05 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Year One - Junior Designer - Architecture](https://jobright.ai/jobs/info/69165e1b9c388539cbdfa615?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 05 |
-| **[OMG23](https://omnicommediagroup.com/careers/us/omg23/)** | **[Coordinator, Creative Management](https://jobright.ai/jobs/info/69165ca39c388539cbdfa4dc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burbank, CA | Hybrid | Dec 05 |
-| **[Tommy Bahama](http://www.tommybahama.com)** | **[Assistant Designer-SMU/Men's Sweaters](https://jobright.ai/jobs/info/69340bafa0dde7020e2f3db0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
