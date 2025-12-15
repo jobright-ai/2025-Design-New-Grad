@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Free People](http://www.freepeople.com)** | **[FP Movement Assistant Visual Manager](https://jobright.ai/jobs/info/693f629150bbaf765051b098?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Dec 14 |
 | **[La La Land Creative Co.](https://lalalandcreativeco.com/)** | **[Apparel Design Assistant](https://jobright.ai/jobs/info/693f53abaa598a08c3ef32b2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Dec 14 |
 | **[Signarama Austin](http://www.signarama-austinsouth.com)** | **[Sign Design and Production Specialist](https://jobright.ai/jobs/info/693f4e6a49a7695fbd05181d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Joliet, IL | On Site | Dec 14 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68af5fb82daaba398441db7a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lutz, FL | On Site | Dec 14 |
@@ -218,7 +219,7 @@ For a complete list, click the following sortable link below:
 | **[McKesson](http://www.mckesson.com)** | **[Jr. Designer, Graphic Design](https://jobright.ai/jobs/info/6939ec5eac80bb5492bc661c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA, TX, Irving | Hybrid | Dec 10 |
 | **[Coppin State University](http://www.coppin.edu/)** | **[Print Designer Technician](https://jobright.ai/jobs/info/6939e6c848a8ce22990ddf68?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Coppin State University | On Site | Dec 10 |
 | **[Zoom](https://www.zoom.com)** | **[Web Designer](https://jobright.ai/jobs/info/693a076d48a8ce22990e0879?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 10 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Creative Coordinator, Commerce Studios](https://jobright.ai/jobs/info/693a01b7ac80bb5492bc8017?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 10 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Creative Coordinator, Commerce Studios](https://jobright.ai/jobs/info/693a137748a8ce22990e14a4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 10 |
 | **[C&R Building Supply](https://www.candrbuildingsupply.com)** | **[Kitchen and Bath Designer](https://jobright.ai/jobs/info/693a0fd656b68f3dc4e76d2c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Philadelphia, PA | On Site | Dec 10 |
 | **[Coalition, Inc.](https://www.coalitioninc.com)** | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/693a2c5756b68f3dc4e77e6d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Dec 10 |
 | ↳ | **[WEB DESIGNER](https://jobright.ai/jobs/info/6939f53cac80bb5492bc6c09?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA | Remote | Dec 10 |
@@ -226,7 +227,6 @@ For a complete list, click the following sortable link below:
 | **[Wonderful Agency](http://www.wonderful.com)** | **[Creative Services Assistant](https://jobright.ai/jobs/info/6939d93f56b68f3dc4e730e1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Dec 10 |
 | **[Athleta](https://athleta.gap.com/)** | **[Assistant Designer, Performance](https://jobright.ai/jobs/info/68f139bbef766b3f0fd0a1aa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Dec 10 |
 | **[VF Corporation](http://www.vfc.com)** | **[The North Face: Associate Designer, Lifestyle](https://jobright.ai/jobs/info/693a1f5a56b68f3dc4e77576?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USCA > USA > Colorado > Denver HQ - VFC | On Site | Dec 10 |
-| **[Rue Gilt Groupe](https://www.ruegiltgroupe.com/)** | **[On-Call Digital Imaging Specialist](https://jobright.ai/jobs/info/6939ec13ac80bb5492bc65d2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Shepherdsville, KY | On Site | Dec 10 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Creative Services Assistant](https://jobright.ai/jobs/info/6939db5fac80bb5492bc58d0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA, USA | Hybrid | Dec 10 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/691cf9e822a2cb4b9bd1f6ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Staten Island, NY | On Site | Dec 10 |
 | **[Red River Commodities Inc](https://redriv.com)** | **[Packaging Associate](https://jobright.ai/jobs/info/6939fb41ac80bb5492bc72a3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Horace, ND | On Site | Dec 10 |
@@ -245,6 +245,7 @@ For a complete list, click the following sortable link below:
 | **[Golden Touch](https://gtimports.net)** | **[Fashion Graphic Designer – Juniors Apparel](https://jobright.ai/jobs/info/68ca65ae06a34016008c82d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 10 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68e4403c1852e62f008039c7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Homewood, AL | On Site | Dec 10 |
 | **[West Elm](https://www.westelm.com/)** | **[Assistant Designer, Textiles - West Elm](https://jobright.ai/jobs/info/69012952f8ce7a040fdbcd3c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 10 |
+| **[Rue Gilt Groupe](https://www.ruegiltgroupe.com/)** | **[On-Call Digital Imaging Specialist](https://jobright.ai/jobs/info/69399c4f56b68f3dc4e6f931?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Shepherdsville, KY | On Site | Dec 10 |
 | **[Coach](https://uk.coach.com)** | **[Technical Design Assistant](https://jobright.ai/jobs/info/6901333ed5259a1b3cff2d26?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 10 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/693994ff56b68f3dc4e6f684?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Stony Point, NY | On Site | Dec 10 |
 | **[Robert Graham Designs](http://robertgraham.us)** | **[Assistant, Technical Designer - Robert Graham](https://jobright.ai/jobs/info/691fea7ba49a885af9a35572?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 10 |
