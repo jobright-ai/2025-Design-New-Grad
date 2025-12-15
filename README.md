@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FASTSIGNS®](https://www.fastsigns.com/)** | **[ASST SIGN Production Specialist / Graphic Designer](https://jobright.ai/jobs/info/693fddd4aa598a08c3efa666?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 15 |
 | **[The Bagga Team | Royal LePage Magna](https://www.manibagga.com)** | **[Visual Media Creator](https://jobright.ai/jobs/info/693f7d4e49a7695fbd05382e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Edmonton, Alberta, Canada | On Site | Dec 14 |
 | **[Free People](http://www.freepeople.com)** | **[FP Movement Assistant Visual Manager](https://jobright.ai/jobs/info/693f629150bbaf765051b098?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Dec 14 |
 | **[La La Land Creative Co.](https://lalalandcreativeco.com/)** | **[Apparel Design Assistant](https://jobright.ai/jobs/info/693f53abaa598a08c3ef32b2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Dec 14 |
@@ -219,7 +220,7 @@ For a complete list, click the following sortable link below:
 | **[McKesson](http://www.mckesson.com)** | **[Jr. Designer, Graphic Design](https://jobright.ai/jobs/info/6939ec5eac80bb5492bc661c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA, TX, Irving | Hybrid | Dec 10 |
 | **[Coppin State University](http://www.coppin.edu/)** | **[Print Designer Technician](https://jobright.ai/jobs/info/6939e6c848a8ce22990ddf68?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Coppin State University | On Site | Dec 10 |
 | **[Zoom](https://www.zoom.com)** | **[Web Designer](https://jobright.ai/jobs/info/693a076d48a8ce22990e0879?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 10 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Creative Coordinator, Commerce Studios](https://jobright.ai/jobs/info/693a137748a8ce22990e14a4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 10 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Creative Coordinator, Commerce Studios](https://jobright.ai/jobs/info/693a01b7ac80bb5492bc8017?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 10 |
 | **[C&R Building Supply](https://www.candrbuildingsupply.com)** | **[Kitchen and Bath Designer](https://jobright.ai/jobs/info/693a0fd656b68f3dc4e76d2c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Philadelphia, PA | On Site | Dec 10 |
 | **[Coalition, Inc.](https://www.coalitioninc.com)** | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/693a2c5756b68f3dc4e77e6d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Dec 10 |
 | ↳ | **[WEB DESIGNER](https://jobright.ai/jobs/info/6939f53cac80bb5492bc6c09?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA | Remote | Dec 10 |
@@ -295,7 +296,4 @@ For a complete list, click the following sortable link below:
 | **[Book of the Month](http://www.bookofthemonth.com)** | **[Creative](https://jobright.ai/jobs/info/693766db1c1c2161c13f3ebc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 08 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Visual Associate, Part Time Flex, Mission Valley - West Elm](https://jobright.ai/jobs/info/69377546a0dde7020e30322d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 5080 Mission Center Rd, San Diego, CA, 92108, US | On Site | Dec 08 |
 | **[Steinhafels Furniture](http://steinhafels.com)** | **[Interior Designer](https://jobright.ai/jobs/info/69379aeba0dde7020e304a1e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kenosha, WI | On Site | Dec 08 |
-| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architect - Entry Level](https://jobright.ai/jobs/info/69373ce31c1c2161c13f1d5c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | Hybrid | Dec 08 |
-| **[Steve Madden](http://www.stevemadden.com)** | **[Design Assistant, ATM Clothing](https://jobright.ai/jobs/info/69376c3c1c1c2161c13f43d1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 08 |
-| **[CB2](https://cb2.com)** | **[Designer](https://jobright.ai/jobs/info/693753aaaabec14a727c67b8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Dec 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
