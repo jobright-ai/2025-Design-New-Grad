@@ -304,7 +304,4 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Digital Modeler](https://jobright.ai/jobs/info/69374742aabec14a727c5e7c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hawthorne, CA | On Site | Dec 08 |
 | **[Gearsupply](https://www.gearsupply.com)** | **[Part-Time Graphic Designer + Social Media (Remote)](https://jobright.ai/jobs/info/69374035a0dde7020e3007a6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 08 |
 | **[MV Ventures](https://www.explorevikinglakes.com)** | **[Graphic Design Associate](https://jobright.ai/jobs/info/693705bcaabec14a727c38d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Eagan, MN, US | Hybrid | Dec 08 |
-| **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Seasonal Flex Only, Fresno - Pottery Barn](https://jobright.ai/jobs/info/68e13183f758fe1f97e5488c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fresno, CA | On Site | Dec 08 |
-| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6936dfe11c1c2161c13ef21e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bend, OR | On Site | Dec 08 |
-| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6936dec0a0dde7020e2fd8f6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Las Vegas, NV | On Site | Dec 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
