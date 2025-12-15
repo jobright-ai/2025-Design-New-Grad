@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[F. Schumacher & Co.](http://fschumacher.com)** | **[Digital Print Specialist](https://jobright.ai/jobs/info/6940075750bbaf76505228ad?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Passaic, NJ | On Site | Dec 15 |
+| **[The Retail Odyssey Company](https://retailodyssey.com/)** | **[Retail Store Planning Designer](https://jobright.ai/jobs/info/6940067249a7695fbd05a996?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sidney, OH | On Site | Dec 15 |
 | **[FASTSIGNS®](https://www.fastsigns.com/)** | **[ASST SIGN Production Specialist / Graphic Designer](https://jobright.ai/jobs/info/693fddd4aa598a08c3efa666?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 15 |
 | **[The Bagga Team | Royal LePage Magna](https://www.manibagga.com)** | **[Visual Media Creator](https://jobright.ai/jobs/info/693f7d4e49a7695fbd05382e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Edmonton, Alberta, Canada | On Site | Dec 14 |
 | **[Free People](http://www.freepeople.com)** | **[FP Movement Assistant Visual Manager](https://jobright.ai/jobs/info/693f629150bbaf765051b098?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Dec 14 |
@@ -86,7 +88,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assistant Designer - J.Crew Factory Crewcuts Girls](https://jobright.ai/jobs/info/68df79b46be63b6ec9970739?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 13 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/6920bce33f782d2f1afcacd3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Scottsdale, AZ | Hybrid | Dec 13 |
 | **[J.Crew Factory](https://www.jcrewfactory.com)** | **[Assistant Designer - J.Crew Factory Womens Wovens](https://jobright.ai/jobs/info/68ec9374d4b0106e703e9d2c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 13 |
-| **[Rise, a Quad Agency](http://www.riseinteractive.com)** | **[Visual Designer](https://jobright.ai/jobs/info/693d2beb50bbaf7650504965?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Dec 13 |
+| **[Rise, a Quad agency](http://www.riseinteractive.com)** | **[Visual Designer](https://jobright.ai/jobs/info/693d2beb50bbaf7650504965?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Dec 13 |
 | **[Outlier AI](http://outlier.ai/)** | **[Brand Design Assistant (Remote)](https://jobright.ai/jobs/info/693d2a44aa598a08c3ede06c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Remote | Dec 13 |
 | **[Banana Republic](http://www.bananarepublic.com/)** | **[Designer, Creative](https://jobright.ai/jobs/info/693d171550bbaf7650503ad7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Dec 13 |
 | **[Outlier AI](http://outlier.ai/)** | **[Brand Design Assistant (Remote)](https://jobright.ai/jobs/info/693d2fec50bbaf7650505a64?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Albuquerque, NM | Remote | Dec 12 |
@@ -110,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[Ankura](https://ankura.com)** | **[Graphic Designer, Trial Services - Associate](https://jobright.ai/jobs/info/693c820550bbaf76504fbaa6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | Hybrid | Dec 12 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Merchandise Vault Specialist](https://jobright.ai/jobs/info/693c7f3daa598a08c3ed573c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 12 |
 | **[Triple Crown Products](http://triplecrownproducts.com)** | **[Marketing Graphic Designer](https://jobright.ai/jobs/info/693c7d5649a7695fbd033e72?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mukwonago, WI | On Site | Dec 12 |
-| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/693c786f50bbaf76504fb55b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | Dec 12 |
 | **[Absolute Recomp](https://absoluterecomp.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/693c782caa598a08c3ed52d4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Richland Hills, TX 76182 | On Site | Dec 12 |
 | **[RA Capital Management](http://www.racap.com)** | **[Junior Graphic and Web Designer](https://jobright.ai/jobs/info/693c759949a7695fbd033abc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | On Site | Dec 12 |
 | **[Bose Corporation](https://www.bose.com/en_us/index.html)** | **[Email Designer](https://jobright.ai/jobs/info/693c95b749a7695fbd035c33?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | On Site | Dec 12 |
@@ -122,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Ankura](https://ankura.com)** | **[Graphic Designer, Trial Services - Associate](https://jobright.ai/jobs/info/693c68eeaa598a08c3ed4b18?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 12 |
 | ↳ | **[Graphic Designer, Trial Services - Associate](https://jobright.ai/jobs/info/693c660150bbaf76504faa9c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | Hybrid | Dec 12 |
 | **[RA Capital Management](http://www.racap.com)** | **[Junior Graphic and Web Designer](https://jobright.ai/jobs/info/693c65dd50bbaf76504faa8a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | On Site | Dec 12 |
+| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/693c61ce50bbaf76504fa8bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | Dec 12 |
 | **[RISE Research Institutes of Sweden](http://www.ri.se/)** | **[Visual Designer](https://jobright.ai/jobs/info/693d14faaa598a08c3edd93f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Dec 12 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/693c5a9349a7695fbd032d5f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 12 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/693c5a8649a7695fbd032d57?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, Texas, United States | Hybrid | Dec 12 |
@@ -250,8 +252,8 @@ For a complete list, click the following sortable link below:
 | **[Coach](https://uk.coach.com)** | **[Technical Design Assistant](https://jobright.ai/jobs/info/6901333ed5259a1b3cff2d26?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 10 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/693994ff56b68f3dc4e6f684?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Stony Point, NY | On Site | Dec 10 |
 | **[Robert Graham Designs](http://robertgraham.us)** | **[Assistant, Technical Designer - Robert Graham](https://jobright.ai/jobs/info/691fea7ba49a885af9a35572?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 10 |
-| **[Omnicom Production](https://omnicomproduction.com)** | **[Production Artist](https://jobright.ai/jobs/info/6938a269b95c305f206ddc1e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Dec 10 |
-| ↳ | **[Proofreader](https://jobright.ai/jobs/info/693955b056b68f3dc4e6cc14?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Dec 10 |
+| **[Omnicom Production](https://omnicomproduction.com)** | **[Proofreader](https://jobright.ai/jobs/info/693955b056b68f3dc4e6cc14?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Dec 10 |
+| ↳ | **[Production Artist](https://jobright.ai/jobs/info/6938a269b95c305f206ddc1e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Dec 10 |
 | **[HGA](http://www.hga.com)** | **[Interior Designer](https://jobright.ai/jobs/info/692e45704c474121999d7d78?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Milwaukee, WI | On Site | Dec 09 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Architect Trainee](https://jobright.ai/jobs/info/6939014cb95c305f206e40ad?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 09 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6939003ca0dde7020e319c31?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West Hartford, CT | On Site | Dec 09 |
@@ -294,6 +296,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assistant Designer-Men's Bottoms](https://jobright.ai/jobs/info/69379529a0dde7020e304683?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Dec 08 |
 | **[Archinect](https://archinect.com)** | **[Junior Designer](https://jobright.ai/jobs/info/6938c4a4b95c305f206dfaa1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 08 |
 | **[Book of the Month](http://www.bookofthemonth.com)** | **[Creative](https://jobright.ai/jobs/info/693766db1c1c2161c13f3ebc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 08 |
-| **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Visual Associate, Part Time Flex, Mission Valley - West Elm](https://jobright.ai/jobs/info/69377546a0dde7020e30322d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 5080 Mission Center Rd, San Diego, CA, 92108, US | On Site | Dec 08 |
-| **[Steinhafels Furniture](http://steinhafels.com)** | **[Interior Designer](https://jobright.ai/jobs/info/69379aeba0dde7020e304a1e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kenosha, WI | On Site | Dec 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
