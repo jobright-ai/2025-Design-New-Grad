@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WebFX](https://www.webfx.com)** | **[Jr. Web Design Project Coordinator](https://jobright.ai/jobs/info/67eec162357dc4681d864204?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Harrisburg, PA | On Site | Dec 16 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Coordinator, Integrated Creative Group](https://jobright.ai/jobs/info/6924a150c0cefa13343e025e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Universal City, CA | Hybrid | Dec 16 |
+| **[Fanatics](http://www.fanaticsinc.com)** | **[Artist](https://jobright.ai/jobs/info/685dfe3bbee2fb40984e7fe3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Winona, MN | On Site | Dec 16 |
 | **[Steinhafels Furniture](http://steinhafels.com)** | **[Interior Designer](https://jobright.ai/jobs/info/6940ea62aa598a08c3f094de?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Madison, WI | On Site | Dec 15 |
 | **[Caddell Construction](http://caddell.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/693320bf764507023d1b2631?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montgomery, Alabama, United States | On Site | Dec 15 |
 | **[Day One Agency](https://www.d1a.com/)** | **[Junior Designer](https://jobright.ai/jobs/info/692a624066796e3028f8eef3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, OR | Hybrid | Dec 15 |
@@ -140,6 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Bose Corporation](https://www.bose.com/en_us/index.html)** | **[Email Designer](https://jobright.ai/jobs/info/693c886350bbaf76504fbfa3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | US, GA - Atlanta | On Site | Dec 12 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Merchandise Vault Specialist](https://jobright.ai/jobs/info/693c7f3daa598a08c3ed573c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 12 |
 | **[Triple Crown Products](http://triplecrownproducts.com)** | **[Marketing Graphic Designer](https://jobright.ai/jobs/info/693c7d5649a7695fbd033e72?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mukwonago, WI | On Site | Dec 12 |
+| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/693c786f50bbaf76504fb55b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | Dec 12 |
 | **[Absolute Recomp](https://absoluterecomp.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/693c782caa598a08c3ed52d4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Richland Hills, TX 76182 | On Site | Dec 12 |
 | **[Bose Corporation](https://www.bose.com/en_us/index.html)** | **[Email Designer](https://jobright.ai/jobs/info/693c95b749a7695fbd035c33?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | On Site | Dec 12 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/693c6f6749a7695fbd033793?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenwich, CT | Hybrid | Dec 12 |
@@ -150,7 +154,6 @@ For a complete list, click the following sortable link below:
 | **[Ankura](https://ankura.com)** | **[Graphic Designer, Trial Services - Associate](https://jobright.ai/jobs/info/693c68eeaa598a08c3ed4b18?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 12 |
 | ↳ | **[Graphic Designer, Trial Services - Associate](https://jobright.ai/jobs/info/693c660150bbaf76504faa9c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | Hybrid | Dec 12 |
 | **[RA Capital Management](http://www.racap.com)** | **[Junior Graphic and Web Designer](https://jobright.ai/jobs/info/693c65dd50bbaf76504faa8a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | On Site | Dec 12 |
-| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/693c61ce50bbaf76504fa8bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | Dec 12 |
 | **[RISE Research Institutes of Sweden](http://www.ri.se/)** | **[Visual Designer](https://jobright.ai/jobs/info/693d14faaa598a08c3edd93f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Dec 12 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/693c5a9349a7695fbd032d5f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 12 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/693c5a8649a7695fbd032d57?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, Texas, United States | Hybrid | Dec 12 |
@@ -294,5 +297,4 @@ For a complete list, click the following sortable link below:
 | **[Anastasia Beverly Hills](http://www.anastasiabeverlyhills.com/)** | **[Junior, Graphic Designer](https://jobright.ai/jobs/info/6938d0a9aabec14a727db63a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Westside, CA | On Site | Dec 09 |
 | **[Stateside Brands](http://www.statesidevodka.com/)** | **[Jr Graphic Designer](https://jobright.ai/jobs/info/69389b61a0dde7020e31317d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Feasterville-Trevose, PA, US | On Site | Dec 09 |
 | **[GigaParts](https://www.gigaparts.com/)** | **[Maker Tools Specialist & Ambassador Program Manager](https://jobright.ai/jobs/info/6938ca24aabec14a727db102?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Huntsville, AL | On Site | Dec 09 |
-| **[Forbes](https://www.forbesmagazine.com)** | **[Temporary Associate Video Editor & Motion Graphics Designer and Animator](https://jobright.ai/jobs/info/6938a643b95c305f206de486?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jersey City, NJ | Hybrid | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
