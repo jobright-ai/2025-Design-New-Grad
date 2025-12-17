@@ -57,15 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lever Middleware Test Company](http://www.lever.co)** | **[Editing test today (copy)](https://jobright.ai/jobs/info/6943270a50bbaf765054ff66?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beverly Hills, California | Hybrid | Dec 17 |
+| **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Display Artist - Full-Time](https://jobright.ai/jobs/info/694318e094730b7398761ad3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Reno, NV | On Site | Dec 17 |
+| **[Klick](https://www.klick.com)** | **[Designer](https://jobright.ai/jobs/info/694318cc50bbaf765054f053?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 17 |
 | **[Zoom](https://www.zoom.com)** | **[Web Designer](https://jobright.ai/jobs/info/6942fa7850bbaf765054cd7d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Hybrid | Dec 17 |
+| **[The Kasper Group](http://www.jonesgroupinc.com)** | **[Design Assistant - Women's Blouses](https://jobright.ai/jobs/info/694313f750bbaf765054ebc5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 17 |
 | **[Condé Nast](http://www.condenast.com)** | **[Web Producer, GQ](https://jobright.ai/jobs/info/6942eb4794730b739875ec7c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 17 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3bc2ed63844c944b2315?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hendersonville, TN | On Site | Dec 17 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/690979904a1b456627b00e41?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Levittown, PA | On Site | Dec 17 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3e6e2097a271a898e27d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Summerfield, FL | On Site | Dec 17 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68cdff391ad6b16f028a09ff?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ocean Township, NJ | On Site | Dec 17 |
 | **[Dogwood Industries](https://www.dogwoodindustries.com)** | **[Designer / Everett, WA](https://jobright.ai/jobs/info/6942dbff94730b739875e080?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Everett, WA | On Site | Dec 17 |
-| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6942cfffdd382f5f5668cb2d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denton, TX | On Site | Dec 17 |
-| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6942cef650bbaf765054ae0e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Claremore, OK | On Site | Dec 17 |
+| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6942cef650bbaf765054ae0e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Claremore, OK | On Site | Dec 17 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6942cbb650bbaf765054ac01?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Cookeville, TN | On Site | Dec 17 |
 | **[Dogwood Industries](https://www.dogwoodindustries.com)** | **[Designer / Sedro-Woolley, WA](https://jobright.ai/jobs/info/6942ea3250bbaf765054bbc2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sedro-Woolley, WA | On Site | Dec 17 |
 | ↳ | **[Designer / Bothell, WA](https://jobright.ai/jobs/info/6942f64edd382f5f5668ebfc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bothell, WA | On Site | Dec 17 |
@@ -304,5 +307,4 @@ For a complete list, click the following sortable link below:
 | **[Creative Artists Agency](http://www.caa.com)** | **[Brand Consulting - Exhibition Designer](https://jobright.ai/jobs/info/691e351ca49a885af9a263bb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 11 |
 | **[The Program](http://www.theprogrampdx.com/)** | **[Associate Design Strategist](https://jobright.ai/jobs/info/693a88bc383bf963198394f7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, Oregon Metropolitan Area | Hybrid | Dec 11 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Junior Designer](https://jobright.ai/jobs/info/693a8d26383bf9631983963f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Floyds Knobs, IN | On Site | Dec 11 |
-| **[Zaymo](https://getzaymo.com)** | **[Founding Product Designer](https://jobright.ai/jobs/info/693a6df648a8ce22990e70bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lehi, UT, US | On Site | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
