@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/68092d3d29b816ffa014a11e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 17 |
+| **[Newsmax Media, Inc.](http://www.newsmax.com/)** | **[Graphics Operator](https://jobright.ai/jobs/info/683461817b219e1a8e9e4aca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 17 |
 | **[PepsiCo](http://www.pepsico.com)** | **[Jr. Brand Designer](https://jobright.ai/jobs/info/69424c9dbdcf884a5ade342b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 16 |
 | **[Desert Water Agency](https://dwa.org)** | **[Public Affairs Social Media & Graphic Design - Temporary Position](https://jobright.ai/jobs/info/694278f650bbaf7650546405?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Palm Springs, CA | On Site | Dec 16 |
 | **[Minuteman Press](https://www.minutemanpress.com/)** | **[Production Assistant/Graphic Designer](https://jobright.ai/jobs/info/6942530dbdcf884a5ade377c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Aurora, CO | On Site | Dec 16 |
@@ -265,7 +267,6 @@ For a complete list, click the following sortable link below:
 | **[SKIMS](https://skims.com)** | **[Design Assistant Accessories and Footwear](https://jobright.ai/jobs/info/6917f2f815b415636717d138?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | LA Metro Area | On Site | Dec 11 |
 | **[Seabrook Land Company](https://www.seabrookwa.com)** | **[Content Specialist](https://jobright.ai/jobs/info/693aca085f2c001987eccba8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pacific Beach, WA | Hybrid | Dec 11 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/693b05215f2c001987ecf793?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Riverside, CA | On Site | Dec 11 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Photo Production Coordinator (National Geographic)](https://jobright.ai/jobs/info/693ac3a8d4054a2bc024b782?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | On Site | Dec 11 |
 | **[MANSCAPED](https://manscaped.com)** | **[THE MANSCAPED® CREATIVE NETWORK](https://jobright.ai/jobs/info/691efb473f782d2f1afb7c68?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 11 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[Golf – Creative Coordinator](https://jobright.ai/jobs/info/6933cb9ff131d96e4846714c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jacksonville, FL | On Site | Dec 11 |
 | **[Walt Disney Animation Studios](https://www.disneyanimation.com/)** | **[Layout Artist](https://jobright.ai/jobs/info/693ab968d4054a2bc024b468?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Dec 11 |
@@ -290,13 +291,4 @@ For a complete list, click the following sortable link below:
 | **[Associated Students Inc. at California State Polytechnic University, Pomona](http://asi.cpp.edu/)** | **[Junior Designer PTS](https://jobright.ai/jobs/info/6939f083ac80bb5492bc6811?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pomona, CA, US | Hybrid | Dec 10 |
 | **[Minuteman Press](https://www.minutemanpress.com/)** | **[Customer Service Representative & Junior Graphic Designer](https://jobright.ai/jobs/info/693a16f548a8ce22990e167b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Gilbert, AZ | On Site | Dec 10 |
 | **[McKesson](http://www.mckesson.com)** | **[Jr. Designer, Graphic Design](https://jobright.ai/jobs/info/6939ec5eac80bb5492bc661c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA, TX, Irving | Hybrid | Dec 10 |
-| **[Coppin State University](http://www.coppin.edu/)** | **[Print Designer Technician](https://jobright.ai/jobs/info/6939e6c848a8ce22990ddf68?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Coppin State University | On Site | Dec 10 |
-| **[Zoom](https://www.zoom.com)** | **[Web Designer](https://jobright.ai/jobs/info/693a076d48a8ce22990e0879?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 10 |
-| **[C&R Building Supply](https://www.candrbuildingsupply.com)** | **[Kitchen and Bath Designer](https://jobright.ai/jobs/info/693a0fd656b68f3dc4e76d2c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Philadelphia, PA | On Site | Dec 10 |
-| **[Coalition, Inc.](https://www.coalitioninc.com)** | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/693a2c5756b68f3dc4e77e6d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Dec 10 |
-| ↳ | **[WEB DESIGNER](https://jobright.ai/jobs/info/6939f53cac80bb5492bc6c09?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA | Remote | Dec 10 |
-| ↳ | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/693a263956b68f3dc4e77a23?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Dec 10 |
-| **[Wonderful Agency](http://www.wonderful.com)** | **[Creative Services Assistant](https://jobright.ai/jobs/info/6939d93f56b68f3dc4e730e1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Dec 10 |
-| **[Athleta](https://athleta.gap.com/)** | **[Assistant Designer, Performance](https://jobright.ai/jobs/info/68f139bbef766b3f0fd0a1aa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Dec 10 |
-| **[VF Corporation](http://www.vfc.com)** | **[The North Face: Associate Designer, Lifestyle](https://jobright.ai/jobs/info/693a1f5a56b68f3dc4e77576?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USCA > USA > Colorado > Denver HQ - VFC | On Site | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
