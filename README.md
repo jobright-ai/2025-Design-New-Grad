@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cf313adbd9fb154ede58d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tampa, FL | On Site | Dec 17 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/687d3f5d764c3d7411c3c962?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Capitol Heights, MD | On Site | Dec 17 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/687e18cb764c3d7411c41668?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lewis Center, OH | On Site | Dec 17 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/68c67d93db52c07d2884946b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port St Lucie, FL | On Site | Dec 17 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/68cf31f9fb49c96ca6ea64eb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boynton Beach, FL | On Site | Dec 17 |
+| **[Roblox](https://corp.roblox.com)** | **[UI Designer - Game UI & Asset System (Short Term)](https://jobright.ai/jobs/info/69268c61d47de4798ecd80f7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Mateo, CA | Hybrid | Dec 17 |
+| **[XBP Global](https://xbpglobal.com/)** | **[Digital Print Coordinator/Print Operator](https://jobright.ai/jobs/info/6925e322f0beb07232620171?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 17 |
+| **[Nongshim America, Inc.](http://nongshimusa.com)** | **[Package Design Associate](https://jobright.ai/jobs/info/6926595727bf2f41a2c45768?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rancho Cucamonga, CA | On Site | Dec 17 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/68092d3d29b816ffa014a11e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 17 |
 | **[Newsmax Media, Inc.](http://www.newsmax.com/)** | **[Graphics Operator](https://jobright.ai/jobs/info/683461817b219e1a8e9e4aca?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 17 |
 | **[PepsiCo](http://www.pepsico.com)** | **[Jr. Brand Designer](https://jobright.ai/jobs/info/69424c9dbdcf884a5ade342b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 16 |
@@ -284,11 +292,4 @@ For a complete list, click the following sortable link below:
 | **[Heavenly Paws](https://www.heavenlypaws.com/)** | **[Client Care & Creative Coordinator](https://jobright.ai/jobs/info/693a347848a8ce22990e2c7d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New Braunfels, TX | On Site | Dec 10 |
 | **[CultureFly](https://www.culturefly.com)** | **[Jr. Technical Designer - Licensed Collectibles](https://jobright.ai/jobs/info/693a103aac80bb5492bc944a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 10 |
 | **[Ascentec Engineering, LLC](https://ascenteceng.com)** | **[CAD Designer II](https://jobright.ai/jobs/info/693a2ec0ac80bb5492bcb5ea?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tualatin,OR,US | On Site | Dec 10 |
-| **[Aritzia](https://www.aritzia.com/)** | **[Product - Design Assistant/Associate](https://jobright.ai/jobs/info/6939ff3c56b68f3dc4e751af?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Support Office (Vancouver) | On Site | Dec 10 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6939f71848a8ce22990deacb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Littleton, CO | On Site | Dec 10 |
-| **[SpeedPro](http://speedpro.com)** | **[Signage Production Associate](https://jobright.ai/jobs/info/693a132b48a8ce22990e1478?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Omaha, NE | On Site | Dec 10 |
-| **[CultureFly](https://www.culturefly.com)** | **[Jr. Packaging Illustrator - Licensed Collectibles](https://jobright.ai/jobs/info/693a0d7dac80bb5492bc92a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 10 |
-| **[Associated Students Inc. at California State Polytechnic University, Pomona](http://asi.cpp.edu/)** | **[Junior Designer PTS](https://jobright.ai/jobs/info/6939f083ac80bb5492bc6811?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pomona, CA, US | Hybrid | Dec 10 |
-| **[Minuteman Press](https://www.minutemanpress.com/)** | **[Customer Service Representative & Junior Graphic Designer](https://jobright.ai/jobs/info/693a16f548a8ce22990e167b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Gilbert, AZ | On Site | Dec 10 |
-| **[McKesson](http://www.mckesson.com)** | **[Jr. Designer, Graphic Design](https://jobright.ai/jobs/info/6939ec5eac80bb5492bc661c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA, TX, Irving | Hybrid | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
