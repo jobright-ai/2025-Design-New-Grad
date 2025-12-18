@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Maddox Industrial Transformer](https://www.maddoxtransformer.com/)** | **[Social Media Coordinator & Graphic Designer](https://jobright.ai/jobs/info/69447597dd382f5f566aa046?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Battle Ground, WA | On Site | Dec 18 |
+| **[PayPal](https://www.paypal.com/home)** | **[Experience Designer](https://jobright.ai/jobs/info/69447465dd382f5f566a9d77?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Hybrid | Dec 18 |
 | **[SGS & Co](https://www.sgsco.com/)** | **[Designer](https://jobright.ai/jobs/info/69445c3794730b73987784f5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, OR | Hybrid | Dec 18 |
 | **[Ryan Companies US, Inc.](http://www.ryancompanies.com)** | **[Designer I](https://jobright.ai/jobs/info/69445bc450bbaf76505658f0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis | On Site | Dec 18 |
 | **[Watermark Books & Cafe](https://www.watermarkbooks.com)** | **[Hybrid Graphic Designer at Watermark Books & Café](https://jobright.ai/jobs/info/694456bd50bbaf76505653b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oakland, United States | Hybrid | Dec 18 |
+| **[Best Job Tool](https://www.bestjobtool.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/694473d450bbaf76505679c7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Canada | Remote | Dec 18 |
 | **[Ryan Companies US, Inc.](http://www.ryancompanies.com)** | **[Designer I](https://jobright.ai/jobs/info/69444faedd382f5f566a6adc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Minneapolis, MN | On Site | Dec 18 |
 | **[Wolves Hospitality Group](https://www.linkedin.com/company/109851477)** | **[Graphic Designer and Video Editor](https://jobright.ai/jobs/info/6944419994730b739877595f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rockville Centre, NY | On Site | Dec 18 |
 | **[RR Donnelley](http://www.rrd.com)** | **[Graphic Designer - Presentations](https://jobright.ai/jobs/info/68e76ba6de7ec24c9893b99a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wheeling, WV | On Site | Dec 18 |
@@ -179,6 +182,7 @@ For a complete list, click the following sortable link below:
 | **[Free People](http://www.freepeople.com)** | **[FP Movement Assistant Visual Manager](https://jobright.ai/jobs/info/691be25abcdbf3560c9e3999?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Palm Springs, CA | On Site | Dec 16 |
 | **[Immersion Legal](https://www.immersionlegal.com/)** | **[Legal Graphic Specialist](https://jobright.ai/jobs/info/6941c6ca50bbaf76505393ed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 16 |
 | **[Sing for Hope](https://singforhope.org)** | **[Contract Graphic Designer](https://jobright.ai/jobs/info/6941e81814ee092a69ffff2e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 16 |
+| **[Marks](https://www.makemarks.com/)** | **[Designer](https://jobright.ai/jobs/info/694468ed50bbaf765056665d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, OR | On Site | Dec 16 |
 | **[AECOM](http://www.aecom.com/)** | **[Architectural Designer](https://jobright.ai/jobs/info/6941f53150bbaf765053c6d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ottawa, Ontario, Canada | Hybrid | Dec 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Visual Designer - TikTok LIVE - Los Angeles](https://jobright.ai/jobs/info/694204c1bdcf884a5addbde2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Dec 16 |
 | **[Immersion Legal](https://www.immersionlegal.com/)** | **[Litigation Graphic Specialist](https://jobright.ai/jobs/info/6941b943bdcf884a5add758a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | Hybrid | Dec 16 |
@@ -323,6 +327,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/691f7f6d3f782d2f1afbcfe7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Hybrid | Dec 12 |
 | **[AppLovin](https://www.applovin.com)** | **[Creative Operator](https://jobright.ai/jobs/info/68ccfc2477add66568abd14d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Hybrid | Dec 12 |
 | **[SeatGeek](https://seatgeek.com)** | **[UX Design - New Grad](https://jobright.ai/jobs/info/691f52343f782d2f1afba65d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 12 |
-| **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Decor Technical Designer](https://jobright.ai/jobs/info/693bde3850bbaf76504f4bec?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Norwalk, CT | Hybrid | Dec 11 |
-| **[Lakeshirts](http://lakeshirts.com)** | **[Production Artist](https://jobright.ai/jobs/info/693ca6d3aa598a08c3ed89db?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Detroit Lakes, MN | On Site | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
