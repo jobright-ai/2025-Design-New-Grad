@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zoom](https://www.zoom.com)** | **[Web Designer](https://jobright.ai/jobs/info/6943dc9094730b7398770bba?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 18 |
 | **[Gensler](http://www.gensler.com)** | **[Technical Designer - Interiors - Junior](https://jobright.ai/jobs/info/6943ba3650bbaf765055b509?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Dec 18 |
 | **[KPA](http://kpa.io)** | **[Content Writer - Environmental, Health & Safety](https://jobright.ai/jobs/info/6940b41549a7695fbd06358b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Westminster, CO | Hybrid | Dec 17 |
 | **[Gensler](http://www.gensler.com)** | **[Technical Designer - Interiors - Junior](https://jobright.ai/jobs/info/6943872294730b739876a3a6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA, US | On Site | Dec 17 |
@@ -88,7 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Insulet Corporation](https://www.insulet.com)** | **[UX Designer - Acton, Mass. (Hybrid)](https://jobright.ai/jobs/info/69434ca394730b7398765b3a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | MA | Hybrid | Dec 17 |
 | **[Coalition, Inc.](https://www.coalitioninc.com)** | **[WEB DESIGNER](https://jobright.ai/jobs/info/6943428b50bbaf76505525c0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA | Remote | Dec 17 |
 | **[Automated Technology (Phil.) Inc. - ATEC](https://www.atecphil.com/)** | **[Website Design Specialist](https://jobright.ai/jobs/info/694345eb94730b73987657e6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lincoln, NE | On Site | Dec 17 |
-| **[Andresen Digital](https://www.andresendigital.com/)** | **[Junior Graphic Artist / Production Assistant (Entry-Level) — Prepress, QC & Office Support](https://jobright.ai/jobs/info/6943426550bbaf7650552563?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Dec 17 |
+| **[Andresen](https://www.andresendigital.com/)** | **[Junior Graphic Artist / Production Assistant (Entry-Level) — Prepress, QC & Office Support](https://jobright.ai/jobs/info/6943426550bbaf7650552563?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Dec 17 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Coordinator, Creative](https://jobright.ai/jobs/info/6943422694730b739876509b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA - Los Angeles - 777 S. Santa Fe Ave | On Site | Dec 17 |
 | **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Display Artist - Full-Time](https://jobright.ai/jobs/info/694318e094730b7398761ad3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Reno, NV | On Site | Dec 17 |
 | **[Klick](https://www.klick.com)** | **[Designer](https://jobright.ai/jobs/info/694318cc50bbaf765054f053?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 17 |
@@ -308,10 +309,4 @@ For a complete list, click the following sortable link below:
 | **[Triumph](https://triumpharcade.com)** | **[Product Designer](https://jobright.ai/jobs/info/693ca6bf49a7695fbd03726b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco | On Site | Dec 11 |
 | **[Whitmores](http://www.whitmoresinc.com/)** | **[Design Associate](https://jobright.ai/jobs/info/693b58ced4054a2bc025515a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | East Hampton, NY | Hybrid | Dec 11 |
 | **[Fever](https://www.feverup.com)** | **[Junior Creative Strategist](https://jobright.ai/jobs/info/693b3dcdb309e3780086f494?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles | On Site | Dec 11 |
-| **[HMC Architects](https://hmcarchitects.com/)** | **[Designer](https://jobright.ai/jobs/info/693b68915f2c001987ed6c1f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sacramento, CA | Hybrid | Dec 11 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/693b27e3d4054a2bc02515f3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sacramento, CA | Hybrid | Dec 11 |
-| **[TikTok](https://www.tiktok.com)** | **[TikTok Shop - Creative Designer](https://jobright.ai/jobs/info/693b5e9db309e37800872042?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Dec 11 |
-| **[Oracle](https://www.oracle.com/)** | **[Animation & Video Specialist  - NYC](https://jobright.ai/jobs/info/693b4277d4054a2bc0252d4b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 11 |
-| **[Fever](https://www.feverup.com)** | **[Junior Creative Strategist](https://jobright.ai/jobs/info/693b48fc5f2c001987ed442d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Dec 11 |
-| **[Cogent Analytics](https://www.cogentanalytics.com/)** | **[Landscape / Hardscape Professional](https://jobright.ai/jobs/info/693b42bab309e3780086f884?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chapel Hill, NC | On Site | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
