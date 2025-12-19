@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BRAVE Books](https://bravebooks.us)** | **[Creative Associate](https://jobright.ai/jobs/info/69459352951654073537ad3d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Conroe, TX | On Site | Dec 19 |
+| **[BRAVE Books](https://bravebooks.us)** | **[Graphic Designer](https://jobright.ai/jobs/info/69459b20951654073537b8e4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Conroe, TX | On Site | Dec 19 |
+| ↳ | **[Creative Associate](https://jobright.ai/jobs/info/69459352951654073537ad3d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Conroe, TX | On Site | Dec 19 |
 | **[City of New York](http://www1.nyc.gov)** | **[Assistant Landscape Architect](https://jobright.ai/jobs/info/69458be7d1953b5d11be89a8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | All, MO | On Site | Dec 19 |
 | **[Reformation](http://www.thereformation.com)** | **[Associate Footwear Designer](https://jobright.ai/jobs/info/68e97b7865768b6412b1c9dd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York | Hybrid | Dec 19 |
 | **[Bespoke Careers](https://www.bespokecareers.com/uk/)** | **[Interior Designer / Luxury San Francisco Design House](https://jobright.ai/jobs/info/69458a21951654073537a38d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Hybrid | Dec 19 |
 | **[Birchcrest Tree & Landscape, Inc.](https://www.birchcrestlandscape.com)** | **[Landscape Designer and Salesperson](https://jobright.ai/jobs/info/69458839951654073537a1cb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rochester, NY | On Site | Dec 19 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Framing Designer](https://jobright.ai/jobs/info/6945874cd1953b5d11be8670?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Syracuse-3483 W Genesee St | On Site | Dec 19 |
 | **[Accenture](https://www.accenture.com)** | **[Designer](https://jobright.ai/jobs/info/6945859363141d18845514bb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | Hybrid | Dec 19 |
+| **[Roundabout Studio Inc](http://roundaboutstudio.com)** | **[Junior Designer](https://jobright.ai/jobs/info/6945a13f951654073537bcf6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ashburn, Ontario, Canada | On Site | Dec 19 |
 | **[TAG Consulting](https://tag-consulting.mx)** | **[Visual Inspector](https://jobright.ai/jobs/info/69457c8ed1953b5d11be78aa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bergenfield, NJ | On Site | Dec 19 |
 | **[Worldwide Golf](http://www.worldwidegolfshops.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/690ba31bd046ab6061ce5faa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Ana, CA | On Site | Dec 19 |
 | **[Caddell Construction](http://caddell.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/693320bf764507023d1b2631?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montgomery, Alabama, United States | On Site | Dec 19 |
@@ -191,8 +193,8 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cf313adbd9fb154ede58d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tampa, FL | On Site | Dec 17 |
 | **[Supreme Graphics](https://www.supremegraphics.com/)** | **[Graphic Designer/Prepress Technician](https://jobright.ai/jobs/info/6942dcd9dd382f5f5668d299?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Arcadia, WI | On Site | Dec 17 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687e18cb764c3d7411c41668?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lewis Center, OH | On Site | Dec 17 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/68c67d93db52c07d2884946b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port St Lucie, FL | On Site | Dec 17 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68cf31f9fb49c96ca6ea64eb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boynton Beach, FL | On Site | Dec 17 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/68c67d93db52c07d2884946b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port St Lucie, FL | On Site | Dec 17 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68cdd50ce23def7af55bfa48?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Countryside, IL | On Site | Dec 17 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d4125ed63844c944b23d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Katy, TX | On Site | Dec 17 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3b98764c3d7411c3c8b8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | McKinney, TX | On Site | Dec 17 |
@@ -252,6 +254,7 @@ For a complete list, click the following sortable link below:
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Artist](https://jobright.ai/jobs/info/685dfe3bbee2fb40984e7fe3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Winona, MN | On Site | Dec 16 |
 | **[Four Hundred](https://www.fourhundred.com/)** | **[GRAPHIC DESIGNER & DIGITAL MARKETING SPECIALIST](https://jobright.ai/jobs/info/6942063fbdcf884a5addbf1f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 16 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Landscaping - Landscape Section Tender - Full Time](https://jobright.ai/jobs/info/6942072014ee092a690023df?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kailua-Kona, HI | On Site | Dec 16 |
+| **[Omnicom Production](https://omnicomproduction.com)** | **[Production Artist](https://jobright.ai/jobs/info/69387e70aabec14a727d6506?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, Illinois, United States | On Site | Dec 16 |
 | **[Thomas Cuisine](https://thomascuisine.com/)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/6944ecbd50bbaf765057076e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Meridian, ID | On Site | Dec 15 |
 | **[Steinhafels Furniture](http://steinhafels.com)** | **[Interior Designer](https://jobright.ai/jobs/info/6940ea62aa598a08c3f094de?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Madison, WI | On Site | Dec 15 |
 | **[Business of Home](https://businessofhome.com)** | **[Interior Design Assistant](https://jobright.ai/jobs/info/69420c44bdcf884a5addc532?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Dec 15 |
@@ -316,6 +319,4 @@ For a complete list, click the following sortable link below:
 | **[Rise, a Quad agency](http://www.riseinteractive.com)** | **[Visual Designer](https://jobright.ai/jobs/info/693d2beb50bbaf7650504965?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Dec 13 |
 | **[Banana Republic](http://www.bananarepublic.com/)** | **[Designer, Creative](https://jobright.ai/jobs/info/693d171550bbaf7650503ad7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Dec 13 |
 | **[TCI (Teachers'​ Curriculum Institute)](http://teachtci.com)** | **[Publishing Content Layout Associate (Temporary February 2026 - May 2026, Remote)](https://jobright.ai/jobs/info/693d09d649a7695fbd03bbd9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fully Remote | Remote | Dec 12 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/693ceebd49a7695fbd0397f2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Paramus, NJ | On Site | Dec 12 |
-| **[Carebase](https://carebase.org.uk)** | **[Graphic Designer](https://jobright.ai/jobs/info/693cee37aa598a08c3edaf85?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wimbledon, ND | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
