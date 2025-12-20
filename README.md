@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Macy's](http://www.macysjobs.com)** | **[Visual Support Captain, West Valley Mall - Full Time](https://jobright.ai/jobs/info/69468622d1953b5d11bfb226?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 3400 Naglee Road, Tracy, CA, 95304, US | On Site | Dec 20 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Architect, Higher Education](https://jobright.ai/jobs/info/68770bc0299cbc74b8762e18?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Riverside, CA | Hybrid | Dec 20 |
 | **[Maxxima](https://maxxima.com)** | **[Digital Graphic Designer](https://jobright.ai/jobs/info/69466f0b7d506e3808f1dd91?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hauppauge, NY | On Site | Dec 20 |
 | ↳ | **[Digital Graphic Designer](https://jobright.ai/jobs/info/69466d917d506e3808f1dd31?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hauppauge, NY | On Site | Dec 20 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Landscaping - Landscape Section Tender - Full Time](https://jobright.ai/jobs/info/6946609a63141d18845612ab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kailua-Kona, HI | On Site | Dec 20 |
@@ -92,7 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Display Artist - Full-Time](https://jobright.ai/jobs/info/6945ad55951654073537c78d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | On Site | Dec 19 |
 | **[simpleclub](https://simpleclub.com/)** | **[Content Writer:in  Elektroniker/Mechatroniker m/f/x – Werkstudent:in / Teilzeit (Remote)](https://jobright.ai/jobs/info/6945ad3263141d1884553b02?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 19 |
 | **[Petco](https://www.petco.com/unleashed)** | **[Space Management Planner](https://jobright.ai/jobs/info/6945acdc63141d1884553aab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Dec 19 |
-| **[Taylor Corporation](https://taylor.taylor.com)** | **[Graphic Design Specialist](https://jobright.ai/jobs/info/6945a9cbd1953b5d11bea685?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Mankato, MN | On Site | Dec 19 |
+| **[Taylor Corporation](https://www.taylor.com/)** | **[Graphic Design Specialist](https://jobright.ai/jobs/info/6945a9cbd1953b5d11bea685?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Mankato, MN | On Site | Dec 19 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Coordinator, Visual Creative](https://jobright.ai/jobs/info/6942108fbdcf884a5addcc2a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | On Site | Dec 19 |
 | **[Global Inflight Products](https://www.gipusa.com)** | **[Industrial Product Designer](https://jobright.ai/jobs/info/6945c27ad1953b5d11bec1a3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Redmond, WA | On Site | Dec 19 |
 | **[BRAVE Books](https://bravebooks.us)** | **[Graphic Designer](https://jobright.ai/jobs/info/69459b20951654073537b8e4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Conroe, TX | On Site | Dec 19 |
@@ -236,8 +238,8 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cf313adbd9fb154ede58d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tampa, FL | On Site | Dec 17 |
 | **[Supreme Graphics](https://www.supremegraphics.com/)** | **[Graphic Designer/Prepress Technician](https://jobright.ai/jobs/info/6942dcd9dd382f5f5668d299?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Arcadia, WI | On Site | Dec 17 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687e18cb764c3d7411c41668?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lewis Center, OH | On Site | Dec 17 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/68c67d93db52c07d2884946b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port St Lucie, FL | On Site | Dec 17 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68cf31f9fb49c96ca6ea64eb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boynton Beach, FL | On Site | Dec 17 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/68c67d93db52c07d2884946b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port St Lucie, FL | On Site | Dec 17 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68cdd50ce23def7af55bfa48?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Countryside, IL | On Site | Dec 17 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d4125ed63844c944b23d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Katy, TX | On Site | Dec 17 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3b98764c3d7411c3c8b8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | McKinney, TX | On Site | Dec 17 |
@@ -301,7 +303,6 @@ For a complete list, click the following sortable link below:
 | **[Steinhafels Furniture](http://steinhafels.com)** | **[Interior Designer](https://jobright.ai/jobs/info/6940ea62aa598a08c3f094de?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Madison, WI | On Site | Dec 15 |
 | **[Business of Home](https://businessofhome.com)** | **[Interior Design Assistant](https://jobright.ai/jobs/info/69420c44bdcf884a5addc532?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Dec 15 |
 | **[Day One Agency](https://www.d1a.com/)** | **[Junior Designer](https://jobright.ai/jobs/info/692a624066796e3028f8eef3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, OR | Hybrid | Dec 15 |
-| **[Klein Tools](https://www.kleintools.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/6945f67a63141d1884558e1e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lincolnshire, IL | On Site | Dec 15 |
 | **[Paramount Pictures](http://www.paramountpictures.com)** | **[Associate Proofreader](https://jobright.ai/jobs/info/692fa6a34c474121999e1796?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Dec 15 |
 | **[AECOM](http://www.aecom.com/)** | **[Architectural Designer](https://jobright.ai/jobs/info/6941f1c9bdcf884a5addae06?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ottawa, Canada | On Site | Dec 15 |
 | **[Signarama Evansville](http://www.signsoveramerica.com)** | **[Graphic Designer / Sign Design](https://jobright.ai/jobs/info/6940cd7150bbaf765052d26c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Evansville, IN 47715 | On Site | Dec 15 |
