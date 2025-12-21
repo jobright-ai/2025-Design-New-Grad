@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68f1be72ef766b3f0fd11b12?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Augusta, GA | On Site | Dec 21 |
+| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6947fb9d63141d188457bb43?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Alhambra, CA | On Site | Dec 21 |
+| **[West Elm](https://www.westelm.com/)** | **[Visual Associate, Seasonal Flex Only, Beverly Blvd - West Elm](https://jobright.ai/jobs/info/68c8df2f95f5211cd2cea46e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Hybrid | Dec 21 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68c8ef7995f5211cd2ceb94f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Commack, NY | On Site | Dec 21 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/6880424c764c3d7411c507cf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Peachtree City, GA | On Site | Dec 21 |
+| **[kate spade new york](https://www.katespade.com/)** | **[Assistant Designer, Outlet Leathergoods](https://jobright.ai/jobs/info/68f251e0cb0abf15612f6c4c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 21 |
+| **[West Elm](https://www.westelm.com/)** | **[Visual Associate, Part Time Flex, Vacaville - West Elm Outlet](https://jobright.ai/jobs/info/684a645fae37621980c11614?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vacaville, CA | Hybrid | Dec 21 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/690f3b9944146d3b6ec5ac54?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bellevue, WA | On Site | Dec 21 |
 | **[Design Observer](http://designobserver.com/)** | **[Decor Technical Designer](https://jobright.ai/jobs/info/6947e133d1953b5d11c100c8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Norwalk, CT | Hybrid | Dec 21 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/689fcd43faa4e875e828b3f0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 21 |
@@ -195,6 +202,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687e19f9764c3d7411c416ed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sanford, FL | On Site | Dec 18 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68d301868c62e63bc7fdcb33?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lutz, FL | On Site | Dec 18 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687e18a0764c3d7411c41655?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | On Site | Dec 18 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/68cdb10c1ad6b16f0289dcb4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Apple Valley, MN | On Site | Dec 18 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68cd660bb2a74e1837ed68a8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hyannis, MA | On Site | Dec 18 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68c8f198983e6768bc553d8a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Humble, TX | On Site | Dec 18 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3e322097a271a898e24c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baton Rouge, LA | On Site | Dec 18 |
@@ -339,11 +347,11 @@ For a complete list, click the following sortable link below:
 | **[ScrubaDub Auto Wash Centers, Inc](https://scrubadub.com)** | **[Marketing & Design Specialist](https://jobright.ai/jobs/info/69404e0249a7695fbd05dc26?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Natick, MA | Hybrid | Dec 15 |
 | **[Washingtonian Magazine](http://www.washingtonian.com/)** | **[Assistant Photo Editor](https://jobright.ai/jobs/info/6940520d49a7695fbd05de91?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Hybrid | Dec 15 |
 | **[Archinect](https://archinect.com)** | **[Architectural Designer](https://jobright.ai/jobs/info/6941738850bbaf76505355f4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 15 |
+| **[Signarama Austin](http://www.signarama-austinsouth.com)** | **[Graphic Designer and Production Specialist](https://jobright.ai/jobs/info/693f4e6a49a7695fbd05181d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Joliet, IL | On Site | Dec 15 |
 | **[FASTSIGNS®](https://www.fastsigns.com/)** | **[ASST SIGN Production Specialist / Graphic Designer](https://jobright.ai/jobs/info/693fddd4aa598a08c3efa666?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 15 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Associate Artist, Graphic Operations (Production)](https://jobright.ai/jobs/info/69424b6950bbaf765054485d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buffalo, NY | On Site | Dec 14 |
 | **[Artful Home](https://www.artfulhome.com)** | **[Junior Production Designer](https://jobright.ai/jobs/info/694385bf50bbaf76505577dd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Branford, CT | On Site | Dec 14 |
 | **[The Bagga Team | Royal LePage Magna](https://www.manibagga.com)** | **[Visual Media Creator](https://jobright.ai/jobs/info/693f7d4e49a7695fbd05382e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Edmonton, Alberta, Canada | On Site | Dec 14 |
 | **[Free People](http://www.freepeople.com)** | **[FP Movement Assistant Visual Manager](https://jobright.ai/jobs/info/693f629150bbaf765051b098?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Dec 14 |
 | **[La La Land Creative Co.](https://lalalandcreativeco.com/)** | **[Apparel Design Assistant](https://jobright.ai/jobs/info/693f53abaa598a08c3ef32b2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Dec 14 |
-| **[Signarama Austin](http://www.signarama-austinsouth.com)** | **[Sign Design and Production Specialist](https://jobright.ai/jobs/info/693f4e6a49a7695fbd05181d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Joliet, IL | On Site | Dec 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
