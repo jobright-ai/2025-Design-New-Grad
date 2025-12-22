@@ -265,8 +265,8 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68cf313adbd9fb154ede58d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tampa, FL | On Site | Dec 17 |
 | **[Supreme Graphics](https://www.supremegraphics.com/)** | **[Graphic Designer/Prepress Technician](https://jobright.ai/jobs/info/6942dcd9dd382f5f5668d299?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Arcadia, WI | On Site | Dec 17 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687e18cb764c3d7411c41668?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lewis Center, OH | On Site | Dec 17 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/68c67d93db52c07d2884946b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port St Lucie, FL | On Site | Dec 17 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68cf31f9fb49c96ca6ea64eb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boynton Beach, FL | On Site | Dec 17 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/68c67d93db52c07d2884946b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Port St Lucie, FL | On Site | Dec 17 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68cdd50ce23def7af55bfa48?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Countryside, IL | On Site | Dec 17 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d4125ed63844c944b23d7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Katy, TX | On Site | Dec 17 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3b98764c3d7411c3c8b8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | McKinney, TX | On Site | Dec 17 |
@@ -352,5 +352,4 @@ For a complete list, click the following sortable link below:
 | **[Washingtonian Magazine](http://www.washingtonian.com/)** | **[Assistant Photo Editor](https://jobright.ai/jobs/info/6940520d49a7695fbd05de91?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Hybrid | Dec 15 |
 | **[Archinect](https://archinect.com)** | **[Architectural Designer](https://jobright.ai/jobs/info/6941738850bbaf76505355f4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 15 |
 | **[Signarama Austin](http://www.signarama-austinsouth.com)** | **[Graphic Designer and Production Specialist](https://jobright.ai/jobs/info/693f4e6a49a7695fbd05181d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Joliet, IL | On Site | Dec 15 |
-| **[FASTSIGNS®](https://www.fastsigns.com/)** | **[ASST SIGN Production Specialist / Graphic Designer](https://jobright.ai/jobs/info/693fddd4aa598a08c3efa666?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
