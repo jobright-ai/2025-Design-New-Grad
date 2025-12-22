@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New England Design & Construction](https://www.nedesignbuild.com/)** | **[Architectural Assistant Designer](https://jobright.ai/jobs/info/69496bb863141d188459016b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | On Site | Dec 22 |
+| **[Sunny Sky Products](https://sunnyskyproducts.com)** | **[Packaging Associate - Crew B](https://jobright.ai/jobs/info/6940723caa598a08c3f00ff1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Douglassville, PA | On Site | Dec 22 |
+| **[Buro Happold](http://www.burohappold.com)** | **[Graduate Lighting Designer- New York (Summer 2026)](https://jobright.ai/jobs/info/68f28bc09a63986de7568b0b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | Hybrid | Dec 22 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68f2c35c9a63986de756c127?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Naples, FL | On Site | Dec 22 |
 | **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Walt Whitman - Pottery Barn](https://jobright.ai/jobs/info/684a0d63ab18d2944e0529a2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Huntington Station, NY | On Site | Dec 22 |
 | **[Crate and Barrel](http://www.crateandbarrel.com)** | **[Associate Designer, Digital + Paid Media](https://jobright.ai/jobs/info/690ff9f1bb519377733ea0fa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Northbrook, IL | Hybrid | Dec 22 |
@@ -118,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Centric Brands](https://centricbrands.com)** | **[Associate Designer, Handbags](https://jobright.ai/jobs/info/6945cf9463141d1884556375?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Designer (User Growth/Tablet) - TikTok Design (San Jose)](https://jobright.ai/jobs/info/6945cd7e63141d1884555953?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | Hybrid | Dec 19 |
 | **[The N2 Company](https://n2co.com)** | **[Advertisement Designer](https://jobright.ai/jobs/info/6945c857951654073537e54f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wilmington, NC | On Site | Dec 19 |
-| **[T and T Consulting Services, Inc.](https://www.tatcs.com/)** | **[Digital Engagement Coordinator](https://jobright.ai/jobs/info/6945c5fd63141d18845553e0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Corporate Remote, Falls Church, VA, US | Remote | Dec 19 |
 | **[Fever](https://www.feverup.com)** | **[Junior Creative Strategist](https://jobright.ai/jobs/info/69333184a0dde7020e2eb353?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York | On Site | Dec 19 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Marketing & Communications Specialist II](https://jobright.ai/jobs/info/6945bbd263141d188455497a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lincoln, NE | On Site | Dec 19 |
 | **[Paramount Pictures](http://www.paramountpictures.com)** | **[Coordinator, Asset Management](https://jobright.ai/jobs/info/6937e1a2aabec14a727cdaec?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Dec 19 |
@@ -332,7 +334,4 @@ For a complete list, click the following sortable link below:
 | **[Business of Home](https://businessofhome.com)** | **[Interior Design Assistant](https://jobright.ai/jobs/info/69420c44bdcf884a5addc532?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Dec 15 |
 | **[Day One Agency](https://www.d1a.com/)** | **[Junior Designer](https://jobright.ai/jobs/info/692a624066796e3028f8eef3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, OR | Hybrid | Dec 15 |
 | **[Paramount Pictures](http://www.paramountpictures.com)** | **[Associate Proofreader](https://jobright.ai/jobs/info/692fa6a34c474121999e1796?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Dec 15 |
-| **[AECOM](http://www.aecom.com/)** | **[Architectural Designer](https://jobright.ai/jobs/info/6941f1c9bdcf884a5addae06?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ottawa, Canada | On Site | Dec 15 |
-| **[Signarama Evansville](http://www.signsoveramerica.com)** | **[Graphic Designer / Sign Design](https://jobright.ai/jobs/info/6940cd7150bbaf765052d26c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Evansville, IN 47715 | On Site | Dec 15 |
-| **[A+E Global Media](https://www.aetv.com/)** | **[Associate Producer, Multiplatform (FAST)](https://jobright.ai/jobs/info/69409e9449a7695fbd062ac3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | On Site | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
