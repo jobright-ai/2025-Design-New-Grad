@@ -120,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Graphic Thumbnail Designer (YouTube)](https://jobright.ai/jobs/info/694a34197d506e3808f5803a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 22 |
 | **[Tomo Drug Testing](https://www.yourdrugtesting.com/)** | **[Marketing & Creative Coordinator](https://jobright.ai/jobs/info/6949914063141d1884592be9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Springfield, MO | On Site | Dec 22 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Graphic Thumbnail Designer (YouTube)](https://jobright.ai/jobs/info/69498ca8d1953b5d11c288bb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA  NY - New York - 37 W 28th St | Hybrid | Dec 22 |
-| **[NTT DATA North America](https://us.nttdata.com)** | **[Coordinator III - Associate Designer Visual Merchandising](https://jobright.ai/jobs/info/694b203c3019f50a4fe63691?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | Remote | Dec 22 |
 | **[IANS](http://www.iansresearch.com)** | **[Copy Editor](https://jobright.ai/jobs/info/6949a11dd1953b5d11c2a60d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | Remote | Dec 22 |
 | ↳ | **[Copy Editor](https://jobright.ai/jobs/info/6949916463141d1884592c30?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | On Site | Dec 22 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Open Ava. Custom Framer](https://jobright.ai/jobs/info/694995fa63141d18845932ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Torrance-4240 Pacific Coast Hwy | On Site | Dec 22 |
@@ -312,7 +311,4 @@ For a complete list, click the following sortable link below:
 | **[IHL Group](https://ihlgroup.com)** | **[Assistant Designer, Intimates](https://jobright.ai/jobs/info/694340a294730b7398764d9d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, New York, United States | On Site | Dec 17 |
 | **[The Kasper Group](http://www.jonesgroupinc.com)** | **[Design Assistant - Women's Blouses](https://jobright.ai/jobs/info/694313f750bbaf765054ebc5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 17 |
 | **[Condé Nast](http://www.condenast.com)** | **[Web Producer, GQ](https://jobright.ai/jobs/info/6942eb4794730b739875ec7c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 17 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3bc2ed63844c944b2315?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Hendersonville, TN | On Site | Dec 17 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/687d3e6e2097a271a898e27d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Summerfield, FL | On Site | Dec 17 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/68cdff391ad6b16f028a09ff?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ocean Township, NJ | On Site | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
