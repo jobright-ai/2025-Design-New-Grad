@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Best Job Tool](https://www.bestjobtool.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/694da16ff5bef51c96eb2817?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Canada | Remote | Dec 25 |
+| **[Acadental](https://acadental.com)** | **[3D Modeler & Graphic Designer](https://jobright.ai/jobs/info/694daf30f5bef51c96eb3813?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Overland Park, KS 66214 | On Site | Dec 25 |
 | **[Tailscale](https://www.tailscale.com)** | **[Brand Designer](https://jobright.ai/jobs/info/6930f818ef4b48533d15129b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 25 |
 | **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[Art Director](https://jobright.ai/jobs/info/6930a07d4c474121999e6c88?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 25 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Junior Textile Designer](https://jobright.ai/jobs/info/68dbbdc1d6470e72cf4d25c5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 25 |
@@ -169,6 +171,7 @@ For a complete list, click the following sortable link below:
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Graphic Thumbnail Designer (YouTube)](https://jobright.ai/jobs/info/694a34197d506e3808f5803a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 22 |
 | **[Tomo Drug Testing](https://www.yourdrugtesting.com/)** | **[Marketing & Creative Coordinator](https://jobright.ai/jobs/info/6949914063141d1884592be9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Springfield, MO | On Site | Dec 22 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Graphic Thumbnail Designer (YouTube)](https://jobright.ai/jobs/info/69498ca8d1953b5d11c288bb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA  NY - New York - 37 W 28th St | Hybrid | Dec 22 |
+| **[NTT DATA North America](https://us.nttdata.com)** | **[Visual Merchandising Coordinator - Part-time](https://jobright.ai/jobs/info/694da85ed4a7df7a0672ab0d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | Remote | Dec 22 |
 | **[IANS](http://www.iansresearch.com)** | **[Copy Editor](https://jobright.ai/jobs/info/6949a11dd1953b5d11c2a60d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | Remote | Dec 22 |
 | ↳ | **[Copy Editor](https://jobright.ai/jobs/info/6949916463141d1884592c30?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | On Site | Dec 22 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Open Ava. Custom Framer](https://jobright.ai/jobs/info/694995fa63141d18845932ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Torrance-4240 Pacific Coast Hwy | On Site | Dec 22 |
@@ -236,6 +239,7 @@ For a complete list, click the following sortable link below:
 | **[Paramount Pictures](http://www.paramountpictures.com)** | **[Coordinator, Asset Management](https://jobright.ai/jobs/info/6937e1a2aabec14a727cdaec?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Dec 19 |
 | **[Old Navy](http://www.oldnavy.com)** | **[Associate Designer, Girls Apparel](https://jobright.ai/jobs/info/68d46c088c62e63bc7fe92c4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Dec 19 |
 | **[YouTube](https://www.youtube.com)** | **[UX Designer, YouTube, Shorts Consumption](https://jobright.ai/jobs/info/6945d14c63141d1884556bfd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Bruno, CA | On Site | Dec 19 |
+| **[HIMALI](https://himalilife.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/694da6add4a7df7a0672a8fe?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boulder, CO | On Site | Dec 19 |
 | **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Display Artist - Full-Time](https://jobright.ai/jobs/info/6945ad55951654073537c78d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | On Site | Dec 19 |
 | **[simpleclub](https://simpleclub.com/)** | **[Content Writer:in  Elektroniker/Mechatroniker m/f/x – Werkstudent:in / Teilzeit (Remote)](https://jobright.ai/jobs/info/6945ad3263141d1884553b02?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 19 |
 | **[Petco](https://www.petco.com/unleashed)** | **[Space Management Planner](https://jobright.ai/jobs/info/6945acdc63141d1884553aab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Dec 19 |
@@ -267,8 +271,4 @@ For a complete list, click the following sortable link below:
 | **[Marks](https://www.makemarks.com/)** | **[Designer](https://jobright.ai/jobs/info/694468ed50bbaf765056665d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, OR | Hybrid | Dec 19 |
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Decor Technical Designer](https://jobright.ai/jobs/info/6945181b63141d1884549fb7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Norwalk, CT | Hybrid | Dec 19 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69466b5ed1953b5d11bfa500?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chandler, AZ | On Site | Dec 19 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6946531a63141d1884560acf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Riviera Beach, FL | On Site | Dec 18 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/69464dae7d506e3808f1aa4f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toms River, NJ | On Site | Dec 18 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/69464d48d1953b5d11bf74cd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Doral, FL | On Site | Dec 18 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/694647fdd1953b5d11bf7059?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lone Tree, CO | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
