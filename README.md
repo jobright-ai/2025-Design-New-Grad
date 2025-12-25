@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Design Observer](http://designobserver.com/)** | **[Junior Designer](https://jobright.ai/jobs/info/694c745e1a572a617ddea4f6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | On Site | Dec 24 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Shop - UX Designer, Seller Platfom Designer](https://jobright.ai/jobs/info/694c57931a572a617dde956f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Dec 24 |
 | **[dentsu](https://www.dentsu.com)** | **[Content Creator, Social - Temporary Role](https://jobright.ai/jobs/info/694c2a3d5d7312113470a61c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA - Remote - New York | Remote | Dec 24 |
 | **[MacKenzie-Childs, LLC](http://www.mackenzie-childs.com)** | **[Visual Merchandising Operations Coordinator](https://jobright.ai/jobs/info/694c25a55d7312113470a4f1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Aurora, NY | On Site | Dec 24 |
@@ -143,7 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Graphic Thumbnail Designer (YouTube)](https://jobright.ai/jobs/info/694a34197d506e3808f5803a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 22 |
 | **[Tomo Drug Testing](https://www.yourdrugtesting.com/)** | **[Marketing & Creative Coordinator](https://jobright.ai/jobs/info/6949914063141d1884592be9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Springfield, MO | On Site | Dec 22 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Graphic Thumbnail Designer (YouTube)](https://jobright.ai/jobs/info/69498ca8d1953b5d11c288bb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA  NY - New York - 37 W 28th St | Hybrid | Dec 22 |
-| **[NTT DATA North America](https://us.nttdata.com)** | **[Visual Merchandising Coordinator - Part-time](https://jobright.ai/jobs/info/694bf1111a572a617dde3ead?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | Remote | Dec 22 |
+| **[NTT DATA North America](https://us.nttdata.com)** | **[Visual Merchandising Coordinator - Part-time](https://jobright.ai/jobs/info/694c669c1a572a617ddea218?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | Remote | Dec 22 |
 | **[IANS](http://www.iansresearch.com)** | **[Copy Editor](https://jobright.ai/jobs/info/6949a11dd1953b5d11c2a60d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | Remote | Dec 22 |
 | ↳ | **[Copy Editor](https://jobright.ai/jobs/info/6949916463141d1884592c30?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | On Site | Dec 22 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Open Ava. Custom Framer](https://jobright.ai/jobs/info/694995fa63141d18845932ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Torrance-4240 Pacific Coast Hwy | On Site | Dec 22 |
@@ -282,8 +283,7 @@ For a complete list, click the following sortable link below:
 | **[Klick](https://www.klick.com)** | **[Designer](https://jobright.ai/jobs/info/694435a2dd382f5f566a4191?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 18 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/694413a7dd382f5f566a2e13?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bend, OR | On Site | Dec 18 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/694410f394730b7398773d00?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denton, TX | On Site | Dec 18 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3f5e764c3d7411c3c964?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Myers, FL | On Site | Dec 18 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/68ce20fde23def7af55c2665?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Dec 18 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68ce20fde23def7af55c2665?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Dec 18 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69440c7e50bbaf7650560e88?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dublin, OH | On Site | Dec 18 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/687d3c1b2097a271a898e1e7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bremerton, WA | On Site | Dec 18 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687e19f9764c3d7411c416ed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sanford, FL | On Site | Dec 18 |
@@ -296,6 +296,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3e312097a271a898e24b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Columbus, GA | On Site | Dec 18 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687e1975db19f31cf0d682e7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fern Park, FL | On Site | Dec 18 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3e2c2097a271a898e244?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montgomery, AL | On Site | Dec 18 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/687d3f19764c3d7411c3c938?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Myers, FL | On Site | Dec 18 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3f66ed63844c944b239c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Lauderdale, FL | On Site | Dec 18 |
-| **[Gensler](http://www.gensler.com)** | **[Technical Designer - Interiors - Junior](https://jobright.ai/jobs/info/6943ba3650bbaf765055b509?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
