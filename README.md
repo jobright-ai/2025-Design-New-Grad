@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tailscale](https://www.tailscale.com)** | **[Brand Designer](https://jobright.ai/jobs/info/6930f818ef4b48533d15129b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 25 |
+| **[F. Schumacher & Co.](http://fschumacher.com)** | **[Junior Textile Designer](https://jobright.ai/jobs/info/68dbbdc1d6470e72cf4d25c5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 25 |
+| **[Figma](https://www.figma.com)** | **[Early Career, Product Designer (2026)](https://jobright.ai/jobs/info/68cc27ee128dc347fd920318?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 25 |
+| ↳ | **[Early Career, Product Designer (2026)](https://jobright.ai/jobs/info/68ccca40d99309000e5a3532?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | Hybrid | Dec 25 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Concept Artist (On-site Fulltime)](https://jobright.ai/jobs/info/6930b0edfa28370be26b2613?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Winona, MN | On Site | Dec 25 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/694ccf9729655e4dd656f97b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mount Vernon, NY | On Site | Dec 24 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/694ccf6029655e4dd656f971?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Syracuse, NY | On Site | Dec 24 |
@@ -266,11 +270,4 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/694567fc63141d188454e560?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pensacola, FL | On Site | Dec 18 |
 | **[Businessolver](https://www.businessolver.com)** | **[Creative Designer (Remote)](https://jobright.ai/jobs/info/6944964994730b739877cb6d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 18 |
 | ↳ | **[Consumer Experience Strategist (Remote)](https://jobright.ai/jobs/info/69448fb894730b739877c823?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 18 |
-| ↳ | **[Creative Designer (Remote)](https://jobright.ai/jobs/info/69448dd0dd382f5f566ab63f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 18 |
-| **[SpeedPro](http://speedpro.com)** | **[Client Services Coordinator](https://jobright.ai/jobs/info/69448733dd382f5f566ab1ab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Akron, OH | On Site | Dec 18 |
-| **[Michaels Stores](https://teachitpro.com)** | **[Custom Framing Associate](https://jobright.ai/jobs/info/6944823c94730b739877becf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ramsey-75 Interstate Shopping Center | On Site | Dec 18 |
-| **[PayPal](https://www.paypal.com/home)** | **[Experience Designer](https://jobright.ai/jobs/info/694481e650bbaf76505692e5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | Hybrid | Dec 18 |
-| **[Businessolver](https://www.businessolver.com)** | **[Consumer Experience Strategist (Remote)](https://jobright.ai/jobs/info/694493c794730b739877c9a4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 18 |
-| **[Maddox Industrial Transformer](https://www.maddoxtransformer.com/)** | **[Social Media Coordinator & Graphic Designer](https://jobright.ai/jobs/info/69447597dd382f5f566aa046?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Battle Ground, WA | On Site | Dec 18 |
-| **[PayPal](https://www.paypal.com/home)** | **[Experience Designer](https://jobright.ai/jobs/info/69447465dd382f5f566a9d77?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Hybrid | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
