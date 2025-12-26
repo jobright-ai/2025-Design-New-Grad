@@ -185,7 +185,6 @@ For a complete list, click the following sortable link below:
 | **[WRNS Studio](http://wrnsstudio.com)** | **[Junior Designer](https://jobright.ai/jobs/info/6948de37d1953b5d11c1f309?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Designer (Instant Messaging) - TikTok UX (San Jose)](https://jobright.ai/jobs/info/6948cc9263141d188458678c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Dec 21 |
 | **[Archinect](https://archinect.com)** | **[Junior Interior Designer](https://jobright.ai/jobs/info/694a0c2363141d188459aaaf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 21 |
-| **[Design Observer](http://designobserver.com/)** | **[Decor Technical Designer](https://jobright.ai/jobs/info/694d7f21d4a7df7a0672872f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Norwalk, CT | On Site | Dec 21 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69480320d1953b5d11c12a98?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Firestone, CO | On Site | Dec 21 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68bb8ece8043103d4f229b10?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, ME | On Site | Dec 21 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68bb39b95f3832749186d753?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Daytona Beach, FL | On Site | Dec 21 |
@@ -269,6 +268,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Space Planner/ Campus Planning Analyst](https://jobright.ai/jobs/info/68f02e03de50091dbfa52e0d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Dec 19 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/689daf2383d13d1f5b6b343e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | Hybrid | Dec 19 |
 | **[Marks](https://www.makemarks.com/)** | **[Designer](https://jobright.ai/jobs/info/694468ed50bbaf765056665d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Portland, OR | Hybrid | Dec 19 |
-| **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Decor Technical Designer](https://jobright.ai/jobs/info/6945181b63141d1884549fb7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Norwalk, CT | Hybrid | Dec 19 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69466b5ed1953b5d11bfa500?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chandler, AZ | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
