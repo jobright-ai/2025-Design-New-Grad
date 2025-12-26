@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69325db3764507023d1add70?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Stuart, FL | On Site | Dec 26 |
+| **[Marc Jacobs](http://www.marcjacobs.com)** | **[Designer Jewelry](https://jobright.ai/jobs/info/691540a66f36db06ef04d07c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 26 |
+| **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[UX Designer II - AMZ26133.1](https://jobright.ai/jobs/info/68f99c3c6de2db04dc3ea90a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | On Site | Dec 26 |
+| **[HOK](http://www.hok.com/)** | **[Interiors - Design Professional](https://jobright.ai/jobs/info/6932384d948dde73ff9069d4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Dec 26 |
+| **[Randa Apparel & Accessories](http://www.randa.net)** | **[Assistant Designer](https://jobright.ai/jobs/info/69323186fa28370be26c2f25?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rosemont, IL | Hybrid | Dec 26 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/693fe91850bbaf7650520b32?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Dec 26 |
 | **[dentsu](https://www.dentsu.com)** | **[Content Creator, Social](https://jobright.ai/jobs/info/693905bcd52e071e19863ed6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, United States | Hybrid | Dec 26 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/693240bca0dde7020e2e4bc5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Plano, TX | On Site | Dec 26 |
+| **[Design Observer](http://designobserver.com/)** | **[Decor Technical Designer](https://jobright.ai/jobs/info/694e7fbda2668b7f5451d53b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Norwalk, CT | On Site | Dec 26 |
 | **[Best Job Tool](https://www.bestjobtool.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/694da16ff5bef51c96eb2817?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Canada | Remote | Dec 25 |
 | **[Acadental](https://acadental.com)** | **[3D Modeler & Graphic Designer](https://jobright.ai/jobs/info/694daf30f5bef51c96eb3813?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Overland Park, KS 66214 | On Site | Dec 25 |
 | **[Tailscale](https://www.tailscale.com)** | **[Brand Designer](https://jobright.ai/jobs/info/6930f818ef4b48533d15129b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 25 |
@@ -233,8 +239,4 @@ For a complete list, click the following sortable link below:
 | **[Google](https://www.google.com)** | **[UX Designer, YouTube, Shorts Consumption](https://jobright.ai/jobs/info/6945f1f1d1953b5d11befc34?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Bruno, CA | On Site | Dec 19 |
 | **[ALO](https://www.aloyoga.com/)** | **[Footwear Assistant Designer](https://jobright.ai/jobs/info/6945efd6d1953b5d11befb5b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Beverly Hills, California, United States | On Site | Dec 19 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6945e3dfd1953b5d11bef3ef?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bohemia, NY | On Site | Dec 19 |
-| **[The N2 Company](https://n2co.com)** | **[Advertisement Designer](https://jobright.ai/jobs/info/6945d7dcd1953b5d11beeac7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 19 |
-| **[Centric Brands](https://centricbrands.com)** | **[Associate Designer, Handbags](https://jobright.ai/jobs/info/6945cf9463141d1884556375?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 19 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Designer (User Growth/Tablet) - TikTok Design (San Jose)](https://jobright.ai/jobs/info/6945cd7e63141d1884555953?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | Hybrid | Dec 19 |
-| **[The N2 Company](https://n2co.com)** | **[Advertisement Designer](https://jobright.ai/jobs/info/6945c857951654073537e54f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wilmington, NC | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
