@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Best Job Tool](https://www.bestjobtool.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/694ee84029655e4dd65873a7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Canada | Remote | Dec 26 |
+| **[Free People](http://www.freepeople.com)** | **[FP Movement Assistant Visual Manager](https://jobright.ai/jobs/info/694ee4a4ce13cd1056572107?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bethesda, MD | On Site | Dec 26 |
+| **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Display Artist - Full-Time](https://jobright.ai/jobs/info/694ee41ace13cd1056572094?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Alexandria, VA | On Site | Dec 26 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/693265f5a0dde7020e2e6803?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Grapevine, TX | On Site | Dec 26 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/69322034fa28370be26c2474?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mission Viejo, CA | On Site | Dec 26 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/69325db3764507023d1add70?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Stuart, FL | On Site | Dec 26 |
@@ -184,7 +187,7 @@ For a complete list, click the following sortable link below:
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Graphic Thumbnail Designer (YouTube)](https://jobright.ai/jobs/info/694a34197d506e3808f5803a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 22 |
 | **[Tomo Drug Testing](https://www.yourdrugtesting.com/)** | **[Marketing & Creative Coordinator](https://jobright.ai/jobs/info/6949914063141d1884592be9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Springfield, MO | On Site | Dec 22 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Graphic Thumbnail Designer (YouTube)](https://jobright.ai/jobs/info/69498ca8d1953b5d11c288bb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA  NY - New York - 37 W 28th St | Hybrid | Dec 22 |
-| **[NTT DATA North America](https://us.nttdata.com)** | **[Visual Merchandising Coordinator - Part-time](https://jobright.ai/jobs/info/694e78cba2668b7f5451d4be?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | Remote | Dec 22 |
+| **[NTT DATA North America](https://us.nttdata.com)** | **[Visual Merchandising Coordinator - Part-time](https://jobright.ai/jobs/info/694ed044a2668b7f54521dba?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | Remote | Dec 22 |
 | **[IANS](http://www.iansresearch.com)** | **[Copy Editor](https://jobright.ai/jobs/info/6949a11dd1953b5d11c2a60d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | Remote | Dec 22 |
 | ↳ | **[Copy Editor](https://jobright.ai/jobs/info/6949916463141d1884592c30?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | On Site | Dec 22 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Open Ava. Custom Framer](https://jobright.ai/jobs/info/694995fa63141d18845932ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Torrance-4240 Pacific Coast Hwy | On Site | Dec 22 |
@@ -229,6 +232,4 @@ For a complete list, click the following sortable link below:
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Landscaping - Landscape Section Tender - Full Time](https://jobright.ai/jobs/info/6946609a63141d18845612ab?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kailua-Kona, HI | On Site | Dec 20 |
 | **[Samuel & Sons](https://samuelandsons.com/en/)** | **[Jr. Design Consultant](https://jobright.ai/jobs/info/6946501a7d506e3808f1adc0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | On Site | Dec 19 |
 | **[Google](https://www.google.com)** | **[Interaction Designer, YouTube Brand Deals](https://jobright.ai/jobs/info/694643f37d506e3808f1a1bb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Bruno, CA | On Site | Dec 19 |
-| **[Steinhafels Furniture](http://steinhafels.com)** | **[Interior Designer](https://jobright.ai/jobs/info/69462f9c63141d188455ef42?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Waukesha, WI | On Site | Dec 19 |
-| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Assistant Designer, Accessories- Victoria's Secret](https://jobright.ai/jobs/info/69461a7663141d188455c8be?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
