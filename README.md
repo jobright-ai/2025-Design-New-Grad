@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Washington State University](https://wsu.edu/)** | **[Graphic Designer](https://jobright.ai/jobs/info/694f3193ce13cd105657666e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pullman, WA | On Site | Dec 26 |
 | **[The Daily Grind Planner](https://dailygrindplanner.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/694f08f7a2668b7f54524b3d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 26 |
 | **[Caltrans](https://cdtfa.ca.gov/)** | **[ARCHITECTURAL DESIGNER](https://jobright.ai/jobs/info/694f04e3ce13cd10565744e8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sacramento County, CA | Hybrid | Dec 26 |
 | **[Aritzia](https://www.aritzia.com/)** | **[Marketing - Retoucher, Post-Production](https://jobright.ai/jobs/info/694ef591a2668b7f54523e57?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Support Office (Vancouver) | On Site | Dec 26 |
@@ -232,6 +233,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/687d3f51ed63844c944b238f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Carson, CA | On Site | Dec 20 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68b79838f4e41a61efd9a562?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oxnard, CA | On Site | Dec 20 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/69212de200c9ee50eaecc7e6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Richmond, VA | On Site | Dec 20 |
-| **[Macy's](http://www.macysjobs.com)** | **[Visual Support Captain, West Valley Mall - Full Time](https://jobright.ai/jobs/info/69468622d1953b5d11bfb226?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 3400 Naglee Road, Tracy, CA, 95304, US | On Site | Dec 20 |
-| **[J.Crew](http://www.jcrew.com)** | **[Assistant Designer - Men's Accessories and Footwear](https://jobright.ai/jobs/info/6942468c14ee092a69008465?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
