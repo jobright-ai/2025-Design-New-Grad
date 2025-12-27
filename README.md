@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Centric Brands](https://centricbrands.com)** | **[Assistant, Graphic Artist (Production Art)](https://jobright.ai/jobs/info/691f3e7609cc522e8773e86b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 27 |
+| **[Caddell Construction](http://caddell.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69332581764507023d1b28c8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montgomery, AL | On Site | Dec 27 |
+| **[Macy's](http://www.macysjobs.com)** | **[Visual Support Captain, Wenatchee Valley - Full Time](https://jobright.ai/jobs/info/694fbeba29655e4dd659280a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 445 Valley Mall Parkway, East Wenatchee, WA, 98802, US | On Site | Dec 27 |
+| **[OMG23](https://omnicommediagroup.com/careers/us/omg23/)** | **[Coordinator, Creative Management](https://jobright.ai/jobs/info/69165ca39c388539cbdfa4dc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burbank, CA | Hybrid | Dec 27 |
+| **[Caddell Construction](http://caddell.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/693320bf764507023d1b2631?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montgomery, Alabama, United States | On Site | Dec 27 |
 | **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[ARCHITECTURAL DESIGNER](https://jobright.ai/jobs/info/694f744d29655e4dd658f822?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sacramento, CA | Hybrid | Dec 26 |
 | **[Steinhafels Furniture](http://steinhafels.com)** | **[Interior Designer](https://jobright.ai/jobs/info/694f6b5129655e4dd658f383?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Merrillville, IN | On Site | Dec 26 |
 | ↳ | **[Interior Designer](https://jobright.ai/jobs/info/694f66f7a2668b7f5452a78e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Milwaukee, WI | On Site | Dec 26 |
@@ -66,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Caltrans](https://cdtfa.ca.gov/)** | **[ARCHITECTURAL DESIGNER](https://jobright.ai/jobs/info/694f04e3ce13cd10565744e8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sacramento County, CA | Hybrid | Dec 26 |
 | **[Aritzia](https://www.aritzia.com/)** | **[Marketing - Retoucher, Post-Production](https://jobright.ai/jobs/info/694ef591a2668b7f54523e57?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Support Office (Vancouver) | On Site | Dec 26 |
 | **[Coalition, Inc.](https://www.coalitioninc.com)** | **[WEB DESIGNER](https://jobright.ai/jobs/info/694f074e29655e4dd6589445?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA | Remote | Dec 26 |
-| ↳ | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/694f0501a2668b7f54524aa7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Dec 26 |
 | ↳ | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/694f6d47a2668b7f5452aa86?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Dec 26 |
+| ↳ | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/694f0501a2668b7f54524aa7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Dec 26 |
 | **[Best Job Tool](https://www.bestjobtool.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/694ee84029655e4dd65873a7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Canada | Remote | Dec 26 |
 | **[Free People](http://www.freepeople.com)** | **[FP Movement Assistant Visual Manager](https://jobright.ai/jobs/info/694ee4a4ce13cd1056572107?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bethesda, MD | On Site | Dec 26 |
 | **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Display Artist - Full-Time](https://jobright.ai/jobs/info/694ee41ace13cd1056572094?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Alexandria, VA | On Site | Dec 26 |
@@ -225,6 +230,4 @@ For a complete list, click the following sortable link below:
 | **[TJX Canada – Winners, Marshalls, HomeSense](https://jobs.tjx.com/global/en/locations-ca)** | **[visual merchandise coordinator](https://jobright.ai/jobs/info/69478e56d1953b5d11c09b4c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | Dec 20 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[visual merchandise coordinator](https://jobright.ai/jobs/info/69474feed1953b5d11c06e7c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mississauga, ON L5R 3T7 | On Site | Dec 20 |
 | **[Z Gallerie](http://www.zgallerie.com/)** | **[Interior Designer](https://jobright.ai/jobs/info/69473b24d1953b5d11c04f17?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irving, TX | On Site | Dec 20 |
-| **[Crate and Barrel](http://www.crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/6942436850bbaf76505425eb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Las Vegas, NV | On Site | Dec 20 |
-| **[Michaels Stores](https://teachitpro.com)** | **[framing](https://jobright.ai/jobs/info/694709a17d506e3808f2578e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brewster-100-B Independent Way | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
