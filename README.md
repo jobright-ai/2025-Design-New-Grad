@@ -84,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Caltrans](https://cdtfa.ca.gov/)** | **[ARCHITECTURAL DESIGNER](https://jobright.ai/jobs/info/694f04e3ce13cd10565744e8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sacramento County, CA | Hybrid | Dec 26 |
 | **[Aritzia](https://www.aritzia.com/)** | **[Marketing - Retoucher, Post-Production](https://jobright.ai/jobs/info/694ef591a2668b7f54523e57?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Support Office (Vancouver) | On Site | Dec 26 |
 | **[Coalition, Inc.](https://www.coalitioninc.com)** | **[WEB DESIGNER](https://jobright.ai/jobs/info/694f074e29655e4dd6589445?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA | Remote | Dec 26 |
-| ↳ | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/694f0501a2668b7f54524aa7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Dec 26 |
 | ↳ | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/694f6d47a2668b7f5452aa86?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Dec 26 |
+| ↳ | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/694f0501a2668b7f54524aa7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Dec 26 |
 | **[Free People](http://www.freepeople.com)** | **[FP Movement Assistant Visual Manager](https://jobright.ai/jobs/info/694ee4a4ce13cd1056572107?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bethesda, MD | On Site | Dec 26 |
 | **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Display Artist - Full-Time](https://jobright.ai/jobs/info/694ee41ace13cd1056572094?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Alexandria, VA | On Site | Dec 26 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/693265f5a0dde7020e2e6803?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Grapevine, TX | On Site | Dec 26 |
@@ -121,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[Golden Touch](https://gtimports.net)** | **[Associate Designer, Kid's Apparel (4-20)](https://jobright.ai/jobs/info/69312c19ef4b48533d152cd5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 25 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac Clubs - Junior Graphic Designer](https://jobright.ai/jobs/info/68db16e6e9b48513789b1c8d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Dec 25 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Concept Artist (On-site Fulltime)](https://jobright.ai/jobs/info/6930b0edfa28370be26b2613?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Winona, MN | On Site | Dec 25 |
-| **[Level Agency](https://level.agency)** | **[Motion Designer](https://jobright.ai/jobs/info/694ec940ce13cd10565716f8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Canada | Remote | Dec 24 |
-| ↳ | **[Motion Designer](https://jobright.ai/jobs/info/694ec983a2668b7f54521c9b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 24 |
+| **[Level Agency](https://level.agency)** | **[Motion Designer](https://jobright.ai/jobs/info/694ec983a2668b7f54521c9b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 24 |
+| ↳ | **[Motion Designer](https://jobright.ai/jobs/info/694ec940ce13cd10565716f8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Canada | Remote | Dec 24 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/694ccf9729655e4dd656f97b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mount Vernon, NY | On Site | Dec 24 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/694ccf6029655e4dd656f971?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Syracuse, NY | On Site | Dec 24 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/694ccc7529655e4dd656f842?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bethel Park, PA | On Site | Dec 24 |
