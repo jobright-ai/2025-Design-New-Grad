@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69513a7fce13cd10565901b0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Marshfield, WI | On Site | Dec 28 |
+| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6951395da2668b7f54540a01?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mount Washington, KY | On Site | Dec 28 |
+| **[Blue Hour Studios](https://hellobluehour.com)** | **[Creative, Creative & Creator](https://jobright.ai/jobs/info/68fc0f1df55bb021a889ffc7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 28 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6917b4d545fb6f5ead89dce5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lakeland, FL | On Site | Dec 28 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/6946716dd1953b5d11bfa8d3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kentwood, MI | On Site | Dec 28 |
+| **[Syska Hennessy Group](http://www.syska.com)** | **[Lighting Designer](https://jobright.ai/jobs/info/6934b8e8764507023d1bdcfe?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 28 |
+| **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Farmers Market - Pottery Barn](https://jobright.ai/jobs/info/68e07f71f758fe1f97e4daf3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Dec 28 |
+| **[Farnsworth Group, Inc.](http://www.f-w.com)** | **[Architectural Associate - Entry-Level](https://jobright.ai/jobs/info/68def7b7a125e75c422b8ac1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Springfield, IL | Hybrid | Dec 28 |
 | **[Ball Corporation](http://ball.com)** | **[Graphics Technician](https://jobright.ai/jobs/info/691a9f2a15b41563671895cd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Millersburg, OR | On Site | Dec 28 |
 | **[Calvin Klein](https://www.calvinklein.us)** | **[ASSISTANT DESIGNER, GLOBAL LICENSING AND LIFESTYLE CONCEPT DESIGN](https://jobright.ai/jobs/info/69179a8115b41563671797b6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 28 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Junior Designer - Architecture](https://jobright.ai/jobs/info/68fbe89bf55bb021a889de0a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Dec 28 |
@@ -89,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Caltrans](https://cdtfa.ca.gov/)** | **[ARCHITECTURAL DESIGNER](https://jobright.ai/jobs/info/694f04e3ce13cd10565744e8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sacramento County, CA | Hybrid | Dec 26 |
 | **[Aritzia](https://www.aritzia.com/)** | **[Marketing - Retoucher, Post-Production](https://jobright.ai/jobs/info/694ef591a2668b7f54523e57?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Support Office (Vancouver) | On Site | Dec 26 |
 | **[Coalition, Inc.](https://www.coalitioninc.com)** | **[WEB DESIGNER](https://jobright.ai/jobs/info/694f074e29655e4dd6589445?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA | Remote | Dec 26 |
-| ↳ | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/694f0501a2668b7f54524aa7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Dec 26 |
 | ↳ | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/694f6d47a2668b7f5452aa86?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Dec 26 |
+| ↳ | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/694f0501a2668b7f54524aa7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Dec 26 |
 | **[Free People](http://www.freepeople.com)** | **[FP Movement Assistant Visual Manager](https://jobright.ai/jobs/info/694ee4a4ce13cd1056572107?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bethesda, MD | On Site | Dec 26 |
 | **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Display Artist - Full-Time](https://jobright.ai/jobs/info/694ee41ace13cd1056572094?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Alexandria, VA | On Site | Dec 26 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/693265f5a0dde7020e2e6803?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Grapevine, TX | On Site | Dec 26 |
