@@ -239,5 +239,4 @@ For a complete list, click the following sortable link below:
 | **[1-800-FLOWERS.COM, INC.](http://www.1800flowers.com)** | **[Floral Designer - Huntington Station Store](https://jobright.ai/jobs/info/690f455b221b890c27814c95?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Huntington Station, NY | On Site | Dec 21 |
 | **[kate spade new york](https://www.katespade.com/)** | **[Assistant Designer, Outlet Leathergoods](https://jobright.ai/jobs/info/68f251e0cb0abf15612f6c4c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 21 |
 | **[West Elm](https://www.westelm.com/)** | **[Visual Associate, Part Time Flex, Vacaville - West Elm Outlet](https://jobright.ai/jobs/info/684a645fae37621980c11614?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vacaville, CA | Hybrid | Dec 21 |
-| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/689fcd43faa4e875e828b3f0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
