@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The North Face](http://www.thenorthface.com/)** | **[The North Face: Associate Designer, Technical Equipment](https://jobright.ai/jobs/info/6933a5e3f131d96e48465740?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Dec 29 |
+| **[Fanatics](http://www.fanaticsinc.com)** | **[Design Coordinator, Business Solutions](https://jobright.ai/jobs/info/686dba476ba17ba0b30e3bf4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 29 |
+| **[J.Crew Factory](https://www.jcrewfactory.com)** | **[Assistant Designer - J.Crew Factory Men's Shirts and Lounge](https://jobright.ai/jobs/info/69368bb51c1c2161c13ed9e5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 29 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Retail Customer Service - PT Personal Designer - Custom Framer](https://jobright.ai/jobs/info/6951f97329655e4dd65ac64b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Riverhead-1440 Old Country Rd Ste 400 | On Site | Dec 28 |
 | **[Grand SK CORP](http://grand-sk.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/695158faa2668b7f54540c49?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | East Rutherford, NJ | On Site | Dec 28 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Designer - Entry Level (Part Time Temporary)](https://jobright.ai/jobs/info/695142eca2668b7f54540acc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | On Site | Dec 28 |
@@ -219,12 +222,4 @@ For a complete list, click the following sortable link below:
 | **[Maricopa County](http://www.maricopa.gov)** | **[Multimedia Producer](https://jobright.ai/jobs/info/6949fe1b63141d1884598543?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Phoenix, AZ | On Site | Dec 22 |
 | **[Bellevue Christian School](http://www.bellevuechristian.org)** | **[Marketing and Design Specialist](https://jobright.ai/jobs/info/694bf726d64ebf28d821a80f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bellevue, WA | On Site | Dec 22 |
 | **[Marras Curtis Lighting Design](http://mcld.com)** | **[Lighting Designer - Entry Level (0-3 years' experience)](https://jobright.ai/jobs/info/694a9e941224705e9001c65c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wappingers Falls, NY | On Site | Dec 22 |
-| **[32 Degrees](https://www.32degrees.com)** | **[Visual Designer](https://jobright.ai/jobs/info/694a01f5c6f0e2546ceee4cd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 22 |
-| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Associate Medical Writer](https://jobright.ai/jobs/info/694a00ea7d506e3808f51b26?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote, United States | Remote | Dec 22 |
-| **[EDENS](https://edens.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/694a3fc731c12007d3b9023a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Hybrid | Dec 22 |
-| **[Precision AQ](http://www.precisionaq.com)** | **[Associate Medical Writer](https://jobright.ai/jobs/info/694a0353c6f0e2546ceee823?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote, United States | Remote | Dec 22 |
-| **[Pactiv Evergreen Inc.](https://www.pactivevergreen.com)** | **[Packaging Associate](https://jobright.ai/jobs/info/694a01c07d506e3808f51d95?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baxter Springs, KS | On Site | Dec 22 |
-| ↳ | **[Packaging Associate](https://jobright.ai/jobs/info/694a0a6dc6f0e2546ceefb86?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Roanoke, TX | On Site | Dec 22 |
-| **[HDR](http://www.hdrinc.com)** | **[Design Coordinator, Interiors](https://jobright.ai/jobs/info/6949a21263141d18845940eb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Dec 22 |
-| **[Easterseals-Goodwill Northern Rocky Mountain](https://www.esgw.org)** | **[Content Creator](https://jobright.ai/jobs/info/694a01fb63141d1884599178?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Salt Lake City, UT | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
