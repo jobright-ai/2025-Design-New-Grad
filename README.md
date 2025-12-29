@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68a8bf86d627244576e35369?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Clermont, FL | On Site | Dec 29 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/68a7c6c7758f2e4ac3fee76c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Tacoma, WA | On Site | Dec 29 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/68e04c05f758fe1f97e4c125?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Richland Hills, TX | On Site | Dec 29 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/68c54592db52c07d288421cc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Parkville, MD | On Site | Dec 29 |
+| **[Pottery Barn Kids](http://potterybarnkids.com/)** | **[Visual Associate, Part Time Flex, Farmers Market - Pottery Barn Kids](https://jobright.ai/jobs/info/68e02ddc1852e62f007e83ee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Dec 29 |
+| **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Monterey - Pottery Barn](https://jobright.ai/jobs/info/67fd338035a101604cbfd5b3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Monterey, CA | On Site | Dec 29 |
+| ↳ | **[Visual Associate, Part Time Flex, Oakbrook - Pottery Barn](https://jobright.ai/jobs/info/68d7554061a175619f8c8b19?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oak Brook, IL | On Site | Dec 29 |
+| ↳ | **[Visual Associate, Part Time Flex, Walt Whitman - Pottery Barn](https://jobright.ai/jobs/info/68ccf7945954791a1d701f25?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Huntington, NY | On Site | Dec 29 |
 | **[The North Face](http://www.thenorthface.com/)** | **[The North Face: Associate Designer, Technical Equipment](https://jobright.ai/jobs/info/6933a5e3f131d96e48465740?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Dec 29 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Design Coordinator, Business Solutions](https://jobright.ai/jobs/info/686dba476ba17ba0b30e3bf4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 29 |
 | **[J.Crew Factory](https://www.jcrewfactory.com)** | **[Assistant Designer - J.Crew Factory Men's Shirts and Lounge](https://jobright.ai/jobs/info/69368bb51c1c2161c13ed9e5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 29 |
@@ -217,9 +225,4 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6949df287d506e3808f4fbbb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Parsippany, NJ | On Site | Dec 22 |
 | **[Abe](https://www.abetheagency.com/)** | **[Motion & Graphic Designer (Remote US) - Future Opening](https://jobright.ai/jobs/info/68fbd25793c49825ab1062a4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote - United States | Remote | Dec 22 |
 | **[JotPsych](https://jotpsych.com)** | **[Creative Producer](https://jobright.ai/jobs/info/6949fe9d7d506e3808f51433?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Hybrid | Dec 22 |
-| **[Free People](http://www.freepeople.com)** | **[Free People Assistant Visual Manager](https://jobright.ai/jobs/info/691e223ea49a885af9a2557a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Lauderdale, FL | On Site | Dec 22 |
-| **[Gensler](http://www.gensler.com)** | **[Assistant Designer - Interiors](https://jobright.ai/jobs/info/694a07ab7d506e3808f52d08?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Las Vegas, NV, US | On Site | Dec 22 |
-| **[Maricopa County](http://www.maricopa.gov)** | **[Multimedia Producer](https://jobright.ai/jobs/info/6949fe1b63141d1884598543?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Phoenix, AZ | On Site | Dec 22 |
-| **[Bellevue Christian School](http://www.bellevuechristian.org)** | **[Marketing and Design Specialist](https://jobright.ai/jobs/info/694bf726d64ebf28d821a80f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bellevue, WA | On Site | Dec 22 |
-| **[Marras Curtis Lighting Design](http://mcld.com)** | **[Lighting Designer - Entry Level (0-3 years' experience)](https://jobright.ai/jobs/info/694a9e941224705e9001c65c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wappingers Falls, NY | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
