@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architect - Entry Level](https://jobright.ai/jobs/info/69373ce31c1c2161c13f1d5c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | On Site | Dec 30 |
+| **[Tommy Bahama](http://www.tommybahama.com)** | **[Assistant Designer-Men's Bottoms](https://jobright.ai/jobs/info/69379529a0dde7020e304683?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Dec 30 |
 | **[Naked Wardrobe](https://www.nakedwardrobe.com/)** | **[Tik Tok Content Creator](https://jobright.ai/jobs/info/69538acef1f8465b79eaccaf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Calabasas, CA 91302 | On Site | Dec 30 |
 | **[Recruitcha](https://www.recruitcha.com)** | **[Creative Writer](https://jobright.ai/jobs/info/695383a3f1f8465b79eaca57?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 29 |
 | **[TubeScience](https://tubescience.com/#home)** | **[Creative Coordinator](https://jobright.ai/jobs/info/69536901f1f8465b79eabfee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Dec 29 |
@@ -208,8 +210,4 @@ For a complete list, click the following sortable link below:
 | **[KWSM: a digital marketing agency](https://kwsmdigital.com/)** | **[Website Designer/Developer](https://jobright.ai/jobs/info/694b1a124b53a1551f94d7da?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Aliso Viejo, CA | Hybrid | Dec 23 |
 | ↳ | **[Website Designer/Developer](https://jobright.ai/jobs/info/694b11f13019f50a4fe61e35?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | Hybrid | Dec 23 |
 | **[Pew Research Center](http://pewresearch.org)** | **[Assistant Information Graphics Designer](https://jobright.ai/jobs/info/694b0da31224705e90022140?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | Hybrid | Dec 23 |
-| **[FanDuel](http://www.fanduel.com)** | **[Production Designer](https://jobright.ai/jobs/info/694b009d3019f50a4fe60814?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York City | Hybrid | Dec 23 |
-| **[Fanatics](http://www.fanaticsinc.com)** | **[Jr. Designer](https://jobright.ai/jobs/info/694af8923019f50a4fe6021c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 23 |
-| **[FanDuel](http://www.fanduel.com)** | **[Production Designer](https://jobright.ai/jobs/info/694af7f467a69734cac60bcf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 23 |
-| **[West Elm](https://www.westelm.com/)** | **[Merchandise Coordinator, Photo Studio - West Elm](https://jobright.ai/jobs/info/694af76a1224705e90020eba?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
