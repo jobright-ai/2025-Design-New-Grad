@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Naked Wardrobe](https://www.nakedwardrobe.com/)** | **[Tik Tok Content Creator](https://jobright.ai/jobs/info/69538acef1f8465b79eaccaf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Calabasas, CA 91302 | On Site | Dec 30 |
 | **[Recruitcha](https://www.recruitcha.com)** | **[Creative Writer](https://jobright.ai/jobs/info/695383a3f1f8465b79eaca57?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 29 |
 | **[TubeScience](https://tubescience.com/#home)** | **[Creative Coordinator](https://jobright.ai/jobs/info/69536901f1f8465b79eabfee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Dec 29 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/695366965bb7de448ef688ba?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vacaville, CA | On Site | Dec 29 |
@@ -211,8 +212,4 @@ For a complete list, click the following sortable link below:
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Jr. Designer](https://jobright.ai/jobs/info/694af8923019f50a4fe6021c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 23 |
 | **[FanDuel](http://www.fanduel.com)** | **[Production Designer](https://jobright.ai/jobs/info/694af7f467a69734cac60bcf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 23 |
 | **[West Elm](https://www.westelm.com/)** | **[Merchandise Coordinator, Photo Studio - West Elm](https://jobright.ai/jobs/info/694af76a1224705e90020eba?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 23 |
-| **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Junior Designer](https://jobright.ai/jobs/info/694b132e3019f50a4fe62125?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | On Site | Dec 23 |
-| **[Possible](https://www.possiblefinance.com/)** | **[Creative Operations Associate](https://jobright.ai/jobs/info/694ae50267a69734cac600db?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, Washington, United States | Hybrid | Dec 23 |
-| **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Merchandise Coordinator, Photo Studio - West Elm](https://jobright.ai/jobs/info/694b00371224705e90021667?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 55 Water Street, Brooklyn, NY, 11201, US | On Site | Dec 23 |
-| **[Possible](https://www.possiblefinance.com/)** | **[Creative Operations Associate](https://jobright.ai/jobs/info/694ae0701224705e90020338?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Hybrid | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
