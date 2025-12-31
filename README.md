@@ -62,7 +62,6 @@ For a complete list, click the following sortable link below:
 | **[ClearChoice Dental Implant Centers](http://www.clearchoice.com)** | **[CAD Designer](https://jobright.ai/jobs/info/695496005bb7de448ef78f6e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Colorado, United States | Hybrid | Dec 30 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Early Career Landscape Designer](https://jobright.ai/jobs/info/695493b2f1f8465b79ebc1c8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baltimore, MD | On Site | Dec 30 |
 | ↳ | **[Early Career Landscape Designer](https://jobright.ai/jobs/info/695489795bb7de448ef7845f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baltimore, MD | On Site | Dec 30 |
-| **[Snap Creative](http://www.snapcreative.com/)** | **[Product Designer](https://jobright.ai/jobs/info/69547c08aa05c26e7aaef042?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Camarillo, CA | Hybrid | Dec 30 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69546b2daa05c26e7aaede70?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Glen Burnie, MD | On Site | Dec 30 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/69546a37aa05c26e7aaeddf2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Des Moines, IA | On Site | Dec 30 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/695464af5bb7de448ef756bd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Allentown, PA | On Site | Dec 30 |
@@ -207,8 +206,8 @@ For a complete list, click the following sortable link below:
 | **[Golden Touch](https://gtimports.net)** | **[Associate Designer, Kid's Apparel (4-20)](https://jobright.ai/jobs/info/69312c19ef4b48533d152cd5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 25 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac Clubs - Junior Graphic Designer](https://jobright.ai/jobs/info/68db16e6e9b48513789b1c8d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Dec 25 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Concept Artist (On-site Fulltime)](https://jobright.ai/jobs/info/6930b0edfa28370be26b2613?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Winona, MN | On Site | Dec 25 |
-| **[Level Agency](https://level.agency)** | **[Motion Designer](https://jobright.ai/jobs/info/694ec983a2668b7f54521c9b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 24 |
-| ↳ | **[Motion Designer](https://jobright.ai/jobs/info/694ec940ce13cd10565716f8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Canada | Remote | Dec 24 |
+| **[Level Agency](https://level.agency)** | **[Motion Designer](https://jobright.ai/jobs/info/694ec940ce13cd10565716f8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Canada | Remote | Dec 24 |
+| ↳ | **[Motion Designer](https://jobright.ai/jobs/info/694ec983a2668b7f54521c9b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 24 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/694ccf9729655e4dd656f97b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mount Vernon, NY | On Site | Dec 24 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/694ccf6029655e4dd656f971?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Syracuse, NY | On Site | Dec 24 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/694ccc7529655e4dd656f842?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bethel Park, PA | On Site | Dec 24 |
@@ -216,6 +215,4 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/694c94b45d7312113470ea0e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bellevue, WA | On Site | Dec 24 |
 | **[YuJa](https://www.yuja.com)** | **[UX Writer](https://jobright.ai/jobs/info/694ca56bd4a7df7a0671db45?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North York, Ontario, Canada | On Site | Dec 24 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Shop - UX Designer, Seller Platfom Designer](https://jobright.ai/jobs/info/694c57931a572a617dde956f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Dec 24 |
-| **[dentsu](https://www.dentsu.com)** | **[Content Creator, Social - Temporary Role](https://jobright.ai/jobs/info/694c2a3d5d7312113470a61c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | USA - Remote - New York | Remote | Dec 24 |
-| **[MacKenzie-Childs, LLC](http://www.mackenzie-childs.com)** | **[Visual Merchandising Operations Coordinator](https://jobright.ai/jobs/info/694c25a55d7312113470a4f1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Aurora, NY | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
