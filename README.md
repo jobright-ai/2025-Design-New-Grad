@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Monsieur Touton Selection, Ltd.](http://mtouton.com)** | **[Graphics Designer](https://jobright.ai/jobs/info/6954d2f5aa05c26e7aaf50c9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Monsieur Touton - NY - New York, NY 10001 | On Site | Dec 30 |
 | **[Stage One NYC](http://www.stageonenyc.com/)** | **[Junior Interior Designer](https://jobright.ai/jobs/info/69549f9baa05c26e7aaf19bb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | On Site | Dec 30 |
 | **[ClearChoice Dental Implant Centers](http://www.clearchoice.com)** | **[CAD Designer](https://jobright.ai/jobs/info/695496005bb7de448ef78f6e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Colorado, United States | Hybrid | Dec 30 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Early Career Landscape Designer](https://jobright.ai/jobs/info/695493b2f1f8465b79ebc1c8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baltimore, MD | On Site | Dec 30 |
@@ -83,8 +84,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales Execution Designer](https://jobright.ai/jobs/info/69540b50f1f8465b79eb4024?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Michigan, United States | Hybrid | Dec 30 |
 | ↳ | **[Sales Execution Designer](https://jobright.ai/jobs/info/6954028aaa05c26e7aae7b82?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Missouri, United States | Hybrid | Dec 30 |
 | ↳ | **[Sales Execution Designer](https://jobright.ai/jobs/info/6954088bf1f8465b79eb3e93?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Florida, United States | Hybrid | Dec 30 |
-| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6953e1495bb7de448ef6e309?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fairhope, AL | On Site | Dec 30 |
-| **[Centene Corporation](http://www.centene.com)** | **[Sales Execution Designer](https://jobright.ai/jobs/info/6953df70aa05c26e7aae6906?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Georgia, United States | Hybrid | Dec 30 |
+| ↳ | **[Sales Execution Designer](https://jobright.ai/jobs/info/6953df70aa05c26e7aae6906?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Georgia, United States | Hybrid | Dec 30 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6953dc6df1f8465b79eb18bc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Miami, FL | On Site | Dec 30 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6953dbd7f1f8465b79eb188e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montrose, CO | On Site | Dec 30 |
 | **[Canarm Ltd.](https://www.canarm.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/6953d6675bb7de448ef6dd85?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brockville, Ontario, Canada | On Site | Dec 30 |
@@ -168,8 +168,7 @@ For a complete list, click the following sortable link below:
 | **[Steinhafels Furniture](http://steinhafels.com)** | **[Interior Designer](https://jobright.ai/jobs/info/694f6b5129655e4dd658f383?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Merrillville, IN | On Site | Dec 26 |
 | ↳ | **[Interior Designer](https://jobright.ai/jobs/info/694f66f7a2668b7f5452a78e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Milwaukee, WI | On Site | Dec 26 |
 | **[Washington State University](https://wsu.edu/)** | **[Graphic Designer](https://jobright.ai/jobs/info/694f4256ce13cd105657703f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pullman, WA | On Site | Dec 26 |
-| **[Gensler](http://www.gensler.com)** | **[Project Architect - Architecture and Interiors](https://jobright.ai/jobs/info/68a4adff541cc3479840d062?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Miami, FL | On Site | Dec 26 |
-| **[Washington State University](https://wsu.edu/)** | **[Graphic Designer](https://jobright.ai/jobs/info/694f3193ce13cd105657666e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pullman, WA | On Site | Dec 26 |
+| ↳ | **[Graphic Designer](https://jobright.ai/jobs/info/694f3193ce13cd105657666e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pullman, WA | On Site | Dec 26 |
 | **[Caltrans](https://cdtfa.ca.gov/)** | **[ARCHITECTURAL DESIGNER](https://jobright.ai/jobs/info/694f04e3ce13cd10565744e8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sacramento County, CA | Hybrid | Dec 26 |
 | **[Aritzia](https://www.aritzia.com/)** | **[Marketing - Retoucher, Post-Production](https://jobright.ai/jobs/info/694ef591a2668b7f54523e57?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Support Office (Vancouver) | On Site | Dec 26 |
 | **[Coalition, Inc.](https://www.coalitioninc.com)** | **[WEB DESIGNER](https://jobright.ai/jobs/info/694f074e29655e4dd6589445?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA | Remote | Dec 26 |
@@ -208,8 +207,8 @@ For a complete list, click the following sortable link below:
 | **[Golden Touch](https://gtimports.net)** | **[Associate Designer, Kid's Apparel (4-20)](https://jobright.ai/jobs/info/69312c19ef4b48533d152cd5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 25 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac Clubs - Junior Graphic Designer](https://jobright.ai/jobs/info/68db16e6e9b48513789b1c8d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Dec 25 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Concept Artist (On-site Fulltime)](https://jobright.ai/jobs/info/6930b0edfa28370be26b2613?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Winona, MN | On Site | Dec 25 |
-| **[Level Agency](https://level.agency)** | **[Motion Designer](https://jobright.ai/jobs/info/694ec940ce13cd10565716f8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Canada | Remote | Dec 24 |
-| ↳ | **[Motion Designer](https://jobright.ai/jobs/info/694ec983a2668b7f54521c9b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 24 |
+| **[Level Agency](https://level.agency)** | **[Motion Designer](https://jobright.ai/jobs/info/694ec983a2668b7f54521c9b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 24 |
+| ↳ | **[Motion Designer](https://jobright.ai/jobs/info/694ec940ce13cd10565716f8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Canada | Remote | Dec 24 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/694ccf9729655e4dd656f97b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mount Vernon, NY | On Site | Dec 24 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/694ccf6029655e4dd656f971?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Syracuse, NY | On Site | Dec 24 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/694ccc7529655e4dd656f842?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bethel Park, PA | On Site | Dec 24 |
