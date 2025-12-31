@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PACSUN](http://www.pacsun.com/)** | **[Assistant Designer - Men's](https://jobright.ai/jobs/info/695579aff1f8465b79ec8190?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Anaheim, CA | On Site | Dec 31 |
+| ↳ | **[Assistant Designer, Men's](https://jobright.ai/jobs/info/695576499f1b381eb26ec6c4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Anaheim, CA | On Site | Dec 31 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6955656aaa05c26e7aafc62a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mooresville, NC | On Site | Dec 31 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6955391ff1f8465b79ec5376?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oak Harbor, WA | On Site | Dec 31 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69553774f1f8465b79ec52c9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Glendale, CO | On Site | Dec 31 |
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/69553543f1f8465b79ec51cc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Midland, MI | On Site | Dec 31 |
@@ -73,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[lululemon](http://shop.lululemon.com)** | **[Design Assistant, Knits / Contract until Spring 2027](https://jobright.ai/jobs/info/69391e6756b68f3dc4e699cf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | Dec 31 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/691b85dd22a2cb4b9bd13321?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Miami Beach, FL | On Site | Dec 31 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Temporary Associate Video Editor & Motion Graphics Designer and Animator](https://jobright.ai/jobs/info/6938a643b95c305f206de486?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jersey City, NJ | Hybrid | Dec 31 |
+| **[Axon.ai](https://axon.ai)** | **[Creative Operator](https://jobright.ai/jobs/info/691dd596748c4e1301ec91f9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Girlstown USA, TX | Hybrid | Dec 31 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Retail - Picture/Art Framer - Yorktown Heights](https://jobright.ai/jobs/info/6954f69baa05c26e7aaf76d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Store - 335 Downing Dr. | On Site | Dec 31 |
 | **[Monsieur Touton Selection, Ltd.](http://mtouton.com)** | **[Graphics Designer](https://jobright.ai/jobs/info/6954d2f5aa05c26e7aaf50c9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Monsieur Touton - NY - New York, NY 10001 | On Site | Dec 30 |
 | **[Stage One NYC](http://www.stageonenyc.com/)** | **[Junior Interior Designer](https://jobright.ai/jobs/info/69549f9baa05c26e7aaf19bb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | On Site | Dec 30 |
