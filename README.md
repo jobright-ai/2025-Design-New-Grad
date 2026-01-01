@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coalition, Inc.](https://www.coalitioninc.com)** | **[MOTION GRAPHICS DESIGNER / VIDEO EDITOR](https://jobright.ai/jobs/info/6955ac2aaa05c26e7aafec62?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Dec 31 |
+| **[BoxLunch](https://www.boxlunch.com/)** | **[Assistant Designer](https://jobright.ai/jobs/info/69336ee3f131d96e48463463?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | City of Industry, CA | Hybrid | Dec 31 |
+| **[Coalition, Inc.](https://www.coalitioninc.com)** | **[WEB DESIGNER](https://jobright.ai/jobs/info/6955b5fc9f1b381eb26ef109?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA | Remote | Dec 31 |
 | **[PACSUN](http://www.pacsun.com/)** | **[Assistant Designer - Men's](https://jobright.ai/jobs/info/695579aff1f8465b79ec8190?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Anaheim, CA | On Site | Dec 31 |
-| ↳ | **[Assistant Designer, Men's](https://jobright.ai/jobs/info/695576499f1b381eb26ec6c4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Anaheim, CA | On Site | Dec 31 |
+| **[YuJa](https://www.yuja.com)** | **[UX Writer](https://jobright.ai/jobs/info/69559c73f1f8465b79ec92c6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North York, Ontario, Canada | On Site | Dec 31 |
+| **[PACSUN](http://www.pacsun.com/)** | **[Assistant Designer, Men's](https://jobright.ai/jobs/info/695576499f1b381eb26ec6c4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Anaheim, CA | On Site | Dec 31 |
 | **[Stateside Brands](http://www.statesidevodka.com/)** | **[Junior Packaging Designer](https://jobright.ai/jobs/info/695596aa9f1b381eb26ed39d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Feasterville-Trevose, PA | On Site | Dec 31 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6955656aaa05c26e7aafc62a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mooresville, NC | On Site | Dec 31 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6955391ff1f8465b79ec5376?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oak Harbor, WA | On Site | Dec 31 |
