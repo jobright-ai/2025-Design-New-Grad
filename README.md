@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[PayPal](https://www.paypal.com/home)** | **[Experience Designer](https://jobright.ai/jobs/info/694481e650bbaf76505692e5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | Hybrid | Jan 01 |
+| **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Landscaping - Landscape Section Tender - Full Time](https://jobright.ai/jobs/info/693a3bfe48a8ce22990e3908?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kailua-Kona, HI | On Site | Jan 01 |
+| **[PayPal](https://www.paypal.com/home)** | **[Experience Designer](https://jobright.ai/jobs/info/69447465dd382f5f566a9d77?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Hybrid | Jan 01 |
+| ↳ | **[Experience Designer](https://jobright.ai/jobs/info/694481e650bbaf76505692e5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | Hybrid | Jan 01 |
 | **[Free People](http://www.freepeople.com)** | **[FP Movement Assistant Visual Manager](https://jobright.ai/jobs/info/6955d93f9f1b381eb26f07f7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Southlake, TX | On Site | Dec 31 |
 | **[Nowadays (YC S23)](https://www.getnowadays.com)** | **[Founding Product Designer](https://jobright.ai/jobs/info/6955f0dff1f8465b79ecdf26?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA, US | On Site | Dec 31 |
 | ↳ | **[Founding Product Designer](https://jobright.ai/jobs/info/6955dfc79f1b381eb26f11ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA, US | On Site | Dec 31 |
