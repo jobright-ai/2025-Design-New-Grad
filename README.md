@@ -57,9 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6939fa49ac80bb5492bc7080?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Summerfield, FL | On Site | Jan 01 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/691cf934ff7024498416c789?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denton, TX | On Site | Jan 01 |
+| **[Fluor Corporation](http://www.fluor.com)** | **[Desktop Publishing & Graphic Design Specialist (New Graduate)](https://jobright.ai/jobs/info/693345ddf131d96e48461590?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Jan 01 |
+| **[Dogwood Industries](https://www.dogwoodindustries.com)** | **[Designer / Bothell, WA](https://jobright.ai/jobs/info/69566f4eaa05c26e7ab0b631?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bothell, WA | On Site | Jan 01 |
+| ↳ | **[Designer / Everett, WA](https://jobright.ai/jobs/info/69566f3caa05c26e7ab0b62a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Everett, WA | On Site | Jan 01 |
+| **[Robert Graham Designs](http://robertgraham.us)** | **[Assistant, Technical Designer - Robert Graham](https://jobright.ai/jobs/info/691fea7ba49a885af9a35572?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 01 |
+| **[Golden Touch](https://gtimports.net)** | **[Fashion Graphic Designer – Juniors Apparel](https://jobright.ai/jobs/info/68ca65ae06a34016008c82d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 01 |
+| **[Coach](https://uk.coach.com)** | **[Technical Design Assistant](https://jobright.ai/jobs/info/6901333ed5259a1b3cff2d26?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 01 |
+| **[XBP Global](https://xbpglobal.com/)** | **[Digital Print Coordinator/Print Operator](https://jobright.ai/jobs/info/695675e59f1b381eb26fb384?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 01 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Landscaping - Landscape Section Tender - Full Time](https://jobright.ai/jobs/info/693a3bfe48a8ce22990e3908?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kailua-Kona, HI | On Site | Jan 01 |
 | **[PayPal](https://www.paypal.com/home)** | **[Experience Designer](https://jobright.ai/jobs/info/69447465dd382f5f566a9d77?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Hybrid | Jan 01 |
 | ↳ | **[Experience Designer](https://jobright.ai/jobs/info/694481e650bbaf76505692e5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | Hybrid | Jan 01 |
+| **[Ally Global Foundation](https://ally.org)** | **[Creative Designer](https://jobright.ai/jobs/info/69567680f1f8465b79ed71ee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Dec 31 |
 | **[Free People](http://www.freepeople.com)** | **[FP Movement Assistant Visual Manager](https://jobright.ai/jobs/info/6955d93f9f1b381eb26f07f7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Southlake, TX | On Site | Dec 31 |
 | **[Nowadays (YC S23)](https://www.getnowadays.com)** | **[Founding Product Designer](https://jobright.ai/jobs/info/6955f0dff1f8465b79ecdf26?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA, US | On Site | Dec 31 |
 | ↳ | **[Founding Product Designer](https://jobright.ai/jobs/info/6955dfc79f1b381eb26f11ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA, US | On Site | Dec 31 |
