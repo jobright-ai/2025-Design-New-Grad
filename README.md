@@ -57,8 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Takeform   Signage + Experiential Graphics](http://takeform.net)** | **[Jr. Experiential Graphic Designer-Interior Products](https://jobright.ai/jobs/info/6956d411f1f8465b79edb327?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Medina, NY | Hybrid | Jan 01 |
-| **[Xsigns Company](www.xsigns.com)** | **[Web Designer / Diseñador Web (LATAM)](https://jobright.ai/jobs/info/6956b4fff1f8465b79eda95c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jan 01 |
+| **[Takeform   Signage + Experiential Graphics](http://takeform.net)** | **[Jr. Experiential Graphic Designer-Interior Products](https://jobright.ai/jobs/info/6956d861f1f8465b79edb40a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Medina, NY | Hybrid | Jan 01 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68e44e88f758fe1f97e66dd6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mesa, AZ | On Site | Jan 01 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68e4403c1852e62f008039c7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Homewood, AL | On Site | Jan 01 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/68e43f88b99ec3563b0e80f5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Kansas City, MO | On Site | Jan 01 |
