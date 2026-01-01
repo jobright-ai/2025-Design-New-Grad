@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PayPal](https://www.paypal.com/home)** | **[Experience Designer](https://jobright.ai/jobs/info/694481e650bbaf76505692e5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | Hybrid | Jan 01 |
 | **[Free People](http://www.freepeople.com)** | **[FP Movement Assistant Visual Manager](https://jobright.ai/jobs/info/6955d93f9f1b381eb26f07f7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Southlake, TX | On Site | Dec 31 |
 | **[Nowadays (YC S23)](https://www.getnowadays.com)** | **[Founding Product Designer](https://jobright.ai/jobs/info/6955f0dff1f8465b79ecdf26?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA, US | On Site | Dec 31 |
 | ↳ | **[Founding Product Designer](https://jobright.ai/jobs/info/6955dfc79f1b381eb26f11ce?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA, US | On Site | Dec 31 |
@@ -74,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Crate and Barrel](http://www.crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/695601aa9f1b381eb26f3c94?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Dec 31 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69553543f1f8465b79ec51cc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Midland, MI | On Site | Dec 31 |
 | **[CB2](https://cb2.com)** | **[Designer](https://jobright.ai/jobs/info/6956017f9f1b381eb26f3ad6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Dec 31 |
+| **[Crate and Barrel](http://www.crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/6956298ff1f8465b79ed1ba8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Corte Madera, CA | On Site | Dec 31 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6939003ca0dde7020e319c31?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West Hartford, CT | On Site | Dec 31 |
 | **[Stateside Brands](http://www.statesidevodka.com/)** | **[Jr Graphic Designer](https://jobright.ai/jobs/info/6938d388aabec14a727dba8c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Feasterville-Trevose, PA | On Site | Dec 31 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Retail - Picture/Art Framer - Yorktown Heights](https://jobright.ai/jobs/info/69551d6baa05c26e7aaf955b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Yorktown Heights, NY | On Site | Dec 31 |
