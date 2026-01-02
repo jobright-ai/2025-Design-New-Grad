@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69581f2d9f1b381eb2710187?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Troy, MI | On Site | Jan 02 |
+| **[World of DVC](https://worldofdvc.com/)** | **[Content Creation Specialist](https://jobright.ai/jobs/info/695833ec9f1b381eb2710f0a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orlando, FL | On Site | Jan 02 |
+| **[The N2 Company](https://n2co.com)** | **[Advertisement Designer](https://jobright.ai/jobs/info/69582d3bf1f8465b79eec0eb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jan 02 |
+| **[Crate and Barrel](http://www.crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/695750ecaa05c26e7ab16adf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Deer Park, IL | On Site | Jan 02 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Image Generator and Computer Graphics Facilitator](https://jobright.ai/jobs/info/6958296c9f1b381eb27108be?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fayetteville, NC | Hybrid | Jan 02 |
+| **[The N2 Company](https://n2co.com)** | **[Advertisement Designer](https://jobright.ai/jobs/info/695826d2f1f8465b79eebcb6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jan 02 |
+| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/69582408aa05c26e7ab20400?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Salt Lake City, UT | On Site | Jan 02 |
+| ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69581f2d9f1b381eb2710187?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Troy, MI | On Site | Jan 02 |
 | **[Old Navy](http://www.oldnavy.com)** | **[Associate Designer, Men's Active Apparel](https://jobright.ai/jobs/info/690bdf5ad046ab6061ce8c52?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Jan 02 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/6957f65bf1f8465b79ee8da5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Troy, Michigan, United States | On Site | Jan 02 |
-| **[Crate and Barrel](http://www.crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/695744bff1f8465b79ee03df?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 02 |
+| **[Crate and Barrel](http://www.crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/69575d3e9f1b381eb2706ddc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 02 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/6957dd38aa05c26e7ab1d069?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | White Plains, NY | On Site | Jan 02 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68e7408ae8daec61499b3a99?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Homewood, AL | On Site | Jan 02 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/691f49773f782d2f1afb9eff?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West Palm Beach, FL | On Site | Jan 02 |
@@ -190,7 +196,6 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Graphic Designer](https://jobright.ai/jobs/info/6953149e935649778e20cf68?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | IL-Chicago; 303 E Wacker Drive | Hybrid | Dec 29 |
 | **[TravisMathew](https://www.travismathew.com/)** | **[Associate Designer](https://jobright.ai/jobs/info/6952e68ff1f8465b79ea3413?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | TM - HQ - Huntington Beach | Hybrid | Dec 29 |
 | **[Canadian Bank Note Company, Limited](https://www.cbnco.com/)** | **[Secure Document Designer](https://jobright.ai/jobs/info/6952d747935649778e209538?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ottawa, Ontario, Canada | Hybrid | Dec 29 |
-| **[Business of Home](https://businessofhome.com)** | **[Interior Designer](https://jobright.ai/jobs/info/6952d2fd935649778e2091ed?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bethesda, MD | On Site | Dec 29 |
 | **[La Vie En Rose](https://www.lavieenrose.com)** | **[VISUAL PRESENTATION ASSOCIATE](https://jobright.ai/jobs/info/6952ec12935649778e20b5f2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 01811 - Merrimack Premium Outlets, 80 Premium Outlets Blvd., MERRIMACK, New Hampshire, United States of America | On Site | Dec 29 |
 | **[The Estée Lauder Companies Inc.](http://www.elcompanies.com)** | **[MAC Freelancer - Napa, CA](https://jobright.ai/jobs/info/69460c7cd1953b5d11bf2cc6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Napa, CA | On Site | Dec 29 |
 | **[Century 21 Profusion agence immobilière](www.centuryprofusion.ca)** | **[Gestionnaire d’immeubles junior & opérations terrain](https://jobright.ai/jobs/info/6955226e9f1b381eb26e9014?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brossard, Quebec, Canada | Hybrid | Dec 29 |
@@ -243,5 +248,4 @@ For a complete list, click the following sortable link below:
 | **[OMG23](https://omnicommediagroup.com/careers/us/omg23/)** | **[Coordinator, Creative Management](https://jobright.ai/jobs/info/69165ca39c388539cbdfa4dc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burbank, CA | Hybrid | Dec 27 |
 | **[Macy's](http://www.macysjobs.com)** | **[Visual Support Captain, Wenatchee Valley - Full Time](https://jobright.ai/jobs/info/6956041caa05c26e7ab04e9c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 445 Valley Mall Parkway, East Wenatchee, WA, 98802, US | On Site | Dec 27 |
 | **[Caddell Construction](http://caddell.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/693320bf764507023d1b2631?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montgomery, Alabama, United States | On Site | Dec 27 |
-| **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[ARCHITECTURAL DESIGNER](https://jobright.ai/jobs/info/694f744d29655e4dd658f822?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sacramento, CA | Hybrid | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
