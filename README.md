@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Creative Artists Agency](http://www.caa.com)** | **[Brand Consulting - Exhibition Designer](https://jobright.ai/jobs/info/691e351ca49a885af9a263bb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 02 |
+| ↳ | **[Golf – Creative Coordinator](https://jobright.ai/jobs/info/6933cb9ff131d96e4846714c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jacksonville, FL | On Site | Jan 02 |
 | **[Keystone Industries](http://keystoneindustries.com)** | **[Digital/Graphic Designer](https://jobright.ai/jobs/info/6957131ff1f8465b79edd622?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Gibbstown, NJ | On Site | Jan 01 |
 | **[International Paper](http://www.internationalpaper.com/)** | **[Graphic Technician](https://jobright.ai/jobs/info/695714f2aa05c26e7ab12117?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, IN | On Site | Jan 01 |
 | ↳ | **[Packaging Design Associate](https://jobright.ai/jobs/info/695716edf1f8465b79edd695?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Aurora, IL | On Site | Jan 01 |
@@ -228,7 +230,4 @@ For a complete list, click the following sortable link below:
 | **[Washington State University](https://wsu.edu/)** | **[Graphic Designer](https://jobright.ai/jobs/info/694f4256ce13cd105657703f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pullman, WA | On Site | Dec 26 |
 | ↳ | **[Graphic Designer](https://jobright.ai/jobs/info/694f3193ce13cd105657666e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pullman, WA | On Site | Dec 26 |
 | **[Caltrans](https://cdtfa.ca.gov/)** | **[ARCHITECTURAL DESIGNER](https://jobright.ai/jobs/info/694f04e3ce13cd10565744e8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sacramento County, CA | Hybrid | Dec 26 |
-| **[Aritzia](https://www.aritzia.com/)** | **[Marketing - Retoucher, Post-Production](https://jobright.ai/jobs/info/694ef591a2668b7f54523e57?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Support Office (Vancouver) | On Site | Dec 26 |
-| **[Free People](http://www.freepeople.com)** | **[FP Movement Assistant Visual Manager](https://jobright.ai/jobs/info/694ee4a4ce13cd1056572107?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bethesda, MD | On Site | Dec 26 |
-| **[Anthropologie](https://www.anthropologie.com)** | **[Anthropologie Display Artist - Full-Time](https://jobright.ai/jobs/info/694ee41ace13cd1056572094?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Alexandria, VA | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
