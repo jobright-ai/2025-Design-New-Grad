@@ -130,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[GigaParts](https://www.gigaparts.com/)** | **[Event Planner/Graphic Designer (Marketing)](https://jobright.ai/jobs/info/6954409f5bb7de448ef72d5e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Huntsville, AL | On Site | Dec 30 |
 | **[EnVogue International](https://envogueinternational.com/)** | **[Junior Textile Designer](https://jobright.ai/jobs/info/695425545bb7de448ef712c2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | On Site | Dec 30 |
 | **[Minuteman Press](https://www.minutemanpress.com/)** | **[Graphic Designer/Customer Service](https://jobright.ai/jobs/info/695402fdaa05c26e7aae7eec?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Versailles, PA | On Site | Dec 30 |
-| **[Cali Raised LED](https://www.caliraisedled.com)** | **[Digital Content Specialist](https://jobright.ai/jobs/info/6953faceaa05c26e7aae7017?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Worth, TX | On Site | Dec 30 |
 | **[Centene Corporation](http://www.centene.com)** | **[Sales Execution Designer](https://jobright.ai/jobs/info/6953e82daa05c26e7aae6c5d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Illinois, United States | Hybrid | Dec 30 |
 | ↳ | **[Sales Execution Designer](https://jobright.ai/jobs/info/6953e7f6aa05c26e7aae6c41?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote-FL | Remote | Dec 30 |
 | ↳ | **[Sales Execution Designer](https://jobright.ai/jobs/info/6953e7d9aa05c26e7aae6c32?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Remote-MO | Remote | Dec 30 |
@@ -234,9 +233,4 @@ For a complete list, click the following sortable link below:
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/693265f5a0dde7020e2e6803?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Grapevine, TX | On Site | Dec 26 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/69322034fa28370be26c2474?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mission Viejo, CA | On Site | Dec 26 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/69325db3764507023d1add70?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Stuart, FL | On Site | Dec 26 |
-| **[Marc Jacobs](http://www.marcjacobs.com)** | **[Designer Jewelry](https://jobright.ai/jobs/info/691540a66f36db06ef04d07c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 26 |
-| **[HOK](http://www.hok.com/)** | **[Interiors - Design Professional](https://jobright.ai/jobs/info/6932384d948dde73ff9069d4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Dec 26 |
-| **[Randa Apparel & Accessories](http://www.randa.net)** | **[Assistant Designer](https://jobright.ai/jobs/info/69323186fa28370be26c2f25?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rosemont, IL | Hybrid | Dec 26 |
-| **[MJH Life Sciences®](https://www.mjhlifesciences.com/)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/6933068df131d96e4845f3de?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kansas City, MO | Hybrid | Dec 26 |
-| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/693fe91850bbaf7650520b32?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
