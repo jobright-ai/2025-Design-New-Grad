@@ -79,8 +79,14 @@ For a complete list, click the following sortable link below:
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/6957f65bf1f8465b79ee8da5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Troy, Michigan, United States | On Site | Jan 02 |
 | **[Crate and Barrel](http://www.crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/69575d3e9f1b381eb2706ddc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 02 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/6957dd38aa05c26e7ab1d069?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | White Plains, NY | On Site | Jan 02 |
-| **[Calico](http://calicocorners.com)** | **[Interior Design Consultant](https://jobright.ai/jobs/info/6958ca059f1b381eb271aeef?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wilmette, IL | On Site | Jan 02 |
+| **[Calico](http://calicocorners.com)** | **[Interior Design Consultant](https://jobright.ai/jobs/info/6958ce2faa05c26e7ab2b0df?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Scarsdale, NY | On Site | Jan 02 |
+| ↳ | **[Interior Design Consultant](https://jobright.ai/jobs/info/6958cdd3f1f8465b79ef67a9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Overland Park, KS | On Site | Jan 02 |
+| ↳ | **[Interior Design Consultant](https://jobright.ai/jobs/info/6958cbfbaa05c26e7ab2af4e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | On Site | Jan 02 |
+| ↳ | **[Interior Design Consultant](https://jobright.ai/jobs/info/6958ca059f1b381eb271aeef?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Wilmette, IL | On Site | Jan 02 |
+| ↳ | **[Interior Design Consultant](https://jobright.ai/jobs/info/6958cfdfaa05c26e7ab2b2f8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Annapolis, MD | On Site | Jan 02 |
 | ↳ | **[Interior Design Consultant](https://jobright.ai/jobs/info/6958c97e9f1b381eb271aea2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chappaqua, NY | On Site | Jan 02 |
+| ↳ | **[Interior Design Consultant](https://jobright.ai/jobs/info/6958cbf9aa05c26e7ab2af49?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Jan 02 |
+| ↳ | **[Interior Design Consultant](https://jobright.ai/jobs/info/6958cf99aa05c26e7ab2b2e0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Laguna Niguel, CA | On Site | Jan 02 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68e7408ae8daec61499b3a99?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Homewood, AL | On Site | Jan 02 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/691f49773f782d2f1afb9eff?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West Palm Beach, FL | On Site | Jan 02 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/690137384539ea1f2141dfa0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Antioch, TN | On Site | Jan 02 |
