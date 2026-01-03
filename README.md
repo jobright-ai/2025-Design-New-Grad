@@ -57,8 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/693ce5f250bbaf7650500b29?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Worth, TX | On Site | Jan 03 |
+| **[Orveon Global](http://orveonglobal.com)** | **[Associate Art Director](https://jobright.ai/jobs/info/68e6b581e8daec61499adb52?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 03 |
+| **[Amazon](https://amazon.com)** | **[Associate Key Art Finisher, Amazon MGM Studios Marketing - Key Art Production](https://jobright.ai/jobs/info/691fd8283f782d2f1afc0c9c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Culver City, CA | On Site | Jan 03 |
+| **[Bose Corporation](https://www.bose.com/en_us/index.html)** | **[Email Designer](https://jobright.ai/jobs/info/693cb1bd50bbaf76504ff05f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | On Site | Jan 03 |
+| **[New Era Cap](https://www.neweracap.com/)** | **[Jr. Designer (Headwear)](https://jobright.ai/jobs/info/693ca5e0aa598a08c3ed8926?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buffalo, NY | On Site | Jan 03 |
+| **[F. Schumacher & Co.](http://fschumacher.com)** | **[Digital Print Specialist](https://jobright.ai/jobs/info/6959173daa05c26e7ab2f2b0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Passaic, NJ | On Site | Jan 03 |
+| **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Mission Viejo - Pottery Barn](https://jobright.ai/jobs/info/6893e229f47efe21139679f1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mission Viejo, CA | On Site | Jan 03 |
+| **[Microsoft](https://www.microsoft.com)** | **[Social Creative Producer](https://jobright.ai/jobs/info/693c6966aa598a08c3ed4b60?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Redmond, WA | Hybrid | Jan 03 |
+| **[RA Capital Management](http://www.racap.com)** | **[Junior Graphic and Web Designer](https://jobright.ai/jobs/info/69417ac6bdcf884a5add41a2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | Hybrid | Jan 03 |
 | **[Ankura](https://ankura.com)** | **[Graphic Designer, Trial Services - Associate](https://jobright.ai/jobs/info/6941836950bbaf7650535b9b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | Hybrid | Jan 03 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Junior Designer - Architecture](https://jobright.ai/jobs/info/6933b7a7a0dde7020e2f0d46?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Jan 03 |
+| **[Takeform   Signage + Experiential Graphics](http://takeform.net)** | **[Jr. Experiential Graphic Designer-Interior Products](https://jobright.ai/jobs/info/695920f0aa05c26e7ab2fca5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Medina, NY | Hybrid | Jan 03 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Coordinator 2](https://jobright.ai/jobs/info/693bfa30aa598a08c3ecf4e1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | On Site | Jan 03 |
 | **[AppLovin](https://www.applovin.com)** | **[Creative Operator](https://jobright.ai/jobs/info/68ccfc2477add66568abd14d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Hybrid | Jan 03 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/693cc70749a7695fbd038261?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Newport Beach, CA | On Site | Jan 03 |
@@ -67,6 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/693c6ba9aa598a08c3ed4cdd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Dallas, TX | On Site | Jan 03 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/693c6f6749a7695fbd033793?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenwich, CT | On Site | Jan 03 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/693c6bf649a7695fbd033608?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Houston, TX | On Site | Jan 03 |
+| ↳ | **[Style Advisor](https://jobright.ai/jobs/info/693c786f50bbaf76504fb55b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Jan 03 |
 | **[AIA Colorado](https://aiacolorado.org/)** | **[Architectural Associate (1-3yrs)](https://jobright.ai/jobs/info/6958ba4daa05c26e7ab29c82?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Basalt, CO | Hybrid | Jan 02 |
 | **[Boise State University](https://boisestate.edu)** | **[Assistant Director, Graphic Design](https://jobright.ai/jobs/info/6958b8b09f1b381eb27196eb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boise, ID | On Site | Jan 02 |
 | **[American Furniture Warehouse](http://afw.com)** | **[Jr Graphic Designer](https://jobright.ai/jobs/info/6958c04d9f1b381eb271a4f0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Englewood, CO | On Site | Jan 02 |
@@ -79,7 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Lamar Advertising Company](http://www.lamar.com)** | **[Graphic Artist](https://jobright.ai/jobs/info/69586e39aa05c26e7ab25b70?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pensacola, FL | On Site | Jan 02 |
 | **[Boise State University School of Nursing](https://www.boisestate.edu/nursing/)** | **[Assistant Director, Graphic Design](https://jobright.ai/jobs/info/695851e0f1f8465b79eeef26?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boise, ID | On Site | Jan 02 |
 | **[Minuteman Press](https://www.minutemanpress.com/)** | **[Graphic Designer/Print & Copy Specialist](https://jobright.ai/jobs/info/69584df4f1f8465b79eeed47?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Grand Blanc, MI | On Site | Jan 02 |
-| **[World of DVC](https://worldofdvc.com/)** | **[Content Creation Specialist](https://jobright.ai/jobs/info/695833ec9f1b381eb2710f0a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orlando, FL | On Site | Jan 02 |
+| **[Keyholder Vacations](https://keyholdervacations.com/)** | **[Content Creation Specialist](https://jobright.ai/jobs/info/695833ec9f1b381eb2710f0a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orlando, FL | On Site | Jan 02 |
 | **[The N2 Company](https://n2co.com)** | **[Advertisement Designer](https://jobright.ai/jobs/info/69582d3bf1f8465b79eec0eb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jan 02 |
 | **[Crate and Barrel](http://www.crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/695750ecaa05c26e7ab16adf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Deer Park, IL | On Site | Jan 02 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Image Generator and Computer Graphics Facilitator](https://jobright.ai/jobs/info/6958296c9f1b381eb27108be?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fayetteville, NC | Hybrid | Jan 02 |
@@ -258,4 +269,5 @@ For a complete list, click the following sortable link below:
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Junior Designer - Architecture](https://jobright.ai/jobs/info/68fbe89bf55bb021a889de0a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Dec 28 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/688bc7b71808534a89cb6159?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Denver, CO | On Site | Dec 28 |
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/68f6a9f89a65fd3458595d38?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Washington, DC | On Site | Dec 28 |
+| **[Parnall Law Firm - Hurt? Call Bert](https://www.hurtcallbert.com)** | **[Marketing Assistant/Junior Graphic Designer](https://jobright.ai/jobs/info/69334b79a0dde7020e2ec471?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Albuquerque, NM | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
