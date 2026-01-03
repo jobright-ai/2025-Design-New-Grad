@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lamar Advertising Company](http://www.lamar.com)** | **[Graphic Artist](https://jobright.ai/jobs/info/69586e39aa05c26e7ab25b70?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Pensacola, FL | On Site | Jan 02 |
+| **[Fresh Paint Art Advisors](http://www.freshpaintart.com)** | **[Art Consultant](https://jobright.ai/jobs/info/69586cd19f1b381eb2715c91?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Jan 02 |
+| **[Under Armour](http://underarmour.com)** | **[Footwear Designer I, Sportswear](https://jobright.ai/jobs/info/6958627aaa05c26e7ab23ee8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baltimore, MD | Hybrid | Jan 02 |
+| **[Creative Contracting Inc.](https://creativecontracting.biz)** | **[Architectural Drafter/Designer](https://jobright.ai/jobs/info/69586072f1f8465b79eef4ef?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Wales, PA | On Site | Jan 02 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/69585eee9f1b381eb2713e4b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Staten Island, NY | On Site | Jan 02 |
 | **[Boise State University School of Nursing](https://www.boisestate.edu/nursing/)** | **[Assistant Director, Graphic Design](https://jobright.ai/jobs/info/695851e0f1f8465b79eeef26?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boise, ID | On Site | Jan 02 |
 | **[Minuteman Press](https://www.minutemanpress.com/)** | **[Graphic Designer/Print & Copy Specialist](https://jobright.ai/jobs/info/69584df4f1f8465b79eeed47?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Grand Blanc, MI | On Site | Jan 02 |
 | **[World of DVC](https://worldofdvc.com/)** | **[Content Creation Specialist](https://jobright.ai/jobs/info/695833ec9f1b381eb2710f0a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Orlando, FL | On Site | Jan 02 |
@@ -88,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[BRP](https://www.brp.com/en/)** | **[Peintre](https://jobright.ai/jobs/info/691db150ad5a5170347955a7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Valcourt, Quebec, Canada | On Site | Jan 02 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[Golf – Creative Coordinator](https://jobright.ai/jobs/info/6933cb9ff131d96e4846714c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jacksonville, FL | On Site | Jan 02 |
 | **[Keystone Industries](http://keystoneindustries.com)** | **[Digital/Graphic Designer](https://jobright.ai/jobs/info/6957131ff1f8465b79edd622?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Gibbstown, NJ | On Site | Jan 01 |
+| **[WITHIN](https://within.co/)** | **[Social Editor (Freelancer)](https://jobright.ai/jobs/info/6955cec79f1b381eb26ef94c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Remote | Jan 01 |
 | **[Pinnell's Carpet One Floor & Home](pinnellscarpetone.com)** | **[Interior Decorator / Designer](https://jobright.ai/jobs/info/6957c7f8aa05c26e7ab1c781?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Angels Camp, CA | On Site | Jan 01 |
 | **[International Paper](http://www.internationalpaper.com/)** | **[Graphic Technician](https://jobright.ai/jobs/info/695714f2aa05c26e7ab12117?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Indianapolis, IN | On Site | Jan 01 |
 | ↳ | **[Packaging Design Associate](https://jobright.ai/jobs/info/695716edf1f8465b79edd695?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Aurora, IL | On Site | Jan 01 |
@@ -124,8 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Coalition, Inc.](https://www.coalitioninc.com)** | **[WEB DESIGNER](https://jobright.ai/jobs/info/6955b5fc9f1b381eb26ef109?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | CA | Remote | Dec 31 |
 | ↳ | **[GRAPHIC DESIGNER - ADVERTISING](https://jobright.ai/jobs/info/6955c22df1f8465b79ecac03?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | Remote | Dec 31 |
 | **[PACSUN](http://www.pacsun.com/)** | **[Assistant Designer - Men's](https://jobright.ai/jobs/info/695579aff1f8465b79ec8190?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Anaheim, CA | On Site | Dec 31 |
-| **[YuJa](https://www.yuja.com)** | **[UX Writer](https://jobright.ai/jobs/info/69559c73f1f8465b79ec92c6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North York, Ontario, Canada | On Site | Dec 31 |
-| **[PACSUN](http://www.pacsun.com/)** | **[Assistant Designer, Men's](https://jobright.ai/jobs/info/695576499f1b381eb26ec6c4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Anaheim, CA | On Site | Dec 31 |
+| ↳ | **[Assistant Designer, Men's](https://jobright.ai/jobs/info/695576499f1b381eb26ec6c4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Anaheim, CA | On Site | Dec 31 |
 | **[Stateside Brands](http://www.statesidevodka.com/)** | **[Junior Packaging Designer](https://jobright.ai/jobs/info/695596aa9f1b381eb26ed39d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Feasterville-Trevose, PA | On Site | Dec 31 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6955656aaa05c26e7aafc62a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mooresville, NC | On Site | Dec 31 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/6955391ff1f8465b79ec5376?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oak Harbor, WA | On Site | Dec 31 |
@@ -246,8 +251,4 @@ For a complete list, click the following sortable link below:
 | **[Parnall Law Firm - Hurt? Call Bert](https://www.hurtcallbert.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69334b79a0dde7020e2ec471?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Albuquerque, NM | On Site | Dec 27 |
 | **[Paramount Pictures](http://www.paramountpictures.com)** | **[Coordinator, Asset Management](https://jobright.ai/jobs/info/6937e1a2aabec14a727cdaec?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Dec 27 |
 | **[Centric Brands](https://centricbrands.com)** | **[Assistant, Graphic Artist (Production Art)](https://jobright.ai/jobs/info/691f3e7609cc522e8773e86b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 27 |
-| **[Caddell Construction](http://caddell.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69332581764507023d1b28c8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montgomery, AL | On Site | Dec 27 |
-| **[OMG23](https://omnicommediagroup.com/careers/us/omg23/)** | **[Coordinator, Creative Management](https://jobright.ai/jobs/info/69165ca39c388539cbdfa4dc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Burbank, CA | Hybrid | Dec 27 |
-| **[Macy's](http://www.macysjobs.com)** | **[Visual Support Captain, Wenatchee Valley - Full Time](https://jobright.ai/jobs/info/6956041caa05c26e7ab04e9c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 445 Valley Mall Parkway, East Wenatchee, WA, 98802, US | On Site | Dec 27 |
-| **[Caddell Construction](http://caddell.com)** | **[Junior Graphic Designer](https://jobright.ai/jobs/info/693320bf764507023d1b2631?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montgomery, Alabama, United States | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
