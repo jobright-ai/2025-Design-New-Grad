@@ -117,7 +117,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69581f2d9f1b381eb2710187?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Troy, MI | On Site | Jan 02 |
 | **[Old Navy](http://www.oldnavy.com)** | **[Associate Designer, Men's Active Apparel](https://jobright.ai/jobs/info/690bdf5ad046ab6061ce8c52?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Jan 02 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/6957f65bf1f8465b79ee8da5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Troy, Michigan, United States | On Site | Jan 02 |
-| **[Crate and Barrel](http://www.crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/69575d3e9f1b381eb2706ddc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 02 |
+| **[Crate and Barrel](http://www.crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/695744bff1f8465b79ee03df?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 02 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/6957dd38aa05c26e7ab1d069?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | White Plains, NY | On Site | Jan 02 |
 | **[Calico](http://calicocorners.com)** | **[Interior Design Consultant](https://jobright.ai/jobs/info/6958ce2faa05c26e7ab2b0df?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Scarsdale, NY | On Site | Jan 02 |
 | ↳ | **[Interior Design Consultant](https://jobright.ai/jobs/info/6958cdd3f1f8465b79ef67a9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Overland Park, KS | On Site | Jan 02 |
@@ -277,9 +277,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/6951395da2668b7f54540a01?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Mount Washington, KY | On Site | Dec 28 |
 | **[Blue Hour Studios](https://hellobluehour.com)** | **[Creative, Creative & Creator](https://jobright.ai/jobs/info/68fc0f1df55bb021a889ffc7?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 28 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6917b4d545fb6f5ead89dce5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lakeland, FL | On Site | Dec 28 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/6946716dd1953b5d11bfa8d3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kentwood, MI | On Site | Dec 28 |
-| **[Syska Hennessy Group](http://www.syska.com)** | **[Lighting Designer](https://jobright.ai/jobs/info/6934b8e8764507023d1bdcfe?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Dec 28 |
-| **[Pottery Barn](http://www.potterybarn.com)** | **[Visual Associate, Part Time Flex, Farmers Market - Pottery Barn](https://jobright.ai/jobs/info/68e07f71f758fe1f97e4daf3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Dec 28 |
-| **[Farnsworth Group, Inc.](http://www.f-w.com)** | **[Architectural Associate - Entry-Level](https://jobright.ai/jobs/info/68def7b7a125e75c422b8ac1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Springfield, IL | Hybrid | Dec 28 |
-| **[Ball Corporation](http://ball.com)** | **[Graphics Technician](https://jobright.ai/jobs/info/691a9f2a15b41563671895cd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Millersburg, OR | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
