@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michaels Stores](https://teachitpro.com)** | **[Custom Picture Framer- On job training provided](https://jobright.ai/jobs/info/695a84b2f1f8465b79f0ce78?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rockaway Township-327 Mount Hope Ave | On Site | Jan 04 |
+| **[Dogwood Industries](https://www.dogwoodindustries.com)** | **[Designer / Everett, WA](https://jobright.ai/jobs/info/695a757daa05c26e7ab412fa?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Everett, WA | On Site | Jan 04 |
+| ↳ | **[Designer / Bothell, WA](https://jobright.ai/jobs/info/695a7453f1f8465b79f0c8b4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bothell, WA | On Site | Jan 04 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68afc74813563e782a9f0ea0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kennesaw, GA | On Site | Jan 04 |
 | **[Crocs, Inc.](http://www.crocs.com)** | **[Digital Asset Coordinator Contractor](https://jobright.ai/jobs/info/6920d7893f782d2f1afcc129?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Broomfield, CO | Hybrid | Jan 04 |
 | **[Naughty Dog](http://www.naughtydog.com)** | **[UI Technical Designer](https://jobright.ai/jobs/info/689542a18c6d6b4426778662?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | Hybrid | Jan 04 |
@@ -167,6 +170,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Designer](https://jobright.ai/jobs/info/6939f71848a8ce22990deacb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Littleton, CO | On Site | Jan 01 |
 | **[Coach](https://uk.coach.com)** | **[Technical Design Assistant](https://jobright.ai/jobs/info/6901333ed5259a1b3cff2d26?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 01 |
 | **[Rue Gilt Groupe](https://www.ruegiltgroupe.com/)** | **[On-Call Digital Imaging Specialist](https://jobright.ai/jobs/info/6939ec13ac80bb5492bc65d2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Shepherdsville, KY | On Site | Jan 01 |
+| **[WITHIN](https://within.co/)** | **[Social Editor (Freelancer)](https://jobright.ai/jobs/info/6955cec79f1b381eb26ef94c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Remote | Jan 01 |
 | **[West Elm](https://www.westelm.com/)** | **[Assistant Designer, Textiles - West Elm](https://jobright.ai/jobs/info/69012952f8ce7a040fdbcd3c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 01 |
 | **[Dogwood Industries](https://www.dogwoodindustries.com)** | **[Designer / Everett, WA](https://jobright.ai/jobs/info/6956a371aa05c26e7ab0d5d4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Everett, Washington | On Site | Jan 01 |
 | ↳ | **[Designer / Bothell, WA](https://jobright.ai/jobs/info/6956a01baa05c26e7ab0d4ec?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bothell, Washington | On Site | Jan 01 |
@@ -277,5 +281,4 @@ For a complete list, click the following sortable link below:
 | **[J.Crew Factory](https://www.jcrewfactory.com)** | **[Assistant Designer - J.Crew Factory Men's Shirts and Lounge](https://jobright.ai/jobs/info/69368bb51c1c2161c13ed9e5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Dec 29 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Junior Designer - Architecture](https://jobright.ai/jobs/info/6959f9ad9f1b381eb272ac35?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Dec 28 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Retail Customer Service - PT Personal Designer - Custom Framer](https://jobright.ai/jobs/info/6951f97329655e4dd65ac64b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Riverhead-1440 Old Country Rd Ste 400 | On Site | Dec 28 |
-| **[Gina Group](https://www.ginagroup.com)** | **[Associate Designer: Legwear](https://jobright.ai/jobs/info/69547d895bb7de448ef7725d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY, US | Hybrid | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
