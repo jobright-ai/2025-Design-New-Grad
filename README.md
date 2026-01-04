@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68afc74813563e782a9f0ea0?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kennesaw, GA | On Site | Jan 04 |
+| **[Crocs, Inc.](http://www.crocs.com)** | **[Digital Asset Coordinator Contractor](https://jobright.ai/jobs/info/6920d7893f782d2f1afcc129?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Broomfield, CO | Hybrid | Jan 04 |
+| **[Naughty Dog](http://www.naughtydog.com)** | **[UI Technical Designer](https://jobright.ai/jobs/info/689542a18c6d6b4426778662?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Santa Monica, CA | Hybrid | Jan 04 |
+| **[Macy's](http://www.macysjobs.com)** | **[Visual Support Captain, Montgomery - Full Time](https://jobright.ai/jobs/info/695a5afeaa05c26e7ab3f169?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | 400 Montgomery Mall, North Wales, PA, 19454, US | On Site | Jan 04 |
 | **[Morton Buildings, Inc.](https://mortonbuildings.com/)** | **[Architectural Associate](https://jobright.ai/jobs/info/68cad1f69e3a822f5d23f49b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Morton, IL | On Site | Jan 04 |
 | **[EchoStar Corporation](http://echostar.com)** | **[Digital Print Production Operator](https://jobright.ai/jobs/info/6955fcc5f1f8465b79ecea0b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Englewood, CO | On Site | Jan 04 |
 | **[J.Crew Factory](https://www.jcrewfactory.com)** | **[Assistant Designer - J.Crew Factory Womens Wovens](https://jobright.ai/jobs/info/69463811d1953b5d11bf676e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 04 |
 | ↳ | **[Assistant Designer - J.Crew Factory Crewcuts Girls](https://jobright.ai/jobs/info/68df79b46be63b6ec9970739?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 04 |
+| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/6920bce33f782d2f1afcacd3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Scottsdale, AZ | On Site | Jan 04 |
 | **[High Road Motorsports](http://www.highroadmotorsports.com)** | **[Graphic Designer (Full-time/Part-time)](https://jobright.ai/jobs/info/69599c92aa05c26e7ab357d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Langley, British Columbia, Canada | On Site | Jan 03 |
 | **[CB2](https://cb2.com)** | **[Designer](https://jobright.ai/jobs/info/695748d2f1f8465b79ee0493?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Costa Mesa, CA | On Site | Jan 03 |
 | **[Fresh Paint Art Advisors](http://www.freshpaintart.com)** | **[Art Consultant](https://jobright.ai/jobs/info/69596e98f1f8465b79efe8d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Jan 03 |
@@ -68,11 +73,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/695961a1aa05c26e7ab32e0b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, California, United States | On Site | Jan 03 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Custom Frame Designer- PT](https://jobright.ai/jobs/info/6959471cf1f8465b79efd6db?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sunnyvale-777 E El Camino Real | On Site | Jan 03 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69592e4baa05c26e7ab30a51?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Woodbury, MN | On Site | Jan 03 |
-| **[Dogwood Industries](https://www.dogwoodindustries.com)** | **[Designer / Everett, WA](https://jobright.ai/jobs/info/69592b97aa05c26e7ab30927?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Everett, WA | On Site | Jan 03 |
-| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/695926dc9f1b381eb27207ae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Goodyear, AZ | On Site | Jan 03 |
+| ↳ | **[Photo Specialist](https://jobright.ai/jobs/info/695926dc9f1b381eb27207ae?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Goodyear, AZ | On Site | Jan 03 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/691fe9ac3f782d2f1afc169b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fayetteville, NC | On Site | Jan 03 |
-| **[Dogwood Industries](https://www.dogwoodindustries.com)** | **[Designer / Bothell, WA](https://jobright.ai/jobs/info/695924969f1b381eb27203f2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Bothell, WA | On Site | Jan 03 |
-| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/693ce1a4aa598a08c3eda847?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Venice, FL | On Site | Jan 03 |
+| ↳ | **[Designer](https://jobright.ai/jobs/info/693ce1a4aa598a08c3eda847?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Venice, FL | On Site | Jan 03 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/693ce5f250bbaf7650500b29?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Fort Worth, TX | On Site | Jan 03 |
 | **[Orveon Global](http://orveonglobal.com)** | **[Associate Art Director](https://jobright.ai/jobs/info/68e6b581e8daec61499adb52?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 03 |
 | **[Amazon](https://amazon.com)** | **[Associate Key Art Finisher, Amazon MGM Studios Marketing - Key Art Production](https://jobright.ai/jobs/info/691fd8283f782d2f1afc0c9c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Culver City, CA | On Site | Jan 03 |
