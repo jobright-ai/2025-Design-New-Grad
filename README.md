@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Morton Buildings, Inc.](https://mortonbuildings.com/)** | **[Architectural Associate](https://jobright.ai/jobs/info/68cad1f69e3a822f5d23f49b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Morton, IL | On Site | Jan 04 |
+| **[EchoStar Corporation](http://echostar.com)** | **[Digital Print Production Operator](https://jobright.ai/jobs/info/6955fcc5f1f8465b79ecea0b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Englewood, CO | On Site | Jan 04 |
+| **[J.Crew Factory](https://www.jcrewfactory.com)** | **[Assistant Designer - J.Crew Factory Womens Wovens](https://jobright.ai/jobs/info/69463811d1953b5d11bf676e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 04 |
+| ↳ | **[Assistant Designer - J.Crew Factory Crewcuts Girls](https://jobright.ai/jobs/info/68df79b46be63b6ec9970739?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 04 |
 | **[High Road Motorsports](http://www.highroadmotorsports.com)** | **[Graphic Designer (Full-time/Part-time)](https://jobright.ai/jobs/info/69599c92aa05c26e7ab357d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Langley, British Columbia, Canada | On Site | Jan 03 |
 | **[CB2](https://cb2.com)** | **[Designer](https://jobright.ai/jobs/info/695748d2f1f8465b79ee0493?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Costa Mesa, CA | On Site | Jan 03 |
 | **[Fresh Paint Art Advisors](http://www.freshpaintart.com)** | **[Art Consultant](https://jobright.ai/jobs/info/69596e98f1f8465b79efe8d9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Jan 03 |
@@ -235,7 +239,6 @@ For a complete list, click the following sortable link below:
 | **[Ellis Home and Garden](http://www.ellishomeandgarden.com)** | **[PT Floral Designer](https://jobright.ai/jobs/info/6953da425bb7de448ef6e026?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Alexandria, LA | On Site | Dec 30 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architect - Entry Level](https://jobright.ai/jobs/info/69373ce31c1c2161c13f1d5c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | On Site | Dec 30 |
 | **[Tommy Bahama](http://www.tommybahama.com)** | **[Assistant Designer-Men's Bottoms](https://jobright.ai/jobs/info/69379529a0dde7020e304683?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Dec 30 |
-| **[Naked Wardrobe](https://www.nakedwardrobe.com/)** | **[Tik Tok Content Creator](https://jobright.ai/jobs/info/69538acef1f8465b79eaccaf?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Calabasas, CA 91302 | On Site | Dec 30 |
 | **[Recruitcha](https://www.recruitcha.com)** | **[Creative Writer](https://jobright.ai/jobs/info/695383a3f1f8465b79eaca57?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 29 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Graphic Designer](https://jobright.ai/jobs/info/695a0b18aa05c26e7ab3abdd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Dec 29 |
 | **[TubeScience](https://tubescience.com/#home)** | **[Creative Coordinator](https://jobright.ai/jobs/info/69536901f1f8465b79eabfee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, CA | On Site | Dec 29 |
