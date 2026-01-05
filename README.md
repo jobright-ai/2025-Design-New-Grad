@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Shown Media](shownmedia.com)** | **[Junior Creative Strategist](https://jobright.ai/jobs/info/695bc134f396ad6ddab173e5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 05 |
+| **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68af5fb82daaba398441db7a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lutz, FL | On Site | Jan 05 |
+| **[New Era Cap](https://www.neweracap.com/)** | **[Associate Artist, Graphic Operations (Production)](https://jobright.ai/jobs/info/69424b6950bbaf765054485d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buffalo, NY | On Site | Jan 05 |
+| ↳ | **[Associate Artist, Graphic Operations (Headwear & Apparel)](https://jobright.ai/jobs/info/68f177adf462172a5a7d8dd3?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buffalo, NY | On Site | Jan 05 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/683df3ea03306e9ff51990fc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | On Site | Jan 05 |
 | **[TP-Link](http://www.tp-link.com)** | **[UX/UI Designer](https://jobright.ai/jobs/info/695b3eaef1f8465b79f14926?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | On Site | Jan 04 |
 | **[Day One Agency](https://www.d1a.com/)** | **[Junior Designer](https://jobright.ai/jobs/info/695b2d31f1f8465b79f13fcc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 04 |
@@ -93,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Free People](http://www.freepeople.com)** | **[Free People Assistant Visual Manager](https://jobright.ai/jobs/info/693b8978b309e3780087351e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Jackson, MS | On Site | Jan 03 |
 | **[Ankura](https://ankura.com)** | **[Graphic Designer, Trial Services - Associate](https://jobright.ai/jobs/info/6941836950bbaf7650535b9b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Atlanta, GA | Hybrid | Jan 03 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Junior Designer - Architecture](https://jobright.ai/jobs/info/6933b7a7a0dde7020e2f0d46?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Jan 03 |
-| **[Takeform   Signage + Experiential Graphics](http://takeform.net)** | **[Jr. Experiential Graphic Designer-Interior Products](https://jobright.ai/jobs/info/695920f0aa05c26e7ab2fca5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Medina, NY | Hybrid | Jan 03 |
 | **[The Retail Odyssey Company](https://retailodyssey.com/)** | **[Retail Store Planning Designer](https://jobright.ai/jobs/info/695936a6f1f8465b79efc34f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Sidney, OH | On Site | Jan 03 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Coordinator 2](https://jobright.ai/jobs/info/693bfa30aa598a08c3ecf4e1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | On Site | Jan 03 |
 | **[Arc'teryx Equipment](http://arcteryx.com)** | **[Graphics Coordinator, Decoration Services](https://jobright.ai/jobs/info/691dffe0a49a885af9a23767?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | North Vancouver, British Columbia, Canada | On Site | Jan 03 |
@@ -127,7 +130,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Style Advisor](https://jobright.ai/jobs/info/69581f2d9f1b381eb2710187?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Troy, MI | On Site | Jan 02 |
 | **[Old Navy](http://www.oldnavy.com)** | **[Associate Designer, Men's Active Apparel](https://jobright.ai/jobs/info/690bdf5ad046ab6061ce8c52?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Jan 02 |
 | **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/6957f65bf1f8465b79ee8da5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Troy, Michigan, United States | On Site | Jan 02 |
-| **[Crate and Barrel](http://www.crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/695744bff1f8465b79ee03df?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 02 |
+| **[Crate and Barrel](http://www.crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/69575d3e9f1b381eb2706ddc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 02 |
 | ↳ | **[Designer](https://jobright.ai/jobs/info/6957dd38aa05c26e7ab1d069?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | White Plains, NY | On Site | Jan 02 |
 | **[Calico](http://calicocorners.com)** | **[Interior Design Consultant](https://jobright.ai/jobs/info/6958ce2faa05c26e7ab2b0df?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Scarsdale, NY | On Site | Jan 02 |
 | ↳ | **[Interior Design Consultant](https://jobright.ai/jobs/info/6958cdd3f1f8465b79ef67a9?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Overland Park, KS | On Site | Jan 02 |
@@ -174,7 +177,8 @@ For a complete list, click the following sortable link below:
 | **[XBP Global](https://xbpglobal.com/)** | **[Digital Print Coordinator/Print Operator](https://jobright.ai/jobs/info/695675e59f1b381eb26fb384?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 01 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Landscaping - Landscape Section Tender - Full Time](https://jobright.ai/jobs/info/693a3bfe48a8ce22990e3908?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Kailua-Kona, HI | On Site | Jan 01 |
 | **[PayPal](https://www.paypal.com/home)** | **[Experience Designer](https://jobright.ai/jobs/info/69447465dd382f5f566a9d77?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | Hybrid | Jan 01 |
-| ↳ | **[Experience Designer](https://jobright.ai/jobs/info/694481e650bbaf76505692e5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | Hybrid | Jan 01 |
+| **[WITHIN](https://within.co/)** | **[Social Editor (Freelancer)](https://jobright.ai/jobs/info/6955cec79f1b381eb26ef94c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Remote | Jan 01 |
+| **[PayPal](https://www.paypal.com/home)** | **[Experience Designer](https://jobright.ai/jobs/info/694481e650bbaf76505692e5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | Hybrid | Jan 01 |
 | **[CB2](https://cb2.com)** | **[Designer](https://jobright.ai/jobs/info/6957825aaa05c26e7ab18024?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Paramus, NJ | On Site | Dec 31 |
 | **[Crate and Barrel](http://www.crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/695780e0f1f8465b79ee369c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Dec 31 |
 | **[Ally Global Foundation](https://ally.org)** | **[Creative Designer](https://jobright.ai/jobs/info/69567680f1f8465b79ed71ee?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Dec 31 |
