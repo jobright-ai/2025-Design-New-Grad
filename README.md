@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Suitsupply](https://suitsupply.com)** | **[Style Advisor](https://jobright.ai/jobs/info/683df3ea03306e9ff51990fc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Austin, TX | On Site | Jan 05 |
 | **[TP-Link](http://www.tp-link.com)** | **[UX/UI Designer](https://jobright.ai/jobs/info/695b3eaef1f8465b79f14926?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | On Site | Jan 04 |
 | **[Day One Agency](https://www.d1a.com/)** | **[Junior Designer](https://jobright.ai/jobs/info/695b2d31f1f8465b79f13fcc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 04 |
 | **[Sia/Ready Set Rocket](http://readysetrocket.com/)** | **[Junior Designer](https://jobright.ai/jobs/info/695b0b769f1b381eb27382d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 04 |
@@ -255,5 +256,4 @@ For a complete list, click the following sortable link below:
 | **[Great Minds Executive Talent Agency](https://www.linkedin.com/company/105756797)** | **[Creative Coordinator](https://jobright.ai/jobs/info/69532182935649778e20ebb4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, California, United States | On Site | Dec 29 |
 | **[Archinect](https://archinect.com)** | **[Interior Designer](https://jobright.ai/jobs/info/69545b0caa05c26e7aaed810?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Calgary, Alberta, Canada | On Site | Dec 29 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Graphic Designer](https://jobright.ai/jobs/info/6953149e935649778e20cf68?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | IL-Chicago; 303 E Wacker Drive | Hybrid | Dec 29 |
-| **[TravisMathew](https://www.travismathew.com/)** | **[Associate Designer](https://jobright.ai/jobs/info/6952e68ff1f8465b79ea3413?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | TM - HQ - Huntington Beach | Hybrid | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
