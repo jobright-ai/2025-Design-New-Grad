@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TP-Link](http://www.tp-link.com)** | **[UX/UI Designer](https://jobright.ai/jobs/info/695b3eaef1f8465b79f14926?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Irvine, CA | On Site | Jan 04 |
 | **[Day One Agency](https://www.d1a.com/)** | **[Junior Designer](https://jobright.ai/jobs/info/695b2d31f1f8465b79f13fcc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 04 |
 | **[Sia/Ready Set Rocket](http://readysetrocket.com/)** | **[Junior Designer](https://jobright.ai/jobs/info/695b0b769f1b381eb27382d5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 04 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Custom Picture Framer- On job training provided](https://jobright.ai/jobs/info/695a84b2f1f8465b79f0ce78?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rockaway Township-327 Mount Hope Ave | On Site | Jan 04 |
@@ -263,5 +264,4 @@ For a complete list, click the following sortable link below:
 | **[Century 21 Profusion agence immobilière](www.centuryprofusion.ca)** | **[Gestionnaire d’immeubles junior & opérations terrain](https://jobright.ai/jobs/info/6955226e9f1b381eb26e9014?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brossard, Quebec, Canada | Hybrid | Dec 29 |
 | **[H&M](http://www.hm.com)** | **[Visual Keyholder](https://jobright.ai/jobs/info/6952af5c5bb7de448ef5c96e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Independence, MO | On Site | Dec 29 |
 | **[MIDDLEFIELD](http://www.middlefield.com/espc.htm)** | **[Brand Designer](https://jobright.ai/jobs/info/6952a3d5f1f8465b79e9eb36?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greater Toronto Area, Canada | On Site | Dec 29 |
-| **[KJUS | Worldwide](https://www.kjus.com)** | **[KJUS / Fit Model](https://jobright.ai/jobs/info/68e126491852e62f007f1c45?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boulder, CO | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
