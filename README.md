@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ME+EM Ltd](http://www.meandem.com/)** | **[Style Advisor](https://jobright.ai/jobs/info/695bde98aa05c26e7ab5282b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greenwich, CT | On Site | Jan 05 |
+| **[Prezent](https://prezent.ai)** | **[Presentation Specialist](https://jobright.ai/jobs/info/695bdc0022c9dc0d3d53b34b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jan 05 |
+| **[Madewell](https://www.madewell.com)** | **[Assistant Technical Designer - Non-Apparel, Accessories](https://jobright.ai/jobs/info/695bd7d3aa05c26e7ab5245b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | Hybrid | Jan 05 |
+| **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/695bcb2bf1f8465b79f1d7d2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lacey, WA | On Site | Jan 05 |
+| **[West Elm](https://www.westelm.com/)** | **[Visual Associate, Part Time Flex, New York City - West Elm](https://jobright.ai/jobs/info/68deafb844d32141e0c0190b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 05 |
 | **[Shown Media](shownmedia.com)** | **[Junior Creative Strategist](https://jobright.ai/jobs/info/695bc134f396ad6ddab173e5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 05 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/68af5fb82daaba398441db7a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Lutz, FL | On Site | Jan 05 |
 | **[New Era Cap](https://www.neweracap.com/)** | **[Associate Artist, Graphic Operations (Production)](https://jobright.ai/jobs/info/69424b6950bbaf765054485d?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Buffalo, NY | On Site | Jan 05 |
@@ -256,8 +261,4 @@ For a complete list, click the following sortable link below:
 | **[Eddie Marine, Inc](https://www.eddiemarine.com/)** | **[Graphic Designer Social Media Coordinator](https://jobright.ai/jobs/info/69533c105bb7de448ef65370?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Rancho Cucamonga, CA | On Site | Dec 29 |
 | **[The Estée Lauder Companies Inc.](http://www.elcompanies.com)** | **[Mac Freelancer - San Francisco, CA](https://jobright.ai/jobs/info/69460e86d1953b5d11bf2f02?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Francisco, CA | On Site | Dec 29 |
 | **[Gensler](http://www.gensler.com)** | **[Technical Designer](https://jobright.ai/jobs/info/695334f0f1f8465b79ea8558?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baltimore, MD | On Site | Dec 29 |
-| **[TubeScience](https://tubescience.com/#home)** | **[Creative Coordinator](https://jobright.ai/jobs/info/69532252f1f8465b79ea71a8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, California, United States | On Site | Dec 29 |
-| **[Great Minds Executive Talent Agency](https://www.linkedin.com/company/105756797)** | **[Creative Coordinator](https://jobright.ai/jobs/info/69532182935649778e20ebb4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Los Angeles, California, United States | On Site | Dec 29 |
-| **[Archinect](https://archinect.com)** | **[Interior Designer](https://jobright.ai/jobs/info/69545b0caa05c26e7aaed810?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Calgary, Alberta, Canada | On Site | Dec 29 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Graphic Designer](https://jobright.ai/jobs/info/6953149e935649778e20cf68?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | IL-Chicago; 303 E Wacker Drive | Hybrid | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
