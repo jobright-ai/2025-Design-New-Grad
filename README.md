@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Light the Way Ministry](http://www.lightthewayministry.com)** | **[Graphic Design Specialist](https://jobright.ai/jobs/info/695cd01d5e4962051b59edc2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ozark, MO | On Site | Jan 06 |
 | **[Business of Home](https://businessofhome.com)** | **[Junior Designer &amp; Design Assistant](https://jobright.ai/jobs/info/695ca1ebf1f8465b79f2d9ea?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 05 |
 | **[NetherRealm Studios (WB Games)](http://www.netherrealm.com/)** | **[Associate Technical Artist, Cloth (Temp)](https://jobright.ai/jobs/info/695c7c955e4962051b599b18?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | On Site | Jan 05 |
 | **[CB2](https://cb2.com)** | **[Designer](https://jobright.ai/jobs/info/695c786c9a87b95a9397c8f4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | New York, NY | On Site | Jan 05 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[The Mortgage Firm, Inc.](http://themortgagefirm.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/695c6e57f1f8465b79f291a5?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Florida, United States | Remote | Jan 05 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/695c68025e4962051b5983d6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Levittown, PA | On Site | Jan 05 |
 | **[CB2](https://cb2.com)** | **[Designer](https://jobright.ai/jobs/info/695c4080f1f8465b79f248f8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | Hybrid | Jan 05 |
-| ↳ | **[Designer](https://jobright.ai/jobs/info/695c3f70aa05c26e7ab591c2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Chicago, IL | Hybrid | Jan 05 |
 | **[University of California, Davis](http://ucdavis.edu)** | **[Digital Communications Specialist (ARTIST)](https://jobright.ai/jobs/info/695c3b63aa05c26e7ab58c35?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Davis, CA | On Site | Jan 05 |
 | **[Accenture](https://www.accenture.com)** | **[Designer](https://jobright.ai/jobs/info/6945859363141d18845514bb?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Brooklyn, NY | On Site | Jan 05 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Coordinator, Integrated Creative Group](https://jobright.ai/jobs/info/6924a150c0cefa13343e025e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Universal City, CA | Hybrid | Jan 05 |
@@ -91,7 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Michaels Stores](https://teachitpro.com)** | **[Retail Team Member -Custom Art Frame Designer-PT](https://jobright.ai/jobs/info/695c3a16aa05c26e7ab58a77?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Oak Park Heights-5845 Krueger Ln N | On Site | Jan 05 |
 | **[Neware - Assistenza Hardware & Software](http://www.neware.it)** | **[Web Designer](https://jobright.ai/jobs/info/695c42ddf1f8465b79f24cb1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Montclair, CA | Remote | Jan 05 |
 | **[The Baltimore Sun](http://www.baltimoresun.com/)** | **[Editorial Designer/Layout Specialist](https://jobright.ai/jobs/info/695c10e522c9dc0d3d53ef31?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Baltimore, MD | On Site | Jan 05 |
-| **[BlackBerry](https://www.blackberry.com)** | **[QNX-Creative Content Specialist](https://jobright.ai/jobs/info/695c35e822c9dc0d3d541428?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ottawa, Ontario | On Site | Jan 05 |
+| **[BlackBerry](https://www.blackberry.com)** | **[QNX-Creative Content Specialist](https://jobright.ai/jobs/info/695c380722c9dc0d3d541667?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Ottawa, Ontario | On Site | Jan 05 |
 | **[Michaels Stores](https://teachitpro.com)** | **[PT Picture Framer](https://jobright.ai/jobs/info/695c040bf1f8465b79f210b4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Federal Way-32061 Pacific Hwy S | On Site | Jan 05 |
 | **[Magic Memories](https://www.magicmemories.com/)** | **[Retail Sales Photographer - Daytona International Speedway](https://jobright.ai/jobs/info/695c54a8f1f8465b79f279dd?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Daytona Beach, Florida, United States | On Site | Jan 05 |
 | **[Illustrative Mathematics](https://www.illustrativemathematics.org/)** | **[Production Graphic Designer (Contractor)](https://jobright.ai/jobs/info/695c1feeaa05c26e7ab57157?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Jan 05 |
@@ -260,6 +260,4 @@ For a complete list, click the following sortable link below:
 | **[WellNow Urgent Care](http://www.urgentteam.com)** | **[CAD Designer](https://jobright.ai/jobs/info/69545635f1f8465b79eb85d2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Centennial, Colorado | On Site | Dec 30 |
 | **[CBRE](https://www.cbre.com)** | **[CAD Designer](https://jobright.ai/jobs/info/69545405f1f8465b79eb8417?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Dec 30 |
 | **[Soar Technology, LLC](http://www.soartech.com)** | **[Graphic Designer – Navy Interactive Multimedia Instruction (IMI)](https://jobright.ai/jobs/info/69543122aa05c26e7aaea2e4?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greater Orlando | On Site | Dec 30 |
-| **[GigaParts](https://www.gigaparts.com/)** | **[Event Planner/Graphic Designer (Marketing)](https://jobright.ai/jobs/info/6954409f5bb7de448ef72d5e?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Huntsville, AL | On Site | Dec 30 |
-| **[EnVogue International](https://envogueinternational.com/)** | **[Junior Textile Designer](https://jobright.ai/jobs/info/695425545bb7de448ef712c2?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | NYC Metro Area | On Site | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
