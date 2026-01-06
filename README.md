@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Earnscliffe Strategies](http://earnscliffe.ca)** | **[Graphic Designer](https://jobright.ai/jobs/info/695c2e2722c9dc0d3d540cc1?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Toronto, ON, CA | On Site | Jan 05 |
 | **[Free People](http://www.freepeople.com)** | **[Free People Assistant Visual Manager](https://jobright.ai/jobs/info/695c2aaef1f8465b79f236a8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Jan 05 |
 | **[Moonlit Media](https://moonlitmedia.com)** | **[Part-Time Graphic Designer](https://jobright.ai/jobs/info/695c22def1f8465b79f22f6a?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Greater Philadelphia | Remote | Jan 05 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Shop - Content Designer, Consumer](https://jobright.ai/jobs/info/695c1e0922c9dc0d3d53fd2f?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | Remote | Jan 05 |
@@ -215,7 +214,6 @@ For a complete list, click the following sortable link below:
 | **[Crate and Barrel](http://www.crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/695601aa9f1b381eb26f3c94?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Diego, CA | On Site | Dec 31 |
 | **[Walgreens](https://www.walgreens.com)** | **[Photo Specialist](https://jobright.ai/jobs/info/69553543f1f8465b79ec51cc?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Midland, MI | On Site | Dec 31 |
 | **[CB2](https://cb2.com)** | **[Designer](https://jobright.ai/jobs/info/6956017f9f1b381eb26f3ad6?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | San Jose, CA | On Site | Dec 31 |
-| **[Crate and Barrel](http://www.crateandbarrel.com)** | **[Designer](https://jobright.ai/jobs/info/6956298ff1f8465b79ed1ba8?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Corte Madera, CA | On Site | Dec 31 |
 | **[Floor & Decor](https://www.flooranddecor.com/)** | **[Designer](https://jobright.ai/jobs/info/6939003ca0dde7020e319c31?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | West Hartford, CT | On Site | Dec 31 |
 | **[Stateside Brands](http://www.statesidevodka.com/)** | **[Jr Graphic Designer](https://jobright.ai/jobs/info/6938d388aabec14a727dba8c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Feasterville-Trevose, PA | On Site | Dec 31 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Retail - Picture/Art Framer - Yorktown Heights](https://jobright.ai/jobs/info/69551d6baa05c26e7aaf955b?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Yorktown Heights, NY | On Site | Dec 31 |
@@ -264,5 +262,4 @@ For a complete list, click the following sortable link below:
 | **[Ellis Home and Garden](http://www.ellishomeandgarden.com)** | **[PT Floral Designer](https://jobright.ai/jobs/info/6953da425bb7de448ef6e026?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Alexandria, LA | On Site | Dec 30 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architect - Entry Level](https://jobright.ai/jobs/info/69373ce31c1c2161c13f1d5c?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Boston, MA | On Site | Dec 30 |
 | **[Tommy Bahama](http://www.tommybahama.com)** | **[Assistant Designer-Men's Bottoms](https://jobright.ai/jobs/info/69379529a0dde7020e304683?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | Seattle, WA | On Site | Dec 30 |
-| **[Recruitcha](https://www.recruitcha.com)** | **[Creative Writer](https://jobright.ai/jobs/info/695383a3f1f8465b79eaca57?utm_campaign=Creatives%20and%20Design&utm_source=1103)** | United States | Remote | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
